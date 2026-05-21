@@ -17,6 +17,8 @@ Thumbs.db
 *.suo
 *.sw?
 
+/.venv/
+
 *.log
 tmp/
 temp/
