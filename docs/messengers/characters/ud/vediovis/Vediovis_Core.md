@@ -26,18 +26,18 @@
 
 ---
 
-| **직책** | [사자들](../../../core/Messengers_Core/Messengers_Core.md) |
+| **직책** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
-| **부서** | [연옥](../../../core/Messengers_Core/Messengers_Core.md#purgatorium) |
+| **부서** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **이명** | [헬레니즘의 분열](#fission_of_helenism) |
 | **성별** | 중성([베디오비스](Vediovis_Core.md))/중성([아자젤](#azazel)) |
-| **연령대** | 청년기(신)/알 수 없음([사자들](../../../core/Messengers_Core/Messengers_Core.md)) |
+| **연령대** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### 특징
 
 ---
 
-> "스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/Messengers_Core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/Messengers_Core/Messengers_Core.md)이기도 하다."
+> "스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다."
 
 ### 능력
 
@@ -89,14 +89,14 @@
 
 ---
 
-> import [날개](../../../core/Messengers_Core/Messengers_Core.md#wings) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
   * 은신 POV
   * 포털
   * 본체 백업
 * **설명:**
-  * [사자들](../../../core/Messengers_Core/Messengers_Core.md)의 [날개](../../../core/Messengers_Core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
   * 사람들로부터 자신을 숨기고 관찰할 수 있다.
   * 자신과 주변의 오브젝트들을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
   * 자신의 모든 신체 정보를 저장한다.
@@ -105,19 +105,19 @@
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
 * **설명:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
 #### <p id="fission_of_helenism">[헬레니즘의 분열]</p>
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 > import [애퍼래터스](#apparatus) from [베디오비스](Vediovis_Core.md)
 
@@ -126,10 +126,10 @@
   * [애퍼래터스](#apparatus)에서 초대형 [아자젤](#azazel) 소환
 * **설명:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)을 받아들인다.
-  * [아자젤](#azazel)의 능력치는 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
+  * [아자젤](#azazel)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
+  * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
+  * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
   * 지속시간 동안 [분열](#fission)을 사용할 수 없다.
 
 #### <p id="stigmata_eyes">[성흔안]</p>
@@ -165,17 +165,17 @@
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 이전
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 회복
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 이전
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 회복
 * **설명:**
-  * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)을 제어한다.
-    * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
-    * 전신에 두른 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
-  * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
-    * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
+  * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 제어한다.
+    * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
+    * 전신에 두른 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
+  * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
+    * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
 
 #### <p id="apparatus">[애퍼래터스]</p>
 
@@ -268,11 +268,11 @@
   * 디자인은 "메타트론이 된 에녹"에서 유래했다.
   * [아자젤](#azazel)의 어원적 유래는 다음과 같다.
     * "레위기"의 속죄제물 "아자젤"
-    * "에녹서"의 타락한 [사자들](../../../core/Messengers_Core/Messengers_Core.md) "아자젤"
+    * "에녹서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "아자젤"
   * 상단의 대사는 [4Q530 2 ii 2] 에서 유래했다.
     * > "… וכען שרו … וצלו …"
     * [베디오비스](Vediovis_Core.md)의 무거운 성격은 해당 문장을 원형에 가깝게 구사했다는 점에서도 드러난다.
-* [베디오비스](Vediovis_Core.md)의 [날개](../../../core/Messengers_Core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"에서 유래했다.
+* [베디오비스](Vediovis_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"에서 유래했다.
   * 각 괘의 디자인은 다음 아이콘에서 유래했다.
     * 건: 트리니티
     * 태: 익투스

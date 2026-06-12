@@ -30,18 +30,18 @@
 
 ---
 
-| **직책** | [사자들](../../../core/Messengers_Core/Messengers_Core.md) |
+| **직책** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
-| **부서** | [연옥](../../../core/Messengers_Core/Messengers_Core.md#purgatorium) |
+| **부서** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **이명** | [순교자들의 융합](#fusion_of_martyrs) |
 | **성별** | 여성([메일리키아](Meilichia_Core.md))/남성([메일리키오스](#meilichios)) |
-| **연령대** | 소녀기(여신)/알 수 없음([사자들](../../../core/Messengers_Core/Messengers_Core.md)) |
+| **연령대** | 소녀기(여신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### 특징
 
 ---
 
-> "규율에 얽매이지 않고 변칙적이며 가벼운 태도의 [사자들](../../../core/Messengers_Core/Messengers_Core.md). 공포의 상징과도 같은 연옥의 업무조차도 유희처럼 즐기는 광기를 품고 있다. 하지만 그 이면에는 [사자들](../../../core/Messengers_Core/Messengers_Core.md)에게 죽음과도 같은 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)의 위험을 아슬아슬하게 피해가는 치밀함이 숨어있다. 가장 결정적인 순간, 파트너가 감당해야 할 최악의 페널티 앞에서는 평소의 가벼움을 던져버리고 기꺼이 자신의 형태가 찢겨나가는 것을 감내하는 역설적인 희생정신을 보여준다."
+> "규율에 얽매이지 않고 변칙적이며 가벼운 태도의 [사자들](../../../core/messengers_core/Messengers_Core.md). 공포의 상징과도 같은 연옥의 업무조차도 유희처럼 즐기는 광기를 품고 있다. 하지만 그 이면에는 [사자들](../../../core/messengers_core/Messengers_Core.md)에게 죽음과도 같은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 위험을 아슬아슬하게 피해가는 치밀함이 숨어있다. 가장 결정적인 순간, 파트너가 감당해야 할 최악의 페널티 앞에서는 평소의 가벼움을 던져버리고 기꺼이 자신의 형태가 찢겨나가는 것을 감내하는 역설적인 희생정신을 보여준다."
 
 ### 능력
 
@@ -92,14 +92,14 @@
 
 ---
 
-> import [날개](../../../core/Messengers_Core/Messengers_Core.md#wings) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
   * 은신 POV
   * 초공간도약
   * 본체 백업
 * **설명:**
-  * [사자들](../../../core/Messengers_Core/Messengers_Core.md)의 [날개](../../../core/Messengers_Core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
   * 사람들로부터 자신을 숨기고 관찰할 수 있다.
   * 자신을 다른 좌표로 이동시킨다.
   * 자신의 모든 신체 정보를 저장한다.
@@ -108,32 +108,32 @@
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
   * 최소 형태를 [사태극](#sitaegeuk)으로 유지
 * **설명:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
 
 #### <p id="fusion_of_martyrs">[순교자들의 융합]</p>
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 > import [메일리키오스](#meilichios) from [메일리키아](Meilichia_Core.md)
 
 
 * **능력:**
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 임계 중첩 적용
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 임계 중첩 적용
   * [사태극](#sitaegeuk)을 제외한 모든 형태 소실
   * [메일리키오스](#meilichios) 4세트를 모두 합하여 초대형 [메일리키오스](#meilichios) 소환
 * **설명:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)을 받아들인다.
-  * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
+  * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
+  * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
 
 #### <p id="body_modification">[신체 개조]</p>
 
@@ -166,16 +166,16 @@
 
 ---
 
-> import [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
-  * [메일리키오스](#meilichios) 사용 시 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 증가
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 자동 감소
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 비례 호전성 증가/신체 안정성 감소
+  * [메일리키오스](#meilichios) 사용 시 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 증가
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 자동 감소
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 비례 호전성 증가/신체 안정성 감소
 * **설명:**
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect) 중첩량이 높아질수록 껍데기가 깎여나가며 글리치를 일으키고, 본질인 무형에 가까워진다.
-  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [상태이상](../../../core/Messengers_Core/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량이 높아질수록 껍데기가 깎여나가며 글리치를 일으키고, 본질인 무형에 가까워진다.
+  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
 
 #### <p id="crucible">[크루시블]</p>
 
@@ -344,4 +344,4 @@
     * > "... בגוא בני אנשא הוה ומן בני אנשא לא אלף …"
     * [메일리키아](Meilichia_Core.md)의 가벼운 성격은 문장의 원형따위 신경쓰지 않는다는 점에서도 드러난다.
     * 또한 해당 문장은 화자에 따라 겸손함과 오만함이 결정되는 중의적인 문장이기도 하다.
-* [메일리키아](Meilichia_Core.md)의 [날개](../../../core/Messengers_Core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"에서 유래했다.
+* [메일리키아](Meilichia_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"에서 유래했다.

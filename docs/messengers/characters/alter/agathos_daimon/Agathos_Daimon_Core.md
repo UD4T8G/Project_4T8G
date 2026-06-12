@@ -16,12 +16,12 @@
 
 ---
 
-| **직책** | [사자들](../../../core/Messengers_Core/Messengers_Core.md) |
+| **직책** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
-| **부서** | [지옥](../../../core/Messengers_Core/Messengers_Core.md#hell) |
+| **부서** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
 | **이명** | [...](...) |
 | **성별** | 남성([아가토스 다이몬](Agathos_Daimon_Core.md))/남성([]()) |
-| **연령대** | 중년기(신)/알 수 없음([사자들](../../../core/Messengers_Core/Messengers_Core.md)) |
+| **연령대** | 중년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### 특징
 
@@ -78,12 +78,12 @@
 
 ---
 
-> import [날개](../../../core/Messengers_Core/Messengers_Core.md#wings) from [사자들](../../../core/Messengers_Core/Messengers_Core.md)
+> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **능력:**
   * ...
 * **설명:**
-  * [사자들](../../../core/Messengers_Core/Messengers_Core.md)의 [날개](../../../core/Messengers_Core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
   * ...
  
 #### <p id="cornucopia">[코르누코피아]</p>

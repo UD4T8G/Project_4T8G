@@ -24,35 +24,35 @@
 ### 근무 시간
 ---
 
-* **[베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md):** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
-* **[메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md):** "**으아아아**"*(하품)*"5분만 더..."
-* **[아자젤](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md#azazel):** *(들이받는다.)*
-* **[메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md):** "**커헉!**"*(쾌속 기상)*
+* **[베디오비스](../../characters/ud/vediovis/Vediovis_Core.md):** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
+* **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "**으아아아**"*(하품)*"5분만 더..."
+* **[아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel):** *(들이받는다.)*
+* **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "**커헉!**"*(쾌속 기상)*
 * *([지옥](#hell)의 [사자들](Messengers_Core.md)이 (사람들)을 시험하러 오는 상황이다.)*
-* **[메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md):** "오늘따라 일거리가 참 많네... 기분이다, 내가 상대해주마!"
-* **[베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md):** "저것들은 내가 상대할테니까 넌 (사람들)부터 챙겨!"
+* **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "오늘따라 일거리가 참 많네... 기분이다, 내가 상대해주마!"
+* **[베디오비스](../../characters/ud/vediovis/Vediovis_Core.md):** "저것들은 내가 상대할테니까 넌 (사람들)부터 챙겨!"
 * ***(사람들)*:** "으아아악!"*(비명)*
-* **[메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md):** "그냥 오늘은 내가 싸우면 안 돼?"
-* **[베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md):** "(사람들)이 퍽이나 안심하겠다!"
-* *(기타: 자신이 험악하게 생겨먹었음을 인지하고 있는 [베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md)의 판단을 드러내는 예제이다.)*
+* **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "그냥 오늘은 내가 싸우면 안 돼?"
+* **[베디오비스](../../characters/ud/vediovis/Vediovis_Core.md):** "(사람들)이 퍽이나 안심하겠다!"
+* *(기타: 자신이 험악하게 생겨먹었음을 인지하고 있는 [베디오비스](../../characters/ud/vediovis/Vediovis_Core.md)의 판단을 드러내는 예제이다.)*
 
 ### 쉬는 시간
 
 ---
 
-* **[메일리키오스](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md#meilichios):** "거기는 참 재밌어. 매번 같은 죄를 짓고 벌을 받아도 바뀌지를 않더라고."
-* **[아자젤](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md#azazel):** *([메일리키오스](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)*"메에~."
-* **[메일리키오스](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md#meilichios):** *(대롱 대롱)*"그래, 거기서 지키지도 않을 율법 주구장창 배우다 죽는 것보다는 너처럼 멍청하게 사는 게 훨씬 유익하겠다."
-* *(기타: [아자젤](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md#azazel)이 지적인 존재임에도 불구하고, 통상적인 염소처럼 묘사해야 한다는 점을 드러내는 예제이다.)*
+* **[메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios):** "거기는 참 재밌어. 매번 같은 죄를 짓고 벌을 받아도 바뀌지를 않더라고."
+* **[아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel):** *([메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)*"메에~."
+* **[메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)*"그래, 거기서 지키지도 않을 율법 주구장창 배우다 죽는 것보다는 너처럼 멍청하게 사는 게 훨씬 유익하겠다."
+* *(기타: [아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel)이 지적인 존재임에도 불구하고, 통상적인 염소처럼 묘사해야 한다는 점을 드러내는 예제이다.)*
 
 ### 퇴근하고 싶다
 
 ---
 
-* **[베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md):** "그동안 고생 많았다. 거기서 만나면 커피라도 한 잔 사줘!"
-* **[메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md):** "우리 덕분에 출세한 줄 알아라! 다음에 만날 때는 전갈 독이라도 구해와라?"
+* **[베디오비스](../../characters/ud/vediovis/Vediovis_Core.md):** "그동안 고생 많았다. 거기서 만나면 커피라도 한 잔 사줘!"
+* **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "우리 덕분에 출세한 줄 알아라! 다음에 만날 때는 전갈 독이라도 구해와라?"
 * **(천국 가는 사람):** "닥쳐, 너네 돈으로 사 마시던가 해!"*(웃음)*"농담이고, 다음에 같이 카페나 가자고!"
-* *(기타: [베디오비스](../../characters/UD/UD_%28BDH%29W/Vediovis_Core.md)와 [메일리키아](../../characters/UD/UD_%28BDE%29M/Meilichia_Core.md)가 [연옥](#purgatorium)에서 못 나간다는 설정을 활용한 블랙코미디 예제이다.)*
+* *(기타: [베디오비스](../../characters/ud/vediovis/Vediovis_Core.md)와 [메일리키아](../../characters/ud/meilichia/Meilichia_Core.md)가 [연옥](#purgatorium)에서 못 나간다는 설정을 활용한 블랙코미디 예제이다.)*
 
 ## source
 
