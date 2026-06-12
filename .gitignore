@@ -1,8 +1,19 @@
-/photos/
-/images/
-/assets/raw/
-/reference_arts/
+# Project Assets & Common Ignores
+reference_arts/
+photos/
+images/
+*.log
+tmp/
+temp/
 
+# Virtual Environment & Dev Tools
+/.venv/
+.vscode/
+.idea/
+*.suo
+*.sw?
+
+# OS Automatically Generated Files
 .DS_Store
 .DS_Store?
 ._*
@@ -11,14 +22,7 @@
 ehthumbs.db
 Thumbs.db
 
-.vscode/
-.idea/
+# Obsidian Custom Ignores
 .obsidian/
-*.suo
-*.sw?
-
-/.venv/
-
-*.log
-tmp/
-temp/
+obsidian.gitignore
+/....md
