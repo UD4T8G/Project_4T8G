@@ -1,4 +1,4 @@
-# 아가토스 다이몬 - Agathos Daimon
+# ...
 
 ---
 
@@ -9,19 +9,19 @@
 ---
 
 * [...](...)
-* [코르누코피아](#cornucopia)
+* [...](...)
 
 
 ## main
 
 ---
 
-| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [...](...) |
 | :--- | :--- |
-| **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
+| **Department** | [...](...) |
 | **Alias** | [...](...) |
-| **Gender** | 남성([아가토스 다이몬](Agathos_Daimon_Core.md))/남성([]()) |
-| **Age Group** | 중년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Gender** | ... |
+| **Age Group** | ... |
 
 ### Characteristics
 
@@ -78,15 +78,14 @@
 
 ---
 
-> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [...](...) from [...](...)
 
 * **Ability:**
   * ...
 * **Description:**
-  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
   * ...
  
-#### <p id="cornucopia">[코르누코피아]</p>
+#### <p id="...">[...]</p>
 
 ---
 

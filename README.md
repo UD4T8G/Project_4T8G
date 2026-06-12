@@ -1,9 +1,9 @@
-## Project_4T8G: 세계관 설정 아키텍처
+## Project_4T8G: Universe Architecture
 
-**Project_4T8G**는 소프트웨어 공학 방법론을 적용하여 세계관 설정 유지보수 문제를 해결하기 위한 프로젝트입니다.
+**Project_4T8G** is a project aimed at solving maintenance issues in universe settings by applying software engineering methodologies.
 
-해당 저장소의 모든 데이터는 향후 구현을 전제로 작성되었습니다. 설정 간의 충돌과 모순을 방지하고 완벽한 유지보수성을 보장하기 위해 다음과 같은 구조적 제약을 따릅니다.
+All data in this repository is drafted with future implementation in mind. To prevent conflicts and contradictions between settings and to guarantee flawless maintainability, it adheres to the following structural constraints:
 
-1. **제어 흐름(goto, 그래프) 복잡도 최소화:** 복잡하게 얽히는 예외 처리를 차단하고, 자원과 상태이상 수치의 흐름을 단방향 그래프로 단순화했습니다.
-2. **엄격한 캡슐화:** 객체 내부의 동력원 연산 과정은 철저히 은닉됩니다.
-3. **관심사 분리 (SoC):** 공통 규칙 레이어와 개별 객체 레이어를 엄격히 분리하여, 설정 변경 시 발생하는 사이드 이펙트를 원천 차단합니다.
+1. **Minimizing Control Flow (goto, graph) Complexity:** It prevents complex, tangled exception handling and simplifies the flow of resources and status effect values into a directed graph.
+2. **Strict Encapsulation:** The internal logic of the characters (power source computations, status effect conditions, etc.) is logically hidden to prevent arbitrary external manipulation. This prevents fatal lore-breaking conflicts caused by reckless interventions and ensures data integrity.
+3. **Separation of Concerns (SoC):** By strictly separating the common rule layer from the individual object layer, it fundamentally blocks any side effects caused by setting changes.

@@ -26,62 +26,62 @@
 
 ---
 
-| **직책** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
-| **부서** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
-| **이명** | [헬레니즘의 분열](#fission_of_helenism) |
-| **성별** | 중성([베디오비스](Vediovis_Core.md))/중성([아자젤](#azazel)) |
-| **연령대** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
+| **Alias** | [헬레니즘의 분열](#fission_of_helenism) |
+| **Gender** | 중성([베디오비스](Vediovis_Core.md))/중성([아자젤](#azazel)) |
+| **Age Group** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
-### 특징
+### Characteristics
 
 ---
 
 > "스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다."
 
-### 능력
+### Abilities
 
 ---
 
-#### 근거리
+#### Melee
 
 ---
 
-| **장비** | [애퍼래터스](#apparatus) |
+| **Equipment** | [애퍼래터스](#apparatus) |
 | :--- | :--- |
-| **특성** | 격투<br>광역 공격<br>군중제어기<br>패링 |
-| **기본** | 돌진하면서 정권 지르기<br>돌진하면서 발차기 |
-| **특수** | 캐스팅 후 제자리에서 다중 타격<br>캐스팅 후 제자리에서 단일 타격 |
-| **궁극** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후, 낙하하여 지면을 타격하고 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
+| **Traits** | 격투<br>광역 공격<br>군중제어기<br>패링 |
+| **Basic** | 돌진하면서 정권 지르기<br>돌진하면서 발차기 |
+| **Special** | 캐스팅 후 제자리에서 다중 타격<br>캐스팅 후 제자리에서 단일 타격 |
+| **Ultimate** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후, 낙하하여 지면을 타격하고 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
 
-#### 원거리
-
----
-
-| **장비** | [심판의 화살](#judgement_bolt) |
-| :--- | :--- |
-| **특성** | 메가크래시<br>패시브<br>저격<br>패링 |
-| **기본** | 전신에 [포메이션](#formation)을 발동하여 자동 공전 타격<br>심장부에서 연속 사격 |
-| **특수** | 다리에 [포메이션](#formation)을 발동하여 발차기 추가 타격<br>팔에 [포메이션](#formation)을 발동하여 정권 지르기 추가 사격 |
-| **궁극** | 심장부에서 일정 시간 [엑스큐션](#execution) 후 거대한 [심판의 화살](#judgement_bolt) 사격 |
-
-
-#### 거리 조절
+#### Ranged
 
 ---
 
-| **장비** | [성흔안](#stigmata_eyes) |
+| **Equipment** | [심판의 화살](#judgement_bolt) |
 | :--- | :--- |
-| **특성** | 격투<br>군중제어기<br>광역 공격<br>패링 |
-| **기본** | 어깨의 [성흔안](#stigmata_eyes) 2세트로 전방위의 근거리 오브젝트에 다중 타격 |
-| **특수** | (안광)으로 주변 오브젝트와 투사체 잡기 |
-| **궁극** | (철가면)을 벗어 머리를 분리하고 [아자젤](#azazel) 소환 |
+| **Traits** | 메가크래시<br>패시브<br>저격<br>패링 |
+| **Basic** | 전신에 [포메이션](#formation)을 발동하여 자동 공전 타격<br>심장부에서 연속 사격 |
+| **Special** | 다리에 [포메이션](#formation)을 발동하여 발차기 추가 타격<br>팔에 [포메이션](#formation)을 발동하여 정권 지르기 추가 사격 |
+| **Ultimate** | 심장부에서 일정 시간 [엑스큐션](#execution) 후 거대한 [심판의 화살](#judgement_bolt) 사격 |
+
+
+#### Distance Control
+
+---
+
+| **Equipment** | [성흔안](#stigmata_eyes) |
+| :--- | :--- |
+| **Traits** | 격투<br>군중제어기<br>광역 공격<br>패링 |
+| **Basic** | 어깨의 [성흔안](#stigmata_eyes) 2세트로 전방위의 근거리 오브젝트에 다중 타격 |
+| **Special** | (안광)으로 주변 오브젝트와 투사체 잡기 |
+| **Ultimate** | (철가면)을 벗어 머리를 분리하고 [아자젤](#azazel) 소환 |
 
 ## source
 
 ---
 
-### 능력
+### Abilities
 
 ---
 
@@ -91,11 +91,11 @@
 
 > import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-* **능력:**
+* **Ability:**
   * 은신 POV
   * 포털
   * 본체 백업
-* **설명:**
+* **Description:**
   * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
   * 사람들로부터 자신을 숨기고 관찰할 수 있다.
   * 자신과 주변의 오브젝트들을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
@@ -107,9 +107,9 @@
 
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-* **능력:**
+* **Ability:**
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
-* **설명:**
+* **Description:**
   * 부활 시스템이다.
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
@@ -121,10 +121,10 @@
 
 > import [애퍼래터스](#apparatus) from [베디오비스](Vediovis_Core.md)
 
-* **능력:**
+* **Ability:**
   * [팔괘](#bagua)를 제외한 모든 형태 소실
   * [애퍼래터스](#apparatus)에서 초대형 [아자젤](#azazel) 소환
-* **설명:**
+* **Description:**
   * 최후의 저항이다.
   * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
   * [아자젤](#azazel)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
@@ -136,10 +136,10 @@
 
 ---
 
-* **능력:**
+* **Ability:**
   * 오브젝트 제어
   * 오브젝트 흡수
-* **설명:**
+* **Description:**
   * 검은 손에 붉은 눈이 박혀 있다.
     * 머리 내부에 1세트 존재하며, 이는 [아자젤](#azazel)이다.
     * 어깨에 2세트 존재하며, 전방위 오브젝트를 수비하기 위해 사용한다.
@@ -152,10 +152,10 @@
 
 ---
 
-* **능력:**
+* **Ability:**
   * 소환수
   * [성흔안](#stigmata_eyes)
-* **설명:**
+* **Description:**
   * [베디오비스](Vediovis_Core.md)의 권속이다.
   * [성흔안](#stigmata_eyes)으로 구성되어 있다.
   * [봉인](#seal) 시 [베디오비스](Vediovis_Core.md)의 머리로 작동한다.
@@ -167,10 +167,10 @@
 
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-* **능력:**
+* **Ability:**
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 이전
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 회복
-* **설명:**
+* **Description:**
   * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 제어한다.
     * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
     * 전신에 두른 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
@@ -181,11 +181,11 @@
 
 ---
 
-* **능력:**
+* **Ability:**
   * [아자젤](#azazel) 동작
   * [심판의 화살](#judgement_bolt) 사용
   * 체내 에너지 비례 신체 강화
-* **설명:**
+* **Description:**
   * [베디오비스](Vediovis_Core.md)의 신체이다.
     * 체내 에너지에 비례하여 디펜스가 증가한다.
     * 체내 에너지에 비례하여 파워가 증가한다.
@@ -202,30 +202,30 @@
 
 ---
 
-* **능력:**
+* **Ability:**
   * [아자젤](#azazel) 봉인
-* **설명:**
+* **Description:**
   * 머리가 있어야 할 위치에 [아자젤](#azazel)를 가두고 철가면으로 봉한다.
 
 #### <p id="unseal">[해제]</p>
 
 ---
 
-* **능력:**
+* **Ability:**
   * [아자젤](#azazel) [해제](#unseal)
-* **설명:**
+* **Description:**
   * [아자젤](#azazel)을 벗으면 머리가 분리되어 [아자젤](#azazel)로 변한다.
 
 #### <p id="judgement_bolt">[심판의 화살]</p>
 
 ---
 
-* **능력:**
+* **Ability:**
   * 오브젝트 속성
   * 오브젝트 저장
   * 오브젝트 재련
   * 오브젝트 사출
-* **설명:**
+* **Description:**
   * 항상 붉게 타오르는 오브젝트의 그릇이다.
   * [애퍼래터스](#apparatus)에서 제작하고 저장할 수 있다.
   * 저장한 오브젝트의 특성을 보유하고 있다.
@@ -235,24 +235,24 @@
 
 ---
 
-* **능력:**
+* **Ability:**
   * 반중력 비행
   * [심판의 화살](#judgement_bolt) 조작
-* **설명:**
+* **Description:**
   * [심판의 화살](#judgement_bolt)들이 [베디오비스](Vediovis_Core.md)의 지시에 따라 편대비행한다.
 
 #### <p id="execution">[엑스큐션]</p>
 
 ---
 
-* **능력:**
+* **Ability:**
   * [심판의 화살](#judgement_bolt) 합성
   * 카오스 제어
-* **설명:**
+* **Description:**
   * [심판의 화살](#judgement_bolt)들이 연단된다.
   * [심판의 화살](#judgement_bolt)에 카오스를 담으면 탄도학 오차가 제어된다.
 
-### 기타
+### Miscellaneous
 
 ---
 
