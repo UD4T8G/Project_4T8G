@@ -1,4 +1,4 @@
-# 베디오비스 - (Bracchia Dextra Humi) Vediovis
+# (Bracchia Dextra Humi) Vediovis(베디오비스)
 
 ---
 

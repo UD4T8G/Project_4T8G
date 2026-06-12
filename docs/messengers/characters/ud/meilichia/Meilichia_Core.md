@@ -1,4 +1,4 @@
-# 메일리키아 - (Basis Divagans Equorea) Meilichia
+# (Basis Divagans Equorea) Meilichia(메일리키아)
 
 ---
 

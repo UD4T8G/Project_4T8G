@@ -1,4 +1,4 @@
-# 아가토스 다이몬 - Agathos Daimon
+# Agathos Daimon(아가토스 다이몬)
 
 ---
 
