@@ -1,4 +1,4 @@
-# ...
+# Acquisition Man(습득맨)
 
 ---
 

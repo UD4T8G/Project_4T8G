@@ -1,4 +1,4 @@
-# ...
+# Panda of Legend(전설의 판다)
 
 ---
 
