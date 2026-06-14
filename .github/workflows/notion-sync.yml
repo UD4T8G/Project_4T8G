@@ -1,21 +1,21 @@
-name: Sync Markdown to Notion
+# name: Sync Markdown to Notion
 
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - '**/*.md'
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - '**/*.md'
 
-jobs:
-  sync_to_notion:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+# jobs:
+#   sync_to_notion:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      - name: Markdown to Notion Sync
-        uses: tryfabric/martian@v0.1.0
-        with:
-          notion-token: ${{ secrets.NOTION_TOKEN }}
-          notion-db: ${{ secrets.NOTION_DATABASE_ID }}
+#       - name: Markdown to Notion Sync
+#         uses: tryfabric/martian@v0.1.0
+#         with:
+#           notion-token: ${{ secrets.NOTION_TOKEN }}
+#           notion-db: ${{ secrets.NOTION_DATABASE_ID }}
