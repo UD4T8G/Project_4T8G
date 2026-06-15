@@ -2,7 +2,7 @@
 
 ---
 
-> "..."
+> "할멈! 살살혀! 그러다 부술라!"
 
 ## header
 
@@ -16,12 +16,12 @@
 
 ---
 
-| **Position** | [...](...) |
+| **Position** | 자칭 신 |
 | :--- | :--- |
-| **Department** | [...](...) |
-| **Alias** | [...](...) |
-| **Gender** | ... |
-| **Age Group** | ... |
+| **Department** | 투명 공간 |
+| **Alias** | KNJ 울트라 둠 시나리오 |
+| **Gender** | 남성 |
+| **Age Group** | 노년기 |
 
 ### Characteristics
 

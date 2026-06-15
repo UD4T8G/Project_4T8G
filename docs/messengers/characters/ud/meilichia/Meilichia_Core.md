@@ -34,7 +34,7 @@
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [순교자들의 융합](#fusion_of_martyrs) |
-| **Gender** | 여성([메일리키아](Meilichia_Core.md))/남성([메일리키오스](#meilichios)) |
+| **Gender** | 여성(메일리키아)/남성([메일리키오스](#meilichios)) |
 | **Age Group** | 소녀기(여신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
@@ -122,7 +122,7 @@
 
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-> import [메일리키오스](#meilichios) from [메일리키아](Meilichia_Core.md)
+> import [메일리키오스](#meilichios) from 메일리키아
 
 
 * **Ability:**
@@ -158,7 +158,7 @@
     * 검 형태
     * 총 형태
 * **Description:**
-  * [메일리키아](Meilichia_Core.md)의 권속이다.
+  * 메일리키아의 권속이다.
   * 검 2세트, 총 2세트로 구성되어 있다.
   * 참수시켜서 머리를 무기화하고 목을 파이프라인으로 사용할 수 있다.
 
@@ -193,7 +193,7 @@
 
 ---
 
-> import [메일리키오스](#meilichios) from [메일리키아](Meilichia_Core.md)
+> import [메일리키오스](#meilichios) from 메일리키아
 
 * **Ability:**
   * [메일리키오스](#meilichios) 봉인
@@ -204,7 +204,7 @@
 
 ---
 
-> import [메일리키오스](#meilichios) from [메일리키아](Meilichia_Core.md)
+> import [메일리키오스](#meilichios) from 메일리키아
 
 * **Ability:**
   * [메일리키오스](#meilichios) 해제
@@ -327,21 +327,21 @@
 
 ---
 
-* [메일리키아](Meilichia_Core.md)의 어원은 고대 그리스의 여신 "Meilichia"에서 유래했다.
-  * [메일리키오스](#meilichios)의 어원은 고대 그리스의 신 "Zeus Meilichios"에서 유래했다.
+* 메일리키아는 고대 그리스의 여신 "Meilichia"을 참조한다.
+  * [메일리키오스](#meilichios)는 고대 그리스의 신 "Zeus Meilichios"을 참조한다.
   * 고대 그리스에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역된다.
-    * 이는 신을 달래기 위해 고안된 완곡어법이다.
-    * [메일리키아](Meilichia_Core.md)의 융합적인 특징은 다형성에서 유래했다.
+    * 이는 "Euphemism"의 일환이다.
+    * 메일리키아의 융합적인 특징은 역사적 다형성을 참조한다.
       * "Aphrodite Meilichia"
       * 셀레눈테의 "Meilichia"
       * "Mater Meilichia"
       * 기타 등등 
     * "Meilichia"는 현대 그리스어에서 고어이다.
       * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
-  * [메일리키아](Meilichia_Core.md)의 가벼운 성격은 고대 그리스의 종교 의식이 일상적이었다는 사실에서 유래했다.
-* [메일리키아](Meilichia_Core.md)의 특징은 기독교관을 따른다.
-  * 상단의 대사는 [4Q531 14(=22) i 4] 에서 유래했다.
+  * 메일리키아의 가벼운 성격은 고대 그리스의 종교 의식이 일상적이었다는 점을 참조한다.
+* 메일리키아의 특징은 기독교관을 참조한다.
+  * 상단의 대사는 [4Q531 14(=22) i 4]을 참조한다.
     * > "... בגוא בני אנשא הוה ומן בני אנשא לא אלף …"
-    * [메일리키아](Meilichia_Core.md)의 가벼운 성격은 문장의 원형따위 신경쓰지 않는다는 점에서도 드러난다.
-    * 또한 해당 문장은 화자에 따라 겸손함과 오만함이 결정되는 중의적인 문장이기도 하다.
-* [메일리키아](Meilichia_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"에서 유래했다.
+    * 메일리키아의 가벼운 성격은 문장의 원형따위 신경쓰지 않는다는 점으로도 드러난다.
+    * 또한 해당 문장은 중의적이기도 한데, 화자가 에녹일 경우 겸손해지고 화자가 거인일 경우 오만해진다.
+* 메일리키아의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.

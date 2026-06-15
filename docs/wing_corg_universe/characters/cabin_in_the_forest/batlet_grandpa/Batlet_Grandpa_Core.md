@@ -2,7 +2,7 @@
 
 ---
 
-> "..."
+> "걱정 마! 기절만 시킨 거다!"
 
 ## header
 
@@ -16,12 +16,12 @@
 
 ---
 
-| **Position** | [...](...) |
+| **Position** | 안빈낙도, 안분지족 |
 | :--- | :--- |
-| **Department** | [...](...) |
-| **Alias** | [...](...) |
-| **Gender** | ... |
-| **Age Group** | ... |
+| **Department** | 산골짜기 |
+| **Alias** | 미친 새끼 |
+| **Gender** | 남성 |
+| **Age Group** | 노년기 |
 
 ### Characteristics
 

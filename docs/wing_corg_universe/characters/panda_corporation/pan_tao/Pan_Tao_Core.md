@@ -2,7 +2,9 @@
 
 ---
 
-> "..."
+> "팔괘 방패!"
+
+> "무지개 반사!"
 
 ## header
 
@@ -16,12 +18,12 @@
 
 ---
 
-| **Position** | [...](...) |
+| **Position** | 도사 |
 | :--- | :--- |
-| **Department** | [...](...) |
-| **Alias** | [...](...) |
-| **Gender** | ... |
-| **Age Group** | ... |
+| **Department** | 판다 주식회사 |
+| **Alias** | 판다 도사 |
+| **Gender** | 남성 |
+| **Age Group** | 중년기 |
 
 ### Characteristics
 

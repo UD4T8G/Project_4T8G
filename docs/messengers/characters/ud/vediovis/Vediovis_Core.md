@@ -30,7 +30,7 @@
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [헬레니즘의 분열](#fission_of_helenism) |
-| **Gender** | 중성([베디오비스](Vediovis_Core.md))/중성([아자젤](#azazel)) |
+| **Gender** | 중성(베디오비스)/중성([아자젤](#azazel)) |
 | **Age Group** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
@@ -119,7 +119,7 @@
 
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-> import [애퍼래터스](#apparatus) from [베디오비스](Vediovis_Core.md)
+> import [애퍼래터스](#apparatus) from 베디오비스
 
 * **Ability:**
   * [팔괘](#bagua)를 제외한 모든 형태 소실
@@ -156,9 +156,9 @@
   * 소환수
   * [성흔안](#stigmata_eyes)
 * **Description:**
-  * [베디오비스](Vediovis_Core.md)의 권속이다.
+  * 베디오비스의 권속이다.
   * [성흔안](#stigmata_eyes)으로 구성되어 있다.
-  * [봉인](#seal) 시 [베디오비스](Vediovis_Core.md)의 머리로 작동한다.
+  * [봉인](#seal) 시 베디오비스의 머리로 작동한다.
   * [해제](#unseal) 시 독립적인 소환수로 작동한다.
 
 #### <p id="atonement_day">[대속죄일]</p>
@@ -186,7 +186,7 @@
   * [심판의 화살](#judgement_bolt) 사용
   * 체내 에너지 비례 신체 강화
 * **Description:**
-  * [베디오비스](Vediovis_Core.md)의 신체이다.
+  * 베디오비스의 신체이다.
     * 체내 에너지에 비례하여 디펜스가 증가한다.
     * 체내 에너지에 비례하여 파워가 증가한다.
     * 체내 에너지에 비례하여 스피드가 증가한다.
@@ -239,7 +239,7 @@
   * 반중력 비행
   * [심판의 화살](#judgement_bolt) 조작
 * **Description:**
-  * [심판의 화살](#judgement_bolt)들이 [베디오비스](Vediovis_Core.md)의 지시에 따라 편대비행한다.
+  * [심판의 화살](#judgement_bolt)들이 베디오비스의 지시에 따라 편대비행한다.
 
 #### <p id="execution">[엑스큐션]</p>
 
@@ -256,24 +256,24 @@
 
 ---
 
-* [베디오비스](Vediovis_Core.md)의 어원은 고대 로마의 신 "Vejovis"에서 유래했다.
-  * [아자젤](#azazel)의 특징은 "Vejovis"의 제물로 암염소를 바쳤다는 사실에서 유래했다.
-  * [심판의 화살](#judgement_bolt)의 특징은 "Vejovis"가 화살 다발을 들고 있었다는 사실에서 유래했다.
+* 베디오비스의 어원은 고대 로마의 신 "Vejovis"을 참조한다.
+  * [아자젤](#azazel)의 특징은 "Vejovis"의 제물로 암염소를 바쳤다는 점을 참조한다.
+  * [심판의 화살](#judgement_bolt)의 특징은 "Vejovis"가 화살 다발을 들고 있었다는 점을 참조한다.
   * [아자젤](#azazel)과 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 한다.
     * 카피톨리누스 언덕에서 발굴된 "Vejovis" 조각상은 머리와 손이 잘려져 있었다.
-  * [베디오비스](Vediovis_Core.md)의 무거운 성격은 고대 로마의 종교 의식이 매우 엄격했다는 사실에서 유래했다.
-* [베디오비스](Vediovis_Core.md)의 특징은 기독교관을 따른다.
-  * [성흔안](#stigmata_eyes)은 "십자가형"에서 유래했다.
-  * [헬레니즘의 분열](#fission_of_helenism)은 "마카베오 항쟁"에서 유래했다.
-  * 디자인은 "메타트론이 된 에녹"에서 유래했다.
+  * 베디오비스의 무거운 성격은 고대 로마의 종교 의식이 매우 엄격했다는 점을 참조한다.
+* 베디오비스의 특징은 기독교관을 참조한다.
+  * [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
+  * [헬레니즘의 분열](#fission_of_helenism)은 "마카베오 항쟁"을 참조한다.
+  * 설정적 디자인은 "메타트론이 된 에녹"을 참조한다.
   * [아자젤](#azazel)의 어원적 유래는 다음과 같다.
     * "레위기"의 속죄제물 "아자젤"
-    * "에녹서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "아자젤"
-  * 상단의 대사는 [4Q530 2 ii 2] 에서 유래했다.
+    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "아자젤"
+  * 상단의 대사는 [4Q530 2 ii 2]을 참조한다.
     * > "… וכען שרו … וצלו …"
-    * [베디오비스](Vediovis_Core.md)의 무거운 성격은 해당 문장을 원형에 가깝게 구사했다는 점에서도 드러난다.
-* [베디오비스](Vediovis_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"에서 유래했다.
-  * 각 괘의 디자인은 다음 아이콘에서 유래했다.
+    * 베디오비스의 무거운 성격은 해당 문장을 원형에 가깝게 구사했다는 점으로도 드러난다.
+* 베디오비스의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
+  * 각 괘의 디자인은 다음 아이콘을 참조한다.
     * 건: 트리니티
     * 태: 익투스
     * 리: 불

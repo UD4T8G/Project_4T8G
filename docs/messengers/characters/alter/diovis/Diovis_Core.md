@@ -2,7 +2,7 @@
 
 ---
 
-> "..."
+> "나는 멀리서도 죄악의 냄새를 맡을 수 있다..."
 
 ## header
 
@@ -19,7 +19,7 @@
 | :--- | :--- |
 | **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
 | **Alias** | [...](...) |
-| **Gender** | 남성([디오비스](Diovis_Core.md))/여성([아이기스](#aegis)) |
+| **Gender** | 남성(디오비스)/여성([아이기스](#aegis)) |
 | **Age Group** | 중년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
@@ -85,7 +85,7 @@
   * 본체 백업
 * **Description:**
   * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
-  * [디오비스](Diovis_Core.md)의 권속이다.
+  * 디오비스의 권속이다.
   * 방패에 검은 독수리 날개가 장착되어 있다.
     * 등에서 분리하고 접어 방패로 사용할 수 있다.
     * 등에 결합하고 펼쳐 공허 사이를 비행할 수 있다.
@@ -100,7 +100,7 @@
   * 절대 관통
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 기폭
 * **Description:**
-  * [디오비스](Diovis_Core.md)가 쥐고 있는 심판의 벼락이다.
+  * 디오비스가 쥐고 있는 심판의 벼락이다.
   * 보라색 투창의 형태를 띠고 있으며, 적을 향해 던졌을 때 경로상의 모든 것을 꿰뚫는다.
   * 타겟의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
 

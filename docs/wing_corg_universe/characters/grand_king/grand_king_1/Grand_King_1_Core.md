@@ -2,7 +2,7 @@
 
 ---
 
-> "..."
+> "진심 땡콩!"
 
 ## header
 
@@ -16,12 +16,12 @@
 
 ---
 
-| **Position** | [...](...) |
+| **Position** | 자칭 여신 |
 | :--- | :--- |
-| **Department** | [...](...) |
-| **Alias** | [...](...) |
-| **Gender** | ... |
-| **Age Group** | ... |
+| **Department** | 투명 공간 |
+| **Alias** | KNJ 울트라 둠 시나리오 |
+| **Gender** | 여성 |
+| **Age Group** | 노년기 |
 
 ### Characteristics
 
