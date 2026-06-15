@@ -18,7 +18,7 @@
 | **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
 | **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
-| **Alias** | [...](...) |
+| **Alias** | 크토닉 올림피우스 |
 | **Gender** | 남성(디오비스)/여성([아이기스](#aegis)) |
 | **Age Group** | 중년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 

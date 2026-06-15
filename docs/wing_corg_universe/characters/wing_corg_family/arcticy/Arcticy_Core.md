@@ -40,7 +40,7 @@
 
 | **Equipment** | [가장의 뱃살](#belly_of_father) |
 | :--- | :--- |
-| **Traits** | 탱커, 반사, 부성애 |
+| **Traits** | 탱커<br>반사<br>부성애 |
 | **Basic** | 두툼한 뱃살을 튕겨 접근하는 근거리 오브젝트를 밀쳐냄 |
 | **Special** | 딸 [시바](../shibal/Shibal_Core.md)를 위협하는 적을 향해 무거운 육탄으로 바디프레스 시전 |
 | **Ultimate** | 아들 [플라나리아](../planaria/Planaria_Core.md)의 지옥 훈련으로 다져진 생존 본능을 발휘해 쓰러지지 않고 버티기 |
@@ -51,7 +51,7 @@
 
 | **Equipment** | [북극성의 방패](#shield_of_north_star) |
 | :--- | :--- |
-| **Traits** | 서포터, 절대 방어, 패시브 |
+| **Traits** | 서포터<br>절대 방어<br>패시브 |
 | **Basic** | 얼음 방패를 소환해 아내 [윙코기](../wing_corgi/Wing_Corgi_Core.md)의 잔소리와 바가지를 막아냄 |
 | **Special** | 전방에 거대한 얼음 성벽을 세워 날아오는 모든 투사체 차단 |
 | **Ultimate** | X-프로토콜의 마법으로 아군 위치에 전방위 방어막 전개 |
@@ -62,7 +62,7 @@
 
 | **Equipment** | [무자비한 박치기](#ruthless_headbutt) |
 | :--- | :--- |
-| **Traits** | 돌진, 공성, 메가크래시 |
+| **Traits** | 돌진<br>공성<br>메가크래시 |
 | **Basic** | 짧은 거리를 묵직하게 돌진하며 머리로 타격 |
 | **Special** | 과거 북극성의 왕이었던 시절의 카리스마를 일시적으로 방출하며 전방의 장애물을 분쇄 |
 | **Ultimate** | [윙코기](../wing_corgi/Wing_Corgi_Core.md)의 [각성 스킬] 발동 시, 두 자녀가 끄는 거대한 마차 위에 올라타 돌진 속도를 받아 전방을 초토화하는 무자비한 박치기 시전 |
