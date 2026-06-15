@@ -10,7 +10,7 @@
 
 ---
 
-* [포르투나](fortuna)
+* [포르투나](#fortuna)
 * [코르누코피아](#cornucopia)
 
 
