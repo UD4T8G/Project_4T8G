@@ -112,6 +112,5 @@
 
 ---
 
-* 상대방이 추여사의 뚱한 무표정을 기가 막히게 따라 하자, "추하다 추여사"라고 놀렸고, 빵 터진 상대방과 함께 기믹을 제작하였다.
 * 추여사가 그토록 애타게 찾으며 도발했던 당시 세계관 관리자 'WM'은, 정작 직원 판다들의 대규모 시위("W~M~ 나가라~ 나가~")에 밀려 세계관 밖으로 쫓겨난 상태였다. 큰 건이 있을 때만 가끔 내려왔기 때문에, 추여사와 WM은 단 한 번도 직접 만난 적이 없다.
-* 이 시절 언급되던 전설적인 관리자 'WM'의 콘셉트는 훗날 사자들 세계관에서 [베디오비스](../../../../messengers/characters/ud/vediovis/Vediovis_Core.md)와 [메일리키아](../../../../messengers/characters/ud/meilichia/Meilichia_Core.md)의 설정으로 각색되어 계승되었다.
+* 이 시절 언급되던 'WM'의 콘셉트는 윙콕 유니버스 완결(2020) 후 탄생한 사자들(2025) 세계관에서 [베디오비스](../../../../messengers/characters/ud/vediovis/Vediovis_Core.md)와 [메일리키아](../../../../messengers/characters/ud/meilichia/Meilichia_Core.md)의 설정으로 각색되어 계승되었다.

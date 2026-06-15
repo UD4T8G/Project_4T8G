@@ -29,10 +29,6 @@
 
 ---
 
-### Characteristics
-
----
-
 > "[포르투나](#fortuna)의 마지막 파편을 받아들인 융합신이다. 위로는 영혼들을 속이고, 아래로는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 토해낸다. 헛된 욕망을 경멸하는 지독한 염세주의자로서, [코르누코피아](#cornucopia)를 통해 부와 쾌락 대신 영혼을 찢는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 쏟아낸다."
 
 ### Abilities
