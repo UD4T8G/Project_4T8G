@@ -2,7 +2,7 @@
 
 ---
 
-> "그러하더라도 이제는 방면할지어다. 또한, 간절히 기도할지니!"
+> *... 이러할진데 이제는 방면할지어다 ... 또한 간절히 탄원할지니 ...*
 
 ## header
 
@@ -12,7 +12,7 @@
   * [분열](#fission)
     * [헬레니즘의 분열](#fission_of_helenism)
 * [성흔안](#stigmata_eyes)
-  * [아자젤](#azazel)
+  * [레기온](#legio)
     * [대속죄일](#atonement_day)
   * [애퍼래터스](#apparatus)
     * [봉인](#seal)
@@ -30,7 +30,7 @@
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [헬레니즘의 분열](#fission_of_helenism) |
-| **Gender** | 중성(베디오비스)/중성([아자젤](#azazel)) |
+| **Gender** | 중성(베디오비스)/중성([레기온](#legio)) |
 | **Age Group** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
@@ -75,7 +75,7 @@
 | **Traits** | 격투<br>군중제어기<br>광역 공격<br>패링 |
 | **Basic** | 어깨의 [성흔안](#stigmata_eyes) 2세트로 전방위의 근거리 오브젝트에 다중 타격 |
 | **Special** | (안광)으로 주변 오브젝트와 투사체 잡기 |
-| **Ultimate** | (철가면)을 벗어 머리를 분리하고 [아자젤](#azazel) 소환 |
+| **Ultimate** | (철가면)을 벗어 머리를 분리하고 [레기온](#legio) 소환 |
 
 ## source
 
@@ -123,11 +123,11 @@
 
 * **Ability:**
   * [팔괘](#bagua)를 제외한 모든 형태 소실
-  * [애퍼래터스](#apparatus)에서 초대형 [아자젤](#azazel) 소환
+  * [애퍼래터스](#apparatus)에서 초대형 [레기온](#legio) 소환
 * **Description:**
   * 최후의 저항이다.
   * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
-  * [아자젤](#azazel)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
+  * [레기온](#legio)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
   * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
   * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
   * 지속시간 동안 [분열](#fission)을 사용할 수 없다.
@@ -141,14 +141,14 @@
   * 오브젝트 흡수
 * **Description:**
   * 검은 손에 붉은 눈이 박혀 있다.
-    * 머리 내부에 1세트 존재하며, 이는 [아자젤](#azazel)이다.
+    * 머리 내부에 1세트 존재하며, 이는 [레기온](#legio)이다.
     * 어깨에 2세트 존재하며, 전방위 오브젝트를 수비하기 위해 사용한다.
     * 머리 뒤에 2세트 존재하며, 전방 오브젝트를 공격하기 위해 사용한다.
     * 머리 앞에 2세트 존재하며, 철가면을 고정하기 위해 사용한다.
   * 안광에 적중된 대상의 좌표를 제어한다.
   * 안광에 적중된 대상을 [애퍼래터스](#apparatus) 내부로 흡수하고, [심판의 화살](#judgement_bolt)에 가둔다.
 
-#### <p id="azazel">[아자젤]</p>
+#### <p id="legio">[레기온]</p>
 
 ---
 
@@ -182,7 +182,7 @@
 ---
 
 * **Ability:**
-  * [아자젤](#azazel) 동작
+  * [레기온](#legio) 동작
   * [심판의 화살](#judgement_bolt) 사용
   * 체내 에너지 비례 신체 강화
 * **Description:**
@@ -191,8 +191,8 @@
     * 체내 에너지에 비례하여 파워가 증가한다.
     * 체내 에너지에 비례하여 스피드가 증가한다.
   * 검은 눈물을 흘리는 철가면을 [성흔안](#stigmata_eyes)으로 고정하고 있다.
-    * 머리를 결합하여 [아자젤](#azazel)을 [봉인](#seal)할 수 있다.
-    * 머리를 분배하여 [아자젤](#azazel)을 [해제](#unseal)할 수 있다.
+    * 머리를 결합하여 [레기온](#legio)을 [봉인](#seal)할 수 있다.
+    * 머리를 분배하여 [레기온](#legio)을 [해제](#unseal)할 수 있다.
   * 심장부에 용광로 문을 장착했다.
     * [심판의 화살](#judgement_bolt)을 제작할 수 있다.
     * [심판의 화살](#judgement_bolt)을 저장할 수 있다.
@@ -203,18 +203,18 @@
 ---
 
 * **Ability:**
-  * [아자젤](#azazel) 봉인
+  * [레기온](#legio) 봉인
 * **Description:**
-  * 머리가 있어야 할 위치에 [아자젤](#azazel)를 가두고 철가면으로 봉한다.
+  * 머리가 있어야 할 위치에 [레기온](#legio)를 가두고 철가면으로 봉한다.
 
 #### <p id="unseal">[해제]</p>
 
 ---
 
 * **Ability:**
-  * [아자젤](#azazel) [해제](#unseal)
+  * [레기온](#legio) [해제](#unseal)
 * **Description:**
-  * [아자젤](#azazel)을 벗으면 머리가 분리되어 [아자젤](#azazel)로 변한다.
+  * [레기온](#legio)을 벗으면 머리가 분리되어 [레기온](#legio)로 변한다.
 
 #### <p id="judgement_bolt">[심판의 화살]</p>
 
@@ -256,22 +256,17 @@
 
 ---
 
-* 베디오비스의 어원은 고대 로마의 신 "Vejovis"을 참조한다.
-  * [아자젤](#azazel)의 특징은 "Vejovis"의 제물로 암염소를 바쳤다는 점을 참조한다.
+* 베디오비스는 아실룸의 신 "Vejovis"를 참조한다.
   * [심판의 화살](#judgement_bolt)의 특징은 "Vejovis"가 화살 다발을 들고 있었다는 점을 참조한다.
-  * [아자젤](#azazel)과 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 한다.
-    * 카피톨리누스 언덕에서 발굴된 "Vejovis" 조각상은 머리와 손이 잘려져 있었다.
+  * [레기온](#legio)과 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 카피톨리누스 언덕에서 발굴된 "Vejovis" 조각상이 머리와 손이 잘려져 있었다는 점을 참조한다.
   * 베디오비스의 무거운 성격은 고대 로마의 종교 의식이 매우 엄격했다는 점을 참조한다.
-* 베디오비스의 특징은 기독교관을 참조한다.
-  * [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
-  * [헬레니즘의 분열](#fission_of_helenism)은 "마카베오 항쟁"을 참조한다.
-  * 설정적 디자인은 "메타트론이 된 에녹"을 참조한다.
-  * [아자젤](#azazel)의 어원적 유래는 다음과 같다.
-    * "레위기"의 속죄제물 "아자젤"
-    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "아자젤"
-  * 상단의 대사는 [4Q530 2 ii 2]을 참조한다.
-    * > "… וכען שרו … וצלו …"
-    * 베디오비스의 무거운 성격은 해당 문장을 원형에 가깝게 구사했다는 점으로도 드러난다.
+* [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
+* [헬레니즘의 분열](#fission_of_helenism)은 "마카베오 항쟁"을 참조한다.
+* [레기온](#legio)은 다음을 참조한다.
+  * 로마 군대 단위 "legio" 또는 "마르코 복음서"의 "legio"
+  * 유다 염소
+  * "Vejovis"에게 제물로 바치는 암염소
+  * "레위기"의 "Azazel"에게 속죄제물로 보내는 숫염소 또는 "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"
 * 베디오비스의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
   * 각 괘의 디자인은 다음 아이콘을 참조한다.
     * 건: 트리니티
@@ -282,3 +277,6 @@
     * 감: 물
     * 간: 빗장
     * 곤: 육각성
+* 상단의 문장은 4Q530 2 ii 2 을 참조한다.
+  * > *… וכען שרו … וצלו …*
+  * 에녹의 타블렛이 심판의 확정을 선언하고 있음에도 불구하고, 해당 문장은 신약성서 이전의 초기 회개 개념을 보유하고 있다.

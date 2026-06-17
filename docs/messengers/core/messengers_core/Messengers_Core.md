@@ -26,7 +26,7 @@
 
 * **[베디오비스](../../characters/ud/vediovis/Vediovis_Core.md):** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
 * **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "**으아아아**"*(하품)*"5분만 더..."
-* **[아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel):** *(들이받는다.)*
+* **[레기온](../../characters/ud/vediovis/Vediovis_Core.md#legio):** *(들이받는다.)*
 * **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "**커헉!**"*(쾌속 기상)*
 * *([지옥](#hell)의 사자들이 (사람들)을 시험하러 오는 상황이다.)*
 * **[메일리키아](../../characters/ud/meilichia/Meilichia_Core.md):** "오늘따라 일거리가 참 많네... 기분이다, 내가 상대해주마!"
@@ -41,9 +41,9 @@
 ---
 
 * **[메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios):** "거기는 참 재밌어. 매번 같은 죄를 짓고 벌을 받아도 바뀌지를 않더라고."
-* **[아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel):** *([메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)*"메에~."
+* **[레기온](../../characters/ud/vediovis/Vediovis_Core.md#legio):** *([메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)*"메에~."
 * **[메일리키오스](../../characters/ud/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)*"그래, 거기서 지키지도 않을 율법 주구장창 배우다 죽는 것보다는 너처럼 멍청하게 사는 게 훨씬 유익하겠다."
-* *(기타: [아자젤](../../characters/ud/vediovis/Vediovis_Core.md#azazel)이 지적인 존재임에도 불구하고, 통상적인 염소처럼 묘사해야 한다는 점을 드러내는 예제이다.)*
+* *(기타: [레기온](../../characters/ud/vediovis/Vediovis_Core.md#legio)이 지적인 존재임에도 불구하고, 통상적인 염소처럼 묘사해야 한다는 점을 드러내는 예제이다.)*
 
 ### 퇴근하고 싶다
 
@@ -184,4 +184,4 @@
 ---
 
 * [상태이상](#status_effect)은 MATTHEW 10:28을 참조한다.
-  * > "몸은 죽여도 영혼은 능히 죽이지 못하는 자들을 두려워하지 말고 오직 몸과 영혼을 능히 지옥에 멸하실 수 있는 이를 두려워하라"
+  * > *καὶ μὴ φοβεῖσθε(φοβηθῆτε) ἀπὸ τῶν ἀποκτεννόντων(ἀποκτεινόντων)(ἀποκτενόντων) τὸ σῶμα, τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι· φοβεῖσθε(φοβήθητε) δὲ μᾶλλον τὸν δυνάμενον καὶ ψυχὴν καὶ σῶμα(καὶ τὴν ψυχὴν καὶ τὸ σῶμα) ἀπολέσαι ἐν γεέννῃ.*

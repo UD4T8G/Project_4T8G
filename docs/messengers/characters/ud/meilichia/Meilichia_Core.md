@@ -2,7 +2,7 @@
 
 ---
 
-> "거기에 거주한 적은 있는데, 거기서 배우거나 가르치거나 하지는 않았어."
+> *불이여! 내가 왔노라! 이 땅 위에 던지기 위함이로다! 나는 간절히 원하노라! 그 불이 이미 붙었더라면!*
 
 ## header
 
@@ -327,21 +327,52 @@
 
 ---
 
-* 메일리키아는 고대 그리스의 여신 "Meilichia"을 참조한다.
-  * [메일리키오스](#meilichios)는 고대 그리스의 신 "Zeus Meilichios"을 참조한다.
-  * 고대 그리스에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역된다.
-    * 이는 "Euphemism"의 일환이다.
-    * 메일리키아의 융합적인 특징은 역사적 다형성을 참조한다.
-      * "Aphrodite Meilichia"
-      * 셀레눈테의 "Meilichia"
-      * "Mater Meilichia"
-      * 기타 등등 
-    * "Meilichia"는 현대 그리스어에서 고어이다.
-      * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
-  * 메일리키아의 가벼운 성격은 고대 그리스의 종교 의식이 일상적이었다는 점을 참조한다.
-* 메일리키아의 특징은 기독교관을 참조한다.
-  * 상단의 대사는 [4Q531 14(=22) i 4]을 참조한다.
-    * > "... בגוא בני אנשא הוה ומן בני אנשא לא אלף …"
-    * 메일리키아의 가벼운 성격은 문장의 원형따위 신경쓰지 않는다는 점으로도 드러난다.
-    * 또한 해당 문장은 중의적이기도 한데, 화자가 에녹일 경우 겸손해지고 화자가 거인일 경우 오만해진다.
+* [메일리키오스](#meilichios)와 메일리키아의 융합성은 역사적 다형성을 참조한다.
+  * "Meilichios" 계열
+    * 아테네: Zeus Meilichios
+    * 낙소스: Dionysos Meilichios
+    * 에피루스: Zeus Meilichios
+    * 테게아: Zeus Meilichios
+    * 밀레투스: Zeus Meilichios
+    * 아모르고스: Zeus Meilichios
+    * 로도스: Zeus Meilichios
+    * 시키온: Zeus Meilichios
+    * 아르고스: Zeus Meilichios
+    * 크레타 하니아: Zeus Meilichios
+    * 레바데아: Zeus Meilichios
+    * 올림피아: Zeus Meilichios
+    * 케오스: Zeus Meilichios
+    * 키프로스: Zeus Meilichios
+    * 체로네아: Zeus Meilichios
+    * 파티카파움: Zeus Meilichios
+    * 델포이: Zeus Meilichios
+    * 메가라: Zeus Meilichios
+    * 에레트리아: Zeus Meilichios
+    * 테스피아이: Zeus Meilichios
+    * 만티네아: Zeus Meilichios
+    * 타렌툼: Zeus Meilichios
+    * 록리: Zeus Meilichios
+    * 시라쿠사: Zeus Meilichios
+    * 페라이: Zeus Meilichios
+    * 라리사: Zeus Meilichios
+    * 타소스: Zeus Meilichios
+    * 칼키스: Zeus Meilichios
+    * 히메라: Melichios
+    * 로마 수도: Jupiter Meilichius
+    * 폼페이: Jupiter Meilichius
+    * 오스티아: Jupiter Meilichius
+  * "Meilichia" 계열
+    * 메타폰툼: Aphrodite Meilichia
+    * 테살리아: Mater Meilichia
+  * 중립 계열
+    * 셀리눈테: Meilichioi, Dios Meilichios
+    * 키레네: Meilichioi, Meilichioi Theoi
+    * 포이티아: Meilichioi
+    * 파로스: Meilichioi
+  * 고대 그리스에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"의 일환이다.
+  * "Meilichia"는 현대 그리스어에서 고어이다.
+  * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
+ * 메일리키아의 가벼운 성격은 고대 그리스의 종교 의식이 일상적이었다는 점을 참조한다.
 * 메일리키아의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
+* 상단의 문장은 LUKA 12:49 을 참조한다.
+  * > *Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη.*
