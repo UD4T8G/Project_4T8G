@@ -37,7 +37,7 @@
 
 ---
 
-> "스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다."
+> *스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다.*
 
 ### Abilities
 

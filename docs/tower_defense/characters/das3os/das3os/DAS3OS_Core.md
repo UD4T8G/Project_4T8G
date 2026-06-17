@@ -2,7 +2,7 @@
 
 ---
 
-> "..."
+> *...*
 
 ## header
 
@@ -26,6 +26,8 @@
 ### Characteristics
 
 ---
+
+> *...*
 
 ### Abilities
 
