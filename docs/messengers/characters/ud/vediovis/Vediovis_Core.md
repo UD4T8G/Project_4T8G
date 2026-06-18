@@ -13,7 +13,7 @@
     * [헬레니즘의 분열](#fission_of_helenism)
 * [성흔안](#stigmata_eyes)
   * [레기온](#legio)
-    * [대속죄일](#atonement_day)
+  * [대속죄일](#atonement_day)
   * [애퍼래터스](#apparatus)
     * [봉인](#seal)
     * [해제](#unseal)
@@ -119,11 +119,10 @@
 
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
-> import [애퍼래터스](#apparatus) from 베디오비스
-
 * **Ability:**
-  * [팔괘](#bagua)를 제외한 모든 형태 소실
-  * [애퍼래터스](#apparatus)에서 초대형 [레기온](#legio) 소환
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩 연산
+  * [팔괘](#bagua)를 제외한 모든 형태 분열
+  * 분열된 형태 [레기온](#legio)으로 흡수 
 * **Description:**
   * 최후의 저항이다.
   * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
@@ -141,23 +140,30 @@
   * 오브젝트 흡수
 * **Description:**
   * 검은 손에 붉은 눈이 박혀 있다.
-    * 머리 내부에 1세트 존재하며, 이는 [레기온](#legio)이다.
+    * 머리 내부에 [레기온](#legio) 1세트 존재한다.
     * 어깨에 2세트 존재하며, 전방위 오브젝트를 수비하기 위해 사용한다.
     * 머리 뒤에 2세트 존재하며, 전방 오브젝트를 공격하기 위해 사용한다.
     * 머리 앞에 2세트 존재하며, 철가면을 고정하기 위해 사용한다.
-  * 안광에 적중된 대상의 좌표를 제어한다.
-  * 안광에 적중된 대상을 [애퍼래터스](#apparatus) 내부로 흡수하고, [심판의 화살](#judgement_bolt)에 가둔다.
+  * 안광에 적중된 오브젝트의 좌표를 제어한다.
+  * 안광에 적중된 오브젝트를 [애퍼래터스](#apparatus) 내부로 흡수한다.
+  * 내부로 흡수한 오브젝트를 [심판의 화살](#judgement_bolt)에 가둔다.
 
 #### <p id="legio">[레기온]</p>
 
 ---
 
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+
 * **Ability:**
   * 소환수
-  * [성흔안](#stigmata_eyes)
+  * [성흔안](#stigmata_eyes) 기동
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 흡수
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 정화
 * **Description:**
   * 베디오비스의 권속이다.
   * [성흔안](#stigmata_eyes)으로 구성되어 있다.
+    * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 흡수한다.
+    * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 정화한다.
   * [봉인](#seal) 시 베디오비스의 머리로 작동한다.
   * [해제](#unseal) 시 독립적인 소환수로 작동한다.
 
@@ -212,7 +218,7 @@
 ---
 
 * **Ability:**
-  * [레기온](#legio) [해제](#unseal)
+  * [레기온](#legio) 해제
 * **Description:**
   * [레기온](#legio)을 벗으면 머리가 분리되어 [레기온](#legio)로 변한다.
 
