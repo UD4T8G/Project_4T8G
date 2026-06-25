@@ -1,4 +1,4 @@
-# (Basis Divagans Equorea) Meilichia(메일리키아)
+# (Basis Divagans Equorea) Meilichia (메일리키아)
 
 ---
 
@@ -30,8 +30,8 @@
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [순교자들의 융합](#fusion_of_martyrs) |
-| **Gender** | 여성(메일리키아)/남성([메일리키오스](#meilichios)) |
-| **Age Group** | 소녀기(여신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
+| **Age Group** | 소녀기 (여신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
 
@@ -47,9 +47,8 @@
 
 ---
 
-| **Equipment** | [메일리키오스](#meilichios) |
+| **Traits** | 검사, 돌진, 패링 |
 | :--- | :--- |
-| **Traits** | 검사<br>돌진<br>패링 |
 | **Basic** | [모노폴](#monopole) 형태로 회전하면서 빠르게 베기<br>[모노폴](#monopole) 형태로 돌진하면서 빠르게 찌르기 |
 | **Special** | [바이폴](#bipole) 형태로 캐스팅 후 돌진하면서 빠르게 베기 |
 | **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 베고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 패링 |
@@ -58,9 +57,8 @@
 
 ---
 
-| **Equipment** | [메일리키오스](#meilichios) |
+| **Traits** | 웨펀 마스터, 탄막, 저격, 패링 |
 | :--- | :--- |
-| **Traits** | 웨펀 마스터<br>탄막<br>저격<br>패링 |
 | **Basic** | [모노폴](#monopole) 형태로 지속적으로 빠르게 사격 |
 | **Special** | [바이폴](#bipole) 형태로 캐스팅 후 강하게 사격 |
 | **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 사격하고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 요격 |
@@ -69,9 +67,8 @@
 
 ---
 
-| **Equipment** | [메일리키오스](#meilichios) |
+| **Traits** | 스피드스터, 비행, 돌진, 탄막, 패링 |
 | :--- | :--- |
-| **Traits** | 스피드스터<br>비행<br>돌진<br>탄막<br>패링 |
 | **Basic** | [홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 비행하면서 찌르기 후 지나가기<br>[홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 베기 |
 | **Special** | [홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 비행하면서 사격 후 지나가기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를  지속적으로 사격 |
 | **Ultimate** | 회전 비행하면서 근거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 찌르기와 베기를 가하고 원거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 사격 후 지나가기 |

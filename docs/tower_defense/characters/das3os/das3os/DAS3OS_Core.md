@@ -16,10 +16,10 @@
 
 ---
 
-| **Position** | [보스](...) |
+| **Position** | 보스 |
 | :--- | :--- |
-| **Department** | [타워 디펜스](...) |
-| **Alias** | [...](...) |
+| **Department** | 타워 디펜스 |
+| **Alias** | 스페이스 인베이더 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
@@ -37,9 +37,8 @@
 
 ---
 
-| **Equipment** | [스텔라 피스톨](#stellar_pistol) |
+| **Traits** | 웨펀 마스터, 저격, 폭발 |
 | :--- | :--- |
-| **Traits** | 웨펀 마스터<br>저격<br>폭발 |
 | **Basic** | [스텔라 피스톨](#stellar_pistol) 1정을 들고 사격 |
 | **Special** | 양 손에 [스텔라 피스톨](#stellar_pistol) 2정을 들고 사격 |
 | **Ultimate** | ... |
@@ -48,9 +47,8 @@
 
 ---
 
-| **Equipment** | [미니건](#minigun) |
+| **Traits** | 공성, 탄막 |
 | :--- | :--- |
-| **Traits** | 공성<br>탄막 |
 | **Basic** | [미니건](#minigun)을 들고 느리게 움직이면서 사격 |
 | **Special** | ... |
 | **Ultimate** | ... |
@@ -60,9 +58,8 @@
 
 ---
 
-| **Equipment** | [슈퍼 노바](#super_nova) |
+| **Traits** | 광전사, 스피드스터 |
 | :--- | :--- |
-| **Traits** | 광전사<br>스피드스터 |
 | **Basic** | [스텔라 피스톨](#stellar_pistol)을 들고 빠르게 접근<br>[스텔라 피스톨](#stellar_pistol)을 들고 빠르게 회피 |
 | **Special** | [미니건](#minigun)을 들고 빠르게 대시 |
 | **Ultimate** | ... |

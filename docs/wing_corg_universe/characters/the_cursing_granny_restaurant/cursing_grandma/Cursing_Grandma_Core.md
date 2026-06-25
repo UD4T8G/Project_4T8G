@@ -1,4 +1,4 @@
-# Cursing grandma(욕쟁이 할머니)
+# Cursing grandma (욕쟁이 할머니)
 
 ---
 
@@ -42,9 +42,8 @@
 
 ---
 
-| **Equipment** | [국자](#ladle) |
+| **Traits** | 버퍼, 힐러, 암살자 |
 | :--- | :--- |
-| **Traits** | 버퍼<br>힐러<br>암살자 |
 | **Basic** | 밥을 젓고 국을 저어 엔트로피 가속 |
 | **Special** | [국자](#ladle)를 휘둘러 타격 |
 | **Ultimate** | 캐스팅 후 [육신](#body)으로 이동하면서 [국자](#ladle)를 휘둘러 양자 분해 |
@@ -53,9 +52,8 @@
 
 ---
 
-| **Equipment** | [가마솥](#cauldron) |
+| **Traits** | 서포터, 저격수, 핵 |
 | :--- | :--- |
-| **Traits** | 서포터<br>저격수<br>핵 |
 | **Basic** | 밥을 짓고 국을 끓여 국밥 생성 |
 | **Special** | [가마솥](#cauldron)을 집어던져 타격 |
 | **Ultimate** | [육신](#body)으로 [가마솥](#cauldron)을 찌그러트려서 블랙홀 생성 |
@@ -64,9 +62,8 @@
 
 ---
 
-| **Equipment** | [육신](#body) |
+| **Traits** | 스피드스터, 버서커, 탱커 |
 | :--- | :--- |
-| **Traits** | 스피드스터<br>버서커<br>탱커 |
 | **Basic** | 다리를 움직여 질주 |
 | **Special** | 팔을 움직여 양자 분해 |
 | **Ultimate** | 모든 기습 위치로 질주해 피해 흡수 |

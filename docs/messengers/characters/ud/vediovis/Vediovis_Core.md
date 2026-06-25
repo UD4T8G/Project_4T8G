@@ -1,4 +1,4 @@
-# (Bracchia Dextra Humi) Vediovis(베디오비스)
+# (Bracchia Dextra Humi) Vediovis (베디오비스)
 
 ---
 
@@ -10,7 +10,7 @@
 
 * [팔괘](#bagua)
   * [분열](#fission)
-    * [헬레니즘의 분열](#fission_of_helenism)
+    * [공동체의 분열](#fission_of_community)
 * [성흔안](#stigmata_eyes)
   * [몰레스](#moles)
   * [대속죄일](#atonement_day)
@@ -29,15 +29,15 @@
 | **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
-| **Alias** | [헬레니즘의 분열](#fission_of_helenism) |
-| **Gender** | 중성(베디오비스)/중성([몰레스](#moles)) |
-| **Age Group** | 청년기(신)/알 수 없음([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Alias** | [공동체의 분열](#fission_of_community) |
+| **Gender** | 중성 |
+| **Age Group** | 청년기 (신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
 
 ### Characteristics
 
 ---
 
-> *스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다.*
+> *스스로를 억압하는 무겁고 엄격한 성격의 [사자들](../../../core/messengers_core/Messengers_Core.md). 행동 하나하나에 신중을 기울이며, 한 번 결단을 내리면 파괴적으로 거침없이 밀어붙인다. 범접하기 힘든 위협적인 외형과 융통성 없는 원칙주의자의 태도를 고수하지만, 그 철가면 뒤에는 파트너의 치명적인 결함 ([상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect))을 자신의 기계 심장으로 묵묵히 짊어지고 연소시키는 맹목적인 책임감이 자리 잡고 있다. 통제 불능의 상황이 오면 주저 없이 자신을 광야에 던지는, 끔찍할 정도로 이타적인 [사자들](../../../core/messengers_core/Messengers_Core.md)이기도 하다.*
 
 ### Abilities
 
@@ -47,9 +47,8 @@
 
 ---
 
-| **Equipment** | [애퍼래터스](#apparatus) |
+| **Traits** | 격투, 광역 공격, 군중제어기, 패링 |
 | :--- | :--- |
-| **Traits** | 격투<br>광역 공격<br>군중제어기<br>패링 |
 | **Basic** | 돌진하면서 정권 지르기<br>돌진하면서 발차기 |
 | **Special** | 캐스팅 후 제자리에서 다중 타격<br>캐스팅 후 제자리에서 단일 타격 |
 | **Ultimate** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후, 낙하하여 지면을 타격하고 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
@@ -58,9 +57,8 @@
 
 ---
 
-| **Equipment** | [심판의 화살](#judgement_bolt) |
+| **Traits** | 메가크래시, 패시브, 저격, 패링 |
 | :--- | :--- |
-| **Traits** | 메가크래시<br>패시브<br>저격<br>패링 |
 | **Basic** | 전신에 [포메이션](#formation)을 발동하여 자동 공전 타격<br>심장부에서 연속 사격 |
 | **Special** | 다리에 [포메이션](#formation)을 발동하여 발차기 추가 타격<br>팔에 [포메이션](#formation)을 발동하여 정권 지르기 추가 사격 |
 | **Ultimate** | 심장부에서 일정 시간 [엑스큐션](#execution) 후 거대한 [심판의 화살](#judgement_bolt) 사격 |
@@ -70,9 +68,10 @@
 
 ---
 
-| **Equipment** | [성흔안](#stigmata_eyes) |
+> *螳螂拒轍 (당랑거철) - 사마귀가 수레를 막는다.*
+
+| **Traits** | 격투, 군중제어기, 광역 공격, 패링 |
 | :--- | :--- |
-| **Traits** | 격투<br>군중제어기<br>광역 공격<br>패링 |
 | **Basic** | 어깨의 [성흔안](#stigmata_eyes) 2세트로 전방위의 근거리 오브젝트에 다중 타격 |
 | **Special** | (안광)으로 주변 오브젝트와 투사체 잡기 |
 | **Ultimate** | (철가면)을 벗어 머리를 분리하고 [몰레스](#moles) 소환 |
@@ -113,7 +112,7 @@
   * 부활 시스템이다.
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
-#### <p id="fission_of_helenism">[헬레니즘의 분열]</p>
+#### <p id="fission_of_community">[공동체의 분열]</p>
 
 ---
 
@@ -267,7 +266,6 @@
   * [몰레스](#moles)와 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 카피톨리누스 언덕에서 발굴된 "Vejovis" 조각상이 머리와 손이 잘려져 있었다는 점을 참조한다.
   * 베디오비스의 무거운 성격은 고대 로마의 종교 의식이 매우 엄격했다는 점을 참조한다.
 * [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
-* [헬레니즘의 분열](#fission_of_helenism)은 "마카베오 항쟁"을 참조한다.
 * [몰레스](#moles)는 다음을 참조한다.
   * "Publius Ovidius Naso"의 "Metamorphōseōn librī"
     * > *Ante mare et terras et quod tegit omnia caelum <br>unus erat toto naturae vultus in orbe, <br>quem dixere chaos: rudis indigestaque moles <br>nec quicquam nisi pondus iners congestaque eodem <br>non bene iunctarum discordia semina rerum.*
