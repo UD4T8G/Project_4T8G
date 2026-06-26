@@ -30,7 +30,7 @@
 
 ---
 
-> *사라져가는 [티케](#tyche)의 마지막 파편을 자신에게 받아들인 비극적인 융합신이다. 위로는 뱀이 영을 부정하게 하고, 아래로는 사람이 육을 시험한다. 전에 부와 쾌락을 쏟아내던 [코르누코피아](#cornucopia)는 이제 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 쏟아내게 되었다.*
+> *사라져가는 [티케](#tyche)의 마지막 파편을 자신에게 받아들인 비극적인 융합신이다. 위로는 뱀신이 영을 부정하게 하고, 아래로는 여신이 육을 시험한다. 전에 부와 쾌락을 쏟아내던 [코르누코피아](#cornucopia)는 이제 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 쏟아내게 되었다.*
 
 ### Abilities
 
