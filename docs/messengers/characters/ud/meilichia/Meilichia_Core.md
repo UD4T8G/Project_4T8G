@@ -37,7 +37,7 @@
 
 ---
 
-> *규율에 얽매이지 않고 변칙적이며 가벼운 태도의 [사자들](../../../core/messengers_core/Messengers_Core.md). 공포의 상징과도 같은 연옥의 업무조차도 유희처럼 즐기는 광기를 품고 있다. 하지만 그 이면에는 [사자들](../../../core/messengers_core/Messengers_Core.md)에게 죽음과도 같은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 위험을 아슬아슬하게 피해가는 치밀함이 숨어있다. 가장 결정적인 순간, 파트너가 감당해야 할 최악의 페널티 앞에서는 평소의 가벼움을 던져버리고 기꺼이 자신의 형태가 찢겨나가는 것을 감내하는 역설적인 희생정신을 보여준다.*
+> *잊혀졌다가 강제로 부활하여 무거운 사명을 감당하게 된 [사자들](../../../core/messengers_core/Messengers_Core.md). 허구한 날 장난치는 순수한 악동이지만, 그 이면에는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 위험을 아슬아슬하게 피해가는 치밀함이 숨어있다. 다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, 동료가 감당해야 할 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 앞에서는 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
 
 ### Abilities
 

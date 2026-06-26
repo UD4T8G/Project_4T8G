@@ -30,7 +30,7 @@
 
 ---
 
-> *사라져가는 [티케](#tyche)의 마지막 파편을 자신에게 받아들인 비극적인 융합신이다. 위로는 뱀신이 영을 부정하게 하고, 아래로는 여신이 육을 시험한다. 전에 부와 쾌락을 쏟아내던 [코르누코피아](#cornucopia)는 이제 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 쏟아내게 되었다.*
+> *[다이몬](#daimon)과 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers_core/Messengers_Core.md)로서 부활했다. 사명을 수행하는 동안 엄격한 정치를 동반하여 효율을 높였으나, 그 책임은 고스란히 동료에게 넘어간다. 이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다.*
 
 ### Abilities
 
@@ -40,7 +40,7 @@
 
 ---
 
-| **Traits** | 포식, 구속, 타격 |
+| **Traits** | 타격, 구속 |
 | :--- | :--- |
 | **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 주입 |
 | **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 광역 타격 |
@@ -139,7 +139,7 @@
 
 ---
 
-* 아가토스 다이몬은 그리스-이집트의 "lesser deity (daemon)"
+* 아가토스 다이몬은 그리스-이집트의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
 * 설정적 디자인은 "National Archaeological Museum of Athens"에서 소장하고 있는 "Copper alloy statuette of the god Sarapis Amun Agathodaemon"의 "Syncretism"을 참조한다.
 * 상단의 문장은 REVELATION 3:16 을 참조한다.
   * > *οὕτως, ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου.*
