@@ -120,6 +120,7 @@
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)에 결합하는 재물과 식량을 쏟아낸다.
   * 종류에 따라 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 다른 효과로 전환된다.
   * 전환된 효과의 성능은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
+  * 재물과 식량은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 결합성을 제외하면 실질적인 가치를 지닌다.
 
 #### <p id="daimon">[다이몬]</p>
 
