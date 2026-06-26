@@ -44,7 +44,7 @@
 | :--- | :--- |
 | **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 주입 |
 | **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 광역 타격 |
-| **Ultimate** | [티케](#tyche)가 두 팔로 오브젝트를 잡고 [다이몬](#daimon)으로 휘감아 구속한 뒤 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 지속 주입 |
+| **Ultimate** | [티케](#tyche)가 오브젝트를 잡고 [다이몬](#daimon)으로 휘감아 구속한 뒤 [코르누코피아](#cornucopia)로 오브젝트 세뇌 |
 
 #### Ranged
 
@@ -108,8 +108,18 @@
 
 ---
 
+> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+
 * **Ability:**
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 효과 전환
+    * 긍정적 효과
+    * 부정적 효과
+  * 재물
+  * 식량
 * **Description:**
+  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)에 결합하는 재물과 식량을 쏟아낸다.
+  * 종류에 따라 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 다른 효과로 전환된다.
+  * 전환된 효과의 성능은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
 
 #### <p id="daimon">[다이몬]</p>
 
