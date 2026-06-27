@@ -30,14 +30,21 @@
 | :--- | :--- |
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [공동체의 분열](#fission_of_community) |
-| **Gender** | 중성 |
-| **Age Group** | 청년기 (신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Gender** | 중성 (베디오비스), 중성 ([몰레스](#moles)) |
+| **Age Group** | 청년기 (베디오비스), 중년기 ([몰레스](#moles)) |
 
 ### Characteristics
 
 ---
 
-> *새로운 모습으로 부활하여 무거운 사명을 부여받은 [사자들](../../../core/messengers_core/Messengers_Core.md). 신중한 판단과 신속한 집행은 경외심에서 비롯되었다. 뒤틀린 철가면의 이면에는 동료의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
+> *새로운 모습으로 부활하여 무거운 사명을 부여받았으며, 신중하게 판단하고 신속하게 집행한다.*
+
+> *뒤틀린 철가면의 이면에는 동료의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
+
+> *사명을 경외하지만, 동료가 드러누워 떼를 쓸 때마다 달래면서 한편으로는 인지부조화가 온다.*
+
+> *[몰레스](#moles)는 게으르지만, 똑똑하기 때문에 사명을 다한다. 안 시키면 아무것도 안 하지만, 들이받거나 물어뜯는 것 정도는 할 수 있다.*
+
 
 ### Abilities
 
@@ -270,8 +277,9 @@
   * "Publius Ovidius Naso"의 "Metamorphōseōn librī"
     * > *Ante mare et terras et quod tegit omnia caelum <br>unus erat toto naturae vultus in orbe, <br>quem dixere chaos: rudis indigestaque moles <br>nec quicquam nisi pondus iners congestaque eodem <br>non bene iunctarum discordia semina rerum.*
   * 유다 염소
-  * "Vejovis"에게 제물로 바치는 암염소
-  * "레위기"의 "Azazel"에게 속죄제물로 보내는 숫염소 또는 "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"
+  * [몰레스](#moles)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
+    * "Vejovis"에게 제물로 바치는 암염소
+    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"에게 속죄제물로 보내는 "레위기"의 숫염소
 * 베디오비스의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
   * 각 괘의 디자인은 다음 아이콘을 참조한다.
     * 건: 트리니티

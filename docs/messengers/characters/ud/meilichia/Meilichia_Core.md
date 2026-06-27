@@ -31,13 +31,19 @@
 | **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
 | **Alias** | [순교자들의 융합](#fusion_of_martyrs) |
 | **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
-| **Age Group** | 소녀기 (여신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Age Group** | 소녀기 (메일리키아), 중년기 ([메일리키오스](#meilichios)) |
 
 ### Characteristics
 
 ---
 
-> *잊혀졌다가 강제로 부활하여 무거운 사명을 감당하게 된 [사자들](../../../core/messengers_core/Messengers_Core.md). 허구한 날 장난치는 순수한 악동이지만, 그 이면에는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 위험을 아슬아슬하게 피해가는 치밀함이 숨어있다. 다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, 동료가 감당해야 할 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 앞에서는 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
+> *다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 앞에서는 동료를 위해 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
+
+> *혼자 있을 때는 나무에 기대고 [메일리키오스](#meilichios)와 잡담하면서 지내는데, 아무리 봐도 유혹당하는 것처럼 보인다.*
+
+> *각 [메일리키오스](#meilichios)는 서로 다른 자아를 지니고 있는데, 시도 때도 없이 사고 치는 건 똑같다.*
+
+> *[메일리키오스](#meilichios)를 모두 [해제](#unseal)한 메일리키아의 자아는 순수하지만, [봉인](#seal) 상태의 [메일리키오스](#meilichios)는 메일리키아의 자아와 융합되며, 그 수가 너무 많아서 실시간으로 자아가 바뀌는 미친년처럼 보인다.*
 
 ### Abilities
 
@@ -144,11 +150,16 @@
 
 * **Ability:**
   * 소환수
+  * 다형성
   * 참수
     * 근거리 형태
     * 원거리 형태
 * **Description:**
   * 메일리키아의 권속이다.
+  * 그 수가 무수히 많다.
+    * 융합하여 거대화할 수 있다.
+    * 분열하여 소형화할 수 있다.
+  * 수복하여 사역마로 사용할 수 있다.
   * 참수시켜서 머리를 무기로 사용할 수 있다.
     * 입에서 날붙이나 포신을 꺼낼 수 있다.
     * 단면에서 손잡이를 꺼낼 수 있다.
@@ -219,7 +230,7 @@
 
 * **Ability:**
   * [메일리키오스](#meilichios) 참수 시 지속적으로 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 증가
-  * [메일리키오스](#meilichios) [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 자동 감소
+  * [메일리키오스](#meilichios) 수복 시 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 자동 감소
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 비례 호전성 증가
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
 * **Description:**

@@ -24,13 +24,21 @@
 | **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
 | **Alias** | 마지막 파편 |
 | **Gender** | 인터섹스 |
-| **Age Group** | 중년기 (신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Age Group** | 중년기 ([다이몬](#daimon)), 중년기 ([티케](#tyche)) |
 
 ### Characteristics
 
 ---
 
-> *[다이몬](#daimon)과 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers_core/Messengers_Core.md)로서 부활했다. 사명을 수행하는 동안 엄격한 정치를 동반하여 효율을 높였으나, 그 책임은 고스란히 동료에게 넘어간다. 이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다.*
+> *남성성을 띄는 [다이몬](#daimon)과 여성성을 띄는 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers_core/Messengers_Core.md)로서 부활했다.*
+
+> *사명을 수행하는 동안 [다이몬](#daimon)은 엄격한 정치를 동반하여 효율을 높였으나 그 책임은 고스란히 동료에게 넘어가며, [티케](#tyche)는 이를 그닥 좋아하지 않는다.*
+
+> *이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다. 무슨 말이냐면, 재물과 식량을 주겠다면서 협박할 수 있게 됐다는 것이다. 세상 그 누가 재물과 식량을 마다하겠는가? 그걸 해낸 이 새끼가 참으로 존경스럽다.*
+
+> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 그럴 가능성이 부부싸움 밖에는 없으니까...*
+
+> *[다이몬](#daimon)은 선한 영의 속성이 거의 유지되지 않고 있지만, 정치를 동반할 때에는 한없이 너그로워지는 모습을 볼 수 있다. [티케](#tyche)는 선한 영의 속성이 나름대로 유지하고 있지만, 가끔 [다이몬](#daimon)의 목을 쥐어짜고 흔드는 모습을 볼 수 있다.*
 
 ### Abilities
 
@@ -139,7 +147,8 @@
 
 ---
 
-* 아가토스 다이몬은 그리스-이집트의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
 * 설정적 디자인은 "National Archaeological Museum of Athens"에서 소장하고 있는 "Copper alloy statuette of the god Sarapis Amun Agathodaemon"의 "Syncretism"을 참조한다.
+  * [다이몬](#daimon)은 그리스-이집트의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
+  * [티케](#tyche)는 그리스의 여신인 "Tyche"를 참조한다.
 * 상단의 문장은 REVELATION 3:16 을 참조한다.
   * > *οὕτως, ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου.*

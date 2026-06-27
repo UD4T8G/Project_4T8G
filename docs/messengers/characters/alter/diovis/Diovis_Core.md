@@ -20,13 +20,19 @@
 | **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
 | **Alias** | 크토닉 올림피우스 |
 | **Gender** | 남성 (디오비스), 여성 ([아이기스](#aegis)) |
-| **Age Group** | 중년기 (신), 알 수 없음 ([사자들](../../../core/messengers_core/Messengers_Core.md)) |
+| **Age Group** | 중년기 (디오비스), 노년기 ([아이기스](#aegis)) |
 
 ### Characteristics
 
 ---
 
-> *부활 후 모든 것을 잃어버린 [사자들](../../../core/messengers_core/Messengers_Core.md). 사명에 대해 늘 고뇌하면서도 묵묵히 수행하여 말 수가 적어졌다. 무릎 꿇은 그의 나약함이 아수라장의 힘을 불러냈으며, 잃어버린 것을 되찾기 위해서라면 할복의 고통도 마다하지 않는다.*
+> *이곳에서 모든 것을 잃어버린 [사자들](../../../core/messengers_core/Messengers_Core.md).*
+
+> *사명에 대해 늘 고뇌하면서도 묵묵히 수행하여 말 수가 적어졌다.*
+
+> *무릎 꿇은 그의 나약함이 아수라장의 힘을 불러냈으며, 잃어버린 것을 되찾기 위해서라면 할복의 고통도 마다하지 않는다.*
+
+> *[아이기스](#aegis)는 머리가 없음에도 사고할 수 있고, 눈이 없음에도 볼 수 있으며, 코가 없음에도 맡을 수 있고, 귀가 없음에도 들을 수 있다. 자아가 있지만, 평소에는 디오비스의 성격에 감화되어 고뇌한다.*
 
 ### Abilities
 
@@ -77,7 +83,7 @@
 > import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **Ability:**
-  * 절대 방어
+  * 본체 방어
   * 공허 비행
   * 본체 백업
 * **Description:**
@@ -93,11 +99,11 @@
 > import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
 
 * **Ability:**
-  * 절대 관통
+  * 방어력 관통
   * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 증폭
 * **Description:**
   * 디오비스가 쥐고 있는 공허 폭풍이다.
-  * 보라색 투창의 형태를 띠고 있으며, 적을 향해 던졌을 때 경로상의 모든 것을 꿰뚫는다.
+  * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 후방 오브젝트를 공격할 수 있다.
   * 목표 오브젝트의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
 
 ### Miscellaneous
@@ -107,6 +113,12 @@
 * 디오비스는 인도유럽조어상에서 최상위 신인 "\*Dyēus Ph₂tḗr"를 참조한다.
   * "\*Dyēus (하늘/빛)"에서 파생된 고대 라틴어 명칭은 "Diovis", 헬라어 명칭은 "Zeus"이다.
   * "Ph₂tḗr (아버지)"가 결합한 형태로는 라틴어 "Iuppiter"가 있다.
+* [아이기스](#aegis)는 고대 그리스 신화의 방어구 "Αιγίς"를 참조한다.
+  * 검수리 날개는 "Zeus"의 권속 "Aetos Dios"를 참조한다.
+* [아스트라페](#astrape)는 "Zeus"의 창 "Αστραπη"를 참조한다.
 * 상단의 문장은 4Q531 14(=22) i 4 을 참조한다.
   * > *... בגוא בני אנשא הוה ומן בני אנשא לא אלף …*
   * 사본의 훼손으로 인해 해당 문장의 화자가 불분명해짐에 따라 해석이 오만과 겸손의 극과 극으로 갈린다.
+* 설명 중 일부는 "Devil May Cry" 시리즈의 "Bury the Light"를 참조한다.
+  * 기존에는 아무 관련 없는 프로젝트였으나, "Vergil"과의 설정적 유사성으로 인해 편입되었다.
+  * > *Falling weak on my knees, summon the strength of mayhem*
