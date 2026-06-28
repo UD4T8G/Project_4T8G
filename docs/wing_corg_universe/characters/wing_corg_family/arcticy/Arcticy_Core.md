@@ -24,7 +24,7 @@
 | **Position** | 왕 (북극성), 아버지 (윙콕 가족) |
 | :--- | :--- |
 | **Department** | 윙콕 가족 |
-| **Alias** | 폐급 |
+| **Alias** | 윙콕 남편 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
@@ -70,7 +70,7 @@
 | :--- | :--- |
 | **Basic** | [무자비한 박치기](#ruthless_headbutt)로 회피 |
 | **Special** | [북극성의 방패](#shield_of_north_star)로 요새를 만들고 도주 |
-| **Ultimate** | [윙코기](../wing_corgi/Wing_Corgi_Core.md)의 [각성 스킬] 발동 후 [무자비한 박치기](#ruthless_headbutt)로 접근 |
+| **Ultimate** | 각성 스킬을 발동하여 마차 위에 올라타고 돌격하여 강화된 [무자비한 박치기](#ruthless_headbutt) 시전 |
 
 ## source
 
@@ -118,4 +118,4 @@
 
 ---
 
-* 원안에서는 대형 북극곰 인형을 참조했다.
+* 원안에서는 대형 북극곰 봉제인형을 참조했다.

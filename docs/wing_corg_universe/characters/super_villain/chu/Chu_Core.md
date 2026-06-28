@@ -116,4 +116,4 @@
 
 ---
 
-* 이 시절 언급되던 'WM'의 콘셉트는 윙콕 유니버스 완결(2020) 후 탄생한 사자들(2025) 세계관에서 [베디오비스](../../../../messengers/characters/ud/vediovis/Vediovis_Core.md)와 [메일리키아](../../../../messengers/characters/ud/meilichia/Meilichia_Core.md)의 설정으로 각색되어 계승되었다.
+* 이 시절 언급되던 'WM'의 콘셉트는 윙콕 유니버스 완결(2020) 후 탄생한 사자들(2025) 세계관에서 [베디오비스](../../../../messengers/characters/purgatorium/vediovis/Vediovis_Core.md)와 [메일리키아](../../../../messengers/characters/purgatorium/meilichia/Meilichia_Core.md)의 설정으로 각색되어 계승되었다.

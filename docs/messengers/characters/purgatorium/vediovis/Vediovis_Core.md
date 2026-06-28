@@ -12,14 +12,14 @@
   * [분열](#fission)
     * [공동체의 분열](#fission_of_community)
 * [성흔안](#stigmata_eyes)
-  * [몰레스](#moles)
-  * [대속죄일](#atonement_day)
-  * [애퍼래터스](#apparatus)
-    * [봉인](#seal)
-    * [해제](#unseal)
-  * [심판의 화살](#judgement_bolt)
-    * [포메이션](#formation)
-    * [엑스큐션](#execution)
+* [몰레스](#moles)
+* [대속죄일](#atonement_day)
+* [애퍼래터스](#apparatus)
+  * [봉인](#seal)
+  * [해제](#unseal)
+* [심판의 화살](#judgement_bolt)
+  * [포메이션](#formation)
+  * [엑스큐션](#execution)
 
 
 ## main
@@ -39,7 +39,7 @@
 
 > *새로운 모습으로 부활하여 무거운 사명을 부여받았으며, 신중하게 판단하고 신속하게 집행한다.*
 
-> *뒤틀린 철가면의 이면에는 동료의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
+> *검은 눈물을 흘리는 철가면의 이면에는 동료의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
 
 > *사명을 경외하지만, 동료가 드러누워 떼를 쓸 때마다 달래면서 한편으로는 인지부조화가 온다.*
 
