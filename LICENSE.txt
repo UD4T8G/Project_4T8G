@@ -6,7 +6,7 @@ The following MIT License applies EXCLUSIVELY to the contents of the
 "Template/" directory within this repository. 
 
 All other directories and files, including but not limited to the 
-character lore, names, and dialogues (e.g., Meilichia, Vediovis), 
+character lore, names, and dialogues (e.g., docs/, reference_arts/), 
 are the exclusive Intellectual Property of the Author and are strictly 
 ALL RIGHTS RESERVED. They may not be copied, modified, or distributed 
 without explicit written permission.

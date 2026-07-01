@@ -73,7 +73,7 @@
 | :--- | :--- |
 | **Basic** | [팔괘 방패](#bagua_shield)의 반동을 [판스 갑옷](#pan_teach_armor)의 방어력으로 상쇄하며 안전하게 전장 진입 및 이탈 |
 | **Special** | 적의 강력한 공격을 맞고 장갑이 파손되었을 때, [판스 갑옷](#pan_teach_armor)의 '자동 수복' 능력을 활성화하여 순식간에 복구 |
-| **Ultimate** | [판스 갑옷](#pan_teach_armor)으로 건국 신화 [판스](../pan_teach/Pan_Teac_Core.md)의 가죽에 깃든 영험한 기운을 방출하여, X-프로토콜 갑옷에 버금가는 내구력으로 적의 포화 한가운데서 무적에 가까운 요새화 시전 |
+| **Ultimate** | [판스 갑옷](#pan_teach_armor)으로 건국 신화 [판스](../pan_teach/Pan_Teach_Core.md)의 가죽에 깃든 영험한 기운을 방출하여, X-프로토콜 갑옷에 버금가는 내구력으로 적의 포화 한가운데서 무적에 가까운 요새화 시전 |
 
 ## source
 
@@ -125,7 +125,7 @@
   * 마법 상쇄 및 절대 방어
   * 자가 장갑 수복
 * **Description:**
-  * 판다들의 위대한 선조이자 건국 신화인 [판스](../pan_teach/Pan_Teac_Core.md)가 남긴 가죽으로 재련한 전설의 방어구다.
+  * 판다들의 위대한 선조이자 건국 신화인 [판스](../pan_teach/Pan_Teach_Core.md)가 남긴 가죽으로 재련한 전설의 방어구다.
   * 동료 간부 [판비](../pan_assist/Pan_Assist_Core.md)가 입는 갑옷과 동일한 장비이며, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜 갑옷과 대등한 세계관 최강급 내구도를 보장한다.
   * 피해를 입어도 스스로 복구되는 자동 수복 능력이 있어, 판도가 전방에서 안전하게 반사 각을 잴 수 있도록 돕는다.
 
