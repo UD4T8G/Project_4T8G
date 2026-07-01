@@ -26,9 +26,9 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | :--- | :--- |
-| **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
+| **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
 | **Alias** | [순교자들의 융합](#fusion_of_martyrs) |
 | **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
 | **Age Group** | 소녀기 (메일리키아), 중년기 ([메일리키오스](#meilichios)) |
@@ -37,7 +37,7 @@
 
 ---
 
-> *다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 앞에서는 동료를 위해 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
+> *다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 앞에서는 동료를 위해 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
 
 > *혼자 있을 때는 나무에 기대고 [메일리키오스](#meilichios)와 잡담하면서 지내는데, 아무리 봐도 유혹당하는 것처럼 보인다.*
 
@@ -91,14 +91,14 @@
 
 ---
 
-> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 은신 POV
   * 초공간도약
   * 본체 백업
 * **Description:**
-  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
   * 사람들로부터 자신을 숨기고 관찰할 수 있다.
   * 자신을 다른 좌표로 이동시킨다.
   * 자신의 모든 신체 정보를 저장한다.
@@ -107,29 +107,29 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 최소 형태를 [사태극](#sitaegeuk)으로 유지
 * **Description:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
 
 #### <p id="fusion_of_martyrs">[순교자들의 융합]</p>
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 임계 중첩 적용
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 임계 중첩 적용
   * [사태극](#sitaegeuk)을 제외한 모든 형태 융해
   * 모든 [메일리키오스](#meilichios) 융합
 * **Description:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
-  * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 받아들인다.
+  * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
+  * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
 
 #### <p id="fusion_core">[융합로]</p>
 
@@ -226,17 +226,17 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [메일리키오스](#meilichios) 참수 시 지속적으로 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 증가
-  * [메일리키오스](#meilichios) 수복 시 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 자동 감소
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 비례 호전성 증가
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
+  * [메일리키오스](#meilichios) 참수 시 지속적으로 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 증가
+  * [메일리키오스](#meilichios) 수복 시 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 자동 감소
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 호전성 증가
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
 * **Description:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량이 높아질수록 껍데기가 깎여나가며 글리치를 일으키고, 본질인 무형에 가까워진다.
-  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량이 높아질수록 껍데기가 깎여나가며 글리치를 일으키고, 본질인 무형에 가까워진다.
+  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
 
 #### <p id="body_modification">[신체 개조]</p>
 
@@ -313,6 +313,6 @@
   * "Meilichia"는 "현대 그리스어"에서 고어이다.
   * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
  * 메일리키아의 가벼운 성격은 "고대 그리스"의 "종교 의식"이 일상적이었다는 점을 참조한다.
-* 메일리키아의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
+* 메일리키아의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
 * 상단의 문장은 "LUKA 12:49"을 참조한다.
   * > *Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη.*

@@ -15,9 +15,9 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | :--- | :--- |
-| **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Alias** | 크토닉 올림피우스 |
 | **Gender** | 남성 (디오비스), 여성 ([아이기스](#aegis)) |
 | **Age Group** | 중년기 (디오비스), 노년기 ([아이기스](#aegis)) |
@@ -26,7 +26,7 @@
 
 ---
 
-> *이곳에서 모든 것을 잃어버린 [사자들](../../../core/messengers_core/Messengers_Core.md).*
+> *이곳에서 모든 것을 잃어버린 [사자들](../../../core/messengers/Messengers_Core.md).*
 
 > *사명에 대해 늘 고뇌하면서도 묵묵히 수행하여 말 수가 적어졌다.*
 
@@ -80,14 +80,14 @@
 
 ---
 
-> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 본체 방어
   * 공허 비행
   * 본체 백업
 * **Description:**
-  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
   * 디오비스의 권속이자 아에토스 디오스의 날개가 장착되어 있는 방패다.
   * 등에서 분리하고 접어 방패로 사용할 수 있다.
   * 등에 결합하고 펼쳐 공허 사이를 비행할 수 있다.
@@ -96,15 +96,15 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 방어력 관통
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 증폭
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 증폭
 * **Description:**
   * 디오비스가 쥐고 있는 공허 폭풍이다.
   * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 후방 오브젝트를 공격할 수 있다.
-  * 목표 오브젝트의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
+  * 목표 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
 
 ### Miscellaneous
 

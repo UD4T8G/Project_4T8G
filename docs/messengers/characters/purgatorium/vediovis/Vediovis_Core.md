@@ -26,9 +26,9 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | :--- | :--- |
-| **Department** | [연옥](../../../core/messengers_core/Messengers_Core.md#purgatorium) |
+| **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
 | **Alias** | [공동체의 분열](#fission_of_community) |
 | **Gender** | 중성 (베디오비스), 중성 ([몰레스](#moles)) |
 | **Age Group** | 청년기 (베디오비스), 중년기 ([몰레스](#moles)) |
@@ -39,7 +39,7 @@
 
 > *새로운 모습으로 부활하여 무거운 사명을 부여받았으며, 신중하게 판단하고 신속하게 집행한다.*
 
-> *검은 눈물을 흘리는 철가면의 이면에는 동료의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
+> *검은 눈물을 흘리는 철가면의 이면에는 동료의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
 
 > *사명을 경외하지만, 동료가 드러누워 떼를 쓸 때마다 달래면서 한편으로는 인지부조화가 온다.*
 
@@ -95,14 +95,14 @@
 
 ---
 
-> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 은신 POV
   * 포털
   * 본체 백업
 * **Description:**
-  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
   * 사람들로부터 자신을 숨기고 관찰할 수 있다.
   * 자신과 주변의 오브젝트들을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
   * 자신의 모든 신체 정보를 저장한다.
@@ -111,30 +111,30 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
 * **Description:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
 #### <p id="fission_of_community">[공동체의 분열]</p>
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩 연산
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩 연산
   * [팔괘](#bagua)를 제외한 모든 형태 분열
   * 분열된 형태 [몰레스](#moles)로 흡수 
 * **Description:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 받아들인다.
-  * [몰레스](#moles)의 능력치는 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 받아들인다.
+  * [몰레스](#moles)의 능력치는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
+  * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
+  * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
   * 지속시간 동안 [분열](#fission)을 사용할 수 없다.
 
 #### <p id="stigmata_eyes">[성흔안]</p>
@@ -158,18 +158,18 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 소환수
   * [성흔안](#stigmata_eyes) 기동
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 흡수
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 정화
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 흡수
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 정화
 * **Description:**
   * 베디오비스의 권속이다.
   * [성흔안](#stigmata_eyes)으로 구성되어 있다.
-    * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 흡수한다.
-    * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 정화한다.
+    * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 흡수한다.
+    * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 정화한다.
   * [봉인](#seal) 시 베디오비스의 머리로 작동한다.
   * [해제](#unseal) 시 독립적인 소환수로 작동한다.
 
@@ -177,17 +177,17 @@
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 이전
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 회복
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 이전
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 회복
 * **Description:**
-  * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 제어한다.
-    * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
-    * 전신에 두른 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
-  * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
-    * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
+  * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 제어한다.
+    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
+    * 전신에 두른 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
+  * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
+    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
 
 #### <p id="apparatus">[애퍼래터스]</p>
 
@@ -279,8 +279,8 @@
   * "유다 염소"
   * [몰레스](#moles)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
     * "Vejovis"에게 제물로 바치는 "암염소"
-    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"
-* 베디오비스의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
+    * "에녹 1서"의 타락한 [사자들](../../../core/messengers/Messengers_Core.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"
+* 베디오비스의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
   * 각 괘의 디자인은 다음 아이콘을 참조한다.
     * "건": "트리니티"
     * "태": "익투스"

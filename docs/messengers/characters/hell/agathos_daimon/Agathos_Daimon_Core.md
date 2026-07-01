@@ -19,9 +19,9 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers_core/Messengers_Core.md) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | :--- | :--- |
-| **Department** | [지옥](../../../core/messengers_core/Messengers_Core.md#hell) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Alias** | 마지막 파편 |
 | **Gender** | 인터섹스 |
 | **Age Group** | 중년기 ([다이몬](#daimon)), 중년기 ([티케](#tyche)) |
@@ -30,7 +30,7 @@
 
 ---
 
-> *남성성을 띄는 [다이몬](#daimon)과 여성성을 띄는 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers_core/Messengers_Core.md)로서 부활했다.*
+> *남성성을 띄는 [다이몬](#daimon)과 여성성을 띄는 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers/Messengers_Core.md)로서 부활했다.*
 
 > *사명을 수행하는 동안 [다이몬](#daimon)은 엄격한 정치를 동반하여 효율을 높였으나 그 책임은 고스란히 동료에게 넘어가며, [티케](#tyche)는 이를 그닥 좋아하지 않는다.*
 
@@ -50,7 +50,7 @@
 
 | **Traits** | 타격, 구속 |
 | :--- | :--- |
-| **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 주입 |
+| **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 주입 |
 | **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 광역 타격 |
 | **Ultimate** | [티케](#tyche)가 오브젝트를 잡고 [다이몬](#daimon)으로 휘감아 구속한 뒤 [코르누코피아](#cornucopia)로 오브젝트 세뇌 |
 
@@ -60,9 +60,9 @@
 
 | **Traits** | 탄막, 광역 장판 |
 | :--- | :--- |
-| **Basic** | [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 산탄 사격 |
-| **Special** | 전장 전체를 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)으로 오염 |
-| **Ultimate** | [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전방위 투척 |
+| **Basic** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 산탄 사격 |
+| **Special** | 전장 전체를 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)으로 오염 |
+| **Ultimate** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전방위 투척 |
 
 #### Distance Control
 
@@ -97,7 +97,7 @@
 
 ---
 
-> import [날개](../../../core/messengers_core/Messengers_Core.md#wings) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 > import [코르누코피아](#cornucopia) from 아가토스 다이몬
 
@@ -105,42 +105,42 @@
   * 본체 백업
   * [코르누코피아](#cornucopia) 동작
 * **Description:**
-  * [사자들](../../../core/messengers_core/Messengers_Core.md)의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)이다.
+  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
   * 아가토스 다이몬의 권속이다.
   * [다이몬](#daimon)의 꼬리와 연결되어 있다.
   * [코르누코피아](#cornucopia)를 들고 있다.
-  * 독립적인 [사자들](../../../core/messengers_core/Messengers_Core.md)로 작동하지만, 사출할 수 없다.
+  * 독립적인 [사자들](../../../core/messengers/Messengers_Core.md)로 작동하지만, 사출할 수 없다.
 
  
 #### <p id="cornucopia">[코르누코피아]</p>
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 효과 전환
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 효과 전환
     * 긍정적 효과
     * 부정적 효과
   * 재물
   * 식량
 * **Description:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)에 결합하는 재물과 식량을 쏟아낸다.
-  * 종류에 따라 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 다른 효과로 전환된다.
-  * 전환된 효과의 성능은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
-  * 재물과 식량은 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 결합성을 제외하면 실질적인 가치를 지닌다.
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)에 결합하는 재물과 식량을 쏟아낸다.
+  * 종류에 따라 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 다른 효과로 전환된다.
+  * 전환된 효과의 성능은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
+  * 재물과 식량은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 결합성을 제외하면 실질적인 가치를 지닌다.
 
 #### <p id="daimon">[다이몬]</p>
 
 ---
 
-> import [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers_core/Messengers_Core.md)
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect) 사출
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 사출
   * 지역 오염
 * **Description:**
-  * 뱀의 아가리에서 독한 [상태이상](../../../core/messengers_core/Messengers_Core.md#status_effect)이 흘러나온다.
+  * 뱀의 아가리에서 독한 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 흘러나온다.
   * 지면에 쏟아져도 사라지지 않는다.
 
 ### Miscellaneous

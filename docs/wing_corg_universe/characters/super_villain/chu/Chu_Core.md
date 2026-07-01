@@ -116,7 +116,7 @@
 
 ---
 
-* 원안에서는 "윙콕 유니버스" 완결 (2020) 후 탄생한 "사자들" (2025) 세계관의 초기 이니셜로 "W-B"를 사용했다.
+* 원안에서는 "윙콕 유니버스" 완결 (2020) 후 탄생한 [사자들](../../../../messengers/core/messengers/Messengers_Core.md) (2025) 세계관의 초기 이니셜로 "W-B"를 사용했다.
   * 개발 초기 [베디오비스](../../../../messengers/characters/purgatorium/vediovis/Vediovis_Core.md)와 [메일리키아](../../../../messengers/characters/purgatorium/meilichia/Meilichia_Core.md)는 하나였고, 초기 이니셜은 해당 캐릭터를 의미했다.
-  * 설정이 변경되면서 "사자들"은 더 이상 초기 이니셜을 사용하지 않게 됐다.
-  * "윙콕 유니버스"에서 죽으면 "사자들"에게 간다는 크로스오버 설정은 성립 가능하다.
+  * 설정이 변경되면서 [사자들](../../../../messengers/core/messengers/Messengers_Core.md)은 더 이상 초기 이니셜을 사용하지 않게 됐다.
+  * "윙콕 유니버스"에서 죽으면 [사자들](../../../../messengers/core/messengers/Messengers_Core.md)에게 간다는 크로스오버 설정은 성립 가능하다.
