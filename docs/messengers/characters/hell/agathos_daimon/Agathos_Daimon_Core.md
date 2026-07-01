@@ -148,7 +148,7 @@
 ---
 
 * 설정적 디자인은 "National Archaeological Museum of Athens"에서 소장하고 있는 "Copper alloy statuette of the god Sarapis Amun Agathodaemon"의 "Syncretism"을 참조한다.
-  * [다이몬](#daimon)은 그리스-이집트의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
-  * [티케](#tyche)는 그리스의 여신인 "Tyche"를 참조한다.
-* 상단의 문장은 REVELATION 3:16 을 참조한다.
+  * [다이몬](#daimon)은 "그리스-이집트"의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
+  * [티케](#tyche)는 "그리스"의 "여신"인 "Tyche"를 참조한다.
+* 상단의 문장은 "REVELATION 3:16"을 참조한다.
   * > *οὕτως, ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου.*

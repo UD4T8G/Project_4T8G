@@ -267,52 +267,52 @@
 
 ---
 
-* [메일리키오스](#meilichios)와 메일리키아의 융합성은 역사적 다형성을 참조한다.
+* [메일리키오스](#meilichios)와 메일리키아의 융합성은 "역사적 다형성"을 참조한다.
   * "Meilichios" 계열
-    * 아테네: Zeus Meilichios
-    * 낙소스: Dionysos Meilichios
-    * 에피루스: Zeus Meilichios
-    * 테게아: Zeus Meilichios
-    * 밀레투스: Zeus Meilichios
-    * 아모르고스: Zeus Meilichios
-    * 로도스: Zeus Meilichios
-    * 시키온: Zeus Meilichios
-    * 아르고스: Zeus Meilichios
-    * 크레타 하니아: Zeus Meilichios
-    * 레바데아: Zeus Meilichios
-    * 올림피아: Zeus Meilichios
-    * 케오스: Zeus Meilichios
-    * 키프로스: Zeus Meilichios
-    * 체로네아: Zeus Meilichios
-    * 파티카파움: Zeus Meilichios
-    * 델포이: Zeus Meilichios
-    * 메가라: Zeus Meilichios
-    * 에레트리아: Zeus Meilichios
-    * 테스피아이: Zeus Meilichios
-    * 만티네아: Zeus Meilichios
-    * 타렌툼: Zeus Meilichios
-    * 록리: Zeus Meilichios
-    * 시라쿠사: Zeus Meilichios
-    * 페라이: Zeus Meilichios
-    * 라리사: Zeus Meilichios
-    * 타소스: Zeus Meilichios
-    * 칼키스: Zeus Meilichios
-    * 히메라: Melichios
-    * 로마 수도: Jupiter Meilichius
-    * 폼페이: Jupiter Meilichius
-    * 오스티아: Jupiter Meilichius
+    * "아테네": "Zeus Meilichios"
+    * "낙소스": "Dionysos Meilichios"
+    * "에피루스": "Zeus Meilichios"
+    * "테게아": "Zeus Meilichios"
+    * "밀레투스": "Zeus Meilichios"
+    * "아모르고스": "Zeus Meilichios"
+    * "로도스": "Zeus Meilichios"
+    * "시키온": "Zeus Meilichios"
+    * "아르고스": "Zeus Meilichios"
+    * "크레타 하니아": "Zeus Meilichios"
+    * "레바데아": "Zeus Meilichios"
+    * "올림피아": "Zeus Meilichios"
+    * "케오스": "Zeus Meilichios"
+    * "키프로스": "Zeus Meilichios"
+    * "체로네아": "Zeus Meilichios"
+    * "파티카파움": "Zeus Meilichios"
+    * "델포이": "Zeus Meilichios"
+    * "메가라": "Zeus Meilichios"
+    * "에레트리아": "Zeus Meilichios"
+    * "테스피아이": "Zeus Meilichios"
+    * "만티네아": "Zeus Meilichios"
+    * "타렌툼": "Zeus Meilichios"
+    * "록리": "Zeus Meilichios"
+    * "시라쿠사": "Zeus Meilichios"
+    * "페라이": "Zeus Meilichios"
+    * "라리사": "Zeus Meilichios"
+    * "타소스": "Zeus Meilichios"
+    * "칼키스": "Zeus Meilichios"
+    * "히메라": "Melichios"
+    * "로마 수도": "Jupiter Meilichius"
+    * "폼페이": "Jupiter Meilichius"
+    * "오스티아": "Jupiter Meilichius"
   * "Meilichia" 계열
-    * 메타폰툼: Aphrodite Meilichia
-    * 테살리아: Mater Meilichia
+    * "메타폰툼": "Aphrodite Meilichia"
+    * "테살리아": "Mater Meilichia"
   * 중립 계열
-    * 셀리눈테: Meilichioi, Dios Meilichios
-    * 키레네: Meilichioi, Meilichioi Theoi
-    * 포이티아: Meilichioi
-    * 파로스: Meilichioi
-  * 고대 그리스에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"의 일환이다.
-  * "Meilichia"는 현대 그리스어에서 고어이다.
+    * "셀리눈테": "Meilichioi", "Dios Meilichios"
+    * "키레네": "Meilichioi", "Meilichioi Theoi"
+    * "포이티아": "Meilichioi"
+    * "파로스": "Meilichioi"
+  * "고대 그리스"에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"의 일환이다.
+  * "Meilichia"는 "현대 그리스어"에서 고어이다.
   * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
- * 메일리키아의 가벼운 성격은 고대 그리스의 종교 의식이 일상적이었다는 점을 참조한다.
+ * 메일리키아의 가벼운 성격은 "고대 그리스"의 "종교 의식"이 일상적이었다는 점을 참조한다.
 * 메일리키아의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
-* 상단의 문장은 LUKA 12:49 을 참조한다.
+* 상단의 문장은 "LUKA 12:49"을 참조한다.
   * > *Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη.*

@@ -2,11 +2,11 @@
 
 ---
 
-> "[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)씨?"
+> *[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)씨?*
 
-> "[라카이](../../wing_corg_family/lackey/Lackey_Core.md)씨?"
+> *[라카이](../../wing_corg_family/lackey/Lackey_Core.md)씨?*
 
-> "엄청난 일이 일어났습니다."
+> *엄청난 일이 일어났습니다.*
 
 ## header
 

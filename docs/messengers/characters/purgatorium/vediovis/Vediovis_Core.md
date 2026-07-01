@@ -268,28 +268,28 @@
 
 ---
 
-* 베디오비스는 아실룸의 신 "Vejovis"를 참조한다.
-  * [심판의 화살](#judgement_bolt)의 특징은 "Vejovis"가 화살 다발을 들고 있었다는 점을 참조한다.
-  * [몰레스](#moles)와 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 카피톨리누스 언덕에서 발굴된 "Vejovis" 조각상이 머리와 손이 잘려져 있었다는 점을 참조한다.
-  * 베디오비스의 무거운 성격은 고대 로마의 종교 의식이 매우 엄격했다는 점을 참조한다.
+* 베디오비스는 "아실룸"의 신 "Vejovis"를 참조한다.
+  * [심판의 화살](#judgement_bolt)의 특징은 "Vejovis"가 "화살 다발"을 들고 있었다는 점을 참조한다.
+  * [몰레스](#moles)와 [성흔안](#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 "카피톨리누스 언덕"에서 발굴된 "Vejovis" 조각상이 머리와 손이 잘려져 있었다는 점을 참조한다.
+  * 베디오비스의 무거운 성격은 "고대 로마"의 "종교 의식"이 매우 엄격했다는 점을 참조한다.
 * [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
 * [몰레스](#moles)는 다음을 참조한다.
   * "Publius Ovidius Naso"의 "Metamorphōseōn librī"
     * > *Ante mare et terras et quod tegit omnia caelum <br>unus erat toto naturae vultus in orbe, <br>quem dixere chaos: rudis indigestaque moles <br>nec quicquam nisi pondus iners congestaque eodem <br>non bene iunctarum discordia semina rerum.*
-  * 유다 염소
+  * "유다 염소"
   * [몰레스](#moles)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
-    * "Vejovis"에게 제물로 바치는 암염소
-    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"에게 속죄제물로 보내는 "레위기"의 숫염소
+    * "Vejovis"에게 제물로 바치는 "암염소"
+    * "에녹 1서"의 타락한 [사자들](../../../core/messengers_core/Messengers_Core.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"
 * 베디오비스의 [날개](../../../core/messengers_core/Messengers_Core.md#wings)에 해당하는 [팔괘](#bagua)의 배치는 "복희 팔괘"를 참조한다.
   * 각 괘의 디자인은 다음 아이콘을 참조한다.
-    * 건: 트리니티
-    * 태: 익투스
-    * 리: 불
-    * 진: 만
-    * 손: 태풍
-    * 감: 물
-    * 간: 빗장
-    * 곤: 육각성
-* 상단의 문장은 4Q530 2 ii 2 을 참조한다.
+    * "건": "트리니티"
+    * "태": "익투스"
+    * "리": "불"
+    * "진": "만"
+    * "손": "태풍"
+    * "감": "물"
+    * "간": "빗장"
+    * "곤": "육각성"
+* 상단의 문장은 "4Q530 2 ii 2"을 참조한다.
   * > *… וכען שרו … וצלו …*
-  * 에녹의 타블렛이 심판의 확정을 선언하고 있음에도 불구하고, 해당 문장은 신약성서 이전의 초기 회개 개념을 보유하고 있다.
+  * "에녹의 타블렛"이 "심판의 확정"을 선언하고 있음에도 불구하고, 해당 문장은 "신약성서 이전"의 "초기 회개 개념"을 보유하고 있다.

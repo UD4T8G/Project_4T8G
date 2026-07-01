@@ -2,7 +2,7 @@
 
 ---
 
-> "내 유산을 따르라!"
+> *내 유산을 따르라!*
 
 ## header
 
@@ -137,7 +137,7 @@
   * 자가 장갑 수복
 * **Description:**
   * "판다는 죽어서 가죽을 남긴다"는 신화의 실체이자 유산이다.
-  * 훗날 [판비](../pan_assist/Pan_Assist_Core.md)와 [판도](../pan_tao/Pan_Tao_Core.md)가 입는 '판스 갑옷'의 오리지널 재질이며, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜 갑옷의 마법을 상쇄할 정도의 절대적 방어력과 복원력을 지녔다.
+  * 훗날 [판비](../pan_assist/Pan_Assist_Core.md)와 [판도](../pan_tao/Pan_Tao_Core.md)가 입는 "판스 갑옷"의 오리지널 재질이며, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜 갑옷의 마법을 상쇄할 정도의 절대적 방어력과 복원력을 지녔다.
 
 ### Miscellaneous
 
