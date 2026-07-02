@@ -67,7 +67,7 @@
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(냠냠)* "메에~."
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저 던지기)* "**뭐야 시발**, 너 어떻게 들어왔어!?"
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** (불쑥) "[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)가 [연옥](#purgatorium)에서 못 나간다고 했지, 우리는 못 나간다는 소리 없었잖아?"
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "그리고 우리가 [지옥](#hell)에서 못 나간다는 소리도 한 적 없단다, 아가야\~!"
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "그리고 우리가 [지옥](#hell)에서 못 나간다는 소리도 한 적 없단다, 아가야~!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *(냠냠)* "어머, 손님들이 많이 찾아왔네요? 더 많은 행운이 필요하겠어요!"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목 잡기)* "아오... 뭐가 뭔지 하나도 모르겠네..."
 * > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(볼 비비기)*
