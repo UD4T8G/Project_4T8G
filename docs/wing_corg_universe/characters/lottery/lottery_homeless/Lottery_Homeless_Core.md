@@ -1,9 +1,6 @@
-# Lottery Homeless (복권 거지)
+# lottery_homeless
+
 ---
-
-> *보옥권 복권 복궈어어언\~!*
-
-> *(방송국 난입) 속보입니다! 오늘 복권을 사면 50% 할인!!!*
 
 ## header
 
@@ -15,62 +12,67 @@
 
 ---
 
-| **Position** | 이사 |
+> *보옥권 복권 복궈어어언\~!*
+
+> *(방송국 난입) 속보입니다! 오늘 복권을 사면 50% 할인!!!*
+
+| **Name** | 복권 거지 |
 | :--- | :--- |
+| **Alias** | 거지 형제 |
+| **Position** | 이사 |
 | **Department** | 길거리 |
-| **Alias** | 복권 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
 > *찢어지게 가난했으나 복권을 판매해 자수성가한 거지 형제. 파격적인 할인 이벤트와 매력적인 광고 센스 덕분에 인기스타가 된다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="lottery">[복권]</p>
+#### lottery
 
 ---
 
@@ -79,7 +81,7 @@
 * **Description:**
   * 복권 거지의 사업.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

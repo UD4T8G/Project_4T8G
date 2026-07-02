@@ -1,4 +1,15 @@
-# Pan Corgi (판코기)
+# pan_corgi
+
+---
+
+## header
+
+---
+
+* [null](#null)
+* [null](#null)
+
+## main
 
 ---
 
@@ -6,97 +17,86 @@
 
 > *판다도 아니고 코기도 아닙니다. 판코기는 판코기로서 존중해 주시죠.*
 
-## header
-
----
-
-* [...](#...)
-* [...](#...)
-
-
-## main
-
----
-
-| **Position** | 연구원 |
+| **Name** | 판코기 |
 | :--- | :--- |
-| **Department** | 산골짜기 |
 | **Alias** | 판다 아니면 코기 |
+| **Position** | 연구원 |
+| **Department** | 산골짜기 |
 | **Gender** | 남성, 여성 |
 | **Age Group** | 소년기, 소녀기 |
 
-### Characteristics
+### characteristics
 
 ---
 
 > *액체 판다가 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 흘러들어간 후 짝짓기하여 태어난 혼혈 종족. 놀라운 지능을 보유하고 있다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](#...) from [...](#...)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

@@ -1,8 +1,6 @@
-# Messengers (사자들)
+# messengers
 
 ---
-
-> *천사나 악마라 불리는 존재들*
 
 ## header
 
@@ -21,7 +19,10 @@
 
 ---
 
-### 근무 시간
+> ***사자들**, 천사나 악마라 불리는 존재.*
+
+### work_hours
+
 ---
 
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
@@ -37,7 +38,7 @@
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "사람들? 그냥 네가 포털 써서 한 방에 **쾅!** 옮겨버리면 안 돼?"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "가뜩이나 험악하게 생겨먹어서 서러운데 칠흑같은 포털 보여주면 퍽이나 안심하겠다!"
 
-### 쉬는 시간
+### break_time
 
 ---
 
@@ -47,7 +48,7 @@
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(원심분리기 빙글빙글)* "메에?"
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "**우워어억!!! 자... 잠깐마아안!!!**"
 
-### 퇴근하고 싶다
+### leaving_time
 
 ---
 
@@ -56,7 +57,7 @@
 * > **(천국 가는 사람):** "닥쳐, 너네 돈으로 마시던가 해!" *(웃음)* "농담이고, 다음에 같이 카페나 가자고!"
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [연옥](#purgatorium)에서 못 나간다.*
 
-### 식사 시간
+### mealtime
 
 ---
 
@@ -73,11 +74,11 @@
 
 ## source
 
-### Equipment
+### equipment
 
 ---
 
-#### <p id="wings">[날개]</p>
+#### wings
 
 ---
 
@@ -89,7 +90,7 @@
 * 외부 동력원으로 사용할 수 있다.
 * 개인의 장비 외 능력을 구현할 수 있다.
 
-#### <p id="status_effect">[상태이상]</p>
+#### status_effect
 
 ---
 
@@ -99,11 +100,11 @@
 * 사자들이 정상적이지 않은 경우를 포함한다.
 * 사자들을 정상적이지 않게 만드는 오브젝트를 포함한다.
 
-### Discipline
+### discipline
 
 ---
 
-#### <p id="redemption">[속죄]</p>
+#### redemption
 
 ---
 
@@ -111,7 +112,7 @@
 * 아나피엘의 불채찍 60대
 * 네하르 디누르에서의 정화
 
-#### <p id="detention">[유폐]</p>
+#### detention
 
 ---
 
@@ -119,7 +120,7 @@
 * 수명 부여
 * 생매장
 
-#### <p id="judgement">[심판]</p>
+#### judgement
 
 ---
 
@@ -127,15 +128,15 @@
 * 자아 거세
 * 악령화
 
-### Departments
+### departments
 
 ---
 
-#### <p id="purgatorium">[연옥]</p>
+#### purgatorium
 
 ---
 
-##### Characteristics
+##### characteristics
 
 ---
 
@@ -147,7 +148,7 @@
   * 가까운 징계에 불안해한다.
 * 사람들을 예비시켜 천국으로 보낸다.
 
-##### Abilities
+##### abilities
 
 ---
 
@@ -155,11 +156,11 @@
   * 모두를 정화하는 불의 강이다.
   * 사자들이 소멸하고 탄생한다.
 
-#### <p id="hell">[지옥]</p>
+#### hell
 
 ---
 
-##### Characteristics
+##### characteristics
 
 ---
 
@@ -168,7 +169,7 @@
 * 음부강하 이후로 사자들이 체념하게 되었다.
 * 이전에도 이후로도 영원한 징계가 존재한다.
 
-##### Abilities
+##### abilities
 
 ---
 
@@ -176,11 +177,11 @@
 * 게힌놈은 영원하고 절대적인 고통을 가하는 곳이다.
 * 무저갱은 존재 자체를 부정하는 곳이다.
 
-#### <p id="heaven">[천국]</p>
+#### heaven
 
 ---
 
-##### Characteristics
+##### characteristics
 
 ---
 
@@ -190,16 +191,16 @@
 * 그 어떤 사자들도 알 수 없는 비밀이 있다.
 * 사람들을 사자들과도 같은 존재로 격상시킨다.
 
-##### Abilities
+##### abilities
 
 ---
 
 * **경고:** 창작물 내부에서 간접적으로 언급은 가능하지만, 오감적 자료를 통해 직접적으로 묘사하는 것은 불가능합니다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
 * [상태이상](#status_effect)은 "MATTHEW 10:28"을 참조한다.
   * > *καὶ μὴ [ φοβεῖσθε / φοβηθῆτε ] ἀπὸ τῶν [ ἀποκτεννόντων / ἀποκτεινόντων / ἀποκτενόντων ] τὸ σῶμα, τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι· [ φοβεῖσθε / φοβήθητε ] δὲ μᾶλλον τὸν δυνάμενον [ καὶ ψυχὴν καὶ σῶμα / καὶ τὴν ψυχὴν καὶ τὸ σῶμα ] ἀπολέσαι ἐν γεέννῃ.*
-* *커피는 싸고, 데스스토커 독은 비싸다.*
+* 커피는 싸고, 데스스토커 독은 비싸다는 점을 [쉬는 시간](#break_time)에서 참조한다.

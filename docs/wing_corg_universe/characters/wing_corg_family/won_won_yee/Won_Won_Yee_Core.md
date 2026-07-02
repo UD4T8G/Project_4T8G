@@ -1,10 +1,6 @@
-# Won Won Yee (원원이)
+# won_won_yee
 
 ---
-
-> *누군데요? 몰라요!*
-
-> *두더지 뿅!*
 
 ## header
 
@@ -18,14 +14,19 @@
 
 ---
 
-| **Position** | 주례 (북극성), 애완동물 (윙콕 가족), 수호자 ([흑마법서](#black_magic_book)) |
+> *누군데요? 몰라요!*
+
+> *두더지 뿅!*
+
+| **Name** | 원원이 |
 | :--- | :--- |
-| **Department** | 윙콕 가족 |
 | **Alias** | [두더지 뿅](#whack_a_mole) |
+| **Position** | 주례 (북극성), 애완동물 (윙콕 가족), 수호자 ([흑마법서](#black_magic_book)) |
+| **Department** | 윙콕 가족 |
 | **Gender** | 남성 |
 | **Age Group** | 소년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -35,11 +36,11 @@
 
 > *최근에는 [흑마법서](#black_magic_book)를 지키는 수호자가 되었으나, 잠을 자다가 라카이에게 책을 털리는 직무유기를 저질렀다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -49,7 +50,7 @@
 | **Special** | 캐스팅 후 [두더지 뿅](#whack_a_mole)으로 지면을 강타해 충격파 발생 |
 | **Ultimate** | 전방위 오브젝트를 [두더지 뿅](#whack_a_mole)으로 무한 순환 난타 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -59,7 +60,7 @@
 | **Special** | [내레이션](#narration)으로 중계하여 도발 |
 | **Ultimate** | 캐스팅 후 [두더지 뿅](#whack_a_mole)을 아래로 던지면 튕겨 오르면서 지속적으로 충격파 발생 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -73,11 +74,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="whack_a_mole">[두더지 뿅]</p>
+#### whack_a_mole
 
 ---
 
@@ -88,7 +89,7 @@
   * 원원이의 트레이드마크와도 같은 뿅망치다.
   * 적의 머리를 내리쳐 기절시킬 수 있다.
 
-#### <p id="black_magic_book">[흑마법서]</p>
+#### black_magic_book
 
 ---
 
@@ -99,7 +100,7 @@
   * 수호하면 능력치가 상승한다.
   * 수면 시 보안이 무력화된다.
 
-#### <p id="narration">[내레이션]</p>
+#### narration
 
 ---
 
@@ -110,7 +111,7 @@
   * 틈만 나면 꼽사리를 껴서 분위기를 망치거나 허위 가십을 중계한다.
   * 공격당하거지 않고 일정 시간이 지나면 다음 중계를 위해 순간이동 할 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

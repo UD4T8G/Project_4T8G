@@ -1,12 +1,6 @@
-# Arcticy (북극이)
+# arcticy
 
 ---
-
-> *귀찮아... 그게 뭔데?*
-
-> *북! 극! 이! 힘듭니다!*
-
-> *시바! 휘바!*
 
 ## header
 
@@ -16,19 +10,25 @@
 * [가장의 뱃살](#belly_of_father)
 * [무자비한 박치기](#ruthless_headbutt)
 
-
 ## main
 
 ---
 
-| **Position** | 왕 (북극성), 아버지 (윙콕 가족) |
+> *그게 뭔데? 귀찮아...*
+
+> *북! 극! 이! 힘듭니다!*
+
+> *시바! 휘바!*
+
+| **Name** | 북극이 |
 | :--- | :--- |
-| **Department** | 윙콕 가족 |
 | **Alias** | 윙콕 남편 |
+| **Position** | 왕 (북극성), 아버지 (윙콕 가족) |
+| **Department** | 윙콕 가족 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -38,11 +38,11 @@
 
 > *딸 [시바](../shibal/Shibal_Core.md) 앞에서는 사족을 못 쓰는 '딸 바보'이며, 아들 [플라나리아](../planaria/Planaria_Core.md)에게는 매일 혹독하게 굴려지는 '폐급 훈련병' 신세지만, 가족이 위기에 처했을 때만큼은 그 누구보다 든든하게 앞장서는 가정의 방패다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -52,7 +52,7 @@
 | **Special** | 채널링 상태에 진입해 [가장의 뱃살](#belly_of_father)을 튕겨 근접 공격 저항 및 패링 |
 | **Ultimate** | [북극성의 방패](#shield_of_north_star)를 활성화하여 버티기 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -62,7 +62,7 @@
 | **Special** | 전방에 초대형 [북극성의 방패](#shield_of_north_star) 설치 후 전진시켜 넉백 |
 | **Ultimate** | X-프로토콜로 아군 위치에 전방위 [북극성의 방패](#shield_of_north_star) 전개 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -76,11 +76,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="shield_of_north_star">[북극성의 방패]</p>
+#### shield_of_north_star
 
 ---
 
@@ -92,7 +92,7 @@
   * 집안에서 [윙코기](../wing_corgi/Wing_Corgi_Core.md)가 던지는 물건이나 잔소리를 방어하는 생계형 무기로 사용할 수 있다.
   * [윙코기](../wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜과 연계하여 공중에 떠다니는 자동 보호막으로 사용할 수 있다.
  
-#### <p id="belly_of_father">[가장의 뱃살]</p>
+#### belly_of_father
 
 ---
 
@@ -103,7 +103,7 @@
   * 남부 세계로 내려와 평화롭게 살면서 얻은 영광의 흔적이다.
   * 웬만한 타격을 다 튕겨내는 훌륭한 에어백 역할을 한다.
 
-#### <p id="ruthless_headbutt">[무자비한 박치기]</p>
+#### ruthless_headbutt
 
 ---
 
@@ -114,7 +114,7 @@
   * 빠르게 돌격하여 무겁게 박을 수 있다.
   * [각성 스킬]을 시전할 때 마차 위에 올라타 가속을 받을 경우 성벽도 무너뜨릴 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

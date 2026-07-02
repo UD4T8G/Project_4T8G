@@ -1,100 +1,100 @@
-# ...
+# null
 
 ---
-
-> *...*
 
 ## header
 
 ---
 
-* [...](#...)
-* [...](#...)
-
+* [null](#null)
+* [null](#null)
 
 ## main
 
 ---
 
-| **Position** | [...](#...) |
+> *null*
+
+| **Name** | null |
 | :--- | :--- |
-| **Department** | [...](#...) |
-| **Alias** | [...](#...) |
-| **Gender** | ... |
-| **Age Group** | ... |
+| **Alias** | null |
+| **Position** | null |
+| **Department** | null |
+| **Gender** | null |
+| **Age Group** | null |
 
-### Characteristics
-
----
-
-> *...*
-
-### Abilities
+### characteristics
 
 ---
 
-#### Melee
+> *null*
+
+### abilities
 
 ---
 
-| **Traits** | ... |
+#### melee
+
+---
+
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](#...) from [...](#...)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

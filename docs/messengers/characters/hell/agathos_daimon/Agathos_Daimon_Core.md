@@ -1,8 +1,6 @@
-# Agathos Daimon (아가토스 다이몬)
+# agathos_daimon
 
 ---
-
-> *이같이 미지근하여 뜨겁지도 아니하고 차지도 아니하니, 내 입에서 너를 토해 내리라;*
 
 ## header
 
@@ -13,20 +11,21 @@
     * [코르누코피아](#cornucopia)
   * [다이몬](#daimon)
 
-
-
 ## main
 
 ---
 
-| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+> *이같이 미지근하여 뜨겁지도 아니하고 차지도 아니하니, 내 입에서 너를 토해 내리라;*
+
+| **Name** | 아가토스 다이몬 |
 | :--- | :--- |
-| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Alias** | 마지막 파편 |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Gender** | 인터섹스 |
 | **Age Group** | 중년기 ([다이몬](#daimon)), 중년기 ([티케](#tyche)) |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -40,11 +39,11 @@
 
 > *[다이몬](#daimon)은 선한 영의 속성이 거의 유지되지 않고 있지만, 정치를 동반할 때에는 한없이 너그로워지는 모습을 볼 수 있다. [티케](#tyche)는 선한 영의 속성이 나름대로 유지하고 있지만, 가끔 [다이몬](#daimon)의 목을 쥐어짜고 흔드는 모습을 볼 수 있다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -54,7 +53,7 @@
 | **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 광역 타격 |
 | **Ultimate** | [티케](#tyche)가 오브젝트를 잡고 [다이몬](#daimon)으로 휘감아 구속한 뒤 [코르누코피아](#cornucopia)로 오브젝트 세뇌 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -64,7 +63,7 @@
 | **Special** | 전장 전체를 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)으로 오염 |
 | **Ultimate** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전방위 투척 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -78,11 +77,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="fragmentation">[파편화]</p>
+#### fragmentation
 
 ---
 
@@ -93,7 +92,7 @@
   * 신체를 분열하여 순간이동 후 융합할 수 있다.
   * 분열 상태에서 오브젝트를 타격할 수 있다.
 
-#### <p id="tyche">[티케]</p>
+#### tyche
 
 ---
 
@@ -112,7 +111,7 @@
   * 독립적인 [사자들](../../../core/messengers/Messengers_Core.md)로 작동하지만, 사출할 수 없다.
 
  
-#### <p id="cornucopia">[코르누코피아]</p>
+#### cornucopia
 
 ---
 
@@ -130,7 +129,7 @@
   * 전환된 효과의 성능은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
   * 재물과 식량은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 결합성을 제외하면 실질적인 가치를 지닌다.
 
-#### <p id="daimon">[다이몬]</p>
+#### daimon
 
 ---
 
@@ -143,7 +142,7 @@
   * 뱀의 아가리에서 독한 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 흘러나온다.
   * 지면에 쏟아져도 사라지지 않는다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

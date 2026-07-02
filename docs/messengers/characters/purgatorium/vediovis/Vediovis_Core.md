@@ -1,8 +1,6 @@
-# (Bracchia Dextra Humi) Vediovis (베디오비스)
+# vediovis
 
 ---
-
-> *... 이러할진데 이제는 방면할지어다 ... 또한 간절히 탄원할지니 ...*
 
 ## header
 
@@ -21,19 +19,21 @@
   * [포메이션](#formation)
   * [엑스큐션](#execution)
 
-
 ## main
 
 ---
 
-| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+> *... 이러할진데 이제는 방면할지어다 ... 또한 간절히 탄원할지니 ...*
+
+| **Name** | 베디오비스 |
 | :--- | :--- |
+| **Alias** | Bracchia Dextra Humi **W** |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
-| **Alias** | [공동체의 분열](#fission_of_community) |
 | **Gender** | 중성 (베디오비스), 중성 ([몰레스](#moles)) |
 | **Age Group** | 청년기 (베디오비스), 중년기 ([몰레스](#moles)) |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -46,11 +46,11 @@
 > *[몰레스](#moles)는 게으르지만, 똑똑하기 때문에 사명을 다한다. 안 시키면 아무것도 안 하지만, 들이받거나 물어뜯는 것 정도는 할 수 있다.*
 
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -60,7 +60,7 @@
 | **Special** | 캐스팅 후 제자리에서 다중 타격<br>캐스팅 후 제자리에서 단일 타격 |
 | **Ultimate** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후, 낙하하여 지면을 타격하고 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -71,7 +71,7 @@
 | **Ultimate** | 심장부에서 일정 시간 [엑스큐션](#execution) 후 거대한 [심판의 화살](#judgement_bolt) 사격 |
 
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -87,11 +87,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="bagua">[팔괘]</p>
+#### bagua
 
 ---
 
@@ -107,7 +107,7 @@
   * 자신과 주변의 오브젝트들을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
   * 자신의 모든 신체 정보를 저장한다.
 
-#### <p id="fission">[분열]</p>
+#### fission
 
 ---
 
@@ -119,7 +119,7 @@
   * 부활 시스템이다.
   * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
-#### <p id="fission_of_community">[공동체의 분열]</p>
+#### fission_of_community
 
 ---
 
@@ -137,7 +137,7 @@
   * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
   * 지속시간 동안 [분열](#fission)을 사용할 수 없다.
 
-#### <p id="stigmata_eyes">[성흔안]</p>
+#### stigmata_eyes
 
 ---
 
@@ -154,7 +154,7 @@
   * 안광에 적중된 오브젝트를 [애퍼래터스](#apparatus) 내부로 흡수한다.
   * 내부로 흡수한 오브젝트를 [심판의 화살](#judgement_bolt)에 가둔다.
 
-#### <p id="moles">[몰레스]</p>
+#### moles
 
 ---
 
@@ -173,7 +173,7 @@
   * [봉인](#seal) 시 베디오비스의 머리로 작동한다.
   * [해제](#unseal) 시 독립적인 소환수로 작동한다.
 
-#### <p id="atonement_day">[대속죄일]</p>
+#### atonement_day
 
 ---
 
@@ -189,7 +189,7 @@
   * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
     * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
 
-#### <p id="apparatus">[애퍼래터스]</p>
+#### apparatus
 
 ---
 
@@ -210,7 +210,7 @@
     * [심판의 화살](#judgement_bolt)을 저장할 수 있다.
     * [심판의 화살](#judgement_bolt)을 사출할 수 있다.
 
-#### <p id="seal">[봉인]</p>
+#### seal
 
 ---
 
@@ -219,7 +219,7 @@
 * **Description:**
   * 머리가 있어야 할 위치에 [몰레스](#moles)를 가두고 철가면으로 봉한다.
 
-#### <p id="unseal">[해제]</p>
+#### unseal
 
 ---
 
@@ -228,7 +228,7 @@
 * **Description:**
   * 철가면을 벗으면 머리가 분리되어 [몰레스](#moles)로 변한다.
 
-#### <p id="judgement_bolt">[심판의 화살]</p>
+#### judgement_bolt
 
 ---
 
@@ -243,7 +243,7 @@
   * 저장한 오브젝트의 특성을 보유하고 있다.
   * 오브젝트를 원격으로 사출할 수 있다.
 
-#### <p id="formation">[포메이션]</p>
+#### formation
 
 ---
 
@@ -253,7 +253,7 @@
 * **Description:**
   * [심판의 화살](#judgement_bolt)들이 베디오비스의 지시에 따라 편대비행한다.
 
-#### <p id="execution">[엑스큐션]</p>
+#### execution
 
 ---
 
@@ -264,7 +264,7 @@
   * [심판의 화살](#judgement_bolt)들이 연단된다.
   * [심판의 화살](#judgement_bolt)에 카오스를 담으면 탄도학 오차가 제어된다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

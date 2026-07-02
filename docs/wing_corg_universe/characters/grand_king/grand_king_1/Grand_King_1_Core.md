@@ -1,100 +1,100 @@
-# Grand King 1 (할왕 1)
+# grand_king_1 
 
 ---
-
-> *진심 땡콩!*
 
 ## header
 
 ---
 
-* [...](...)
-* [...](...)
-
+* [null](#null)
+* [null](#null)
 
 ## main
 
 ---
 
-| **Position** | 자칭 여신 |
+> *진심 땡콩!*
+
+| **Name** | 할왕 1 |
 | :--- | :--- |
-| **Department** | 투명 공간 |
 | **Alias** | KNJ 울트라 프로젝트급 둠 시나리오 |
+| **Position** | 왕 (여왕 아님) |
+| **Department** | 투명 공간 |
 | **Gender** | 여성 |
 | **Age Group** | 노년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
-> *떙콩으로 세상을 멸망시킬 할머니. 이걸 맞고 살아남은 손주가 없다고 전해진다. WM이 투명 공간에 봉인했다.*
+> *떙콩으로 세상을 멸망시킬 할머니. 이걸 맞고 살아남은 손주가 없다고 전해진다. "W-B"가 투명 공간에 봉인했다.*
 
-### Abilities
-
----
-
-#### Melee
+### abilities
 
 ---
 
-| **Traits** | ... |
+#### melee
+
+---
+
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](...) from [...](...)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

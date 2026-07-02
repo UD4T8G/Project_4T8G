@@ -1,10 +1,6 @@
-# Planaria (플라나리아)
+# planaria
 
 ---
-
-> *아빠! 엎드려뻗쳐!*
-
-> *그 체급으로 그거밖에 못 합니까? 다시 실시!*
 
 ## header
 
@@ -18,14 +14,19 @@
 
 ---
 
-| **Position** | 아들 |
+> *아빠! 엎드려뻗쳐!*
+
+> *그 체급으로 그거밖에 못 합니까? 다시 실시!*
+
+| **Name** | 플라나리아 |
 | :--- | :--- |
+| **Alias** | 윙콕 아들, 프린스 오브 다크니스 |
+| **Position** | 아들 |
 | **Department** | 윙콕 가족 |
-| **Alias** | 프린스 오브 다크니스, 윙콕 아들 |
 | **Gender** | 남성 |
 | **Age Group** | 소년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -35,11 +36,11 @@
 
 > *과거의 영광을 잃고 배불뚝이 아저씨가 된 아빠 '[북극이](../arcticy/Arcticy_Core.md)'를 폐급 훈련병 취급하며 매일같이 무자비한 지옥 훈련을 시키는 가혹한 교관이다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -49,7 +50,7 @@
 | **Special** | [무자비한 구타](#ruthless_beating)로 급소 저격 후 지나가기 |
 | **Ultimate** | [지옥의 조교 스텝](#step_of_hell_assistant)으로 고속 질주 상태에 진입해 [무자비한 구타](#ruthless_beating)로 공간 전체를 난도질 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -59,7 +60,7 @@
 | **Special** | [교관의 샤우팅](#shouting_of_instructor)으로 부드러운 응원을 발산해 오브젝트 강화 |
 | **Ultimate** | [교관의 샤우팅](#shouting_of_instructor)으로 오브젝트를 타격해 쇼크 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -73,11 +74,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="ruthless_beating">[무자비한 구타]</p>
+#### ruthless_beating
 
 ---
 
@@ -88,7 +89,7 @@
   * 맹렬한 호전성이 극대화된 전투 방식이다.
   * 덩치가 큰 적을 상대로 급소만 골라 타격하며 체급 차이를 극복할 수 있다.
 
-#### <p id="shouting_of_instructor">[교관의 샤우팅]</p>
+#### shouting_of_instructor
 
 ---
 
@@ -101,7 +102,7 @@
   * 오브젝트를 주눅 들게 하고 행동을 통제할 수 있다.
   * 사자후로 오브젝트를 마비시킬 수 있다.
 
-#### <p id="step_of_hell_assistant">[지옥의 조교 스텝]</p>
+#### step_of_hell_assistant
 
 ---
 
@@ -112,7 +113,7 @@
   * 오브젝트를 감시하던 집요함이 움직임으로 발현된다.
   * 오브젝트와의 절대 거리를 벌려주지 않고 끈질기게 따라붙을 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

@@ -1,10 +1,6 @@
-# Pan Tao (판도)
+# pan_tao
 
 ---
-
-> *팔괘... 방패!*
-
-> *무지개 반사!*
 
 ## header
 
@@ -12,25 +8,30 @@
 
 * [팔괘 방패](#bagua_shield)
 * [기 주입 카운터](#gi_infused_counter)
-* [미사일 요새 제어](#missile_fortress_control)
+* [미사일 요새](#missile_fortress)
 * [판스 갑옷](#pan_teach_armor)
 
 ## main
 
 ---
 
-| **Position** | 도사 |
+> *팔괘... 방패!*
+
+> *무지개 반사!*
+
+| **Name** | 판도 |
 | :--- | :--- |
-| **Department** | 미사일 요새 (판다 주식회사) |
 | **Alias** | 판다 도사 |
+| **Position** | 도사 |
+| **Department** | [미사일 요새](#missile_fortress) |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
-> *판다 주식회사의 엘리트 간부이자 무술 도사. 거대한 판다 건물의 3층 오른손인 "미사일 요새"에서 업무 및 화력 제어를 관장한다.*
+> *판다 주식회사의 엘리트 간부이자 무술 도사. 거대한 판다 건물의 3층 오른손인 [미사일 요새](#missile_fortress)에서 업무 및 화력 제어를 관장한다.*
 
 > *건국 영웅인 [전설의 판다](../panda_of_legend/Panda_of_Legend_Core.md)가 주식회사의 숨겨진 비밀 병기 포지션으로 은둔하게 되면서, 하위 직원 판다들을 실질적으로 연마시키고 혹독하게 훈련하여 부대의 군사적 기강을 잡는 진짜 사부 역할을 수행하고 있다.*
 
@@ -41,11 +42,11 @@
 
 > *행정, 대외 업무, 전략적 지휘를 도맡는 컨트롤 타워 [판비](../pan_assist/Pan_Assist_Core.md)와 완벽한 음양의 조화를 이룬다. 판도는 최전방에서 압도적인 카운터 방어막과 요새 화력으로 전선을 마크하며, 부정선거로 전 세계 대통령이 된 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md) 일가의 횡포를 군사적으로 견제하는 냉전의 핵심 축이다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -55,7 +56,7 @@
 | **Special** | [팔괘 방패](#bagua_shield)를 강하게 휘둘러 접근하는 근접 오브젝트를 요격 |
 | **Ultimate** | [팔괘 방패](#bagua_shield)로 물리적 질량을 뒤틀어 오브젝트를 화면 끝까지 밀어내는 넉백<br>날아간 오브젝트가 벽이나 구조물에 충돌할 시 치명적인 충격 피해 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -65,7 +66,7 @@
 | **Special** | 캐스팅 후 적의 치명적인 공격을 완벽한 타이밍에 [팔괘 방패](#bagua_shield)로 쳐내면서 근접 공격으로 연계 |
 | **Ultimate** | [팔괘 방패](#bagua_shield)면으로 적의 공격을 완벽히 흡수한 뒤 도가의 영적인 기(氣)를 역으로 주입하여 무지개 반사 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -79,11 +80,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="bagua_shield">[팔괘 방패]</p>
+#### bagua_shield
 
 ---
 
@@ -95,7 +96,7 @@
   * 방패 자체의 근접 타격 피해는 미미한 수준이지만, 피격 대상을 무조건 멀리 날려버리는 초월적인 밀치기 권능이 깃들어 있다. 
   * 넉백된 적이 지형지물에 강하게 충돌할 때 발생하는 연쇄 피해가 이 무기의 진정한 위력이다.
 
-#### <p id="gi_infused_counter">[기 주입 카운터]</p>
+#### gi_infused_counter
 
 ---
 
@@ -106,7 +107,7 @@
   * 팔괘 방패로 상대의 화력을 쳐낼 때 발동하는 인과응보형 카운터 도술이다.
   * 단순히 투사체를 흘리는 방어에 그치지 않고, 튕겨 나가는 공격에 영적인 기(氣)를 강제로 주입하여 [판비](../pan_assist/Pan_Assist_Core.md)의 금서급 인체 파괴력(죽창딜)으로 변환시켜 적에게 직격시킨다.
 
-#### <p id="missile_fortress_control">[미사일 요새 제어]</p>
+#### missile_fortress
 
 ---
 
@@ -117,7 +118,7 @@
   * 판다 주식회사 3층 오른손 본부에 구축된 미사일 요새의 포탑 통제권이다.
   * 판도 특유의 무술 보법과 시너지를 이루어, 방패 사정거리 밖에서도 공격할 수 있다.
 
-#### <p id="pan_teach_armor">[판스 갑옷]</p>
+#### pan_teach_armor
 
 ---
 
@@ -129,7 +130,7 @@
   * 동료 간부 [판비](../pan_assist/Pan_Assist_Core.md)가 입는 갑옷과 동일한 장비이며, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜 갑옷과 대등한 세계관 최강급 내구도를 보장한다.
   * 피해를 입어도 스스로 복구되는 자동 수복 능력이 있어, 판도가 전방에서 안전하게 반사 각을 잴 수 있도록 돕는다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

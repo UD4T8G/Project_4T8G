@@ -1,87 +1,86 @@
-# Wing Corg Universe (윙콕 유니버스)
+# wing_corg_universe
 
 ---
-
-> *상상이 현실이 되는 곳!*
-
-> *좋거나 나쁘거나!*
 
 ## header
 
 ---
 
-* [...](#...)
-* [...](#...)
-* [...](#...)
+* [null](#null)
+* [null](#null)
+* [null](#null)
 
 ## main
 
 ---
 
+> ***윙콕 유니버스**, 상상이 현실이 되는 곳!*
 
-### ...
+> *좋거나 나쁘거나!*
+
+### null
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
 ## source
 
-### Equipment
+### equipment
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> *...*
+> *null*
 
-> *...*
+> *null*
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
-### Discipline
-
----
-
-#### <p id="...">[...]</p>
+### discipline
 
 ---
 
-* ...
-* ...
-* ...
-
-### Departments
+#### null
 
 ---
 
-#### <p id="...">[...]</p>
+* null
+* null
+* null
+
+### departments
 
 ---
 
-##### Characteristics
+#### null
 
 ---
 
-* ...
-* ...
-* ...
-
-##### Abilities
+##### characteristics
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
-### Miscellaneous
+##### abilities
+
+---
+
+* null
+* null
+* null
+
+### miscellaneous
 
 ---
 

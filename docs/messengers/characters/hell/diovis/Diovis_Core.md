@@ -1,8 +1,6 @@
-# Diovis (디오비스)
+# diovis
 
 ---
-
-> *... 그는 인자 가운데 거하였으나 거기로부터 교학하지 아니하였도다 ...*
 
 ## header
 
@@ -15,14 +13,17 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+> *... 그는 인자 가운데 거하였으나 거기로부터 교학하지 아니하였도다 ...*
+
+| **Name** | 디오비스 |
 | :--- | :--- |
-| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Alias** | 크토닉 올림피우스 |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Gender** | 남성 (디오비스), 여성 ([아이기스](#aegis)) |
 | **Age Group** | 중년기 (디오비스), 노년기 ([아이기스](#aegis)) |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -34,11 +35,11 @@
 
 > *[아이기스](#aegis)는 머리가 없음에도 사고할 수 있고, 눈이 없음에도 볼 수 있으며, 코가 없음에도 맡을 수 있고, 귀가 없음에도 들을 수 있다. 자아가 있지만, 평소에는 디오비스의 성격에 감화되어 고뇌한다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -48,7 +49,7 @@
 | **Special** | 캐스팅 후 [아이기스](#aegis)를 빠르게 투척한 뒤 튕겨서 회수 |
 | **Ultimate** | [아이기스](#aegis)의 날개를 접고 채널링 상태에 진입하여 받은 피해를 흡수한 후 날개를 펼쳐 돌진 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -58,7 +59,7 @@
 | **Special** | 캐스팅 상태에 진입하여 [아스트라페](#astrape)를 융합시키고 거대화하여 느리게 폭파<br>캐스팅 상태에 진입하여 [아스트라페](#astrape)를 분열시키고 소형화하여 느리게 산개 |
 | **Ultimate** | [아스트라페](#astrape)를 투척하여 캐스팅 시간에 비례하여 파워가 증가하는 체인 라이트닝 발동 |
 
-#### Distance Control
+#### distance_Control
 
 ---
 
@@ -72,11 +73,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="aegis">[아이기스]</p>
+#### aegis
 
 ---
 
@@ -92,7 +93,7 @@
   * 등에서 분리하고 접어 방패로 사용할 수 있다.
   * 등에 결합하고 펼쳐 공허 사이를 비행할 수 있다.
 
-#### <p id="astrape">[아스트라페]</p>
+#### astrape
 
 ---
 
@@ -106,7 +107,7 @@
   * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 후방 오브젝트를 공격할 수 있다.
   * 목표 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

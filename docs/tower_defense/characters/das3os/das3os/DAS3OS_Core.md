@@ -1,8 +1,6 @@
-# DAS3OS
+# das3os
 
 ---
-
-> *...*
 
 ## header
 
@@ -16,24 +14,27 @@
 
 ---
 
-| **Position** | 보스 |
+> *뭐야, 개사기잖아!*
+
+| **Name** | DAS3OS |
 | :--- | :--- |
-| **Department** | 타워 디펜스 |
 | **Alias** | 스페이스 인베이더 |
+| **Position** | 보스 |
+| **Department** | 타워 디펜스 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
 > *데이 닌자들의 지도자. 우주의 힘으로 무장하여 세계관을 침략한다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -41,20 +42,20 @@
 | :--- | :--- |
 | **Basic** | [스텔라 피스톨](#stellar_pistol) 1정을 들고 사격 |
 | **Special** | 양 손에 [스텔라 피스톨](#stellar_pistol) 2정을 들고 사격 |
-| **Ultimate** | ... |
+| **Ultimate** | null |
 
-#### Ranged
+#### ranged
 
 ---
 
 | **Traits** | 공성, 탄막 |
 | :--- | :--- |
 | **Basic** | [미니건](#minigun)을 들고 느리게 움직이면서 사격 |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Special** | null |
+| **Ultimate** | null |
 
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -62,17 +63,17 @@
 | :--- | :--- |
 | **Basic** | [스텔라 피스톨](#stellar_pistol)을 들고 빠르게 접근<br>[스텔라 피스톨](#stellar_pistol)을 들고 빠르게 회피 |
 | **Special** | [미니건](#minigun)을 들고 빠르게 대시 |
-| **Ultimate** | ... |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="super_nova">[슈퍼 노바]</p>
+#### super_nova
 
 ---
 
@@ -83,7 +84,7 @@
 * **Description:**
   * 체력이 일정 수치 감소할 때마다 더욱 강해진다.
 
-#### <p id="stellar_pistol">[스텔라 피스톨]</p>
+#### stellar_pistol
 
 ---
 
@@ -92,7 +93,7 @@
 * **Description:**
   * 광범위하게 폭발하는 유탄을 발사하는 가벼운 두 정의 권총이다.
 
-#### <p id="minigun">[미니건]</p>
+#### minigun
 
 ---
 
@@ -101,10 +102,10 @@
 * **Description:**
   * 크기가 크고 관통력이 높은 탄환을 속사하는 무거운 미니건이다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

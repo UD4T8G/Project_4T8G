@@ -1,10 +1,6 @@
-# Butcher (고깃집 사장)
+# butcher
 
 ---
-
-> *야 이 도둑놈아 내 고기 돌려내!!!*
-
-> *그거 우리 직원 아니라고!!!*
 
 ## header
 
@@ -18,14 +14,19 @@
 
 ---
 
-| **Position** | 고깃집 사장, 전 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md) 고용주, 현 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md) 전속 정육 셔틀 |
+> *야 이 도둑놈아 내 고기 돌려내!!!*
+
+> *그거 우리 직원 아니라고!!!*
+
+| **Name** | 고깃집 사장 |
 | :--- | :--- |
-| **Department** | 정육점 (Butcher Shop) |
-| **Alias** | [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md) 전용 호구, 끝나지 않는 적자의 굴레 |
+| **Alias** | 부처님 |
+| **Position** | 사장, 고용주 ([윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)) |
+| **Department** | 정육점 |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -41,11 +42,11 @@
 
 > *후일담으로, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 털린 사장이 복수하기 위해 돌팔이 무당에게 부적을 사서 윙콕 가족의 집에 역침입을 시도한 적이 있다. 하지만 부적이 가짜였기에 떡이 되도록 두들겨 맞고 병원에 입원했으며, 그 기간 동안 정육점은 윙콕 가족의 훌륭한 무료 고기 뷔페가 되었다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -55,7 +56,7 @@
 | **Special** | 캐스팅 후 약점을 찾아 [발골용 정육도](#meat_cleaver)로  치명타 타격 |
 | **Ultimate** | [발골용 정육도](#meat_cleaver)를 미친 듯이 휘두르며 전진 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -65,7 +66,7 @@
 | **Special** | [무의미한 수배지](#wanted_poster)를 속사하여 시야 교란 |
 | **Ultimate** | [무의미한 수배지](#wanted_poster)를 뭉쳐 포획용 그물망 형성 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -79,11 +80,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="meat_cleaver">[발골용 정육도]</p>
+#### meat_cleaver
 
 ---
 
@@ -94,7 +95,7 @@
   * '윙고기' 시절부터 사용해 온 식칼이다.
   * 재생 능력을 지닌 오브젝트를 해체하기 좋다.
 
-#### <p id="wanted_poster">[무의미한 수배지]</p>
+#### wanted_poster
 
 ---
 
@@ -106,7 +107,7 @@
   * [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 분장이 매번 바뀌어 잡는 데는 아무런 의미가 없지만, 무기로 던진다.
   * 무겁고 질겨 오브젝트를 제압하는 데 좋다.
 
-#### <p id="fake_talisman">[돌팔이의 투명 부적]</p>
+#### fake_talisman
 
 ---
 
@@ -118,7 +119,7 @@
   * 본인은 완벽한 투명 인간이 되었다고 굳게 믿고 행동한다.
   * 쪼잔한 고깃집 사장에게 용기를 부여한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

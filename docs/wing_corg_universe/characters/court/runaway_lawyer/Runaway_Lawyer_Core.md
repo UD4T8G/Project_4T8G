@@ -1,4 +1,15 @@
-# Runaway Lawyer (잘나가는 변호사)
+# runaway_lawyer
+
+---
+
+## header
+
+---
+
+* [null](#null)
+* [null](#null)
+
+## main
 
 ---
 
@@ -6,26 +17,15 @@
 
 > *잘나가는 변호사입니다. 안녕히계세요!*
 
-## header
-
----
-
-* [...](...)
-* [...](...)
-
-
-## main
-
----
-
-| **Position** | 변호사 |
+| **Name** | 잘나가는 변호사 |
 | :--- | :--- |
+| **Alias** | 잘 **나가는** 변호사 |
+| **Position** | 변호사 |
 | **Department** | 법원 |
-| **Alias** | 잘 나가는 변호사 |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -35,72 +35,72 @@
 
 > *비공개 재판을 선호하며, 모든 인맥은 뒷세계에서 돌아간다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](...) from [...](...)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

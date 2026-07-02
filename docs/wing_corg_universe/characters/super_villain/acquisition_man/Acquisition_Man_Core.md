@@ -1,10 +1,6 @@
-# Acquisition Man (습득맨)
+# acquisition_man
 
 ---
-
-> *폭행을... 습득했다...*
-
-> *칼빵을... 습득했다...*
 
 ## header
 
@@ -14,19 +10,23 @@
 * [진화형 투쟁](#evolutionary_struggle)
 * [진화형 화력](#evolutionary_firepower)
 
-
 ## main
 
 ---
 
-| **Position** | 이계의 침략자 |
+> *폭행을... 습득했다...*
+
+> *칼빵을... 습득했다...*
+
+| **Name** | 습득맨 |
 | :--- | :--- |
-| **Department** | 슈퍼 빌런 |
 | **Alias** | 찐따새끼 |
+| **Position** | 침략자 |
+| **Department** | 슈퍼 빌런 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -36,11 +36,11 @@
 
 > *'OO을... 습득했다...'라는 대사와 함께 일어날 때마다 차원이 다른 위협으로 진화하며, 군중제어기(CC)에 의해 초기화되기 전까지 무한히 강해진다. 또한 "폭행을... 습득했다..."는 지구의 깡패들에게 속옷까지 털린 후 처음으로 능력을 각성하며 남긴 전설의 명대사다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### aelee
 
 ---
 
@@ -50,7 +50,7 @@
 | **Special** | 직전에 피격당한 근접 공격(참격, 타격, 암살술 등)의 모션을 즉각적으로 복제하여 반격 |
 | **Ultimate** | 현재 사이클에서 습득한 모든 근접 전투 데이터를 병렬로 융합하여 회피 불능의 난타 시전 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -60,7 +60,7 @@
 | **Special** | 피격당한 투사체(총탄, 마법, 에너지 빔)의 파동과 화력을 흡수하여 동일한 위력으로 반환 |
 | **Ultimate** | 습득한 대량 살상 무기 및 광역 공격 데이터를 하나로 압축하여 전방위 섬멸 폭격 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -74,11 +74,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="body_of_acquisition">[습득의 육신]</p>
+#### body_of_acquisition
 
 ---
 
@@ -93,7 +93,7 @@
   * 군중제어기 피격 시 피해 내성이 감소한다.
   * 이미 습득한 능력으로 피해를 입을 때마다 무작위 습득이 소실된다.
  
-#### <p id="evolutionary_struggle">[진화형 투쟁]</p>
+#### evolutionary_struggle
 
 ---
 
@@ -102,7 +102,7 @@
 * **Description:**
   * 기본 상태에서는 일반인 수준의 전투력이지만, 적의 수준이 높아질수록 타격, 검술, 무술 등의 무형적 기예까지 그대로 흡수하여 자신의 것으로 만든다.
 
-#### <p id="evolutionary_firepower">[진화형 화력]</p>
+#### evolutionary_firepower
 
 ---
 
@@ -111,7 +111,7 @@
 * **Description:**
   * 권총탄부터 대륙간탄도미사일, 초자연적인 마법 투사체까지 자신을 타격한 모든 원거리 에너지를 체내에서 재현 및 사출할 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

@@ -1,88 +1,87 @@
-# ...
+# null
 
 ---
-
-> *...*
 
 ## header
 
 ---
 
-* [...](#...)
-* [...](#...)
-* [...](#...)
+* [null](#null)
+* [null](#null)
+* [null](#null)
 
 ## main
 
 ---
 
+> *null*
 
-### ...
+### null
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
 ## source
 
-### Equipment
+### equipment
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> *...*
+> *null*
 
-> *...*
+> *null*
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
-### Discipline
-
----
-
-#### <p id="...">[...]</p>
+### discipline
 
 ---
 
-* ...
-* ...
-* ...
-
-### Departments
+#### null
 
 ---
 
-#### <p id="...">[...]</p>
+* null
+* null
+* null
+
+### departments
 
 ---
 
-##### Characteristics
+#### null
 
 ---
 
-* ...
-* ...
-* ...
-
-##### Abilities
+##### characteristics
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
 
-### Miscellaneous
+##### abilities
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null
+
+### miscellaneous
+
+---
+
+* null
+* null
+* null

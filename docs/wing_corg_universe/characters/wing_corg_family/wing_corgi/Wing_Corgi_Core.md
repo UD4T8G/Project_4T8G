@@ -1,10 +1,6 @@
-# Wing Corgi (윙코기)
+# wing_corgi
 
 ---
-
-> *부\~모님씨?*
-
-> *500만 원!*
 
 ## header
 
@@ -19,14 +15,19 @@
 
 ---
 
-| **Position** | 어머니 |
+> *부\~모님씨?*
+
+> *500만 원!*
+
+| **Name** | 윙코기 |
 | :--- | :--- |
+| **Alias** | 윙콕 엄마, **윙고기** |
+| **Position** | 어머니 |
 | **Department** | 윙콕 가족 |
-| **Alias** | 윙고기, 윙콕 엄마 |
 | **Gender** | 여성 |
 | **Age Group** | 청년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -46,14 +47,11 @@
 
 > *부정선거로 전 세계 대통령 자리에 오른 적이 있다. 이때 지능이 낮은 직원 판다들은 격렬히 반발하다 물리적으로 입막음을 당한 반면, 똑똑한 4대장 간부 판다들은 X됐음을 직감하고 판다 주식회사의 주식을 상장폐지시킨 뒤 가장 먼저 도망쳤다.*
 
-
-
-
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -63,7 +61,7 @@
 | **Special** | [초재생능력 육신](#super_regeneration_body)으로 튕겨다니며 스탬프 어택 |
 | **Ultimate** | [X-프로토콜](#x-protocol)로 전신에 마력을 두르고 돌진한 후 [초재생능력 육신](#super_regeneration_body)으로 튕겨나가 다시 돌진 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -73,7 +71,7 @@
 | **Special** | [윙카이](#wingky) 형태로 비행하며 캐스팅 후 거대한 대포알을 폭발 없이 순수 물리력만으로 투척 |
 | **Ultimate** | [윙카이](#wingky) 형태로 회전비행하며 [X-프로토콜](#x-protocol)로 대포알 원심 투척 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -87,11 +85,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="super_regeneration_body">[초재생능력 육신]</p>
+#### super_regeneration_body
 
 ---
 
@@ -104,7 +102,7 @@
   * 살점을 떼어내도 일정 시간이 지나면 순식간에 회복된다.
   * 물에 몸을 담그기만 해도 육수가 우려진다.
 
-#### <p id="awakening_skill">[각성 스킬]</p>
+#### awakening_skill
 
 ---
 
@@ -126,7 +124,7 @@
     * [원원이](../won_won_yee/Won_Won_Yee_Core.md)가 마차 주변에 두더지 뿅을 연발한다.
     * [윙카이](#wingky)가 마차 주변을 공전하며 폭격한다.
 
-#### <p id="wingky">[윙카이]</p>
+#### wingky
 
 ---
 
@@ -141,7 +139,7 @@
     * 질량과 물리력이 담겨있다. 
     * 화약이나 폭발이 없다.
 
-#### <p id="x-protocol">[X-프로토콜]</p>
+#### x-protocol
 
 ---
 
@@ -155,7 +153,7 @@
   * 원하는 형태의 질량체를 임시 생성할 수 있다.
   * 다른 오브젝트를 반중력 비행시킬 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

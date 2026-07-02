@@ -1,10 +1,6 @@
-# Chu (추여사)
+# chu
 
 ---
-
-> *아! 우! 에! (W-B 바보!)*
-
-> *Where is 아! 우! (W-B는 어디 있지?)*
 
 ## header
 
@@ -18,14 +14,19 @@
 
 ---
 
-| **Position** | 대륙 파괴급 괴수, 동체급 무패의 일진 |
+> *아! 우! 에! (W-B 바보!)*
+
+> *Where is 아! 우! (W-B는 어디 있지?)*
+
+| **Name** | 추여사 |
 | :--- | :--- |
-| **Department** | 슈퍼 빌런 |
 | **Alias** | 추하다 추여사, 추침팬치, 추고릴라, 추침팬고릴라 |
+| **Position** | 일진, 짐승, 맹수, 괴수 |
+| **Department** | 슈퍼 빌런 |
 | **Gender** | 여성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -37,11 +38,11 @@
 
 > *추여사가 그토록 애타게 찾으며 도발했던 당시 세계관 관리자 W-B는, 정작 직원 판다들의 대규모 시위("W\~B\~ 나가라\~ 나가\~")에 밀려 세계관 밖으로 쫓겨난 상태였다. 큰 건이 있을 때만 가끔 내려왔기 때문에, 추여사와 W-B는 단 한 번도 직접 만난 적이 없다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -51,7 +52,7 @@
 | **Special** | [추침팬고릴라의 재앙](#disaster_of_chu_chimpan_gorilla) 중 '추고릴라'로 거대화하여 압도적인 피지컬로 찍어 누르기 |
 | **Ultimate** | [추침팬고릴라의 재앙](#disaster_of_chu_chimpan_gorilla) 중 대륙 파괴급 괴수 '추침팬고릴라'로 최종 진화하여 윙콕 가족과 판다 주식회사를 동시에 기강 잡는 대지진 난타 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -61,7 +62,7 @@
 | **Special** | [무표정의 추여사](#expressionless_madam_chu)로 "아! 우! 에! (W-B 바보!)"라는 침팬지의 괴성을 광역 초음파로 발사 |
 | **Ultimate** | [무표정의 추여사](#expressionless_madam_chu) 중 갑자기 침팬지로 변이하려는 전조 증상을 보여 전방위의 모든 오브젝트에 과거의 트라우마(PTSD)를 유발하고 마비시킴 |
 
-#### Distance Control
+#### distance Control
 
 ---
 
@@ -75,11 +76,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="expressionless_madam_chu">[무표정의 추여사]</p>
+#### expressionless_madam_chu
 
 ---
 
@@ -90,7 +91,7 @@
   * 모든 재앙의 시작이 된 특유의 무표정이다.
   * 추여사 상태에서 이 표정을 지으며 침팬지 흉내를 내려는 낌새만 보이면 유니버스의 모든 인물들이 기겁하며 얼어붙는다.
  
-#### <p id="dimensional_search">[차원 탐색]</p>
+#### dimensional_search
 
 ---
 
@@ -101,7 +102,7 @@
   * 당시 세계관 관리자였던 W-B를 찾기 위해 허구한 날 우주를 쏘다니며 도발하던 탐색 능력이다.
   * 기가 막힌 대진운이 패시브로 작동하여 동체급에서는 절대 패배하지 않는 무적의 돌파력을 자랑한다.
 
-#### <p id="disaster_of_chu_chimpan_gorilla">[추침팬고릴라의 재앙]</p>
+#### disaster_of_chu_chimpan_gorilla
 
 ---
 
@@ -112,7 +113,7 @@
   * 연승을 거듭할수록 몸집과 파괴력이 기하급수적으로 커지는 궁극의 진화 트리다. (추침팬치, 추고릴라, 추침팬고릴라)
   * 최전성기 시절에는 판다 주식회사와 윙콕 가족의 기강을 홀로 박살 낼 정도였으며, 결국 두 집단이 임시 동맹을 맺고 레이드를 뛴 끝에야 추여사로 돌려놓을 수 있었다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

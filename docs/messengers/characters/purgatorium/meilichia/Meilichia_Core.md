@@ -1,8 +1,6 @@
-# (Basis Divagans Equorea) Meilichia (메일리키아)
+# meilichia
 
 ---
-
-> *불이여! 내가 왔노라! 이 땅 위에 던지기 위함이로다! 나는 간절히 원하노라! 그 불이 이미 붙었더라면!*
 
 ## header
 
@@ -26,14 +24,17 @@
 
 ---
 
-| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
+> *불이여! 내가 왔노라! 이 땅 위에 던지기 위함이로다! 나는 간절히 원하노라! 그 불이 이미 붙었더라면!*
+
+| **Name** | 메일리키아 |
 | :--- | :--- |
+| **Alias** | Basis Divagans Equorea **M** |
+| **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
-| **Alias** | [순교자들의 융합](#fusion_of_martyrs) |
 | **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
 | **Age Group** | 소녀기 (메일리키아), 중년기 ([메일리키오스](#meilichios)) |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -45,11 +46,11 @@
 
 > *[메일리키오스](#meilichios)를 모두 [해제](#unseal)한 메일리키아의 자아는 순수하지만, [봉인](#seal) 상태의 [메일리키오스](#meilichios)는 메일리키아의 자아와 융합되며, 그 수가 너무 많아서 실시간으로 자아가 바뀌는 미친년처럼 보인다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -59,7 +60,7 @@
 | **Special** | [바이폴](#bipole) 형태로 캐스팅 후 돌진하면서 빠르게 베기 |
 | **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 베고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 패링 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -69,7 +70,7 @@
 | **Special** | [바이폴](#bipole) 형태로 캐스팅 후 강하게 사격 |
 | **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 사격하고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 요격 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -83,11 +84,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="sitaegeuk">[사태극]</p>
+#### sitaegeuk
 
 ---
 
@@ -103,7 +104,7 @@
   * 자신을 다른 좌표로 이동시킨다.
   * 자신의 모든 신체 정보를 저장한다.
 
-#### <p id="fusion">[융합]</p>
+#### fusion
 
 ---
 
@@ -115,7 +116,7 @@
   * 부활 시스템이다.
   * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
 
-#### <p id="fusion_of_martyrs">[순교자들의 융합]</p>
+#### fusion_of_martyrs
 
 ---
 
@@ -131,7 +132,7 @@
   * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
   * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
 
-#### <p id="fusion_core">[융합로]</p>
+#### fusion_core
 
 ---
 
@@ -144,7 +145,7 @@
     * [홀스터](#holster)를 선형 연결할 수 있다.
     * 연결된 [홀스터](#holster)를 충전할 수 있다.
 
-#### <p id="meilichios">[메일리키오스]</p>
+#### meilichios
 
 ---
 
@@ -165,7 +166,7 @@
     * 단면에서 손잡이를 꺼낼 수 있다.
   * 참수시켜서 몸을 [홀스터](#holster)로 사용할 수 있다.
 
-#### <p id="holster">[홀스터]</p>
+#### holster
 
 ---
 
@@ -183,7 +184,7 @@
   * 타겟이 감지될 때마다 자동 사격한다.
   * 뒤로 공격하면 앞으로 추진할 수 있다.
 
-#### <p id="monopole">[모노폴]</p>
+#### monopole
 
 ---
 
@@ -197,7 +198,7 @@
   * [홀스터](#holster)에서 머리를 꺼내는 동시에 공격한다.
   * 여러 대상을 동시에 제압할 수 있다.
 
-#### <p id="bipole">[바이폴]</p>
+#### bipole
 
 ---
 
@@ -209,7 +210,7 @@
   * [메일리키오스](#meilichios)의 여러 머리를 평행 합체하여 사용한다.
   * 공격이 공명되어 성능이 높아지지만 효율은 낮아진다.
 
-#### <p id="dipole">[다이폴]</p>
+#### dipole
 
 ---
 
@@ -222,7 +223,7 @@
   * 오브젝트 주변에서 반중력 회전 비행한다.
   * 회전하면서 전방위로 빠르게 공격한다.
 
-#### <p id="mea_culpa">[메아 쿨파]</p>
+#### mea_culpa
 
 ---
 
@@ -238,14 +239,14 @@
   * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
   * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
 
-#### <p id="body_modification">[신체 개조]</p>
+#### body_modification
 
 ---
 
 * **Ability:**
 * **Description:**
 
-#### <p id="seal">[봉인]</p>
+#### seal
 
 ---
 
@@ -254,7 +255,7 @@
 * **Description:**
   * [해제](#unseal)된 [메일리키오스](#meilichios)를 보관하여 비전투 형태로 전환한다.
 
-#### <p id="unseal">[해제]</p>
+#### unseal
 
 ---
 
@@ -263,7 +264,7 @@
 * **Description:**
   * [봉인](#seal)된 [메일리키오스](#meilichios)를 [해제](#unseal)하여 전투 형태로 전환한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

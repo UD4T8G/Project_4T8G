@@ -1,29 +1,29 @@
-# Dress Man (옷 맨)
+# dress_man
 
 ---
-
-> *오오옷\~! 매애앤\~!*
 
 ## header
 
 ---
 
-* [...](...)
-* [...](...)
-
+* [null](#null)
+* [null](#null)
 
 ## main
 
 ---
 
-| **Position** | 루차도르 |
+> *오오옷\~! 매애앤\~!*
+
+| **Name** | 옷 맨 |
 | :--- | :--- |
-| **Department** | 옷장 |
 | **Alias** | 변태새끼 |
+| **Position** | 루차도르 |
+| **Department** | 옷장 |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -31,69 +31,69 @@
 
 > *옷장이 있다면 어디든 갈 수 있는 공간이동 능력을 보유하고 있다. 옷 맨과 친하다면 직장에 옷장을 설치해 보자. 출퇴근이 편해진다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](...) from [...](...)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

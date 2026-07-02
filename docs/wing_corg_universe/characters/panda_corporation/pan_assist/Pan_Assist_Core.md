@@ -1,12 +1,6 @@
-# Pan Assist (판비)
+# pan_assist
 
 ---
-
-> *[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)씨?*
-
-> *[라카이](../../wing_corg_family/lackey/Lackey_Core.md)씨?*
-
-> *엄청난 일이 일어났습니다.*
 
 ## header
 
@@ -20,18 +14,23 @@
 
 ---
 
-| **Position** | 비서 |
+> *[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)씨? (**왜!**) 엄청난 일이 일어났습니다.*
+
+> *[라카이](../../wing_corg_family/lackey/Lackey_Core.md)씨? (**왜!**) 엄청난 일이 일어났습니다.*
+
+| **Name** | 판비 |
 | :--- | :--- |
-| **Department** | 죽창 번개 요새 (판다 주식회사) |
-| **Alias** | 판다 비서, 엄청난 일 |
+| **Alias** | 판다 비서 |
+| **Position** | 비서 |
+| **Department** | 죽창 번개 요새 |
 | **Gender** | 여성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
-> *판다 주식회사의 엘리트 간부이자 비서. 거대한 판다 건물의 3층 왼손인 '죽창 번개 요새'에서 업무를 관장한다.*
+> *판다 주식회사의 엘리트 간부이자 비서. 거대한 판다 건물의 3층 왼손인 "죽창 번개 요새"에서 업무를 관장한다.*
 
 > *[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)나 [라카이](../../wing_corg_family/lackey/Lackey_Core.md)를 부른 뒤, 상대가 짜증 섞인 목소리로 '왜!'라고 대답하는 순간을 수락의 신호로 간주하여 '엄청난 일이 일어났습니다.'라고 외치며 대사건을 시작하는 '윙콕 갬빗'의 시동자다.*
 
@@ -39,11 +38,11 @@
 
 > *치명적인 파괴력의 죽창검과 절대 방어의 판스 갑옷을 동시에 다루는 극단적인 밸런스의 소유자다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -53,7 +52,7 @@
 | **Special** | 채널링 후 [죽창검](#bamboo_spear_sword)으로 돌진 |
 | **Ultimate** | [죽창검](#bamboo_spear_sword)으로 "너도 한 방, 나도 한 방" 관통 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -63,7 +62,7 @@
 | **Special** | 상대방이 "왜!"라고 화를 내는 순간, "엄청난 일이 일어났습니다."라며 확성기로 브리핑을 시작해 [윙콕 갬빗](#wing_corg_gambit) 발동 |
 | **Ultimate** | [윙콕 갬빗](#wing_corg_gambit)을 강제로 성사시켜, 전장의 모든 적과 아군을 통제 불능의 거대한 상황극(대형 이벤트) 속으로 강제 편입 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -77,11 +76,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="bamboo_spear_sword">[죽창검]</p>
+#### bamboo_spear_sword
 
 ---
 
@@ -92,7 +91,7 @@
   * 판비가 다루는 치명적인 주무기로, '판스 금서'의 마법으로 인챈트되어 있다.
   * 스치기만 해도 목숨이 위험한 "너도 한 방, 나도 한 방"의 지독한 파괴력을 지녀 다루기 매우 까다롭다.
  
-#### <p id="wing_corg_gambit">[윙콕 갬빗]</p>
+#### wing_corg_gambit
 
 ---
 
@@ -103,7 +102,7 @@
   * 판비가 대화를 걸었을 때, 상대가 짜증 섞인 목소리로 "왜!"라고 화답하면 발동되는 특수한 규칙이다.
   * 이 대답을 갬빗(전술적 수락)으로 간주하고, "엄청난 일이 일어났습니다!"라는 선언과 함께 전장을 강제적인 사건의 소용돌이로 끌고 간다.
 
-#### <p id="pan_teach_armor">[판스 갑옷]</p>
+#### pan_teach_armor
 
 ---
 
@@ -114,7 +113,7 @@
   * 판다들의 위대한 선조이자 건국 신화인 '[판스](../pan_teach/Pan_Teach_Core.md)'가 죽어서 남긴 가죽으로 만든 전설의 방어구다.
   * [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 X-프로토콜 갑옷에 버금가는 세계관 최강급 내구력을 자랑하며, 손상되어도 스스로 복구되는 기적적인 능력이 있어 죽창검의 페널티를 완벽하게 보완한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

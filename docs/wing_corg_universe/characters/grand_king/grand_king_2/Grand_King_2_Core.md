@@ -1,100 +1,100 @@
-# Grand King 2 (할왕 2)
+# grand_king_2
 
 ---
-
-> *할멈! 살살혀! 그러다 부술라!*
 
 ## header
 
 ---
 
-* [...](...)
-* [...](...)
-
+* [null](null)
+* [null](null)
 
 ## main
 
 ---
 
-| **Position** | 자칭 신 |
+> *할멈! 살살혀! 그러다 부술라!*
+
+| **Name** | 할왕 2 |
 | :--- | :--- |
-| **Department** | 투명 공간 |
 | **Alias** | KNJ 울트라 프로젝트 둠 시나리오 |
+| **Position** | 왕 (광대 아님) |
+| **Department** | 투명 공간 |
 | **Gender** | 남성 |
 | **Age Group** | 노년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
 > *우아한 자세로 세상을 멸망시킬 할아버지. 이걸 보고 살아남은 손주가 없다고 전해진다. WM이 투명 공간에 봉인했다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
-#### Ranged
-
----
-
-| **Traits** | ... |
-| :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
-
-#### Distance Control
+#### ranged
 
 ---
 
-| **Traits** | ... |
+| **Traits** | null |
 | :--- | :--- |
-| **Basic** | ... |
-| **Special** | ... |
-| **Ultimate** | ... |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
+
+#### distance_control
+
+---
+
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
 
 ## source
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
-> import [...](...) from [...](...)
+> import [null](null) from [null](null)
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
  
-#### <p id="...">[...]</p>
+#### null
 
 ---
 
 * **Ability:**
-  * ...
+  * null
 * **Description:**
-  * ...
+  * null
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
-* ...
-* ...
-* ...
+* null
+* null
+* null

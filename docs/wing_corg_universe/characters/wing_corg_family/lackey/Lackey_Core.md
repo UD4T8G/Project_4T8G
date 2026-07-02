@@ -1,10 +1,6 @@
-# Lackey (라카이)
+# lackey
 
 ---
-
-> *너희는 나랑 함께 살게 될 것이다...!*
-
-> *사\~타앙! 내 먹고싶은 사\~타앙! 얼른가져와\~! 먹고싶단 말이야\~!*
 
 ## header
 
@@ -20,14 +16,19 @@
 
 ---
 
-| **Position** | 수호자 (판다 주식회사), 애완동물 (윙콕 가족) |
+> *너희는 나랑 함께 살게 될 것이다...!*
+
+> *사\~타앙! 내 먹고싶은 사\~타앙! 얼른가져와\~! 먹고싶단 말이야\~!*
+
+| **Name** | 라카이 |
 | :--- | :--- |
-| **Department** | (현) 윙콕 가족, (전) 판다 주식회사 |
 | **Alias** | 푸른 가고일 |
+| **Position** | 수호자 (판다 주식회사), 애완동물 (윙콕 가족) |
+| **Department** | 판다 주식회사 (세계의 중심\~남부 대륙 초기), 윙콕 가족 (남부 대륙 후기) |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -37,15 +38,15 @@
 
 > *[전설의 판다](../../panda_corporation/panda_of_legend/Panda_of_Legend_Core.md)가 각성했을 때 합류한 활의 정령이다. [전설의 판다](../../panda_corporation/panda_of_legend/Panda_of_Legend_Core.md), [판비](../../panda_corporation/pan_assist/Pan_Assist_Core.md), [판도](../../panda_corporation/pan_tao/Pan_Tao_Core.md)가 남부 세계에 거대한 판다 주식회사를 세웠을 때, 엘리베이터가 없는 4층 머리에서 장비를 정비하며 5층 옥상 문으로만 출입해 일반 직원들은 그의 존재를 알지 못했다.*
 
-> *[윙코기](../wing_corgi/Wing_Corgi_Core.md)의 사냥으로 아내인 앵무새를 잃었다. 그녀는 훗날 고질라급 크기를 자랑하는 슈퍼 빌런 [사념의 환각] 으로 부활하여 유니버스의 재앙이 된다.*
+> *[윙코기](../wing_corgi/Wing_Corgi_Core.md)의 사냥으로 아내인 앵무새를 잃었다. 그녀는 훗날 고질라급 크기를 자랑하는 슈퍼 빌런 "사념의 환각" 으로 부활하여 유니버스의 재앙이 된다.*
 
 > *윙콕 가족의 집 6단 침대 꼭대기에서 자는 [윙코기](../wing_corgi/Wing_Corgi_Core.md)가 아침마다 침대 로켓 기능으로 하강하는 탓에, 바닥에서 자는 라카이는 매일 영문도 모른 채 매연 고문을 당하고 있다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -55,7 +56,7 @@
 | **Special** | [예속된 영체](#enslaved_spirit)로 오브젝트와 합체한 후 채널링 상태에 진입해 지속 타격 |
 | **Ultimate** | [탈취한 흑마법서](#stolen_black_magic_book)로 흑마법 골렘을 소환하여 돌격 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -65,7 +66,7 @@
 | **Special** | 캐스팅 후 [수호의 잔재](#remnants_of_guardian)를 지하에 사용하여 지진 발생<br>캐스팅 후 [예속된 영체](#enslaved_spirit)를 사용하여 [윙코기](../wing_corgi/Wing_Corgi_Core.md)와 합체한 형태인 윙카이 상태로 초대형 대포알 투하 |
 | **Ultimate** | [탈취한 흑마법서](#stolen_black_magic_book)로 공허 마법 증폭<br>[탈취한 흑마법서](#stolen_black_magic_book)로 흑마법 골렘을 소환하여 탄막 폭격 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -79,11 +80,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="remnants_of_guardian">[수호의 잔재]</p>
+#### remnants_of_guardian
 
 ---
 
@@ -94,7 +95,7 @@
   * [판스](../../panda_corporation/pan_teach/Pan_Teach_Core.md)의 환영을 본 [전설의 판다](../../panda_corporation/panda_of_legend/Panda_of_Legend_Core.md)가 라카이를 소환하면서 깨어난 힘이다.
   * 공허 마법을 다룰 수 있다.
 
-#### <p id="enslaved_spirit">[예속된 영체]</p>
+#### enslaved_spirit
 
 ---
 
@@ -109,7 +110,7 @@
     * 액체처럼 흐를 수 있다.
     * 매우 고통스럽게 회복할 수 있다.
 
-#### <p id="unreachable_sweetness">[닿을 수 없는 감미]</p>
+#### unreachable_sweetness
 
 ---
 
@@ -127,7 +128,7 @@
       * 제작자는 화장실에서 무조건 암살당한다.
     * 어떻게든 혀에 닿는다 해도 미각이 상실된다.
 
-#### <p id="causality_of_inversion">[역행의 인과율]</p>
+#### causality_of_inversion
 
 ---
 
@@ -144,7 +145,7 @@
       * 욕을 들은 오브젝트는 헬멧을 착용한 오브젝트에게 도발이 걸린다.
       * 헬멧을 착용한 오브젝트는 헬멧의 욕을 들을 수 없다.
 
-#### <p id="stolen_black_magic_book">[탈취한 흑마법서]</p>
+#### stolen_black_magic_book
 
 ---
 
@@ -157,7 +158,7 @@
   * 흑마법으로 이뤄진 올라운더 골렘 부대를 소환할 수 있다.
   * 메피스토텔레스의 조언을 들으면 무조건 패배한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

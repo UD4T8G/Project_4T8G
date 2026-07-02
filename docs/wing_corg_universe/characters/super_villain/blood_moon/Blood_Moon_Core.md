@@ -1,8 +1,6 @@
-# Blood Moon (붉은 달)
+# blood_moon
 
 ---
-
-> *붉은 달이 떴다!*
 
 ## header
 
@@ -10,19 +8,21 @@
 
 * [궤도](#orbit)
 
-
 ## main
 
 ---
 
-| **Position** | 위성 |
+> *붉은 달이 떴다!*
+
+| **Name** | 붉은 달 |
 | :--- | :--- |
-| **Department** | 슈퍼 빌런 |
 | **Alias** | 대재앙, 좀비 아포칼립스 |
+| **Position** | 위성 |
+| **Department** | 슈퍼 빌런 |
 | **Gender** | 중성 |
 | **Age Group** | 달의 나이 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -34,11 +34,11 @@
 
 > *달의 궤도가 매우 불규칙하게 바뀌고 소행성을 가지고 논다는 사실을 알게 된 학자들은 달에 자아가 있을 것이라고 추정한다.*
 
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -48,7 +48,7 @@
 | **Special** | 대상 충돌 후 지나가기 |
 | **Ultimate** | 지구 충돌을 통해 대멸종 유도 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -58,7 +58,7 @@
 | **Special** | 달빛과 중력을 비활성화하여 생태계 마비 |
 | **Ultimate** | 소행성을 끌여들어 투척 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -72,11 +72,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="orbit">[궤도]</p>
+#### orbit
 
 ---
 
@@ -85,7 +85,7 @@
 * **Description:**
   * 달의 공전 궤도를 조작한다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

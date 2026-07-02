@@ -1,8 +1,6 @@
-# Editor Law (엮은이법)
+# editor_law
 
 ---
-
-> *누군가를 억까하기 좋으니 평소에 마음에 안 드는 친구가 있다면 이걸로 참교육 해주도록 하자.*
 
 ## header
 
@@ -16,6 +14,8 @@
 
 ---
 
+> ***엮은이법**은 누군가를 억까하기 좋으니 평소에 마음에 안 드는 친구가 있다면 이걸로 참교육 해주도록 하자.*
+
 ### 그게 뭔데?
 
 ---
@@ -25,11 +25,11 @@
 
 ## source
 
-### Equipment
+### equipment
 
 ---
 
-#### <p id="editor">[엮은이]</p>
+#### editor
 
 ---
 
@@ -38,11 +38,11 @@
 * 착용하면 원소 마법을 사용할 수 있다.
 * 내구성이 높아서 함부로 다뤄도 멀쩡하다.
 
-### Discipline
+### discipline
 
 ---
 
-#### <p id="rename_ban">[개명 금지법]</p>
+#### rename_ban
 
 ---
 
@@ -51,7 +51,7 @@
 * 개인의 자유로운 개명을 금지한다.
 * 제비뽑기에 한하여 개명을 허용한다.
 
-#### <p id="lackey_unfair_law">[라카이 억까법]</p>
+#### lackey_unfair_law
 
 ---
 
@@ -60,29 +60,29 @@
 * [라카이](../../characters/wing_corg_family/lackey/Lackey_Core.md)가 피해자일 경우에 한하여 가해자가 처벌되지 않는다.
 * [라카이](../../characters/wing_corg_family/lackey/Lackey_Core.md)에게 징역형이 선고될때에 한하여 1억년을 곱산한다.
 
-### Departments
+### departments
 
 ---
 
-#### <p id="invisible_space">[투명 공간]</p>
+#### invisible_space
 
 ---
 
-##### Characteristics
+##### characteristics
 
 ---
 
 * 우주의 끝을 뚫고 나가면 드러나는 공간이다.
 * 세계관 관리자들이 머문다.
 
-##### Abilities
+##### abilities
 
 ---
 
 * 3차원 기동 지원
 * 장애물 부재
 
-### Miscellaneous
+### miscellaneous
 
 ---
 

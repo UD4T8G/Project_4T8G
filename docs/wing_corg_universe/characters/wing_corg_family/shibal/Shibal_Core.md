@@ -1,10 +1,6 @@
-# Shibal (시바)
+# shibal
 
 ---
-
-> *예쁜 꽃들이 맛있게 인사한다!*
-
-> *오늘도 시바는 행복해요!*
 
 ## header
 
@@ -18,14 +14,19 @@
 
 ---
 
-| **Position** | 딸 |
+> *예쁜 꽃들이 맛있게 인사한다!*
+
+> *오늘도 시바는 행복해요!*
+
+| **Name** | 시바 |
 | :--- | :--- |
+| **Alias** | 윙콕 딸, **베베** |
+| **Position** | 딸 |
 | **Department** | 윙콕 가족 |
-| **Alias** | 베베, 윙콕 딸 |
 | **Gender** | 여성 |
 | **Age Group** | 소녀기 |
 
-### Characteristics
+### characteristics
 
 ---
 
@@ -35,13 +36,11 @@
 
 > *누군가의 지시나 악의적인 의도 때문이 아니라, 그저 자신의 망상 속 세상에서 행복하게 뛰어놀 뿐인데 결과적으로 주변 텃밭이 초토화되는 재앙을 몰고 다닌다.*
 
-
-
-### Abilities
+### abilities
 
 ---
 
-#### Melee
+#### melee
 
 ---
 
@@ -51,7 +50,7 @@
 | **Special** | 꽃밭 상상 후 [해맑은 스텝](#cheerful_step)으로 뛰어다니며 전방의 오브젝트 강타 |
 | **Ultimate** | [현실 부정 필터](#reality_denial_filter)로 오브젝트의 목을 꽃이라 착각하고 따기 |
 
-#### Ranged
+#### ranged
 
 ---
 
@@ -61,7 +60,7 @@
 | **Special** | [현실 부정 필터](#reality_denial_filter)로 해맑게 박수를 치며 투사체 반사 |
 | **Ultimate** | 주변의 모든 오브젝트를 양손 가득 쥐고 [꽃잎 흩뿌리기](#scattering_petals)로 빙글빙글 돌며 사방팔방으로 무차별 투척 |
 
-#### Distance Control
+#### distance_control
 
 ---
 
@@ -75,11 +74,11 @@
 
 ---
 
-### Abilities
+### abilities
 
 ---
 
-#### <p id="reality_denial_filter">[현실 부정 필터]</p>
+#### reality_denial_filter
 
 ---
 
@@ -92,7 +91,7 @@
   * 오브젝트의 성질은 왜곡된 그대로 작동한다.
   * 정신 피해를 입거나 장애가 완화될 경우 위력이 감소한다.
 
-#### <p id="cheerful_step">[해맑은 스텝]</p>
+#### cheerful_step
 
 ---
 
@@ -103,7 +102,7 @@
   * 자신이 걷는 길을 꽃길이라고 착각한다.
   * 벽이 있어도 정원 문처럼 열고 지나간다.
 
-#### <p id="scattering_petals">[꽃잎 흩뿌리기]</p>
+#### scattering_petals
 
 ---
 
@@ -114,7 +113,7 @@
   * 주변의 오브젝트를 꽃잎으로 착각한다.
   * 오브젝트의 종류에 상관없이 다발로 집어던질 수 있다.
 
-### Miscellaneous
+### miscellaneous
 
 ---
 
