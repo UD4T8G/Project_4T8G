@@ -18,7 +18,7 @@
 | :--- | :--- |
 | **Alias** | 대재앙, 좀비 아포칼립스 |
 | **Position** | 위성 |
-| **Department** | 슈퍼 빌런 |
+| **Department** | [궤도](#orbit) |
 | **Gender** | 중성 |
 | **Age Group** | 달의 나이 |
 
