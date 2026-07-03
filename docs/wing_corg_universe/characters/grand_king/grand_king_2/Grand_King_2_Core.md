@@ -6,8 +6,8 @@
 
 ---
 
-* [null](null)
-* [null](null)
+* [null](#null)
+* [null](#null)
 
 ## main
 
@@ -75,7 +75,7 @@
 
 ---
 
-> import [null](null) from [null](null)
+> import [null](#null) from [null](#null)
 
 * **Ability:**
   * null
