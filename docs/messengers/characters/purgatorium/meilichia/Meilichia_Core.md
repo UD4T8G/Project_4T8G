@@ -10,15 +10,14 @@
   * [융합](#fusion)
     * [순교자들의 융합](#fusion_of_martyrs)
 * [융합로](#fusion_core)
-  * [메일리키오스](#meilichios)
-    * [홀스터](#holster)
-    * [모노폴](#monopole)
+* [메일리키오스](#meilichios)
+  * [모노폴](#monopole)
     * [바이폴](#bipole)
     * [다이폴](#dipole)
-  * [메아 쿨파](#mea_culpa)
-  * [신체 개조](#body_modification)
-    * [봉인](#seal)
-    * [해제](#unseal)
+  * [홀스터](#holster)
+* [메아 쿨파](#mea_culpa)
+  * [봉인](#seal)
+  * [해제](#unseal)
 
 ## main
 
@@ -56,9 +55,9 @@
 
 | **Traits** | 검사, 돌진, 패링 |
 | :--- | :--- |
-| **Basic** | [모노폴](#monopole) 형태로 회전하면서 빠르게 베기<br>[모노폴](#monopole) 형태로 돌진하면서 빠르게 찌르기 |
-| **Special** | [바이폴](#bipole) 형태로 캐스팅 후 돌진하면서 빠르게 베기 |
-| **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 베고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 패링 |
+| **Basic** | 도검 형태의 [모노폴](#monopole)로 회전하면서 빠르게 베기<br>[모노폴](#monopole) 형태로 돌진하면서 빠르게 찌르기 |
+| **Special** | 양날검 형태의 [바이폴](#bipole)로 캐스팅 후 돌진하면서 빠르게 베기 |
+| **Ultimate** | 쌍날검 형태의 [다이폴](#dipole)을 던져 오브젝트를 지속적으로 베고 회수<br>쌍날검 형태의 [다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 패링 |
 
 #### ranged
 
@@ -66,9 +65,9 @@
 
 | **Traits** | 웨펀 마스터, 탄막, 저격, 패링 |
 | :--- | :--- |
-| **Basic** | [모노폴](#monopole) 형태로 지속적으로 빠르게 사격 |
-| **Special** | [바이폴](#bipole) 형태로 캐스팅 후 강하게 사격 |
-| **Ultimate** | [다이폴](#dipole) 형태로 던져 오브젝트를 지속적으로 사격하고 회수<br>[다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 요격 |
+| **Basic** | 권총 형태의 [모노폴](#monopole)로 지속적으로 빠르게 사격 |
+| **Special** | 더블 배럴 샷건 형태의 [바이폴](#bipole)로 캐스팅 후 강하게 사격 |
+| **Ultimate** | 기관단총 대각합체 형태의 [다이폴](#dipole)을 던져 오브젝트를 지속적으로 사격하고 회수<br>기관단총 대각합체 형태의 [다이폴](#dipole) 형태로 손 위에 반중력 회전 비행시키며 지속적으로 오브젝트 요격 |
 
 #### distance_control
 
@@ -76,8 +75,8 @@
 
 | **Traits** | 스피드스터, 비행, 돌진, 탄막, 패링 |
 | :--- | :--- |
-| **Basic** | [홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 비행하면서 찌르기 후 지나가기<br>[홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 베기 |
-| **Special** | [홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 비행하면서 사격 후 지나가기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를  지속적으로 사격 |
+| **Basic** | [홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 비행하면서 찌르기 후 지나가기<br>[홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 베기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 비행하면서 사격 후 지나가기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 사격 |
+| **Special** | 말굽자석 형태의 [바이폴](#bipole)로 오브젝트 벡터 조작<br>사냥돌 형태의 [다이폴](#dipole)을 투척하여 오브젝트 제압 |
 | **Ultimate** | 회전 비행하면서 근거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 찌르기와 베기를 가하고 원거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 사격 후 지나가기 |
 
 ## source
@@ -161,7 +160,7 @@
     * 융합하여 거대화할 수 있다.
     * 분열하여 소형화할 수 있다.
   * 수복하여 사역마로 사용할 수 있다.
-  * 참수시켜서 머리를 무기로 사용할 수 있다.
+  * 참수시켜서 머리를 [모노폴](#monopole)로 사용할 수 있다.
     * 입에서 날붙이나 포신을 꺼낼 수 있다.
     * 단면에서 손잡이를 꺼낼 수 있다.
   * 참수시켜서 몸을 [홀스터](#holster)로 사용할 수 있다.
@@ -203,12 +202,12 @@
 ---
 
 * **Ability:**
-  * 속도 감소
-  * 범위 증가
   * 위력 증가
+  * 속도 감소
 * **Description:**
-  * [메일리키오스](#meilichios)의 여러 머리를 평행 합체하여 사용한다.
+  * [모노폴](#monopole) 여러 개를 Cis 합체하여 사용한다.
   * 공격이 공명되어 성능이 높아지지만 효율은 낮아진다.
+  * 병렬 합체 형태와 직렬 합체 형태가 존재한다.
 
 #### dipole
 
@@ -216,12 +215,12 @@
 
 * **Ability:**
   * 반중력 비행
+  * 속도 증가
   * 죽음의 탭댄스
-  * 공격 속도 증가
 * **Description:**
-  * [메일리키오스](#meilichios)의 여러 머리를 연장 합체하여 사용한다.
+  * [모노폴](#monopole) 여러 개를 Trans 합체하여 사용한다.
   * 오브젝트 주변에서 반중력 회전 비행한다.
-  * 회전하면서 전방위로 빠르게 공격한다.
+  * 회전하면서 전방위로 빠르게 공격하지만, 아군 오발 위험이 있다.
 
 #### mea_culpa
 
@@ -230,21 +229,16 @@
 > import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
+  * 피격 효과 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 변환
+    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 호전성 증가
+    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
   * [메일리키오스](#meilichios) 참수 시 지속적으로 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 증가
   * [메일리키오스](#meilichios) 수복 시 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 자동 감소
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 호전성 증가
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
 * **Description:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량이 높아질수록 껍데기가 깎여나가며 글리치를 일으키고, 본질인 무형에 가까워진다.
+  * 메일리키아는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 증가시키는 대신 신체 결손을 수복할 수 있다. 
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량이 높아질수록 글리치를 일으키고 본질인 무형에 가까워진다.
   * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
   * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
-
-#### body_modification
-
----
-
-* **Ability:**
-* **Description:**
 
 #### seal
 
@@ -317,3 +311,4 @@
 * 메일리키아의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
 * 상단의 문장은 "LUKA 12:49"을 참조한다.
   * > *Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη.*
+* [다이폴](#dipole)에서 언급되는 죽음의 탭댄스는 "Sten Machine Carbine"의 "Sten Stepping"을 참조한다.

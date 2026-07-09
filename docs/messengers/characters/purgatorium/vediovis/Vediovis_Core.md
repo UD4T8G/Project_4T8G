@@ -56,9 +56,9 @@
 
 | **Traits** | 격투, 광역 공격, 군중제어기, 패링 |
 | :--- | :--- |
-| **Basic** | 돌진하면서 정권 지르기<br>돌진하면서 발차기 |
-| **Special** | 캐스팅 후 제자리에서 다중 타격<br>캐스팅 후 제자리에서 단일 타격 |
-| **Ultimate** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후, 낙하하여 지면을 타격하고 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
+| **Basic** | [애퍼래터스](#apparatus)로 돌진하면서 정권 지르기<br>[애퍼래터스](#apparatus)로 돌진하면서 발차기 |
+| **Special** | [애퍼래터스](#apparatus)로 캐스팅 후 제자리에서 다중 타격<br>[애퍼래터스](#apparatus)로 캐스팅 후 제자리에서 단일 타격 |
+| **Ultimate** | [성흔안](#stigmata_eyes)으로 주변 오브젝트와 함께 도약 후 타격하여 [심판의 화살](#judgement_bolt)을 전방위로 발사 |
 
 #### ranged
 
@@ -66,7 +66,7 @@
 
 | **Traits** | 메가크래시, 패시브, 저격, 패링 |
 | :--- | :--- |
-| **Basic** | 전신에 [포메이션](#formation)을 발동하여 자동 공전 타격<br>심장부에서 연속 사격 |
+| **Basic** | 전신에 [포메이션](#formation)을 발동하여 주변 공전 타격<br>심장부에서 [심판의 화살](#judgement_bolt) 연속 사격 |
 | **Special** | 다리에 [포메이션](#formation)을 발동하여 발차기 추가 타격<br>팔에 [포메이션](#formation)을 발동하여 정권 지르기 추가 사격 |
 | **Ultimate** | 심장부에서 일정 시간 [엑스큐션](#execution) 후 거대한 [심판의 화살](#judgement_bolt) 사격 |
 
@@ -79,9 +79,9 @@
 
 | **Traits** | 격투, 군중제어기, 광역 공격, 패링 |
 | :--- | :--- |
-| **Basic** | 어깨의 [성흔안](#stigmata_eyes) 2세트로 전방위의 근거리 오브젝트에 다중 타격 |
-| **Special** | (안광)으로 주변 오브젝트와 투사체 잡기 |
-| **Ultimate** | (철가면)을 벗어 머리를 분리하고 [몰레스](#moles) 소환 |
+| **Basic** | [성흔안](#stigmata_eyes)으로 전방위의 근거리 오브젝트 다중 타격 |
+| **Special** | [성흔안](#stigmata_eyes)의 안광으로 주변 오브젝트와 투사체의 위치와 속도 조작<br>[성흔안](#stigmata_eyes)의 안광으로 주변 오브젝트와 투사체를 [애퍼래터스](#apparatus)에 흡수 |
+| **Ultimate** | [애퍼래터스](#apparatus)의 철가면을 벗어 머리를 분리하고 [몰레스](#moles) 소환 |
 
 ## source
 
