@@ -10,9 +10,8 @@
   * [분열](#fission)
     * [공동체의 분열](#fission_of_community)
 * [성흔안](#stigmata_eyes)
-* [몰레스](#moles)
-* [대속죄일](#atonement_day)
 * [애퍼래터스](#apparatus)
+* [몰레스](#moles)
   * [봉인](#seal)
   * [해제](#unseal)
 * [심판의 화살](#judgement_bolt)
@@ -27,7 +26,7 @@
 
 | **Name** | 베디오비스 |
 | :--- | :--- |
-| **Alias** | Bracchia Dextra Humi **W** |
+| **Alias** | Bracchia Dextra Humi **W**, 버디 |
 | **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
 | **Gender** | 중성 (베디오비스), 중성 ([몰레스](#moles)) |
@@ -142,116 +141,92 @@
 ---
 
 * **Ability:**
-  * 오브젝트 제어
-  * 오브젝트 흡수
+  * 오브젝트 벡터 제어
+  * 오브젝트 벡터 흡수
 * **Description:**
   * 검은 손에 붉은 눈이 박혀 있다.
-    * 머리 내부에 [몰레스](#moles) 1세트 존재한다.
-    * 어깨에 2세트 존재하며, 전방위 오브젝트를 수비하기 위해 사용한다.
-    * 머리 뒤에 2세트 존재하며, 전방 오브젝트를 공격하기 위해 사용한다.
-    * 머리 앞에 2세트 존재하며, 철가면을 고정하기 위해 사용한다.
-  * 안광에 적중된 오브젝트의 좌표를 제어한다.
-  * 안광에 적중된 오브젝트를 [애퍼래터스](#apparatus) 내부로 흡수한다.
-  * 내부로 흡수한 오브젝트를 [심판의 화살](#judgement_bolt)에 가둔다.
-
-#### moles
-
----
-
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
-
-* **Ability:**
-  * 소환수
-  * [성흔안](#stigmata_eyes) 기동
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 흡수
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 정화
-* **Description:**
-  * 베디오비스의 권속이다.
-  * [성흔안](#stigmata_eyes)으로 구성되어 있다.
-    * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 흡수한다.
-    * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 정화한다.
-  * [봉인](#seal) 시 베디오비스의 머리로 작동한다.
-  * [해제](#unseal) 시 독립적인 소환수로 작동한다.
-
-#### atonement_day
-
----
-
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
-
-* **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 이전
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 회복
-* **Description:**
-  * [해제](#unseal) 상태일 경우, [성흔안](#stigmata_eyes)의 안광으로 주변 대상의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 제어한다.
-    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 전신에 둘러서 저장한다.
-    * 전신에 두른 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 무해하지만, 수용량이 제한되어 있다.
-  * [봉인](#seal) 상태일 경우 [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 연소시킬 수 있다.
-    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 연소 속도는 체내 에너지에 비례한다.
+    * 머리 안에 [몰레스](#moles) 1세트 존재한다.
+    * 등 뒤에 2세트 존재하며, 주로 전방위 오브젝트를 수비하기 위해 사용한다.
+    * 머리 뒤에 2세트 존재하며, 주로 전방 오브젝트를 공격하기 위해 사용한다.
+    * 머리 앞에 2세트 존재하며, 주로 철가면을 고정하기 위해 사용한다.
+  * 안광에 적중된 오브젝트의 좌표를 지속적으로 조종할 수 있다.
+  * 안광에 적중된 오브젝트를 [애퍼래터스](#apparatus)에 흡수할 수 있다.
 
 #### apparatus
 
 ---
 
 * **Ability:**
-  * [몰레스](#moles) 동작
-  * [심판의 화살](#judgement_bolt) 사용
-  * 체내 에너지 비례 신체 강화
+  * 에너지 비례 신체 강화
+  * [심판의 화살](#judgement_bolt) 크루시블
 * **Description:**
-  * 베디오비스의 신체이다.
-    * 체내 에너지에 비례하여 디펜스가 증가한다.
-    * 체내 에너지에 비례하여 파워가 증가한다.
-    * 체내 에너지에 비례하여 스피드가 증가한다.
-  * 검은 눈물을 흘리는 철가면을 [성흔안](#stigmata_eyes)으로 고정하고 있다.
-    * 머리를 결합하여 [몰레스](#moles)를 [봉인](#seal)할 수 있다.
-    * 머리를 분배하여 [몰레스](#moles)를 [해제](#unseal)할 수 있다.
-  * 심장부에 용광로 문을 장착했다.
-    * [심판의 화살](#judgement_bolt)을 제작할 수 있다.
-    * [심판의 화살](#judgement_bolt)을 저장할 수 있다.
-    * [심판의 화살](#judgement_bolt)을 사출할 수 있다.
+  * 체내 에너지에 비례하여 모든 능력치가 상승하는 베디오비스의 신체이다.
+    * 기계 시스템으로 구성되어 있다.
+    * 검은 눈물을 흘리는 철가면을 착용하고 있다.
+    * 심장부가 불타오르며, 그 앞에 쇠창살이 있다.
+  * [심판의 화살](#judgement_bolt)을 제작, 보관, 사출할 수 있다.
+
+#### moles
+
+---
+
+* **Ability:**
+  * 소환수
+  * [성흔안](#stigmata_eyes) 능력
+* **Description:**
+  * [성흔안](#stigmata_eyes)으로 구성된 베디오비스의 권속이다.
+  * [성흔안](#stigmata_eyes) 능력을 사용할 수 있다.
 
 #### seal
 
 ---
 
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+
 * **Ability:**
   * [몰레스](#moles) 봉인
 * **Description:**
-  * 머리가 있어야 할 위치에 [몰레스](#moles)를 가두고 철가면으로 봉한다.
+  * 철가면을 착용하고 머리 앞의 [성흔안](#stigmata_eyes) 두 세트로 잡는다.
+  * [몰레스](#moles)가 베디오비스의 머리로 변하고 봉인된다.
+  * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 정화할 수 있다.
 
 #### unseal
 
 ---
 
+> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+
 * **Ability:**
   * [몰레스](#moles) 해제
 * **Description:**
-  * 철가면을 벗으면 머리가 분리되어 [몰레스](#moles)로 변한다.
+  * 머리 앞의 [성흔안](#stigmata_eyes) 두 세트를 놓고 철가면을 벗는다.
+  * 베디오비스의 머리가 [몰레스](#moles)로 변하고 해제된다.
+  * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 흡수할 수 있다.
 
 #### judgement_bolt
 
 ---
 
 * **Ability:**
-  * 오브젝트 속성
-  * 오브젝트 저장
-  * 오브젝트 재련
-  * 오브젝트 사출
+  * 오브젝트 크루시블
+  * 오브젝트 스킬
+  * 오브젝트 클러스터
 * **Description:**
-  * 항상 붉게 타오르는 오브젝트의 그릇이다.
-  * [애퍼래터스](#apparatus)에서 제작하고 저장할 수 있다.
-  * 저장한 오브젝트의 특성을 보유하고 있다.
-  * 오브젝트를 원격으로 사출할 수 있다.
+  * 발사할 수 있는 오브젝트의 그릇이다.
+  * 흡수한 오브젝트를 보관하고 연단할 수 있다.
+  * 보관한 오브젝트의 능력을 직접 구사할 수 있다.
+  * 보관한 오브젝트를 원격으로 사출할 수 있다.
 
 #### formation
 
 ---
 
 * **Ability:**
-  * 반중력 비행
-  * [심판의 화살](#judgement_bolt) 조작
+  * [심판의 화살](#judgement_bolt) 반중력 비행
+  * [심판의 화살](#judgement_bolt) 경로 조작
 * **Description:**
-  * [심판의 화살](#judgement_bolt)들이 베디오비스의 지시에 따라 편대비행한다.
+  * [심판의 화살](#judgement_bolt)이 중력을 무시하고 속력을 조절한다.
+  * [심판의 화살](#judgement_bolt)이 베디오비스의 지시에 따라 편대비행한다.
 
 #### execution
 
@@ -259,10 +234,10 @@
 
 * **Ability:**
   * [심판의 화살](#judgement_bolt) 합성
-  * 카오스 제어
+  * [심판의 화살](#judgement_bolt) 제어
 * **Description:**
-  * [심판의 화살](#judgement_bolt)들이 연단된다.
-  * [심판의 화살](#judgement_bolt)에 카오스를 담으면 탄도학 오차가 제어된다.
+  * [심판의 화살](#judgement_bolt) 여러 개를 하나로 합쳐 강화한다.
+  * [심판의 화살](#judgement_bolt) 내부에 혼돈을 담아 정확도를 제어한다.
 
 ### miscellaneous
 
@@ -275,7 +250,7 @@
 * [성흔안](#stigmata_eyes)은 "십자가형"을 참조한다.
 * [몰레스](#moles)는 다음을 참조한다.
   * "Publius Ovidius Naso"의 "Metamorphōseōn librī"
-    * > *Ante mare et terras et quod tegit omnia caelum <br>unus erat toto naturae vultus in orbe, <br>quem dixere chaos: rudis indigestaque moles <br>nec quicquam nisi pondus iners congestaque eodem <br>non bene iunctarum discordia semina rerum.*
+    * > *Ante mare et terras et quod tegit omnia caelum <br>unus erat toto naturae vultus in orbe, <br>quem dixere chaos: **rudis indigestaque moles** <br>nec quicquam nisi pondus iners congestaque eodem <br>non bene iunctarum discordia semina rerum.*
   * "유다 염소"
   * [몰레스](#moles)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
     * "Vejovis"에게 제물로 바치는 "암염소"

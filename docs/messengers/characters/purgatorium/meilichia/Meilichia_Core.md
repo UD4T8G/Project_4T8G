@@ -27,7 +27,7 @@
 
 | **Name** | 메일리키아 |
 | :--- | :--- |
-| **Alias** | Basis Divagans Equorea **M** |
+| **Alias** | Basis Divagans Equorea **M**, 밀키 |
 | **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
 | **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
@@ -76,7 +76,7 @@
 | **Traits** | 스피드스터, 비행, 돌진, 탄막, 패링 |
 | :--- | :--- |
 | **Basic** | [홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 비행하면서 찌르기 후 지나가기<br>[홀스터](#holster)에 근거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 베기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 비행하면서 사격 후 지나가기<br>[홀스터](#holster)에 원거리형 [모노폴](#monopole)을 장착하고 회전하면서 전방위 오브젝트를 지속적으로 사격 |
-| **Special** | 말굽자석 형태의 [바이폴](#bipole)로 오브젝트 벡터 조작<br>사냥돌 형태의 [다이폴](#dipole)을 투척하여 오브젝트 제압 |
+| **Special** | 사냥돌 형태의 [다이폴](#dipole)을 빠르게 투척하여 오브젝트 제압<br>캐스팅 후 말굽자석 형태의 [바이폴](#bipole)을 폭파시켜 오브젝트의 벡터를 일시적으로 조작 |
 | **Ultimate** | 회전 비행하면서 근거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 찌르기와 베기를 가하고 원거리형 [모노폴](#monopole)을 장착한 [홀스터](#holster)를 통해 지속적으로 사격 후 지나가기 |
 
 ## source
@@ -263,47 +263,18 @@
 ---
 
 * [메일리키오스](#meilichios)와 메일리키아의 융합성은 "역사적 다형성"을 참조한다.
-  * "Meilichios" 계열
-    * "아테네": "Zeus Meilichios"
-    * "낙소스": "Dionysos Meilichios"
-    * "에피루스": "Zeus Meilichios"
-    * "테게아": "Zeus Meilichios"
-    * "밀레투스": "Zeus Meilichios"
-    * "아모르고스": "Zeus Meilichios"
-    * "로도스": "Zeus Meilichios"
-    * "시키온": "Zeus Meilichios"
-    * "아르고스": "Zeus Meilichios"
-    * "크레타 하니아": "Zeus Meilichios"
-    * "레바데아": "Zeus Meilichios"
-    * "올림피아": "Zeus Meilichios"
-    * "케오스": "Zeus Meilichios"
-    * "키프로스": "Zeus Meilichios"
-    * "체로네아": "Zeus Meilichios"
-    * "파티카파움": "Zeus Meilichios"
-    * "델포이": "Zeus Meilichios"
-    * "메가라": "Zeus Meilichios"
-    * "에레트리아": "Zeus Meilichios"
-    * "테스피아이": "Zeus Meilichios"
-    * "만티네아": "Zeus Meilichios"
-    * "타렌툼": "Zeus Meilichios"
-    * "록리": "Zeus Meilichios"
-    * "시라쿠사": "Zeus Meilichios"
-    * "페라이": "Zeus Meilichios"
-    * "라리사": "Zeus Meilichios"
-    * "타소스": "Zeus Meilichios"
-    * "칼키스": "Zeus Meilichios"
-    * "히메라": "Melichios"
-    * "로마 수도": "Jupiter Meilichius"
-    * "폼페이": "Jupiter Meilichius"
-    * "오스티아": "Jupiter Meilichius"
-  * "Meilichia" 계열
-    * "메타폰툼": "Aphrodite Meilichia"
-    * "테살리아": "Mater Meilichia"
-  * 중립 계열
-    * "셀리눈테": "Meilichioi", "Dios Meilichios"
-    * "키레네": "Meilichioi", "Meilichioi Theoi"
-    * "포이티아": "Meilichioi"
-    * "파로스": "Meilichioi"
+  * "Meilichios" (남성) 계열
+    * "Zeus Meilichios": "아테네", "에피루스", "테게아", "밀레투스", "아모르고스", "로도스", "시키온", "아르고스", "크레타 하니아", "레바데아", "올림피아", "케오스", "키프로스", "체로네아", "파티카파움", "델포이", "메가라", "에레트리아", "테스피아이", "만티네아", "타렌툼", "록리", "시라쿠사", "페라이", "라리사", "타소스", "칼키스"
+    * "Jupiter Meilichius": "로마 수도", "폼페이", "오스티아"
+    * "Dionysos Meilichios": "낙소스"
+    * "Melichios": "히메라"
+  * "Meilichia" (여성) 계열
+    * "Aphrodite Meilichia": "메타폰툼"
+    * "Mater Meilichia": "테살리아"
+  * "Meilichioi" (중성) 계열
+    * "Meilichioi": "셀리눈테", "키레네", "포이티아", "파로스"
+    * "Dios Meilichios": "셀리눈테"
+    * "Meilichioi Theoi": "키레네"
   * "고대 그리스"에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"의 일환이다.
   * "Meilichia"는 "현대 그리스어"에서 고어이다.
   * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 

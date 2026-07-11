@@ -33,7 +33,7 @@
 
 > *무릎 꿇은 그의 나약함이 아수라장의 힘을 불러냈으며, 잃어버린 것을 되찾기 위해서라면 할복의 고통도 마다하지 않는다.*
 
-> *[아이기스](#aegis)는 머리가 없음에도 사고할 수 있고, 눈이 없음에도 볼 수 있으며, 코가 없음에도 맡을 수 있고, 귀가 없음에도 들을 수 있다. 자아가 있지만, 평소에는 디오비스의 성격에 감화되어 고뇌한다.*
+> *[아이기스](#aegis)는 머리가 없음에도 사고할 수 있고, 눈이 없음에도 볼 수 있으며, 코가 없음에도 맡을 수 있고, 귀가 없음에도 들을 수 있다. 자아가 있지만, 평소에는 디오비스의 성격에 감화되어 고뇌하는 것을 좋아한다.*
 
 ### abilities
 
@@ -84,14 +84,16 @@
 > import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
+  * 본체 백업
   * 본체 방어
   * 공허 비행
-  * 본체 백업
+  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 효과
 * **Description:**
   * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
   * 디오비스의 권속이자 아에토스 디오스의 날개가 장착되어 있는 방패다.
   * 등에서 분리하고 접어 방패로 사용할 수 있다.
   * 등에 결합하고 펼쳐 공허 사이를 비행할 수 있다.
+  * 오브젝트의 공격력에 비례하는 피해를 방어하고 해당 수치는 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
 
 #### astrape
 
@@ -101,11 +103,11 @@
 
 * **Ability:**
   * 방어력 관통
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 증폭
+  * 오브젝트 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 효과
 * **Description:**
   * 디오비스가 쥐고 있는 공허 폭풍이다.
-  * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 후방 오브젝트를 공격할 수 있다.
-  * 목표 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례하여 파워가 증가한다.
+  * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 오브젝트의 뒤를 공격할 수 있다.
+  * 오브젝트의 최대 체력에 비례하는 피해를 입히고 해당 수치는 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
 
 ### miscellaneous
 

@@ -31,11 +31,11 @@
 
 > *남성성을 띄는 [다이몬](#daimon)과 여성성을 띄는 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers/Messengers_Core.md)로서 부활했다.*
 
-> *사명을 수행하는 동안 [다이몬](#daimon)은 엄격한 정치를 동반하여 효율을 높였으나 그 책임은 고스란히 동료에게 넘어가며, [티케](#tyche)는 이를 그닥 좋아하지 않는다.*
+> *사명을 수행하는 동안 [다이몬](#daimon)은 엄격한 정치를 동반하여 효율을 높였으나 그 책임은 고스란히 동료에게 넘어가며, 사명을 수행하는 동안 [티케](#tyche)는 동료들과 깊은 유대감을 느끼는 것을 좋아하기 때문에 이 같은 효율을 그닥 좋아하지 않는다.*
 
 > *이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다. 무슨 말이냐면, 재물과 식량을 주겠다면서 협박할 수 있게 됐다는 것이다. 세상 그 누가 재물과 식량을 마다하겠는가? 그걸 해낸 이 새끼가 참으로 존경스럽다.*
 
-> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 그럴 가능성이 부부싸움 밖에는 없으니까...*
+> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 부부싸움 밖에는 없을테니까...*
 
 > *[다이몬](#daimon)은 선한 영의 속성이 거의 유지되지 않고 있지만, 정치를 동반할 때에는 한없이 너그로워지는 모습을 볼 수 있다. [티케](#tyche)는 선한 영의 속성이 나름대로 유지하고 있지만, 가끔 [다이몬](#daimon)의 목을 쥐어짜고 흔드는 모습을 볼 수 있다.*
 
@@ -59,9 +59,9 @@
 
 | **Traits** | 탄막, 광역 장판 |
 | :--- | :--- |
-| **Basic** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 산탄 사격 |
-| **Special** | 전장 전체를 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)으로 오염 |
-| **Ultimate** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전방위 투척 |
+| **Basic** | 캐스팅 후 [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 느리게 산탄 사격 |
+| **Special** | [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 지속적으로 빠르게 단일 사격 |
+| **Ultimate** | [코르누코피아](#cornucopia)를 방출하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 강화<br>[코르누코피아](#cornucopia)를 지속적으로 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 약화 |
 
 #### distance_control
 
@@ -70,8 +70,8 @@
 | **Traits** | 회피, 분쇄 기동, 진형 붕괴 |
 | :--- | :--- |
 | **Basic** | 모든 육신을 [파편화](#fragmentation)하여 단거리 회피 |
-| **Special** | 파편 상태로 고속 이동한 뒤 재조립하며 장거리 질주 |
-| **Ultimate** | 전장 전체를 휩쓰는 파편 폭풍으로 변이하여 고속 타격 |
+| **Special** | [파편화](#fragmentation) 상태로 고속 이동한 뒤 재조립하며 장거리 질주 |
+| **Ultimate** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전장 전체를 고속 타격 |
 
 ## source
 
