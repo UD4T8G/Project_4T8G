@@ -35,9 +35,11 @@
 
 > *이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다. 무슨 말이냐면, 재물과 식량을 주겠다면서 협박할 수 있게 됐다는 것이다. 세상 그 누가 재물과 식량을 마다하겠는가? 그걸 해낸 이 새끼가 참으로 존경스럽다.*
 
-> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 부부싸움 밖에는 없을테니까...*
+> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 예를 들자면 부부싸움이라던가...*
 
 > *[다이몬](#daimon)은 선한 영의 속성이 거의 유지되지 않고 있지만, 정치를 동반할 때에는 한없이 너그로워지는 모습을 볼 수 있다. [티케](#tyche)는 선한 영의 속성이 나름대로 유지하고 있지만, 가끔 [다이몬](#daimon)의 목을 쥐어짜고 흔드는 모습을 볼 수 있다.*
+
+> *[다이몬](#daimon)은 독서를 하고, [티케](#tyche)는 설거지를 하곤 하는데, 누가 지나가다 둘의 꼬리를 밟기라도 하면 둘 사이에 끼인 채로 온 몸이 묶여져 있어야 할 것이다. 돌아갈 때 성한 데는 없겠지만 멀쩡하지는 않을 듯 싶다.*
 
 ### abilities
 
@@ -98,8 +100,6 @@
 
 > import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
 
-> import [코르누코피아](#cornucopia) from 아가토스 다이몬
-
 * **Ability:**
   * 본체 백업
   * [코르누코피아](#cornucopia) 동작
@@ -139,7 +139,7 @@
   * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 사출
   * 지역 오염
 * **Description:**
-  * 뱀의 아가리에서 독한 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 흘러나온다.
+  * 뱀의 독니에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 발사된다.
   * 지면에 쏟아져도 사라지지 않는다.
 
 ### miscellaneous
