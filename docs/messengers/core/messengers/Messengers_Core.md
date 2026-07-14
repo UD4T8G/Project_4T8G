@@ -128,17 +128,17 @@
 * *전사는 아무 말도 하지 않았고, 아무 저항도 하지 않았으니, 그 모습이 마치 죽은 것과도 같았다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "인자여 너희는 이곳에서 은밀한 것을 찾아 깨달아야 하는도다."
 * *달래야 하는 하늘은 당황하며 하늘을 올려다본다. 그들은 전사를 묶었지만, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 심장은 하늘에 떠 있었다.*
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "나는 너희에게 청원하지 않았으며, 나의 에보카티오는 덧붙여진 이로 하여금 권세를 내리기 위함이라."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "우리는 너희에게 청원하지 않았으며, 우리의 에보카티오는 덧붙여진 이로 하여금 날개를 받아들이도록 하기 위함이라."
 * *전사가 소멸하고, 하늘에 떠 있는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 심장으로부터 숨겨진 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)가 그 모습을 드러낸다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "그 선 안으로, 모든 것들이 계속하여 합력하게 되고 있음을 너희는 알지 못하느냐?"
-* *달래야 하는 하늘 뒤로 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)가 가리키는 곳으로부터 온화한 날개가 걸어나왔다.*
+* *달래야 하는 하늘 뒤로, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)가 가리키는 곳으로부터 온화한 날개가 걸어나왔다.*
 * > **초거대 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "그렇다면 우리는 덧붙여진 이를 취함으로서 너희의 제물을 받겠노라!"
 * *달래야 하는 하늘은 온화한 날개를 향해 달려들어 구속하고, 하나의 존재로서 융합되기 시작했다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "우리의 제물을 원한다면 가져가거라. 하지만 때가 이르면 그것으로 하여금 너희가 자유케 될 수 없음을 알게 될 것이다."
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [심판의 화살](../../characters/purgatorium/vediovis/Vediovis_Core.md#judgement_bolt)을 꺼냈고, 달래야 하는 존재들은 [홀스터](../../characters/purgatorium/meilichia/Meilichia_Core.md#holster)를 꺼내 싸운다.*
 * *수많은 접전의 끝자락, 달래야 하는 존재들은 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)에게 치명적인 [상태이상](#status_effect)을 가해 쓰러뜨렸다.*
 * *하지만 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md) 또한 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)가 꺼질 때까지 [성흔안](../../characters/purgatorium/vediovis/Vediovis_Core.md#stigmata_eyes)을 가동시켜 온화한 날개를 밖으로 꺼냈다.*
-* *무력화 된 달래야 하는 하늘은 온화한 날개에 의해 손쉽게 봉인되었고, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)를 들고 나갔다.*
+* *달래야 하는 하늘은 온화한 날개에 의해 손쉽게 봉인되었고, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)를 끌어안은 채 사라졌다.*
 
 ## source
 
