@@ -61,6 +61,23 @@
 * > **천국 가는 사람:** "닥쳐, 너네 돈으로 마시던가 해!" *(웃음)* "농담이고, 다음에 같이 카페나 가자고!"
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [연옥](#purgatorium)에서 못 나간다.*
 
+### wine
+
+---
+
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한거 생각해서 포도청을..."
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(포도청을 들이키며)* "**아아아아악!**"
+* *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상이다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "뭐야, 왜 저래? 뭐 잘못 먹었나? 아니면 내가 꿈을 꾸는 건가?"
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "입 벌려 봐! 내가 넣어 줄게! 아~! 어라?" *(표정이 일그러지며)* "맞다... 오빠 머리 없었지?"
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 등을 열어 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)를 확인해 봤는데, 모두 시큼한 냄새를 풍기며 잠들어 있었다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)를 밀쳐내며)* "잠시만... 설마?" *(뇌정지)*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 뇌가 없다. 그리고 포도청을 확인해 봤는데, 설탕 비율을 잘못 잡아 와인이 되어 있었다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *(시무룩하며)* "오빠... 화났어?"
+* *"Zeus Meilichios"에게는 "Nephalia", 즉 금주 공헌을 해야 한다. 지금 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)는 술에 꼴아 잠든 것이다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 없는 머리를 굴려봤지만 아무런 해결책도 떠오르지 않아서 그냥 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)를 안아줬다.*
+
 ### chaos
 
 ---
@@ -150,9 +167,11 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(독서 중)* "여동생이랑 결혼하고, 아버지의 아내를 빼앗고, 외간 여자 덮치고..."
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(책을 덮으며)* "하늘이 두렵지 않느냐? 지옥에나 떨어져라, 위도 아래도 없는 새끼."
 * *그들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
-* *영겁의 세월이 흐르고 모든 신도들이 떠나간 뒤, 그는 하늘로부터 땅으로 내려왔다.*
+* *영겁의 세월이 흐르고, 그는 하늘로부터 땅으로 내려와 새로운 관점을 얻게 된다.*
 * > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 몰라요."
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "듣자하니 스올의 다른 이름이 하데스라고 하더군. 제우스 크토니우스는 아닐 것이다."
+* > **아에토스 디오스:** "제우스 말입니까? 그 위도 아래도 없는 새끼..."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "아니 에피테트... *(한숨 쉬며)* 말을 말자..."
 
 ### syncretism 
 
@@ -164,7 +183,7 @@
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *아무것도 몰랐던 나는 그 행운을 위해 풍요의 뿔을 선물했는데, 그 웃음이 실로 아름다웠다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이렇게라도 좋아한다면 나는 만족했다. 선한 영이라고 불리우는 내게 청혼이라는 것은 사치스러운 것이었고, 만일 거절당하기라도 한다면 사람들 앞에서 뭐라고 해야 할지... 참 부끄러운 일이었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 행복했다. 충분히 만족했다. 맹세한다. 이보다 더 좋을 수는 없었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나의 신도들이 떠나가 내가 하늘로부터 땅으로 내려온 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 그 행운 또한 여기서 새겨진 우상 (Graven Image)으로 안치되어 있었다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 하늘로부터 땅으로 내려온 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 그 행운 또한 여기서 새겨진 우상 (Graven Image)으로 안치되어 있었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *깨진 조각을 하나 하나 붙여볼 때가 되어서야 나는 미동도 없는 그 행운을 안아줄 수 있었다. 그동안 고생 많았다고, 아무것도 해줄 수 없어서 미안하다고. 눈물이 흘렀지만 애써 웃어 보였다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이때까지의 나는 좋은 동반자가 되어주지 못했다. 그래서 좋은 동반자를 주고 싶었다. 나는 세라피스 아문과 제우스 소테르의 그릇을 녹여서 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)을 만들었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)가 좋아했으면 해서, 나를 잊어 줬으면 해서, 나는 그 둘을 축복한 뒤 그들과 융합했다. 나의 몸은 그들의 형상을 온전하게 만들었고, 나의 피는 그들에게 숨결을 불어넣었다.*
@@ -173,6 +192,19 @@
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 선물을 기억하고 있었고, 그 행운 또한 말 없이 나를 사랑하고 있었다. 이것을 깨달았을 때는 이미 내가 융합되어 사라진 후였다. 나는 절망하고 뼈저리게 후회했다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)이 아니다. 그는 내 뜻대로 행하지도 않았고, [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 좋은 동반자가 되어주지도 못했다. 역설적이게도 나를 대신한 것은 내가 그토록 인정하고 싶지 않았던; 위도 아래도 없는 새끼들이었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 머리가 없다. 그리고 나는 이를 갈며 슬피 울어야 한다.*
+
+### judgement_day
+
+---
+
+* *전사는 자신이 가장 의지했던 온화한 날개를 자신의 손으로 불의 게헨나에 던졌다.*
+* *전사는 고뇌하는 자의 모든 생각을 구속하고 자신의 손으로 무저갱에 던졌다.*
+* *전사는 가장 순수했던 사랑을 짖밟고 그 표징을 빼앗아 자신의 손으로 스올에 던졌다.*
+* *전사는 자신의 손으로 던진 모두의 이야기를 그 누구보다도 가까운 곳에서 이해하고 있었다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "[내 아우](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 핏소리가 땅에서부터 내게 호소하며, [초등 학문](../../characters/hell/diovis/Diovis_Core.md)의 입에서 나오는 그것이 나를 더럽게 하고, [언약궤](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#cornucopia)는 뺏은 다음 벽돌과 죄악의 돌이 되었으며, [속죄제물](../../characters/purgatorium/vediovis/Vediovis_Core.md)은 홀로 나아가고 있나이다."
+* *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 고통이 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)을 통해 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)로 전해졌다.*
+* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)의 존재적 부정이 쌓이고 쌓여 [성흔안](../../characters/purgatorium/vediovis/Vediovis_Core.md#stigmata_eyes)을 더럽히고 있었다.*
+* *빼앗긴 사랑의 [코르누코피아](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#cornucopia)가 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)를 부정하고 있었다.*
 
 ## source
 
@@ -304,11 +336,13 @@
 
 ---
 
+* 사자들의 [메인](#main) 시나리오는 "마카베오상하권"을 참조한다.
+* 사자들의 이름은 그 속성에 따라 "종교적 에피테트"가 아닌 "비평학적 에피테트"를 참조한다.
 * [천국](#heaven)에 대한 제한은 "1 Enoch 14:7 [ 4Q204 ]"을 참조한다.
   * > *לא תסלק לכל יומי עלמא ודינא נפק עליכון די לא תתעבד לכון שאלתכוןv [...]*
   * > *ወኢይከውን ፡ ለክሙ ፡ ስእለትክሙ ፡ ለኵሉ ፡ መዋዕለ ፡ ዓለም ፡ ወወፅአ ፡ ላዕሌክሙ ፡ ፍትሕ ፡ እስመ ፡ ኢይትገበር ፡ ለክሙ ፡ ስእለትክሙ ፡ ወኢምንተኒ ፡ ወእመኒ ፡ ትበክዩ ፡ ወትስእሉ ፡ ወትነቡ ፡ ኵሎ ፡ ቃላተ ፡ ዘውስተ ፡ መጽሐፍ ፡ ዘአነ ፡ ጸሐፍኩ ።*
   * > *καὶ οὐκ ἔσται ὑμῶν ἡ δέησις εἰς πάσας τὰς ἡμέρας τοῦ αἰῶνος, καὶ ἐξεληλύθει καθ’ ὑμῶν ἡ κρίσις· ὅτι οὐκ ἔσται ὑμῖν αἴτησις καὶ οὐδ’ οὕτως ὑμῖν ἔσται.*
-* [완곡어법](#euphemism)의 대명사는 장엄 복수 (Majestic plural)를 참조한다.
+* [완곡어법](#euphemism)의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
 * [에피테트](#epithet)의 악한 영들은 "1 ENOCH 15:8~9"을 참조한다.
   * > *ወይእዜኒ ፡ ረዓይት ፡ እለ ፡ ተወልዱ ፡ እመንፈስ ፡ ወእምሥጋ ፡ መናፍስተ ፡ እኩያነ ፡ ይጼወዑ ፡ በዲበ ፡ ምድር ፡ ወበምድር ፡ ይከውን ፡ ማኅደሮሙ ።*
   * > *መናፍስት ፡ እኩያን ፡ ወፅኡ ፡ እምሥጋሆሙ ፡ እስመ ፡ እምሰብእ ፡ ተወልዱ ፡ ወእምቅዱሳን ፡ ትጉሃን ፡ ቀዳሚ ፡ ልደቶሙ ፡ ወመሠረቶሙ ፤ መናፍስተ ፡ እኩያነ ፡ ይከውኑ ፡ በዲበ ፡ ምድር ፡ ወመናፍስተ ፡ እኩያነ ፡ ይጼወዑ ።*
