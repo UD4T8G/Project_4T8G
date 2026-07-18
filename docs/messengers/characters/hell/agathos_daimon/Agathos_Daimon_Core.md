@@ -19,7 +19,7 @@
 
 | **Name** | 아가토스 다이몬 |
 | :--- | :--- |
-| **Alias** | 마지막 파편 |
+| **Alias** | 세라피스 아문, 제우스 소테르 |
 | **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
 | **Gender** | 인터섹스 |
@@ -29,17 +29,13 @@
 
 ---
 
-> *남성성을 띄는 [다이몬](#daimon)과 여성성을 띄는 [티케](#tyche)의 마지막 파편으로 탄생한 융합신이 [사자들](../../../core/messengers/Messengers_Core.md)로서 부활했다.*
+> *[티케](#tyche)는 모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않는다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 이를 갈며 슬피 운다는 목격담이 들려오곤 한다.*
 
-> *사명을 수행하는 동안 [다이몬](#daimon)은 엄격한 정치를 동반하여 효율을 높였으나 그 책임은 고스란히 동료에게 넘어가며, 사명을 수행하는 동안 [티케](#tyche)는 동료들과 깊은 유대감을 느끼는 것을 좋아하기 때문에 이 같은 효율을 그닥 좋아하지 않는다.*
+> *[티케](#tyche)는 [코르누코피아](#cornucopia)를 잃어버리는 것을 두려워한다. 자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정부터 드러낸다.*
 
-> *이제 [코르누코피아](#cornucopia)의 재물과 식량은 당근이 아니라 채찍이 되었다. 무슨 말이냐면, 재물과 식량을 주겠다면서 협박할 수 있게 됐다는 것이다. 세상 그 누가 재물과 식량을 마다하겠는가? 그걸 해낸 이 새끼가 참으로 존경스럽다.*
+> *[다이몬](#daimon)은 맡겨진 사명 외에 아무것도 관심이 없으며, 평소 생각을 읽을 수 없는 [티케](#tyche)를 답답해한다.*
 
-> *평상시에 [다이몬](#daimon)은 말이 많고, [티케](#tyche)는 말 수가 적다. 둘이 동시에 말하면 그건 그것대로 안 좋은 징조다. 예를 들자면 부부싸움이라던가...*
-
-> *[다이몬](#daimon)은 선한 영의 속성이 거의 유지되지 않고 있지만, 정치를 동반할 때에는 한없이 너그로워지는 모습을 볼 수 있다. [티케](#tyche)는 선한 영의 속성이 나름대로 유지하고 있지만, 가끔 [다이몬](#daimon)의 목을 쥐어짜고 흔드는 모습을 볼 수 있다.*
-
-> *[다이몬](#daimon)은 독서를 하고, [티케](#tyche)는 설거지를 하곤 하는데, 누가 지나가다 둘의 꼬리를 밟기라도 하면 둘 사이에 끼인 채로 온 몸이 묶여져 있어야 할 것이다. 돌아갈 때 성한 데는 없겠지만 멀쩡하지는 않을 듯 싶다.*
+> *[다이몬](#daimon)은 [지옥](../../../core/messengers/Messengers_Core.md#hell)에 있음에도 꿈에서 선한 영을 만나는데, 차라리 [연옥](../../../core/messengers/Messengers_Core.md#purgatorium)의 꿈이 낫겠다면서 그 내용을 모두 잊는다.*
 
 ### abilities
 
@@ -52,8 +48,8 @@
 | **Traits** | 타격, 구속 |
 | :--- | :--- |
 | **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 주입 |
-| **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 광역 타격 |
-| **Ultimate** | [티케](#tyche)가 오브젝트를 잡고 [다이몬](#daimon)으로 휘감아 구속한 뒤 [코르누코피아](#cornucopia)로 오브젝트 세뇌 |
+| **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 [코르누코피아](#cornucopia)를 쏟아 지속 타격 |
+| **Ultimate** | 오브젝트를 [다이몬](#daimon)이 휘감아 구속한 뒤 [티케](#tyche)가 [코르누코피아](#cornucopia)로 세뇌 |
 
 #### ranged
 
@@ -63,7 +59,7 @@
 | :--- | :--- |
 | **Basic** | 캐스팅 후 [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 느리게 산탄 사격 |
 | **Special** | [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 지속적으로 빠르게 단일 사격 |
-| **Ultimate** | [코르누코피아](#cornucopia)를 방출하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 강화<br>[코르누코피아](#cornucopia)를 지속적으로 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 약화 |
+| **Ultimate** | [코르누코피아](#cornucopia)로 사격하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 강화<br>[코르누코피아](#cornucopia)로 사격하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 약화 |
 
 #### distance_control
 
