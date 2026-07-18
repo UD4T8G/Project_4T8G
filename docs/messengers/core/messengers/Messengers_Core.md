@@ -39,6 +39,7 @@
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 초공간도약, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 포털 능력을 보유하고 있다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "다들 나만 보면 얼어붙는데 **쾅!?** 가뜩이나 험악하게 생겨먹어서 서러운데 퍽이나 안심하겠다!"
 * *그 좋은 능력 가지고도 사람들 때문에 못 써먹고 있긴 하다.*
+
 ### break_time
 
 ---
