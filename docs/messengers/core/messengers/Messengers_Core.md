@@ -240,9 +240,11 @@
 
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "허... 참 악연이네요? 처음 만났을 때는 제 자리를 뺏더니 이제는 제 운명까지 뺏으려는 건가요?"
 * *[융합주의](#syncretism) 서사에서 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 그릇이 깨져 있던 이유는 [완곡어법](#euphemism) 서사의 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md) 때문이다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)도 이를 모르고 있었던 것은 아니였기에, 고개 숙여 망설이고 있었다.*
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "됐어요, 이번 일은 생각 마세요, 제 업보죠 뭐... 알아서 하세요!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "대신 이 뿔은 당신이 챙겨주세요. 누군가의 선물을 쓰레기통에 던지는 건 도리가 아니잖아요?"
 * *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)는 [아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)과 같은 운명을 가지게 될 것이라는 생각 덕분에 후회하지 않았다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 조심스럽게 [코르누코피아](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#cornucopia)를 받아들고 [아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)을 스올에 던진다.*
 
 #### thorn
 
@@ -251,22 +253,27 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "영겁의 세월동안 우리가 함께 이뤄온 사명들 중에서도 이토록 통쾌한 순간은 없었어!"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "그 동안 내가 어떻게 내 신앙을 미지근하지 않게 유지해왔는지 알아?"
 * *무저갱에 연단된 무기를 사용하는 대가로 스스로를 간신히 유지해왔던 [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 서서히 소멸되기 시작했다.*
-* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [디오비스](../../characters/hell/diovis/Diovis_Core.md)가 소멸하기 전에 그를 속히 심판해야 했지만, 죄책감에 행동을 망설이고 있었다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [디오비스](../../characters/hell/diovis/Diovis_Core.md)가 소멸하기 전에 그를 속히 심판해야 했지만, 자신의 죄악에 행동을 망설이고 있었다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "뭐해, 애늙은이? 평소답지 않게! 내 신앙의 비결을 알게 된다는데 기쁘지 않아?"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "모든 심판이 끝나면 너를 위한 사탄의 사자가 되어, 네 믿음이 흔들릴 때마다 너를 시험해줄게!"
+* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 등에 [아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)를 달아주고, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 손에 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)를 손에 쥐어준다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [성흔안](../../characters/purgatorium/vediovis/Vediovis_Core.md#stigmata_eyes)으로 안광을 비춰 [디오비스](../../characters/hell/diovis/Diovis_Core.md)의 자연 소멸을 중단시키고 그를 무저갱에 던진다.*
 
 #### first_date
 
 ---
 
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "너 뭐해?"
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "뭐하긴? 내가 오빠한데 데이트 신청한 거 잊었어? 내 뱀들은 염소한테 맡겨놨지!"
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "뭐하긴, 내가 오빠한데 데이트 신청한 거 잊었어? 내 뱀들은 염소한테 맡겨놨지!"
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 가슴 속 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)는 이미 차갑게 식어가고 있었으며, 아무 말도 하지 못하고 머뭇거린다.*
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 철가면과 꺼져가는 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)를 가만히 바라보다가, 이내 씁쓸하게 웃어 보인다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)**: "아... 데이트 취소야? 치, 오랜만에 기분 좀 내보려고 했는데!"
-* *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 자리를 털고 일어나 조용히 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)에게 다가가 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)에 머리를 댄다.*
+* *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 자리를 털고 일어나 조용히 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)에게 다가가 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)를 끌어안는다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "괜찮아 오빠, 농담이야! 사실 알고 있었거든..."
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "나를 달래주러 무저갱 끝까지 와줬던 때부터... 고마웠어, 버디 오빠."
+* *[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)와 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios) 또한 그 주인에게로 돌아와 마지막 사명을 함께했다.*
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 자신이 가장 의지했던 온화한 날개를 끌어안고 게힌놈에 뛰어든다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "밀키 씨, 사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?"
 * *모든 사명을 마친 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)는 얼어붙었고, [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)는 동결되었다.*
 
 ## source
