@@ -146,10 +146,6 @@
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 무저갱의 [상태이상](#status_effect)을 온전히 받아들이자 옷이 보라색으로 물들었고, 수명과 사명이 부여되었다.*
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 할복하자 부러진 번개로부터 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)가 연단되었고, 그 폭풍으로부터 [아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)가 잉태되었다.*
 
-#### 
-
----
-
 #### blasphemy
 
 ---
