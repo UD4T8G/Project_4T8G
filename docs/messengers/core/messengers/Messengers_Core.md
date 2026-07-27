@@ -25,7 +25,7 @@
 
 ---
 
-> *사자들은 절기와 안식일을 지키고...*
+> *사자들은 안식일과 절기를 지키고...*
 
 #### work_hours
 
@@ -39,10 +39,10 @@
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(비몽사몽하며)* 거 참 과격하네... 
 * *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군했다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "분위기 달아오르네! 오늘은 나 혼자 해볼테니까 넌 잠깐 빠져봐!"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래봐!"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래!"
 * > ***사람들*:** *(패닉하며)* "으아아악!" 
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "내가 굳이 달래야 할 필요 있어? 네가 **쾅!** 옮겨버리면 되는데?"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "**쾅!?** 퍽이나 안심하겠다! 다들 나만 보면 무서워서 얼어붙는데?"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "다들 퍽이나 안심하겠다! 나만 보면 무서워서 얼어붙는데?"
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 초공간도약, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 포털 능력을 보유하고 있다.*
 * *그 좋은 능력 가지고도 사람들 때문에 못 써먹고 있긴 하다.*
 
@@ -53,10 +53,10 @@
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "거기는 참 재밌었어. 매번 같은 죄를 짓고 벌을 받아도 바뀌지를 않더라고."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *([메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)* "메에에!"
 * *거기가 어딘지는 아무도 모른다. 이 새끼들이 그런 철학적인 주제를 논할 리가 없다.*
+* *하지만 분명히 멍청한 놈들은 아니다. 아마도 아닐 것이다. 사실 모르겠다.*
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)* "그래, 거기서 지키지도 않을 율법 주구장창 배우다 죽는 것보다는 너처럼 멍청하게 사는 게 훨씬 유익하겠다."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(자이언트 스윙)* "메에?"
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(빙글 빙글)* "**우워어억!!! 잠깐마아안!!!**"
-* *하지만 분명히 멍청한 놈들은 아니다. 아마도 아닐 것이다. 사실 모르겠다.*
 
 #### leaving_time
 
@@ -73,13 +73,14 @@
 ---
 
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한거 생각해서 포도청을..."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *(당황하며)* "잠깐만, 너 혹시 뭐 잘못 먹었어? 왜 이렇게 온화하지..."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(포도청을 들이키며)* "**아아아아악!**"
-* *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *(당황하며)* "잠깐만, 혹시 뭐 잘못 먹기라도 했나? 왜 이렇게 온화해!?"
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "입 벌려 봐! 내가 넣어 줄게! 아~! 어라?" *(실망하며)* "맞다... 오빠 머리 없었지?"
-* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 등을 열어 [봉인](../../characters/purgatorium/meilichia/Meilichia_Core.md#seal)된 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 상태를 확인해 봤는데, 모두 시큼한 냄새를 풍기며 잠들어 있었다.*
+* *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
+* *하지만 저 게으른 염소가 비명같은 울음소리를 내는 경우는 극히 드물다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "입 벌려 봐! 내가 넣어 줄게! 아~! 어라?" *(실망감에 주저앉으며)* "맞다... 오빠 머리 없었지?"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)를 밀쳐내며)* "잠깐만... 설마?"
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 등을 열어 [봉인](../../characters/purgatorium/meilichia/Meilichia_Core.md#seal)된 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 상태를 확인해 봤는데, 모두 시큼한 냄새를 풍기며 잠들어 있었다.*
 * *포도청은 설탕 비율을 잘못 잡아 와인이 되어 있었고, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 머리가 없음에도 불구하고 뇌정지가 왔다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *(울먹이며)* "오빠... 화났어?"
 * *"Zeus Meilichios"에게는 "Nephalia", 즉 금주 공헌을 해야 한다. 지금 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)는 술에 꼴아 잠든 것이다.*
@@ -89,16 +90,16 @@
 
 ---
 
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(깊은 고뇌)* "그래서, 난 이걸 왜 먹어야 하는거지? 사자들은 배고프지 않는데..."
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "이거 끝나고 해야 할 일이 산더미니까 그냥 쳐먹어!"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 만지작거리며)* "식사 예절은 왜 존재하는 거지? 여긴 공동체도 없는데..."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(깊게 고뇌하며)* "그래서, 난 이걸 왜 먹어야 하는거지? 사자들은 배고프지 않는데..."
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "이거 끝나고 해야 할 일이 산더미니까 감사히 쳐먹어!"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 만지작거리며)* "감사란... 소멸되지 않은 오늘이 아닐까? 진정한 행복은 가까이 있는..."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(불쑥) (냠냠)* "메에에..."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 던진다.)* "**뭐야 시발**, 너 어떻게 들어왔어!?"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 던지며)* "**뭐야 시발 깜짝이야**, 너 어떻게 들어왔어!?"
 * > **[메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(불쑥) (냠냠)* "[버디](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [밀키](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 몰라도 우리는 [연옥](#purgatorium) 못 나간다는 소리 없었거든?"
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "우리도 [지옥](#hell)에서 못 나간다는 소리 한 적 없단다, 아가들아!"
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "우리도 [지옥](#hell)에서 못 나간다는 소리 한 적 없단다, 잘 때 안 찾아오나 둘러봐라!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *(냠냠)* "손님들이 많이 찾아왔네요... 더 많은 행운이 필요할지도 모르겠어요."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목을 잡는다.)*
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(볼을 비빈다.)*
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목을 잡으며)* "오늘의 감사는 물 건너갔네... 아이고, 난 일이나 하러 가야겠다..."
+* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(볼을 비비며)* *(알 수 없는 수화)*
 
 #### killer_bunny
 
@@ -111,7 +112,12 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "내가 가져올게!"
 * *도대체 왜 그런 게 지옥에 있는지는 모르겠지만, 이 새끼들은 어찌저찌 구했다고 하니 참으로 존경스럽다.* 
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** **"수류탄이 너무 성스러워서 내 몸이 갈려나가고 있잖아! 빼애애애액!!!"**
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(슬금 슬금 도망친다.)* 
+* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(슬금 슬금 도망치며)* "헉..."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(정색하고 수류탄을 가볍게 집어던지며)* "너 방금 말했지?"
+* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(고개를 저으며)* "아닌데..."
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** **"꺅! 왜 수류탄을 우리한테 던지..."**
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** **"야야, 튀어!"**
+* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(예수 버리는 속도로 도주)*
 
 ### prequel
 
@@ -183,7 +189,7 @@
 * > **참수된 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "너희를 제물로서 가지기를 원할진대 너희가 무엇을 할 수 있으리오, 하늘로부터의 능력이 끊어진 나약한 영혼들이여!"
 * *달래야 하는 하늘은 전사를 향해 달려들었지만, 전사는 모든 운명을 피하지 않았다.*
 * *전사는 아무 말도 하지 않았고, 아무 저항도 하지 않았으니, 그 모습이 마치 죽은 것과도 같았다.*
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "인자여 너희는 이곳에서 은밀한 것을 찾아 깨달아야 하는도다."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다."
 * *달래야 하는 하늘은 당황하며 하늘을 올려다본다. 그들은 전사를 묶었지만, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 심장은 하늘에 떠 있었다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "에보카티오는 너희가 아니라 온화한 존재로 하여금 날개를 받아들이도록 하기 위함이니라."
 * *구속된 전사는 사라지고, 그 심장으로부터 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)가 수레바퀴 안의 수레바퀴를 이루며 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)가 도래했다.*
@@ -216,7 +222,7 @@
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *여전히 나를 기억했다... 그들은 나의 피를 물려받았고, 그들은 나의 몸으로 연결되었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 선물을 기억하고 있었고, 그 행운 또한 말 없이 나를 사랑하고 있었다. 이것을 깨달았을 때는 이미 내가 융합되어 사라진 후였다. 나는 절망하고 뼈저리게 후회했다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)이 아니다. 그는 내 뜻대로 행하지도 않았고, [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 좋은 동반자가 되어주지도 못했다. 역설적이게도 나를 대신한 것은 내가 그토록 인정하고 싶지 않았던; 위도 아래도 없는 새끼들이었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 머리가 없다. 그리고 나는 이를 갈며 슬피 울어야 한다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
 
 ### sequel
 
@@ -411,13 +417,39 @@
 
 ---
 
-* 사자들의 [메인](#main) 시나리오는 "마카베오상하권"을 참조한다.
 * 사자들의 이름은 그 속성에 따라 "종교적 에피테트"가 아닌 "비평학적 에피테트"를 참조한다.
-* [천국](#heaven)에 대한 제한은 "1 Enoch 14:7 [ 4Q204 ]"을 참조한다.
+* [속죄](#redemption)의 "아나피엘의 불채찍 60대"는 "3 Enoch 16:5"를 참조한다.
+  * > *בְּאוֹתָהּ שָׁעָה בָּא [ עַנְפִיאֵל יְיָ (A, B, L) / עַנְפִיאֵל (C, D) ] [ הַשַּׂר הַנִּכְבָּד (C, D) / הַשַּׂר הַנִּכְבָּד נֶהְדָּר נֶחְמָד נִפְלָא נוֹרָא וְנֶעֱרָץ (A, B) ] מִשְּׁלִיחוּת שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהִכַּנִי [ שִׁשִּׁים פּוּלְסָאוֹת שֶׁל אוֹר (A, B) / שִׁשִּׁים פּוּלְסֵי דְנוּרָא (D, $b.\text{Hag.}^{15a}$) / מַכּוֹת אֵשׁ ($\mathfrak{M}^\text{later}$) ] [ וְהֶעֱמִידַנִי עַל רַגְלַי (A, B, C, D) / וְהוֹרִידַנִי מִכִּסְאִי (var.) ]*
+* [연옥](#purgatorium)의 네하르 디누르는 "Book of Daniel", "1 ENOCH", "3 ENOCH"의 "נְהַר דִּי-נ֥וּר"를 참조한다.
+  * 실제 "로마 가톨릭" 전례서상의 "연옥"은 "2 MACCABEES 12:44"를 참조한다.
+    * > *εἰ [ μὴ γὰρ (A, Ed. Göttingen, Rahlfs) / γὰρ μὴ (V, L, Ed. Sixtina) ] τοὺς προπεπτωκότας ἀναστῆναι προσεδόκα, [ περισσὸν καὶ ληρῶδες (A, Ed. Göttingen, Rahlfs) / περισσὸν ἂν ἦν καὶ ληρῶδες (V, L, $\mathfrak{M}$, $\text{La/Vulg}$, Ed. Sixtina) ] ὑπὲρ [ νεκρῶν (A, V, L, Ed. Göttingen) / τῶν νεκρῶν ($\mathfrak{M}$) ] [ εὔχεσθαι (A, Ed. Göttingen, Rahlfs) / προσεύχεσθαι (V, L, $\mathfrak{M}$, Ed. Sixtina) ]*
+  * [첫 데이트](#first_date)의 게힌놈은 "동방 정교회"의 "Hesychasm", "Palamism"을 참조하므로 그 성질이 같다.
+* [천국](#heaven)에 대한 제한은 "1 ENOCH 14:7 [ 4Q204 ]"을 참조한다.
   * > *לא תסלק לכל יומי עלמא ודינא נפק עליכון די לא תתעבד לכון שאלתכוןv [...]*
   * > *ወኢይከውን ፡ ለክሙ ፡ ስእለትክሙ ፡ ለኵሉ ፡ መዋዕለ ፡ ዓለም ፡ ወወፅአ ፡ ላዕሌክሙ ፡ ፍትሕ ፡ እስመ ፡ ኢይትገበር ፡ ለክሙ ፡ ስእለትክሙ ፡ ወኢምንተኒ ፡ ወእመኒ ፡ ትበክዩ ፡ ወትስእሉ ፡ ወትነቡ ፡ ኵሎ ፡ ቃላተ ፡ ዘውስተ ፡ መጽሐፍ ፡ ዘአነ ፡ ጸሐፍኩ ።*
   * > *καὶ οὐκ ἔσται ὑμῶν ἡ δέησις εἰς πάσας τὰς ἡμέρας τοῦ αἰῶνος, καὶ ἐξεληλύθει καθ’ ὑμῶν ἡ κρίσις· ὅτι οὐκ ἔσται ὑμῖν αἴτησις καὶ οὐδ’ οὕτως ὑμῖν ἔσται.*
-* [완곡어법](#euphemism) 서사의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
-* [에피테트](#epithet) 서사의 악한 영들은 "1 ENOCH 15:8~9"을 참조한다.
+* 악한 권세들은 "EPHESIANS 6:12"을 참조한다.
+  * > *ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.*
+* 악한 영들은 "1 ENOCH 15:8~9"을 참조한다.
   * > *ወይእዜኒ ፡ ረዓይት ፡ እለ ፡ ተወልዱ ፡ እመንፈስ ፡ ወእምሥጋ ፡ መናፍስተ ፡ እኩያነ ፡ ይጼወዑ ፡ በዲበ ፡ ምድር ፡ ወበምድር ፡ ይከውን ፡ ማኅደሮሙ ።*
   * > *መናፍስት ፡ እኩያን ፡ ወፅኡ ፡ እምሥጋሆሙ ፡ እስመ ፡ እምሰብእ ፡ ተወልዱ ፡ ወእምቅዱሳን ፡ ትጉሃን ፡ ቀዳሚ ፡ ልደቶሙ ፡ ወመሠረቶሙ ፤ መናፍስተ ፡ እኩያነ ፡ ይከውኑ ፡ በዲበ ፡ ምድር ፡ ወመናፍስተ ፡ እኩያነ ፡ ይጼወዑ ።*
+* [메인](#main) 시나리오는 "1 MACCABEES", "2 MACCABEES"를 참조한다.
+* [살인 토끼](#killer_bunny) 서사는 다음을 참조한다.
+  * "살인 토끼"와 "안티오크의 성스러운 수류탄"은 "Monty Python and the Holy Grail"을 참조한다.
+  * "예수 버리는 속도로 도주"는 "MARK 14:51~52"의 "Naked fugitive"를 참조한다.
+* [완곡어법](#euphemism) 서사는 다음을 참조한다.
+  * [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
+  * "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다." 대사는 "1 Enoch 60:10"을 참조한다.
+    * > *ወይቤለኒ፡ [ ወልደ፡እጓለ፡እመሕያው፡ (Eth II) / ወልደ፡ሰብእ፡ (Eth I) / ወልደ፡ብእሲ፡ (MS g) ] ዘንተ፡ተሐሥሥ፡ከመ፡ ታእምር፡ዘኅቡእ።*
+    * 해당 문장은 "Book of Noah" 단편의 일부로, 정황상 "천사"가 "노아"에게 건넨 말이다.
+    * 고대 "그으즈어 (Ge'ez)"사본에는 표현형 문장부호가 없었으며, 해당 문장은 "노아"의 호기심에 대한 "천사"의 서두와 "천사"의 경고 등으로 중의적인 해석이 가능하다.
+  * "그 선 안으로, 모든 것들이 계속하여 합력하게 되고 있음을 너희는 알지 못하느냐?" 대사는 "ROMANS 8:28"를 참조한다.
+    * > *Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσιν τὸν θεὸν [ πάντα συνεργεῖ (ℵ, C, D, F, G, Ψ, $\mathfrak{M}$, $\text{lat}$, $\text{syr}^{p,h}$, $\text{Chr}$, $\text{Aug}$) / πάντα συνεργεῖ ὁ θεὸς ($\mathfrak{P}^{46}$, A, B, 81, $1739^*$, $\text{cop}^{sa,bo}$, $\text{eth}$, $\text{Or}$, $\text{Cyr}$) / ὁ θεὸς πάντα συνεργεῖ (33, 2464) ] εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν.*
+* [융합주의](#syncretism) 서사의 "나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다." 대사는 다음을 참조한다.
+  * 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조한다.
+  * "슬피 울며 이를 갈리라"는 "MATTHEW"의 표현 방식을 참조한다.
+* [심판의 날](#judgement_day) 서사는 "Talmud"의 "Megillah 10b", "Sanhedrin 39b"를 참조한다.
+  * > *מעשה ידי [ ... ] בים ואתם אומרים שירה לפני*
+    * > *[ טובעין (MS Munich 95) / טובעים (Vilna) ]*
+  * 해당 문장은 홍해 바다가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 다룬다.
+  * > *내 손으로 만든 피조물들이 바다에 빠져 죽어가고 있는데, 너희가 내 앞에서 감히 찬가를 부르느냐?*
