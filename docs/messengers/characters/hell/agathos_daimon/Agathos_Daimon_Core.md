@@ -47,7 +47,7 @@
 
 | **Traits** | 타격, 구속 |
 | :--- | :--- |
-| **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 주입 |
+| **Basic** | [다이몬](#daimon)이 전방의 오브젝트를 추적하여 타격 후 [죄악](../../../core/messengers/Messengers_Core.md#sin) 주입 |
 | **Special** | [티케](#tyche)가 캐스팅 후 전방의 오브젝트를 향해 돌진하여 [코르누코피아](#cornucopia)를 쏟아 지속 타격 |
 | **Ultimate** | 오브젝트를 [다이몬](#daimon)이 휘감아 구속한 뒤 [티케](#tyche)가 [코르누코피아](#cornucopia)로 세뇌 |
 
@@ -57,9 +57,9 @@
 
 | **Traits** | 탄막, 광역 장판 |
 | :--- | :--- |
-| **Basic** | 캐스팅 후 [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 느리게 산탄 사격 |
-| **Special** | [다이몬](#daimon)이 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 지속적으로 빠르게 단일 사격 |
-| **Ultimate** | [코르누코피아](#cornucopia)로 사격하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 강화<br>[코르누코피아](#cornucopia)로 사격하여 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 적용된 오브젝트 약화 |
+| **Basic** | 캐스팅 후 [다이몬](#daimon)이 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 느리게 산탄 사격 |
+| **Special** | [다이몬](#daimon)이 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 지속적으로 빠르게 단일 사격 |
+| **Ultimate** | [코르누코피아](#cornucopia)로 사격하여 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 적용된 오브젝트 강화<br>[코르누코피아](#cornucopia)로 사격하여 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 적용된 오브젝트 약화 |
 
 #### distance_control
 
@@ -69,7 +69,7 @@
 | :--- | :--- |
 | **Basic** | 모든 육신을 [파편화](#fragmentation)하여 단거리 회피 |
 | **Special** | [파편화](#fragmentation) 상태로 고속 이동한 뒤 재조립하며 장거리 질주 |
-| **Ultimate** | [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 두르고 [파편화](#fragmentation)하여 전장 전체를 고속 타격 |
+| **Ultimate** | [죄악](../../../core/messengers/Messengers_Core.md#sin)을 두르고 [파편화](#fragmentation)하여 전장 전체를 고속 타격 |
 
 ## source
 
@@ -111,31 +111,31 @@
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 효과 전환
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 효과 전환
     * 긍정적 효과
     * 부정적 효과
   * 재물
   * 식량
 * **Description:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)에 결합하는 재물과 식량을 쏟아낸다.
-  * 종류에 따라 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 다른 효과로 전환된다.
-  * 전환된 효과의 성능은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)의 중첩 수에 비례한다.
-  * 재물과 식량은 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 결합성을 제외하면 실질적인 가치를 지닌다.
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin)에 결합하는 재물과 식량을 쏟아낸다.
+  * 종류에 따라 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 다른 효과로 전환된다.
+  * 전환된 효과의 성능은 [죄악](../../../core/messengers/Messengers_Core.md#sin)의 중첩 수에 비례한다.
+  * 재물과 식량은 [죄악](../../../core/messengers/Messengers_Core.md#sin) 결합성을 제외하면 실질적인 가치를 지닌다.
 
 #### daimon
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 사출
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 사출
   * 지역 오염
 * **Description:**
-  * 뱀의 독니에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 발사된다.
+  * 뱀의 독니에서 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 발사된다.
   * 지면에 쏟아져도 사라지지 않는다.
 
 ### miscellaneous

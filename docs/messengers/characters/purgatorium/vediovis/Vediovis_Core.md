@@ -38,7 +38,7 @@
 
 > *새로운 모습으로 부활하여 무거운 사명을 부여받았으며, 신중하게 판단하고 신속하게 집행한다.*
 
-> *검은 눈물을 흘리는 철가면의 이면에는 동료의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
+> *검은 눈물을 흘리는 철가면의 이면에는 동료의 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 직접 연소시키고, 불의 강에도 뛰어드는 헌신이 숨겨져 있다.*
 
 > *사명을 경외하지만, 동료가 드러누워 떼를 쓸 때마다 달래면서 한편으로는 인지부조화가 온다.*
 
@@ -110,30 +110,30 @@
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 신체를 [팔괘](#bagua)로 전환
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 신체를 [팔괘](#bagua)로 전환
 * **Description:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin)이 임계치 이하일 경우 신체를 지속적으로 불러올 수 있다.
 
 #### fission_of_community
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩 연산
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩 연산
   * [팔괘](#bagua)를 제외한 모든 형태 분열
   * 분열된 형태 [몰레스](#moles)로 흡수 
 * **Description:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 받아들인다.
-  * [몰레스](#moles)의 능력치는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * [적군 수 - 아군 수]가 양수일 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [적군 수 - 아군 수]가 음수일 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 받아들인다.
+  * [몰레스](#moles)의 능력치는 [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량에 비례한다.
+  * [적군 수 - 아군 수]가 양수일 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 증가한다.
+  * [적군 수 - 아군 수]가 음수일 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 감소한다.
   * 지속시간 동안 [분열](#fission)을 사용할 수 없다.
 
 #### stigmata_eyes
@@ -181,27 +181,27 @@
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * [몰레스](#moles) 봉인
 * **Description:**
   * 철가면을 착용하고 머리 앞의 [성흔안](#stigmata_eyes) 두 세트로 잡는다.
   * [몰레스](#moles)가 베디오비스의 머리로 변하고 봉인된다.
-  * [애퍼래터스](#apparatus)에서 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 정화할 수 있다.
+  * [애퍼래터스](#apparatus)에서 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 정화할 수 있다.
 
 #### unseal
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * [몰레스](#moles) 해제
 * **Description:**
   * 머리 앞의 [성흔안](#stigmata_eyes) 두 세트를 놓고 철가면을 벗는다.
   * 베디오비스의 머리가 [몰레스](#moles)로 변하고 해제된다.
-  * 안광에 적중한 오브젝트의 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 흡수할 수 있다.
+  * 안광에 적중한 오브젝트의 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 흡수할 수 있다.
 
 #### judgement_bolt
 

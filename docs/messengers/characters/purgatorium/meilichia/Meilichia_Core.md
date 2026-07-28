@@ -37,7 +37,7 @@
 
 ---
 
-> *다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 앞에서는 동료를 위해 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
+> *다른 놈들 많은데 굳이 자신을 선택한 동료를 못마땅해 하지만, [죄악](../../../core/messengers/Messengers_Core.md#sin) 앞에서는 동료를 위해 자신의 형태가 찢겨나가는 것도 감수하는 애증의 관계이다.*
 
 > *혼자 있을 때는 나무에 기대고 [메일리키오스](#meilichios)와 잡담하면서 지내는데, 아무리 봐도 유혹당하는 것처럼 보인다.*
 
@@ -107,29 +107,29 @@
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
   * 최소 형태를 [사태극](#sitaegeuk)으로 유지
 * **Description:**
   * 부활 시스템이다.
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin)이 임계치 이하일 경우 신체를 충전하여 불러올 수 있다.
 
 #### fusion_of_martyrs
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 임계 중첩 적용
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 임계 중첩 적용
   * [사태극](#sitaegeuk)을 제외한 모든 형태 융해
   * 모든 [메일리키오스](#meilichios) 융합
 * **Description:**
   * 최후의 저항이다.
-  * 신체가 모두 소실될때까지 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 받아들인다.
-  * [메일리키오스](#meilichios)의 능력치는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량에 비례한다.
-  * 참수 능력을 사용하고 있지 않을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 감소한다.
+  * 신체가 모두 소실될때까지 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 받아들인다.
+  * [메일리키오스](#meilichios)의 능력치는 [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량에 비례한다.
+  * 참수 능력을 사용하고 있지 않을 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 감소한다.
 
 #### fusion_core
 
@@ -226,19 +226,19 @@
 
 ---
 
-> import [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) from [사자들](../../../core/messengers/Messengers_Core.md)
+> import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
-  * 피격 효과 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 변환
-    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 호전성 증가
-    * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 비례 신체 안정성 감소
-  * [메일리키오스](#meilichios) 참수 시 지속적으로 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 증가
-  * [메일리키오스](#meilichios) 수복 시 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 자동 감소
+  * 피격 효과 [죄악](../../../core/messengers/Messengers_Core.md#sin) 변환
+    * [죄악](../../../core/messengers/Messengers_Core.md#sin) 비례 호전성 증가
+    * [죄악](../../../core/messengers/Messengers_Core.md#sin) 비례 신체 안정성 감소
+  * [메일리키오스](#meilichios) 참수 시 지속적으로 [죄악](../../../core/messengers/Messengers_Core.md#sin) 증가
+  * [메일리키오스](#meilichios) 수복 시 [죄악](../../../core/messengers/Messengers_Core.md#sin) 자동 감소
 * **Description:**
-  * 메일리키아는 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)을 증가시키는 대신 신체 결손을 수복할 수 있다. 
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect) 중첩량이 높아질수록 글리치를 일으키고 본질인 무형에 가까워진다.
-  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)이 지속적으로 증가한다.
-  * [상태이상](../../../core/messengers/Messengers_Core.md#status_effect)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
+  * 메일리키아는 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 증가시키는 대신 신체 결손을 수복할 수 있다. 
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량이 높아질수록 글리치를 일으키고 본질인 무형에 가까워진다.
+  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 증가한다.
+  * [죄악](../../../core/messengers/Messengers_Core.md#sin)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
 
 #### seal
 
