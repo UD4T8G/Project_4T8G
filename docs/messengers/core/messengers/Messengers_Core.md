@@ -162,10 +162,10 @@
 ---
 
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "우리같은 하급 사자들도 영겁의 세월동안 사명을 섬겨왔지."
-* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "하지만 다들 맨정신으로 일하기에는 환경이 더럽기 때문에 사건사고가 터지곤 해."
-* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "애초에 여기 새겨진 우상 (Graven Image)들이 섬기고 있다는 것도 문제가 많아."
+* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "하지만 다들 맨정신으로 일하기에는 열악하기 때문에 사건사고가 터지곤 해."
+* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "애초에 새겨진 우상 (Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "우리의 일탈은 그 영겁의 세월 중 티끌보다도 작다고 볼 수 있지."
-* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *([메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)* "메에에!"
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)* "메에에!"
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없긴 해. 그나마 다행인건 우리의 사명이 엄격한 제사보다는 느슨한 사랑에 가깝다는 거야."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(자이언트 스윙)* "메에?"
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(빙글 빙글)* "**우워어억!!! 잠깐마아안!!!**"
@@ -177,11 +177,13 @@
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "그동안 고생 많았어. 거기서 만나면 커피라도 한 잔 사줘."
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "우리 덕분에 출세한 줄 알아라! 거기서 만날 때는 데스스토커 독이라도 한 잔 구해와라?"
 * > **천국 가는 사람:** "닥쳐, 너네 돈으로 마시던가 해!" *(웃음)* "농담이고, 다음에 같이 카페나 가자고!"
-* 커피는 싸고, 데스스토커 독은 비싸다. 그리고 [연옥](#purgatorium)에 카페가 있을 리 없다.
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "근데 우리 카페 갈 수 있어?"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "우리 연옥에서 못 나가..."
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "너 그동안 힘들어서 어떻게 지냈냐?"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "넌 어떻게 해소했는데?"
+* *커피는 싸고, 데스스토커 독은 비싸다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** ([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)의 등에 기대며) "근데 우리 카페 갈 수 있어?"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "우리 연옥에서 못 나가..." *(당황하며)* "근데 내 염소..."
+* *염소는 등이 약하기 때문에 올라타면 안 된다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([모노폴](../../characters/purgatorium/meilichia/Meilichia_Core.md#monopole) 권총을 손가락에 걸고 돌리며)* "너 그동안 힘들어서 어떻게 지냈냐?"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "넌 어떻게 해소했는데?" *(기겁하며)* "일단 그거 좀 내려놓고..."
+* *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
 #### wine
 
@@ -332,7 +334,7 @@
 ---
 
 * 훈계
-* 아나피엘의 불채찍 60대
+* 불채찍 60대
 * 네하르 디누르에서의 정화
 
 #### detention
@@ -429,13 +431,17 @@
 ---
 
 * 사자들의 이름은 그 속성에 따라 "종교적 에피테트"가 아닌 "비평학적 에피테트"를 참조한다.
-* [속죄](#redemption)의 "아나피엘의 불채찍 60대" 부분은 "3 Enoch 16:5"를 참조한다.
+* [속죄](#redemption)의 "불채찍 60대" 부분은 "3 Enoch 16:5"를 참조한다.
   * > *בְּאוֹתָהּ שָׁעָה בָּא [ עַנְפִיאֵל יְיָ (A, B, L) / עַנְפִיאֵל (C, D) ] [ הַשַּׂר הַנִּכְבָּד (C, D) / הַשַּׂר הַנִּכְבָּד נֶהְדָּר נֶחְמָד נִפְלָא נוֹרָא וְנֶעֱרָץ (A, B) ] מִשְּׁלִיחוּת שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהִכַּנִי [ שִׁשִּׁים פּוּלְסָאוֹת שֶׁל אוֹר (A, B) / שִׁשִּׁים פּוּלְסֵי דְנוּרָא (D, $b.\text{Hag.}^{15a}$) / מַכּוֹת אֵשׁ ($\mathfrak{M}^\text{later}$) ] [ וְהֶעֱמִידַנִי עַל רַגְלַי (A, B, C, D) / וְהוֹרִידַנִי מִכִּסְאִי (var.) ]*
+  * 해당 문장은 "랍비 엘리샤 벤 아부야"가 "메타트론"을 "하늘의 두 권세"로 오해하자, "아나피엘"이 "메타트론"에게 "불채찍 60대"를 가하며 두 발로 서도록 하는 장면이다.
+  * "메타트론"과 "아나피엘"은 "Sar HaPanim (얼굴의 천사, 임재의 천사)" 소속이다.
+    * "C, D" 문헌에는 "아나피엘 (עַנְפִיאֵל)" 명칭을 사용하는 반면, "A, B, L" 문헌에는 "**아나피엘 YHWH (עַנְפִיאֵל יְיָ)**" 명칭을 사용하고 있다. ("**יְיָ**" 표현은 "**'יהוה**" 표현의 서기용 약어이다.)
+    * 이러한 명칭상의 특징은 [천국](#heaven) 묘사에 대한 제한으로도 이어진다.
 * [연옥](#purgatorium)의 네하르 디누르는 "Book of Daniel", "1 ENOCH", "3 ENOCH"의 "נְהַר דִּי-נ֥וּר"를 참조한다.
   * 다만, 전례서상의 "연옥"은 "2 MACCABEES 12:44"를 참조한다.
     * > *εἰ [ μὴ γὰρ (A, Ed. Göttingen, Rahlfs) / γὰρ μὴ (V, L, Ed. Sixtina) ] τοὺς προπεπτωκότας ἀναστῆναι προσεδόκα, [ περισσὸν καὶ ληρῶδες (A, Ed. Göttingen, Rahlfs) / περισσὸν ἂν ἦν καὶ ληρῶδες (V, L, $\mathfrak{M}$, $\text{La/Vulg}$, Ed. Sixtina) ] ὑπὲρ [ νεκρῶν (A, V, L, Ed. Göttingen) / τῶν νεκρῶν ($\mathfrak{M}$) ] [ εὔχεσθαι (A, Ed. Göttingen, Rahlfs) / προσεύχεσθαι (V, L, $\mathfrak{M}$, Ed. Sixtina) ]*
   * [첫 데이트](#first_date)의 게힌놈은 "Hesychasm", "Palamism"을 참조하므로 네하르 디누르의 성질을 지닌다.
-* [천국](#heaven)에 대한 제한은 "1 ENOCH 14:7 [ 4Q204 ]"을 참조한다.
+* [천국](#heaven) 묘사에 대한 제한은 "1 ENOCH 14:7 [ 4Q204 ]"을 참조한다.
   * > *לא תסלק לכל יומי עלמא ודינא נפק עליכון די לא תתעבד לכון שאלתכוןv [...]*
   * > *ወኢይከውን፡ለክሙ፡ስእለትክሙ፡ለኵሉ፡መዋዕለ፡ዓለም፡ወወፅአ፡ላዕሌክሙ፡ፍትሕ፡እስመ፡ኢይትገበር፡ለክሙ፡ስእለትክሙ፡ወኢምንተኒ፡ወእመኒ፡ትበክዩ፡ወትስእሉ፡ወትነቡ፡ኵሎ፡ቃላተ፡ዘውስተ፡መጽሐፍ፡ዘአነ፡ጸሐፍኩ።*
   * > *καὶ οὐκ ἔσται ὑμῶν ἡ δέησις εἰς πάσας τὰς ἡμέρας τοῦ αἰῶνος, καὶ ἐξεληλύθει καθ’ ὑμῶν ἡ κρίσις· ὅτι οὐκ ἔσται ὑμῖν αἴτησις καὶ οὐδ’ οὕτως ὑμῖν ἔσται.*
