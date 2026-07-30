@@ -39,20 +39,20 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(책을 덮으며)* "위도 아래도 없는 새끼로 만들어 놨군. 허나 부족함은 참된 인간의 증거로다."
 * *그들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
 * *영겁의 세월이 흐르고, 그는 하늘로부터 땅으로 내려와 새 하늘과 새 땅을 맞이하게 된다.*
-* > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 몰라요!"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "제우스 크토니우스의 안녕은 알지 못하나, 듣자하니 스올의 다른 이름이 하데스라고 하더군."
+* > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 모르겠네요!"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "제우스 크토니우스의 안녕은 알지 못하게 되었으나, 내 듣자하니 스올을 하데스라고도 부르더군."
 * > **아에토스 디오스:** "제우스 말입니까? 그 위도 아래도 없는 새끼 말하시는 거 맞죠?"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "미안하네... 너무 어렵게 설명한 것 같군. 제우스 크토니우스가 곧 하데스라고 하면 이해하겠나?"
 * *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군했다.*
 * *아에토스 디오스가 [디오비스](../../characters/hell/diovis/Diovis_Core.md)를 지키기 위해 비상했으나, 악한 권세는 육신이 없어 그 어떤 공격도 통하지 않았다.*
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "아에토스, 버틸 수 있겠나? 이 녀석들은 마치 프로메테우스를 쪼아대는 검수리같군."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "아에토스, 버틸 수 있겠나? 이 녀석들은 마치 **프로메테우스를 쪼아대는 검수리**같군."
 * > **아에토스 디오스:** "저는 여기까지인 것 같군요, 그동안 모시게 되어 영광이었습니다... **도망치세요!**"
 * *번개를 던져봤지만 번번히 꺼졌고, [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 소멸해가는 아에토스 디오스를 품에 안고 있었다.*
 * *악한 영들이 아에토스 디오스에게 빙의했고, [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 영적 싸움에서 패배하여 무저갱에 떨어졌다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(빙의된 아에토스 디오스를 쓰러뜨리며)* "내 모든 권세가 여기서는 바람 앞의 등불과도 같구나!"
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 아말테아의 가죽을 꺼내 빙의된 아에토스 디오스를 감싸고, 고르곤의 머리로 눌렀다.*
 * *그러던 도중 [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 아말테아의 가죽을 만지면서 전율하게 되고, 눈물을 흘리게 된다.*
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "**보라, 죽어서도 나를 가르치시니; 참된 나의 어머니로다!**" *(번개를 부러트리며)* "**나는 결코 아버지의 신부를 빼앗지 아니하겠노라!**"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "**보라, 죽어서도 나를 가르치시니; 나의 참된 어머니로다!**" *(번개를 부러트리며)* "**나는 결코 아버지의 신부를 빼앗지 아니하겠노라!**"
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 무저갱의 [죄악](#sin)을 온전히 받아들이자 옷이 보라색으로 물들었고, 수명과 사명이 부여되었다.*
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 할복하자 부러진 번개로부터 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)가 연단되었고, 그 폭풍으로부터 [아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)가 잉태되었다.*
 
@@ -60,27 +60,32 @@
 
 ---
 
-* *공세가 끊임없고, 날개는 꺼져가고, 사람들은 잡혀가고, 전사는 쓰러졌다.*
+* *공세가 끊어지지 않고, 날개는 꺼져가고, 사람들은 잡혀가고, 전사는 쓰러졌다.*
 * *전사는 무저갱에 던져졌다. 방향도 느낄 수 없었고, 한 치 앞도 보이지 않았다.*
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "하늘로부터 받은 권세와 땅으로부터 받은 권속이 있음에도 불구하고 사명을 다하지 못하셨습니다."
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "악하고 게으른 종이 화를 부름과 같습니다. 이것은 제 탓이고, 제 탓이며, 저의 크나큰 탓이옵니다."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "많은 것을 받았으나 많이 드리지 못하였으니, 이번만큼은 부디 받아 주셨으면 좋겠습니다."
 * *전사의 권속은 그 주인을 위하여 자신의 [죄악](#sin)으로 탄원서를 쓰고, 심판자를 향해 나아간다.*
-* *전사는 그 권속을 붙잡으려 했으나 기회를 놓쳤고, 하늘을 올려다보며 혼잣말한다.*
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "존재 자체를 부정당하는 것 같습니다..." *(각혈하며)* "**저는 좋은 목자가 될 수 없단 말입니다!**"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "이것이 내 마지막 사명이 될지도 모르겠지만... 내 손으로 시작한 일은 내 손으로 끝내고 싶어."
+* *전사는 그 권속을 붙잡으려 했으나 무저갱에 발이 빠져 그를 놓쳤고, 하늘을 올려다보며 고통을 호소한다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "모든 것을 부정당하는 것 같습니다..." *(각혈하며)* "**저는 결코 좋은 목자가 될 수 없단 말입니다!**"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "제 손으로 시작한 일은 제 손으로 끝내고 싶지만... 마지막 사명이 될지도 모르겠군요..."
 * *빛으로부터 완전히 단절된 후에는 이곳에서 나갈 수 있을지 없을지도 알 수 없었다.*
 * *결단한 전사는 무릎을 꿇고, 자신의 [날개](#wings)에서 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)만 남기고 나머지는 모조리 도려냈다.*
 * *도려낸 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)을 펼치자 전사의 앞에 새겨진 우상 (Graven Image)들이 끝없이 펼쳐졌다.*
 * *[연옥](#purgatorium)을 위해 준비된 그릇들은 그 수가 많았으나, 그들을 위해 준비된 [날개](#wings)는 오직 하나였다.*
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "내가 [연옥](#purgatorium)에서 홀로 싸우는 동안 [날개](#wings)가 함께했지만 영원하지 않았다."
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "너희들 중 단 하나의 그릇만이 [날개](#wings)를 받아 [연옥](#purgatorium)을 위해 싸우게 될 것이다."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "내가 [연옥](#purgatorium)에서 홀로 싸우는 동안 하늘로부터 받은 권세가 함께했으나 충분하지 않았다."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "땅으로부터 받은 권속은 다시 땅에 묻어둘 수 있으나, 이 또한 순종의 태도는 아니다."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "천국으로부터 연옥으로, 연옥으로부터 지옥으로, 어디에나 있고 누구나 섬기게 될 사명이다."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "**하지만 지금은 너희들 중 단 하나의 그릇만이 [날개](#wings)를 받아 [연옥](#purgatorium)의 사명을 섬기게 될 것이다!**"
 * *이곳을 간단히 둘러보던 전사는 이곳에서 가장 깊은 소굴을 향해 걸어갔다.*
 * *입구에서 멀어질수록 능력은 더욱 약해져갔고, 심층부에 가까워질수록 발은 더더욱 깊숙히 빠져갔다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "좋지 않은 길이지만 그 안에 있는 것들은 나쁘지 않아 보이는군."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "마치 운명과도 같이, 이 순간만을 위해 준비되어 있던 것처럼..."
 * *발을 묶던 수렁은 마침내 전사를 완전히 집어삼켰고, 그곳에는 잠들어있던 작은 그릇이 있었다.*
 * *전사는 그릇의 실체를 깨닫고 경악했지만, 침착하게 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)을 꺼내 에보카티오를 올린다.*
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "sive deus, sive dea (신이시든 여신이시든),"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "혹은 불리고 싶은 어떤 이름이시든,"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "나의 영혼을 바치오니 우리의 적을 멸하소서!"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "**나의 모든 것을 바치오니 우리의 적을 멸하소서!**"
 * *전사는 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)으로 그릇을 내리쳐 깨뜨린다. [죄악](#sin)이 그릇의 파편에 둘러진 후, 모두 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)에 둘러진다.*
 * *그리고 전사를 막아선 것은 형용할 수 없을 정도로 거대하고, 달래지지 않은 여러 뱀들이었다.*
 
@@ -88,9 +93,9 @@
 
 ---
 
-* *그들이 달래지지 않은 이유는 알 수 없다. 크토닉 다이몬은 원래 다 그렇다. 그렇기 때문에 무섭기도 하다.*
+* *크토닉 다이몬이 달래지지 않은 이유는 알 수 없다. 이들을 위한 **완곡어법**은 달래고자 하는 의도도 있다.*
 * *그들은 자신을 달래줄 수 있는 온화한 존재를 지켜주고 싶었지만, 온화한 존재는 너무나도 약했다.*
-* *목이 날아가더라도 그들은 순수한 그녀를 지켜주고 싶었다. **인격을 장악하고 고통을 대신 감당하며!***
+* *목이 날아가더라도 그들은 순수한 그녀를 지켜주고 싶었다. **인격을 장악하고 고통을 대신 감당하더라도!***
 * *그들은 본능적으로 깨달았다. 온화한 존재가 위험에 빠지게 될 것을. 눈 앞의 전사는 분명 해낼 것이라고.*
 * > **초거대 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "한심하구나, 우리를 게헨나 안에서 멸하실 능력이 있으신 그 분을 섬기면서도 우리에게 에보카티오를 올리다니..."
 * > **뒤틀린 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "우리는 영원히 너희의 청원을 듣지 아니하겠고, 너희의 청원은 너희에게 행해지지 않을 것이다!"
@@ -110,7 +115,7 @@
 * *수많은 접전의 끝자락에서, 달래야 하는 존재들은 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)에게 치명적인 [죄악](#sin)을 가해 쓰러뜨렸다.*
 * *하지만 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md) 또한 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)가 꺼질 때까지 어둠을 밝혀 온화한 날개를 달래야 하는 하늘 밖으로 꺼냈다.*
 * *달래야 하는 하늘은 온화한 날개에 의해 손쉽게 [봉인](../../characters/purgatorium/meilichia/Meilichia_Core.md#seal)되며, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)를 품고 사라졌다.*
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "오빠가 누군지는 모르겠지만... 누군지도 모르는 나를 위해 와준거야?"
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "나는 오빠가 누군지 몰라... 근데 오빠는 누군지도 모르는 나를 위해 와준거야?"
 
 #### syncretism
 
@@ -164,9 +169,9 @@
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "우리같은 하급 사자들도 영겁의 세월동안 사명을 섬겨왔지."
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "하지만 다들 맨정신으로 일하기에는 열악하기 때문에 사건사고가 터지곤 해."
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "애초에 새겨진 우상 (Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
-* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "우리의 일탈은 그 영겁의 세월 중 티끌보다도 작다고 볼 수 있지."
+* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** "영겁의 세월에서는 우리의 일탈이  티끌보다 작아서인지 속죄 강도가 높지는 않아."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 꼬리를 씹으며)* "메에에!"
-* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없긴 해. 그나마 다행인건 우리의 사명이 엄격한 제사보다는 느슨한 사랑에 가깝다는 거야."
+* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(대롱 대롱)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없긴 해. 그나마 다행인건 우리의 사명이 엄격한 **제사**보다는 느슨한 **인애**에 가깝다는 거야."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(자이언트 스윙)* "메에?"
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(빙글 빙글)* "**우워어억!!! 잠깐마아안!!!**"
 
@@ -181,7 +186,7 @@
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** ([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)의 등에 기대며) "근데 우리 카페 갈 수 있어?"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "우리 연옥에서 못 나가..." *(당황하며)* "근데 내 염소..."
 * *염소는 등이 약하기 때문에 올라타면 안 된다.*
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([모노폴](../../characters/purgatorium/meilichia/Meilichia_Core.md#monopole) 권총을 손가락에 걸고 돌리며)* "너 그동안 힘들어서 어떻게 지냈냐?"
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([모노폴](../../characters/purgatorium/meilichia/Meilichia_Core.md#monopole) 권총을 손가락에 걸고 돌리며)* "그동안 너 힘들어서 어떻게 지냈냐?"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "넌 어떻게 해소했는데?" *(기겁하며)* "일단 그거 좀 내려놓고..."
 * *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
@@ -191,7 +196,7 @@
 
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한거 생각해서 포도청을..."
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *(당황하며)* "잠깐만, **너 뭐야!** 악한 영이 들었나?"
-* *[완곡어법](#euphemism) 서사 마지막에 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 쓰러져 있었고, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 순수한 모습을 직접 확인한 적이 없다.*
+* *[완곡어법](#euphemism) 마지막에 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 쓰러져 있었고, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)의 순수한 모습을 직접 확인한 적이 없다.*
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(포도청을 들이키며)* "**아아아아악!**"
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *([몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
 * *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
@@ -209,14 +214,14 @@
 ---
 
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 들고 망설이며)* "사자들의 영은 주리지 아니하도다. 합당하지 않게 먹고 마시면..."
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "난 배고프거든? 악한 영들이 배부르기 위해 빙의하는 것도 아니고!"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 내려놓으며)* "교활한 자여, 그대는 순결함을 잊었는가?"
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "난 배고프거든? 악한 영들이 배부르려고 빙의하는 것도 아니고, 악한 권세만 조심하면 되지!"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 내려놓으며)* "거짓 증거가 아닌가? 악한 영들이 아닌 이상 배고플리가 없..."
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(불쑥) (냠냠)* "메에에..."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 던지며)* "**깜짝이야**, 방금 건 잊어주시게... 자네들은 분명 연옥에 귀속되지 않았는가?"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 던지며)* "**깜짝이야**, 내 무례를 사죄하겠네... 자네들은 분명 연옥에 귀속되지 않았는가?"
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(불쑥) (냠냠)* "[버디](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [밀키](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 몰라도 우리는 [연옥](#purgatorium) 못 나간다는 소리 없었거든?"
 * > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "우리도 [지옥](#hell)에서 못 나간다는 소리 한 적 없단다, 잘 때 안 찾아오나 둘러봐라!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *(냠냠)* "손님들이 많이 찾아왔네요... 더 많은 행운이 필요할지도 모르겠어요."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목을 잡으며)* "나의 고뇌가 이토록 허무하게 무너지다니..."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목을 잡으며)* "나의 모든 것을 바쳐 얻어낸 고뇌가 그들에게는 아무 쓸모가 없구나!"
 * > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(볼을 비비며)* "X_X"
 
 #### killer_bunny
@@ -234,8 +239,11 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(정색하며)* "자네 지금 뭐하고 있는가?" *(수류탄을 던져버리며)*
 * > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(고개를 저으며)* "Owo"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "**꺅! 왜 수류탄을 우리한테 던지...**"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(당황하며)* "**젠장! 도주를 용인하겠네! 절대 잡히지 말게나!**"
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** **"제우스 크토니우스 아주 미친..."**
+* *[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)의 희생으로 살인 토끼는 어찌저찌 잡았다고 한다.*
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(당황하며)* "**젠장! 도주를 용인하겠네! 절대 잡히면 안된다네!**"
 * > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(예수 버리는 속도로 도주)* ">_<"
+
 
 ### sequel
 
@@ -258,7 +266,7 @@
 ---
 
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "허... 참 악연이네요? 처음 만났을 때는 제 자리를 뺏더니 이제는 제 운명까지 뺏으려는 건가요?"
-* *[융합주의](#syncretism) 서사에서 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 그릇이 깨져 있던 이유는 [완곡어법](#euphemism) 서사의 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md) 때문이다.*
+* *[융합주의](#syncretism) 중 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 그릇이 깨져 있던 이유는 [완곡어법](#euphemism) 중 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md) 때문이다.*
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)도 이를 모르고 있었던 것은 아니였기에, 고개 숙여 망설이고 있었다.*
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "됐어요, 이번 일은 생각 마세요, 제 업보죠 뭐... 알아서 하세요!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "대신 이 뿔은 당신이 챙겨주세요. 누군가의 선물을 쓰레기통에 던지는 건 도리가 아니잖아요?"
@@ -283,7 +291,7 @@
 ---
 
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "너... 뭐해?"
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "뭐하긴, 내가 오빠한데 데이트 신청한 거 잊었어? 내 뱀들은 염소한테 맡겨놨지!"
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "뭐하긴, 내가 오빠한데 데이트 신청한 거 잊었어? 내 뱀들을 오빠 염소한테 맡겨두는 중이지!"
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 가슴 속 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)는 이미 차갑게 식어가고 있었으며, 아무 말도 하지 못하고 머뭇거린다.*
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 철가면과 꺼져가는 [애퍼래터스](../../characters/purgatorium/vediovis/Vediovis_Core.md#apparatus)를 가만히 바라보다가, 이내 씁쓸하게 웃어 보인다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)**: "아... 데이트 취소야? 치, 오랜만에 기분 좀 내보려고 했는데!"
@@ -448,12 +456,14 @@
 * [메인](#main) 시나리오는 "1 MACCABEES", "2 MACCABEES"를 참조한다.
 * [메인 스토리](#main_story)의 문장은 "Bukhari 5057", "Muslim 1066"을 참조한다.
   * > *يَأْتِي فِي آخِرِ الزَّمَانِ قَوْمٌ حُدَثَاءُ الأَسْنَانِ، سُفَهَاءُ الأَحْلاَمِ، يَقُولُونَ مِنْ خَيْرِ قَوْلِ الْبَرِيَّةِ، [ يَقْرَءُونَ الْقُرْآنَ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}$ ) / ∅ ( $\mathfrak{B}^{5057}$ ) ] لاَ يُجَاوِزُ [ إِيمَانُهُمْ ( $\mathfrak{B}^{5057}$ ) / ∅ ( $\mathfrak{B}^{3611}, \mathfrak{M}$ ) ] [ حَنَاجِرَهُمْ ( $\mathfrak{B}^{5057}, \mathfrak{D}$ ) / تَرَاقِيَهُمْ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{N}$ ) ]، يَمْرُقُونَ مِنَ [ الإِسْلاَمِ ( $\mathfrak{B}^{5057}$ ) / الدِّينِ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}, \mathfrak{N}$ ) ] كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ.*
-* [살인 토끼](#killer_bunny) 서사는 다음을 참조한다.
+* [혼돈](#chaos) 대사 중 "합당하지 않게 먹고 마시면..." 부분은 "1 CORINTHIANS 11:27"을 참조한다.
+  * > *ὥστε ὃς ἂν ἐσθίῃ τὸν ἄρτον τοῦτον ἢ πίνῃ τὸ ποτήριον τοῦ κυρίου ἀναξίως, ἔνοχος ἔσται τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου.*
+* [살인 토끼](#killer_bunny)는 다음을 참조한다.
   * "살인 토끼"와 "안티오크의 성스러운 수류탄"은 "Monty Python and the Holy Grail"을 참조한다.
-  * "예수 버리는 속도로 도주" 부분은 "MARK 14:51~52"의 "Naked fugitive"를 참조한다.
+  * "예수 버리는 속도로 도주" 부분은 "MARK 14:51-52"의 "Naked fugitive"를 참조한다.
 * [프리퀄](#prequel)의 문장과 악한 권세들은 "EPHESIANS 6:12"을 참조한다.
   * > *ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.*
-* [프리퀄](#prequel)의 문장과 악한 영들은 "1 ENOCH 15:8~9"을 참조한다.
+* [프리퀄](#prequel)의 문장과 악한 영들은 "1 ENOCH 15:8-9"을 참조한다.
   * > *ወይእዜኒ፡ረዓይት፡እለ፡ተወልዱ፡እመንፈስ፡ወእምሥጋ፡መናፍስተ፡እኩያነ፡ይጼወዑ፡በዲበ፡ምድር፡ወበምድር፡ይከውን፡ማኅደሮሙ።*
   * > *መናፍስት፡እኩያን፡ወፅኡ፡እምሥጋሆሙ፡እስመ፡እምሰብእ፡ተወልዱ፡ወእምቅዱሳን፡ትጉሃን፡ቀዳሚ፡ልደቶሙ፡ወመሠረቶሙ፤መናፍስተ፡እኩያነ፡ይከውኑ፡በዲበ፡ምድር፡ወመናፍስተ፡እኩያነ፡ይጼወዑ።*
 * [완곡어법](#euphemism) 중 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
@@ -470,12 +480,13 @@
   * "슬피 울며 이를 갈리라" 부분은 "MATTHEW"의 표현 방식을 참조한다.
 * [시퀄](#sequel)의 문장은 "1 ENOCH 41:9"을 참조한다.
   * > *እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።*
-* [심판의 날](#judgement_day) 서사의 성립 조건은 "Talmud"의 "Megillah 10b", "Sanhedrin 39b"를 참조한다.
+* [심판의 날](#judgement_day)의 전제 조건은 "Talmud"의 "Megillah 10b", "Sanhedrin 39b"를 참조한다.
   * > *מעשה ידי [ ... ] בים ואתם אומרים שירה לפני*
     * > *[ טובעין (MS Munich 95) / טובעים (Vilna) ]*
   * 해당 문장은 홍해 바다가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 다룬다.
   * > *내 손으로 만든 피조물들이 바다에 빠져 죽어가고 있는데, 너희가 내 앞에서 감히 찬가를 부르느냐?*
 * 추가적으로 참조할 수 있는 자료들은 다음과 같다. 
+  * "MATTHEW 25:14-30"
   * "HOSEA 6:6"
   * "REVELATION 22:13"
   * "1 JOHN 4:19"
