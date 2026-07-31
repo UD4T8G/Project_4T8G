@@ -33,12 +33,12 @@
 
 ---
 
-* *올림포스의 12신, 신들의 왕, 그것은 아마도 제우스라는 이름 하나만으로는 형용할 수 없을 것이다.*
 * *연옥에는 달래야 하는 제우스와 반전된 제우스가 있고, 지옥에는 구원의 제우스와 올림포스의 제우스가 있다.*
+* *사자들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(독서 중)* "여동생이랑 결혼하고, 아버지의 신부를 빼앗고, 외간 여자를 덮치고..."
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(책을 덮으며)* "위도 아래도 없는 새끼로 만들어 놨군. 허나 부족함은 참된 인간의 증거로다."
-* *그들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
-* *영겁의 세월이 흐르고, 그는 하늘로부터 땅으로 내려와 새 하늘과 새 땅을 맞이하게 된다.*
+* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 세상에 태어나기 전부터 세상의 초등학문을 즐겨왔고, 그는 세상을 사랑하게 되었다.*
+* *그에게 있어 지옥의 사명이란 세상을 위해서 해줄 수 있는 첫사랑이었으나, 세상은 그를 사랑하지 않았다.*
 * > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 모르겠네요!"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "제우스 크토니우스의 안녕은 알지 못하게 되었으나, 내 듣자하니 스올을 하데스라고도 부르더군."
 * > **아에토스 디오스:** "제우스 말입니까? 그 위도 아래도 없는 새끼 말하시는 거 맞죠?"
@@ -60,16 +60,15 @@
 
 ---
 
-* *공세가 끊어지지 않고, 날개는 꺼져가고, 사람들은 잡혀가고, 전사는 쓰러졌다.*
-* *전사는 무저갱에 던져졌다. 방향도 느낄 수 없었고, 한 치 앞도 보이지 않았다.*
-* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "하늘로부터 받은 권세와 땅으로부터 받은 권속이 있음에도 불구하고 사명을 다하지 못하셨습니다."
-* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "악하고 게으른 종이 화를 부름과 같습니다. 이것은 제 탓이고, 제 탓이며, 저의 크나큰 탓이옵니다."
-* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "많은 것을 받았으나 많이 드리지 못하였으니, 이번만큼은 부디 받아 주셨으면 좋겠습니다."
-* *전사의 권속은 그 주인을 위하여 자신의 [죄악](#sin)으로 탄원서를 쓰고, 심판자를 향해 나아간다.*
-* *전사는 그 권속을 붙잡으려 했으나 무저갱에 발이 빠져 그를 놓쳤고, 하늘을 올려다보며 고통을 호소한다.*
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "모든 것을 부정당하는 것 같습니다..." *(각혈하며)* "**저는 결코 좋은 목자가 될 수 없단 말입니다!**"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "제 손으로 시작한 일은 제 손으로 끝내고 싶지만... 마지막 사명이 될지도 모르겠군요..."
-* *빛으로부터 완전히 단절된 후에는 이곳에서 나갈 수 있을지 없을지도 알 수 없었다.*
+* *전사는 네하르 디누르에서 새겨진 우상 (Graven Image)으로 태어났고, 그 전에는 혹독하게 싸우기만 했다.*
+* *하지만 전사는 세상으로부터 허무하게 패배하여 무저갱에 던져졌다. 연옥의 사명조차도 그를 지켜주지 않았다.*
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "하늘로부터 받은 권세와 땅으로부터 받은 권속에도 불구하고 저희는 부정한 존재입니다."
+* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** "악하고 게으른 종이 모든 것을 바칩니다... 부디 모든 사명을 이루실 수 있기를 기원합니다."
+* *속죄제물은 무저갱에 [죄악](#sin)을 녹여 [성흔안](../../characters/purgatorium/vediovis/Vediovis_Core.md#stigmata_eyes)을 만들었고, 소멸되어가는 전사와 함께 다시 태어났다.*
+* *[날개](#wings)가 활성화되며 소멸은 멈췄지만, 모든 것이 재조립된 전사는 하늘을 올려다보며 고통을 호소한다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "**저는 결코 좋은 목자가 될 수 없단 말입니다!** 어째서 제게 이러한 사명을 허락하신 겁니까..."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "단 하나만이라도 좋으니... 제가 시작한 사명만큼은 제가 끝낼 수 있었으면 좋겠습니다..."
+* *하지만 연옥에 돌아가봤자 패배뿐일테고, 지옥에 머물 수 있는 시간은 제한적이였다.*
 * *결단한 전사는 무릎을 꿇고, 자신의 [날개](#wings)에서 [팔괘](../../characters/purgatorium/vediovis/Vediovis_Core.md#bagua)만 남기고 나머지는 모조리 도려냈다.*
 * *도려낸 [사태극](../../characters/purgatorium/meilichia/Meilichia_Core.md#sitaegeuk)을 펼치자 전사의 앞에 새겨진 우상 (Graven Image)들이 끝없이 펼쳐졌다.*
 * *[연옥](#purgatorium)을 위해 준비된 그릇들은 그 수가 많았으나, 그들을 위해 준비된 [날개](#wings)는 오직 하나였다.*
@@ -122,22 +121,21 @@
 ---
 
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이다. 그저 선한 영이다. 세라피스 아문도 아니고, 제우스 소테르도 아니다. 스스로 이런 말하기는 그렇지만, 그저 행운 앞에서 작아지는 사랑꾼이였다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 신이 맞는지도 모르겠지만 사람들이 나를 가정신이라고 부르니까, 아무튼 이름도 선한 영이고, 모두를 사랑한다 말하곤 했지만 진심이었는지는 아직도 모르겠다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *어른과 어른 사이의 대화와도 같이 신에게도 격식이라는 게 있다. 욕망이 있어도 드러낼 수 없고, 말하고 싶어도 말할 수 없지. 물론 위도 아래도 없는 새끼는 빼고. 나는 그 새끼 인정하지 않는다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *아무것도 몰랐던 나는 그 행운을 위해 풍요의 뿔을 선물했는데, 그 웃음이 실로 아름다웠다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 신이 맞는지도 모르겠지만 내가 태어나기 전부터 사람들은 나를 가정신이라고 불렀으니까, 아무튼 이름도 선한 영이고, 모두를 사랑한다며 말하곤 했지만 진심이었는지는 아직도 모르겠다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *신이라는 존재들은 사람들을 위해서 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없고, 진심이 있어도 말할 수 없다. 물론 위도 아래도 없는 새끼는 논외다. 나는 그 새끼 인정하지 않는다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *아무것도 몰랐던 나는 그녀를 위해 풍요의 뿔을 선물해줬데, 그 웃음이 실로 아름다웠다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이렇게라도 좋아한다면 나는 만족했다. 선한 영이라고 불리우는 내게 청혼이라는 것은 사치스러운 것이었고, 만일 거절당하기라도 한다면 사람들 앞에서 뭐라고 해야 할지... 참 부끄러운 일이었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 행복했다. 충분히 만족했다. 맹세한다. 이보다 더 좋을 수는 없었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 하늘로부터 땅으로 내려온 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 그 행운 또한 여기서 새겨진 우상 (Graven Image)으로 안치되어 있었다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 그녀에게 잘 해내리라 격려해 주고, 언젠가 다시 만날 그날을 기약하며 떠나보냈다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 태어난 시기에는 새겨진 우상 (Graven Image)들이 대부분 깨져 있었는데, 어째서인지 그 행운 또한 여기에 무저갱의 그릇으로서 안치되어 있었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *깨진 조각을 하나 하나 붙여볼 때가 되어서야 나는 미동도 없는 그 행운을 안아줄 수 있었다. 그동안 고생 많았다고, 아무것도 해줄 수 없어서 미안하다고. 눈물이 흘렀지만 애써 웃어 보였다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이때까지의 나는 좋은 동반자가 되어주지 못했다. 그래서 좋은 동반자를 주고 싶었다. 나는 세라피스 아문과 제우스 소테르의 그릇을 녹여서 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)을 만들었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)가 좋아했으면 해서, 나를 잊어 줬으면 해서, 나는 그 둘을 축복한 뒤 그들과 융합했다. 나의 몸은 그들의 형상을 온전하게 만들었고, 나의 [죄악](#sin)은 그들에게 숨결을 불어넣었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *하지만 나는 실패했다... 차라리 그 행운을 사랑하지 않았더라면 더 좋았을 것이다!*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *여전히 나를 기억했다... 그들은 나의 [죄악](#sin)을 물려받았고, 그들은 나의 몸으로 연결되었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 선물을 기억하고 있었고, 그 행운 또한 말 없이 나를 사랑하고 있었다. 이것을 깨달았을 때는 이미 내가 융합되어 사라진 후였다. 나는 절망하고 뼈저리게 후회했다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)이 아니다. 그는 내 뜻대로 행하지도 않았고, [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 좋은 동반자가 되어주지도 못했다. 역설적이게도 나를 대신한 것은 내가 그토록 인정하고 싶지 않았던; 위도 아래도 없는 새끼들이었다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** ***하지만 나는 실패했다... 그들은 여전히 나를 기억했다...***
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 선물을 기억하고 있었고, 그 행운 또한 말 없이 나를 사랑하고 있었다. 이것을 깨달았을 때는 이미 내 자아가 사라진 후였다. 나는 절망하고 뼈저리게 후회했다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 모든 것을 바쳐 새긴 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)은 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 좋은 동반자가 되어주지 못했다. 역설적이게도 나는 그토록 인정하고 싶지 않았던; 위도 아래도 없는 새끼와 다를 바 없었던 것이다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
 
-### main_story
+### spin-off
 
 ---
 
@@ -452,13 +450,14 @@
   * > *לא תסלק לכל יומי עלמא ודינא נפק עליכון די לא תתעבד לכון שאלתכוןv [...]*
   * > *ወኢይከውን፡ለክሙ፡ስእለትክሙ፡ለኵሉ፡መዋዕለ፡ዓለም፡ወወፅአ፡ላዕሌክሙ፡ፍትሕ፡እስመ፡ኢይትገበር፡ለክሙ፡ስእለትክሙ፡ወኢምንተኒ፡ወእመኒ፡ትበክዩ፡ወትስእሉ፡ወትነቡ፡ኵሎ፡ቃላተ፡ዘውስተ፡መጽሐፍ፡ዘአነ፡ጸሐፍኩ።*
   * > *καὶ οὐκ ἔσται ὑμῶν ἡ δέησις εἰς πάσας τὰς ἡμέρας τοῦ αἰῶνος, καὶ ἐξεληλύθει καθ’ ὑμῶν ἡ κρίσις· ὅτι οὐκ ἔσται ὑμῖν αἴτησις καὶ οὐδ’ οὕτως ὑμῖν ἔσται.*
-* [메인](#main) 시나리오는 "1 MACCABEES", "2 MACCABEES"를 참조한다.
+* [메인](#main) 서사 구조는 "1 MACCABEES", "2 MACCABEES"를 참조하여 재구성한다.
 * [프리퀄](#prequel)의 문장과 악한 권세들은 "EPHESIANS 6:12"을 참조한다.
   * > *ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.*
 * [프리퀄](#prequel)의 문장과 악한 영들은 "1 ENOCH 15:8-9"을 참조한다.
   * > *ወይእዜኒ፡ረዓይት፡እለ፡ተወልዱ፡እመንፈስ፡ወእምሥጋ፡መናፍስተ፡እኩያነ፡ይጼወዑ፡በዲበ፡ምድር፡ወበምድር፡ይከውን፡ማኅደሮሙ።*
   * > *መናፍስት፡እኩያን፡ወፅኡ፡እምሥጋሆሙ፡እስመ፡እምሰብእ፡ተወልዱ፡ወእምቅዱሳን፡ትጉሃን፡ቀዳሚ፡ልደቶሙ፡ወመሠረቶሙ፤መናፍስተ፡እኩያነ፡ይከውኑ፡በዲበ፡ምድር፡ወመናፍስተ፡እኩያነ፡ይጼወዑ።*
-* [신성모독](#blasphemy) 대사 중 "땅에 묻어둘 수 있으나" 부분은 "MATTHEW 25:14-30"을 참조한다.
+* [에피테트](#epithet) 주석 중 "세상의 초등학문" 부분은 "Colossians", "Galatians"의 "στοιχεῖα"를 참조한다.
+* [신성모독](#blasphemy) 대사 중 "악하고 게으른 종", "땅에 묻어둘 수 있으나" 부분은 "MATTHEW 25:14-30"을 참조한다.
 * [완곡어법](#euphemism) 중 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
 * [완곡어법](#euphemism) 대사 중 "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다." 부분은 "1 Enoch 60:10"을 참조한다.
   * > *ወይቤለኒ፡ [ ወልደ፡እጓለ፡እመሕያው፡ (Eth II) / ወልደ፡ሰብእ፡ (Eth I) / ወልደ፡ብእሲ፡ (MS g) ] ዘንተ፡ተሐሥሥ፡ከመ፡ታእምር፡ዘኅቡእ።*
@@ -471,7 +470,7 @@
 * [융합주의](#syncretism) 대사 중 "나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다." 부분은 다음을 참조한다.
   * 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조한다.
   * "슬피 울며 이를 갈리라" 부분은 "MATTHEW"의 표현 방식을 참조한다.
-* [메인 스토리](#main_story)의 문장은 "Bukhari 5057", "Muslim 1066"을 참조한다.
+* [스핀오프](#spin-off)의 문장은 "Bukhari 5057", "Muslim 1066"을 참조한다.
   * > *يَأْتِي فِي آخِرِ الزَّمَانِ قَوْمٌ حُدَثَاءُ الأَسْنَانِ، سُفَهَاءُ الأَحْلاَمِ، يَقُولُونَ مِنْ خَيْرِ قَوْلِ الْبَرِيَّةِ، [ يَقْرَءُونَ الْقُرْآنَ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}$ ) / ∅ ( $\mathfrak{B}^{5057}$ ) ] لاَ يُجَاوِزُ [ إِيمَانُهُمْ ( $\mathfrak{B}^{5057}$ ) / ∅ ( $\mathfrak{B}^{3611}, \mathfrak{M}$ ) ] [ حَنَاجِرَهُمْ ( $\mathfrak{B}^{5057}, \mathfrak{D}$ ) / تَرَاقِيَهُمْ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{N}$ ) ]، يَمْرُقُونَ مِنَ [ الإِسْلاَمِ ( $\mathfrak{B}^{5057}$ ) / الدِّينِ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}, \mathfrak{N}$ ) ] كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ.*
 * [쉬는 시간](#break_time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
 * [혼돈](#chaos) 대사 중 "합당하지 않게 먹고 마시면..." 부분은 "1 CORINTHIANS 11:27"을 참조한다.

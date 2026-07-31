@@ -29,13 +29,13 @@
 
 ---
 
-> *[티케](#tyche)는 모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않는다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 이를 갈며 슬피 운다는 목격담이 들려오곤 한다.*
+> *[티케](#tyche)는 모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않았다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 이를 갈며 슬피 운다는 목격담이 들려오곤 한다.*
 
-> *[티케](#tyche)는 [코르누코피아](#cornucopia)를 잃어버리는 것을 두려워한다. 자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정부터 드러낸다.*
+> *[티케](#tyche)는 [코르누코피아](#cornucopia)를 잃어버리는 것을 두려워한다. 자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정부터 드러낸다고 한다.*
 
-> *[다이몬](#daimon)은 맡겨진 사명 외에 아무것도 관심이 없으며, 평소 생각을 읽을 수 없는 [티케](#tyche)를 답답해한다.*
+> *[다이몬](#daimon)은 맡겨진 사명 외에 아무것도 관심을 가지지 않으며, 평소 생각을 읽을 수 없는 [티케](#tyche)를 답답해한다.*
 
-> *[다이몬](#daimon)은 [지옥](../../../core/messengers/Messengers_Core.md#hell)에 있음에도 꿈에서 선한 영을 만나는데, 차라리 [연옥](../../../core/messengers/Messengers_Core.md#purgatorium)의 꿈이 낫겠다면서 그 내용을 모두 잊는다.*
+> *[다이몬](#daimon)은 [지옥](../../../core/messengers/Messengers_Core.md#hell)에 있음에도 꿈에서 선한 영을 만나곤 하는데, 차라리 [연옥](../../../core/messengers/Messengers_Core.md#purgatorium)의 꿈이 낫겠다면서 그 내용을 모두 잊는다.*
 
 ### abilities
 
