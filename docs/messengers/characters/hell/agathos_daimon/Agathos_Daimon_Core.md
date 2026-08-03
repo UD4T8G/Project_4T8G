@@ -6,16 +6,16 @@
 
 ---
 
-* [파편화](#fragmentation)
-  * [티케](#tyche)
-    * [코르누코피아](#cornucopia)
-  * [다이몬](#daimon)
+* [티케](#tyche)
+  * [코르누코피아](#cornucopia)
+* [다이몬](#daimon)
+  * [파편화](#fragmentation)
 
 ## main
 
 ---
 
-> *이같이 미지근하여 뜨겁지도 아니하고 차지도 아니하니, 내 입에서 너를 토해 내리라;*
+> *그러나 너희는 이와 같이 불가하니라! 오히려 너희 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속 되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!*
 
 | **Name** | 아가토스 다이몬 |
 | :--- | :--- |
@@ -29,13 +29,9 @@
 
 ---
 
-> *[티케](#tyche)는 모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않았다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 이를 갈며 슬피 운다는 목격담이 들려오곤 한다.*
+> *모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않았다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 슬피 울며 이를 갈다는 목격담이 들려오곤 한다.*
 
-> *[티케](#tyche)는 [코르누코피아](#cornucopia)를 잃어버리는 것을 두려워한다. 자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정부터 드러낸다고 한다.*
-
-> *[다이몬](#daimon)은 맡겨진 사명 외에 아무것도 관심을 가지지 않으며, 평소 생각을 읽을 수 없는 [티케](#tyche)를 답답해한다.*
-
-> *[다이몬](#daimon)은 [지옥](../../../core/messengers/Messengers_Core.md#hell)에 있음에도 꿈에서 선한 영을 만나곤 하는데, 차라리 [연옥](../../../core/messengers/Messengers_Core.md#purgatorium)의 꿈이 낫겠다면서 그 내용을 모두 잊는다.*
+> *자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정을 드러낸다.*
 
 ### abilities
 
@@ -79,32 +75,14 @@
 
 ---
 
-#### fragmentation
-
----
-
-* **Ability:**
-  * 원거리 양자 전송
-  * 양자 폭풍
-* **Description:**
-  * 신체를 분열하여 순간이동 후 융합할 수 있다.
-  * 분열 상태에서 오브젝트를 타격할 수 있다.
-
 #### tyche
 
 ---
 
-> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
-
 * **Ability:**
-  * 본체 백업
   * [코르누코피아](#cornucopia) 동작
 * **Description:**
-  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
-  * 아가토스 다이몬의 권속이다.
-  * [다이몬](#daimon)의 꼬리와 연결되어 있다.
-  * [코르누코피아](#cornucopia)를 들고 있다.
-  * 독립적인 [사자들](../../../core/messengers/Messengers_Core.md)로 작동하지만, 사출할 수 없다.
+  * 아가토스 다이몬의 본체로, [코르누코피아](#cornucopia)를 들고 있다.
 
  
 #### cornucopia
@@ -123,20 +101,37 @@
   * [죄악](../../../core/messengers/Messengers_Core.md#sin)에 결합하는 재물과 식량을 쏟아낸다.
   * 종류에 따라 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 다른 효과로 전환된다.
   * 전환된 효과의 성능은 [죄악](../../../core/messengers/Messengers_Core.md#sin)의 중첩 수에 비례한다.
-  * 재물과 식량은 [죄악](../../../core/messengers/Messengers_Core.md#sin) 결합성을 제외하면 실질적인 가치를 지닌다.
+  * 재물과 식량은 실질적인 가치를 지닌다.
 
 #### daimon
 
 ---
 
+> import [날개](../../../core/messengers/Messengers_Core.md#wings) from [사자들](../../../core/messengers/Messengers_Core.md)
+
 > import [죄악](../../../core/messengers/Messengers_Core.md#sin) from [사자들](../../../core/messengers/Messengers_Core.md)
 
 * **Ability:**
+  * 본체 백업
+  * 본체 귀속
   * [죄악](../../../core/messengers/Messengers_Core.md#sin) 사출
   * 지역 오염
 * **Description:**
+  * [사자들](../../../core/messengers/Messengers_Core.md)의 [날개](../../../core/messengers/Messengers_Core.md#wings)이다.
+  * 아가토스 다이몬의 권속이자 [티케](#tyche)의 다리이다.
   * 뱀의 독니에서 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 발사된다.
   * 지면에 쏟아져도 사라지지 않는다.
+
+#### fragmentation
+
+---
+
+* **Ability:**
+  * 원거리 양자 전송
+  * 양자 폭풍
+* **Description:**
+  * 신체를 분열하여 순간이동 후 융합할 수 있다.
+  * 분열 상태에서 오브젝트를 타격할 수 있다.
 
 ### miscellaneous
 
@@ -145,5 +140,5 @@
 * 설정적 디자인은 "National Archaeological Museum of Athens"에서 소장하고 있는 "Copper alloy statuette of the god Sarapis Amun Agathodaemon"의 "Syncretism"을 참조한다.
   * [다이몬](#daimon)의 이름은 "그리스-이집트"의 "lesser deity (daemon)"인 "Agathos Daimon"을 참조한다.
   * [티케](#tyche)의 이름은 "그리스"의 "여신"인 "Tyche"를 참조한다.
-* 상단의 문장은 "REVELATION 3:16"을 참조한다.
-  * > *οὕτως, ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου.*
+* 상단의 문장은 "LUKA 22:26"을 참조한다.
+  * > *ὑμεῖς δὲ οὐχ οὕτως, ἀλλ’ ὁ μείζων [ ἐν ὑμῖν ($\mathfrak{P}^{75}$, $\aleph$, B, D, L, W, $\Theta$, $\Psi$, $\mathfrak{M}$) / om. ($\text{it}^a$, $\text{it}^e$) ] [ γινέσθω ($\mathfrak{P}^{75}$, $\aleph$, B, D, L, W, $\Theta$, $\Psi$, 070, 0211, 33, $\text{lat}$, $\text{cop}$, $\text{Cyr}$) / γενέσθω ($\mathfrak{M}$, 579, $\text{TR}$) ] ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς [ ὁ διακονῶν ($\mathfrak{P}^{75}$, $\aleph$, B, L, W, $\Theta$, $\Psi$, 33, $\mathfrak{M}$) / διακονῶν (D, 070, 565) ]*

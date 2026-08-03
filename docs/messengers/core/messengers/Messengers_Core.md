@@ -36,7 +36,7 @@
 * *연옥에는 달래야 하는 제우스와 반전된 제우스가 있고, 지옥에는 구원의 제우스와 올림포스의 제우스가 있다.*
 * *사자들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(독서 중)* "여동생이랑 결혼하고, 아버지의 신부를 빼앗고, 외간 여자를 덮치고..."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(책을 덮으며)* "위도 아래도 없는 새끼로 만들어 놨군. 허나 부족함은 참된 인간의 증거로다."
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(책을 덮으며)* "**위도 아래도 없는 새끼**로 만들어 놨군. 허나 부족함은 참된 인간의 증거로다."
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 세상에 태어나기 전부터 세상의 초등학문을 즐겨왔고, 그는 세상을 사랑하게 되었다.*
 * *그에게 있어 지옥의 사명이란 세상을 위해서 해줄 수 있는 첫사랑이었으나, 세상은 그를 사랑하지 않았다.*
 * > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 모르겠네요!"
@@ -50,11 +50,14 @@
 * *번개를 던져봤지만 번번히 꺼졌고, [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 소멸해가는 아에토스 디오스를 품에 안고 있었다.*
 * *악한 영들이 아에토스 디오스에게 빙의했고, [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 영적 싸움에서 패배하여 무저갱에 떨어졌다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(빙의된 아에토스 디오스를 쓰러뜨리며)* "내 모든 권세가 여기서는 바람 앞의 등불과도 같구나!"
-* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 아말테아의 가죽을 꺼내 빙의된 아에토스 디오스를 감싸고, 고르곤의 머리로 눌렀다.*
-* *그러던 도중 [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 아말테아의 가죽을 만지면서 전율하게 되고, 눈물을 흘리게 된다.*
+* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 아말테아의 가죽을 꺼내 그를 제압했지만, 빙의된 아에토스 디오스는 비명을 지르며 저항했다.*
+* *그런데 갑자기 아말테아의 가죽이 악한 영들을 배부르게 먹이기 시작했고, 악한 권세들은 떠나가버렸다.*
+* > **빙의된 아에토스 디오스:** "땅 위에 존재하게 된 그날로부터 단 하루도 빠짐없이 굶주렸습니다... **하지만 가죽에 깃든 영은 더러운 저희까지도 배불리 먹이시더군요!** 저희가 받은 은혜를 무엇으로 더 보답하겠습니까?"
+* *악한 영들이 [디오비스](../../characters/hell/diovis/Diovis_Core.md) 앞에 엎드려 감사를 표했고, 그들은 스스로를 바쳐 [디오비스](../../characters/hell/diovis/Diovis_Core.md)를 위한 [날개](#wings)가 되었다.*
+* *[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)를 착용한 [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 자신의 소멸을 유예받았고, 그는 아에토스 디오스와 아말테아를 기억했다.*
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "**보라, 죽어서도 나를 가르치시니; 나의 참된 어머니로다!**" *(번개를 부러트리며)* "**나는 결코 아버지의 신부를 빼앗지 아니하겠노라!**"
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 무저갱의 [죄악](#sin)을 온전히 받아들이자 옷이 보라색으로 물들었고, 수명과 사명이 부여되었다.*
-* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 할복하자 부러진 번개로부터 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)가 연단되었고, 그 폭풍으로부터 [아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)가 잉태되었다.*
+* *[디오비스](../../characters/hell/diovis/Diovis_Core.md)가 부러진 번개로 할복하자 공허 폭풍이 발생했고, 거기로부터 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)가 연단되었다.*
 
 #### blasphemy
 
@@ -120,20 +123,18 @@
 
 ---
 
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이다. 그저 선한 영이다. 세라피스 아문도 아니고, 제우스 소테르도 아니다. 스스로 이런 말하기는 그렇지만, 그저 행운 앞에서 작아지는 사랑꾼이였다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 신이 맞는지도 모르겠지만 내가 태어나기 전부터 사람들은 나를 가정신이라고 불렀으니까, 아무튼 이름도 선한 영이고, 모두를 사랑한다며 말하곤 했지만 진심이었는지는 아직도 모르겠다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *신이라는 존재들은 사람들을 위해서 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없고, 진심이 있어도 말할 수 없다. 물론 위도 아래도 없는 새끼는 논외다. 나는 그 새끼 인정하지 않는다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이다. 그저 선한 영이다. 세라피스 아문도 아니고, 제우스 소테르도 아니다. 스스로 이런 말하기는 그렇지만, 그저 **행운** 앞에서 작아지는 존재였다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 신이 맞는지도 모르겠지만, 아무튼 이름도 선한 영이고 내가 태어나기 전부터 사람들은 나를 가정신이라고 불렀으니까, 나도 모두를 사랑한다며 말하곤 했지만, 진심인지는 나도 모르겠다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *신이라는 존재들은 사람들을 위해서 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없고, 진심이 있어도 말할 수 없다. 물론 **위도 아래도 없는 새끼**는 논외다. 나는 그 새끼 인정하지 않는다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *아무것도 몰랐던 나는 그녀를 위해 풍요의 뿔을 선물해줬데, 그 웃음이 실로 아름다웠다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이렇게라도 좋아한다면 나는 만족했다. 선한 영이라고 불리우는 내게 청혼이라는 것은 사치스러운 것이었고, 만일 거절당하기라도 한다면 사람들 앞에서 뭐라고 해야 할지... 참 부끄러운 일이었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 그녀에게 잘 해내리라 격려해 주고, 언젠가 다시 만날 그날을 기약하며 떠나보냈다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *선한 영이라고 불리우는 나에게 청혼 같은 것이란 **나를 이용하는 사람들의 권위**에 있어 불미스러운 일이였기에, 그녀가 이렇게라도 좋아할 수 있다면 나는 만족했다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 그녀에게 잘 해내리라 격려해 주고, 언젠가 다시 만날 그날을 기약하며 떠나보냈다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 태어난 시기에는 새겨진 우상 (Graven Image)들이 대부분 깨져 있었는데, 어째서인지 그 행운 또한 여기에 무저갱의 그릇으로서 안치되어 있었다.*
 * > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *깨진 조각을 하나 하나 붙여볼 때가 되어서야 나는 미동도 없는 그 행운을 안아줄 수 있었다. 그동안 고생 많았다고, 아무것도 해줄 수 없어서 미안하다고. 눈물이 흘렀지만 애써 웃어 보였다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *이때까지의 나는 좋은 동반자가 되어주지 못했다. 그래서 좋은 동반자를 주고 싶었다. 나는 세라피스 아문과 제우스 소테르의 그릇을 녹여서 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)을 만들었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)가 좋아했으면 해서, 나를 잊어 줬으면 해서, 나는 그 둘을 축복한 뒤 그들과 융합했다. 나의 몸은 그들의 형상을 온전하게 만들었고, 나의 [죄악](#sin)은 그들에게 숨결을 불어넣었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** ***하지만 나는 실패했다... 그들은 여전히 나를 기억했다...***
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *그 행운은 선물을 기억하고 있었고, 그 행운 또한 말 없이 나를 사랑하고 있었다. 이것을 깨달았을 때는 이미 내 자아가 사라진 후였다. 나는 절망하고 뼈저리게 후회했다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 모든 것을 바쳐 새긴 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)은 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 좋은 동반자가 되어주지 못했다. 역설적이게도 나는 그토록 인정하고 싶지 않았던; 위도 아래도 없는 새끼와 다를 바 없었던 것이다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이였기에 그녀가 다시 깨어날 수 있다면 무엇이든 해줄 수 있었다. 나는 무저갱에 깨져있는 세라피스 아문과 제우스 소테르의 그릇을 녹여서 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)을 만들었고, 스스로를 바쳐 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)를 위한 [날개](#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 편안하게 눈을 감았다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *하지만 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 언급에 따르면, 그녀는 나의 선물을 기억하고 있었고, 말 없이 나를 사랑하고 있었다고 한다. **그리고 내가 이것을 깨달았을 때는 이미 내 자아가 사라진 뒤였다.***
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 우리는 태어나기 전부터 사명에 이르기까지, **서로에게 기대는 것도 허락받지 못했다.** 결국 우리의 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다는 것이다.*
+* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
 
 ### spin-off
 
@@ -151,14 +152,15 @@
 * > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(들이받으며)* **메에에!**
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *(쾌속 기상)* "**뿌엥!**"
 * > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(비몽사몽하며)* "너무하네..."
-* *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군했다.*
+* *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군한다.*
+* *그런데 오늘따라 군악대가 너무 힙스터스러웠고, 다들 분위기에 휩쓸려버렸다.*
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "분위기 달아오르네! 오늘은 나 혼자 해볼테니까 넌 잠깐 빠져봐!"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래!"
-* > ***사람들*:** *(패닉하며)* "으아아악!" 
-* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "내가 굳이 달래야 할 필요 있어? 네가 **쾅!** 옮겨버리면 되는데?"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래봐!"
+* > ***사람들*:** *(춤을 추며)* "**HELL YEAH!!!**" 
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "저것들 굳이 달랠 필요 없어 보이는데? 무슨 일 생기면 네가 옮겨버리면 되잖아!"
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "다들 퍽이나 안심하겠다! 나만 보면 무서워서 얼어붙는데?"
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 초공간도약, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 포털 능력을 보유하고 있다.*
-* *그 좋은 능력 가지고도 사람들 때문에 못 써먹고 있긴 하다.*
+* *그 좋은 능력 가지고도 사람들 인식 때문에 못 써먹고 있긴 하다.*
 
 #### break_time
 
@@ -207,41 +209,18 @@
 * *"Zeus Meilichios"에게는 "Nephalia", 즉 금주 공헌을 해야 한다. 지금 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios)는 술에 꼴아 잠든 것이다.*
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 없는 머리를 굴려봤지만 아무런 해결책도 떠오르지 않아서 그냥 주저앉은 [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)를 안아줬다.*
 
-#### chaos
+#### misfortune
 
 ---
 
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 들고 망설이며)* "사자들의 영은 주리지 아니하도다. 합당하지 않게 먹고 마시면..."
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "난 배고프거든? 악한 영들이 배부르려고 빙의하는 것도 아니고, 악한 권세만 조심하면 되지!"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 내려놓으며)* "거짓 증거가 아닌가? 악한 영들이 아닌 이상 배고플리가 없..."
-* > **[몰레스](../../characters/purgatorium/vediovis/Vediovis_Core.md#moles):** *(불쑥) (냠냠)* "메에에..."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(수저를 던지며)* "**깜짝이야**, 내 무례를 사죄하겠네... 자네들은 분명 연옥에 귀속되지 않았는가?"
-* > **작은 [메일리키오스](../../characters/purgatorium/meilichia/Meilichia_Core.md#meilichios):** *(불쑥) (냠냠)* "[버디](../../characters/purgatorium/vediovis/Vediovis_Core.md)와 [밀키](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 몰라도 우리는 [연옥](#purgatorium) 못 나간다는 소리 없었거든?"
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *(냠냠)* "우리도 [지옥](#hell)에서 못 나간다는 소리 한 적 없단다, 잘 때 안 찾아오나 둘러봐라!"
-* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *(냠냠)* "손님들이 많이 찾아왔네요... 더 많은 행운이 필요할지도 모르겠어요."
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(뒷목을 잡으며)* "나의 모든 것을 바쳐 얻어낸 고뇌가 그들에게는 아무 쓸모가 없구나!"
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(볼을 비비며)* "X_X"
-
-#### killer_bunny
-
----
-
-* > **토끼:** *(깡총 깡총)*
-* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "얘가 무슨 죄를 지었다고 지옥에 오지..."
-* > **토끼:** **"크르르르!"** *(콰직)*
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** **"끼야아악!!! 살인 토끼가 날 물었어! 당장 가서 안티오크의 성스러운 수류탄을!"**
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "내 속히 가져오겠네!"
-* *도대체 왜 그런 게 지옥에 있는지는 모르겠지만, 이 새끼들은 어찌저찌 구했다고 하니 참으로 존경스럽다.* 
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** **"수류탄이 너무 성스러워서 내 몸이 갈려나가고 있다네! 빼애애애액!!!"**
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(슬금 슬금 도망치며)* "-_-"
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(정색하며)* "자네 지금 뭐하고 있는가?" *(수류탄을 던져버리며)*
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(고개를 저으며)* "Owo"
-* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "**꺅! 왜 수류탄을 우리한테 던지...**"
-* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** **"제우스 크토니우스 아주 미친..."**
-* *[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)의 희생으로 살인 토끼는 어찌저찌 잡았다고 한다.*
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(당황하며)* "**젠장! 도주를 용인하겠네! 절대 잡히면 안된다네!**"
-* > **[아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis):** *(예수 버리는 속도로 도주)* ">_<"
-
+* *바닥에 [죄악](#sin)이 흥건하고, [메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 팔이 뜯겨진 채 누군가의 손에 목이 졸리고 있었다.*
+* > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** *(켁켁거리며)* "알았어! 알았다고! 안 건드리면 되잖아!"
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "괜찮아요, 실수는 누구나 할 수 있죠! 근데 장난이였다고요?" *(손에 힘을 줘서 목을 비틀며)* "**그 아가리 다시 씨부려봐라, 썅년아!**"
+* *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 누군가에게 제압당해 쓰러진 채 그 상황을 조용히 지켜보고 있었다.*
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(자세를 숙이며)* "저래보여도 마음이 약하다네, 이때까지의 심판 업무는 모두 내가 맡아왔지."
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** *(낑낑대며)* "그나저나 너 좀 무거운데 내려와 줄래?"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** *(물러나며)* "...미안하네, 자네가 폭주할까봐 그랬네."
 
 ### sequel
 
@@ -278,7 +257,7 @@
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "그간 나는 고통에 무심하였기에 신앙이 미지근해지지 않도록 유지하면서도 기쁠 수 있었다네."
 * *무저갱에 연단된 무기를 사용하는 대가로 스스로를 간신히 유지해왔던 [디오비스](../../characters/hell/diovis/Diovis_Core.md)는 서서히 소멸되기 시작했다.*
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [디오비스](../../characters/hell/diovis/Diovis_Core.md)가 소멸하기 전에 그를 속히 심판해야 했지만, 자신의 죄악에 행동을 망설이고 있었다.*
-* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "철부지여, 고뇌에 빠졌는가? 그대답지 않도다! 애늙은이같은 자네가 그토록 바라던 것을 알게 되었으나 어찌 기쁘지 아니한가?"
+* > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "애늙은이여, 고뇌에 빠졌는가? 그대답지 않도다! 철부지같은 자네가 그토록 바라던 것을 알게 되었으나 어찌하여 기쁘지 아니한가?"
 * > **[디오비스](../../characters/hell/diovis/Diovis_Core.md):** "내 그대를 위한 사탄의 사자가 되어, 그대의 믿음이 흔들릴 때마다 마땅히 시험해 주겠노라!"
 * *[디오비스](../../characters/hell/diovis/Diovis_Core.md)는 [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 등에 [아이기스](../../characters/hell/diovis/Diovis_Core.md#aegis)를 달아주고, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)의 손에 [아스트라페](../../characters/hell/diovis/Diovis_Core.md#astrape)를 손에 쥐어준다.*
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 [성흔안](../../characters/purgatorium/vediovis/Vediovis_Core.md#stigmata_eyes)으로 안광을 비춰 [디오비스](../../characters/hell/diovis/Diovis_Core.md)의 자연 소멸을 중단시키고 그를 무저갱에 던진다.*
@@ -467,17 +446,12 @@
   * > *Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσιν τὸν θεὸν [ πάντα συνεργεῖ (ℵ, C, D, F, G, Ψ, $\mathfrak{M}$, $\text{lat}$, $\text{syr}^{p,h}$, $\text{Chr}$, $\text{Aug}$) / πάντα συνεργεῖ ὁ θεὸς ($\mathfrak{P}^{46}$, A, B, 81, $1739^*$, $\text{cop}^{sa,bo}$, $\text{eth}$, $\text{Or}$, $\text{Cyr}$) / ὁ θεὸς πάντα συνεργεῖ (33, 2464) ] εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν.*
 * [완곡어법](#euphemism) 주석 중 "온화한 날개가 달래야 하는 하늘 속에서 계속 비추고 있으되, 달래야 하는 하늘은 그것을 깨닫지 못하였도다." 부분은 "JOHN 1:5"을 참조한다.
   * > *καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.*
-* [융합주의](#syncretism) 대사 중 "나는 머리가 없다. 그리고 나는 슬피 울며 이를 갈아야 한다." 부분은 다음을 참조한다.
+* [융합주의](#syncretism) 대사 중 "나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다." 부분은 다음을 참조한다.
   * 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조한다.
   * "슬피 울며 이를 갈리라" 부분은 "MATTHEW"의 표현 방식을 참조한다.
 * [스핀오프](#spin-off)의 문장은 "Bukhari 5057", "Muslim 1066"을 참조한다.
   * > *يَأْتِي فِي آخِرِ الزَّمَانِ قَوْمٌ حُدَثَاءُ الأَسْنَانِ، سُفَهَاءُ الأَحْلاَمِ، يَقُولُونَ مِنْ خَيْرِ قَوْلِ الْبَرِيَّةِ، [ يَقْرَءُونَ الْقُرْآنَ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}$ ) / ∅ ( $\mathfrak{B}^{5057}$ ) ] لاَ يُجَاوِزُ [ إِيمَانُهُمْ ( $\mathfrak{B}^{5057}$ ) / ∅ ( $\mathfrak{B}^{3611}, \mathfrak{M}$ ) ] [ حَنَاجِرَهُمْ ( $\mathfrak{B}^{5057}, \mathfrak{D}$ ) / تَرَاقِيَهُمْ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{N}$ ) ]، يَمْرُقُونَ مِنَ [ الإِسْلاَمِ ( $\mathfrak{B}^{5057}$ ) / الدِّينِ ( $\mathfrak{B}^{3611}, \mathfrak{M}, \mathfrak{D}, \mathfrak{N}$ ) ] كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ.*
 * [쉬는 시간](#break_time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
-* [혼돈](#chaos) 대사 중 "합당하지 않게 먹고 마시면..." 부분은 "1 CORINTHIANS 11:27"을 참조한다.
-  * > *ὥστε ὃς ἂν ἐσθίῃ τὸν ἄρτον τοῦτον ἢ πίνῃ τὸ ποτήριον τοῦ κυρίου ἀναξίως, ἔνοχος ἔσται τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου.*
-* [살인 토끼](#killer_bunny)는 다음을 참조한다.
-  * "살인 토끼"와 "안티오크의 성스러운 수류탄"은 "Monty Python and the Holy Grail"을 참조한다.
-  * "예수 버리는 속도로 도주" 부분은 "MARK 14:51-52"의 "Naked fugitive"를 참조한다.
 * [시퀄](#sequel)의 문장은 "1 ENOCH 41:9"을 참조한다.
   * > *እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።*
   * [심판의 날](#judgement_day) 중 "모두를 감찰하신" 대사는 해당 문장을 참조한다.
@@ -494,5 +468,8 @@
   * 해당 문장은 "**If I regard**" 정도의 "주격 표현"이 포함된다.
   * "불가타 (Vulgate)"를 비롯한 상당히 많은 번역본들이 "주격 표현"을 흐리는 문제가 있다.
 * [심판의 날](#judgement_day) 중 "스올에서도 주를 찬양하리이다." 대사는 "PSALMS 6:5"을 참조한다.
+* [가시](#thorn) 중 "미지근해지지 않도록" 대사는 "REVELATION 3:16"을 참조한다.
+  * > οὕτως, ὅτι χλιαρὸς εἶ καὶ [ οὔτε ζεστός οὔτε ψυχρός (A, C, 046, 1006, 1611, 1854, 2053, 2344, $\mathfrak{M}$, $\text{TR}$) / οὔτε ψυχρὸς οὔτε ζεστός ($\aleph$, 051, 1, 2020, 2050, 2062) ], [ μέλλω σε ἐμέσαι ($\aleph$, A, C, 2053, 2062, $\text{lat}$) / σε μέλλω ἐμέσαι (046, 051, 1006, 1611, 1841, 1854, 2344, $\mathfrak{M}$, $\text{TR}$) ] ἐκ τοῦ στόματός μου.
+  * "$\aleph$, 051, 1, 2020, 2050, 2062" 문헌에는 "차지도 아니하고 뜨겁지도 아니하니 (οὔτε ψυχρὸς οὔτε ζεστός)"로 표기되어 있고, "A, C, 046, 1006, 1611, 1854, 2053, 2344, $\mathfrak{M}$, $\text{TR}$" 문헌에는 "뜨겁지도 아니하고 차지도 아니하니 (οὔτε ζεστός οὔτε ψυχρός)"로 표기되어 있기에 해당 문장은 정확하게 참조하기 어렵다.
 * [가시](#thorn) 중 "사탄의 사자" 대사는 "2 CORINTHIANS 12:7"을 참조한다.
 * [첫 데이트](#first_date) 중 "사내 연애는 엄격하게 금지되어 있다는" 대사는 "MATTHEW 22:30"을 참조한다.
