@@ -158,7 +158,7 @@
 * > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래봐!"
 * > ***사람들*:** *(춤을 추며)* "**HELL YEAH!!!**" 
 * > **[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md):** "저것들 굳이 달랠 필요 없어 보이는데? 무슨 일 생기면 네가 옮겨버리면 되잖아!"
-* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "다들 퍽이나 안심하겠다! 나만 보면 무서워서 얼어붙는데?"
+* > **[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md):** "다들 퍽이나 안심하겠다! 나만 보면 무서워서 얼어붙던데?"
 * *[메일리키아](../../characters/purgatorium/meilichia/Meilichia_Core.md)는 초공간도약, [베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 포털 능력을 보유하고 있다.*
 * *그 좋은 능력 가지고도 사람들 인식 때문에 못 써먹고 있긴 하다.*
 
