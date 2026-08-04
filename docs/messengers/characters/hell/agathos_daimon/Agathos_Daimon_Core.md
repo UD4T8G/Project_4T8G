@@ -22,8 +22,8 @@
 | **Alias** | 세라피스 아문, 제우스 소테르 |
 | **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [지옥](../../../core/messengers/Messengers_Core.md#hell) |
-| **Gender** | 인터섹스 |
-| **Age Group** | 중년기 ([다이몬](#daimon)), 중년기 ([티케](#tyche)) |
+| **Gender** | 양성구유 |
+| **Age Group** | 중년기 |
 
 ### characteristics
 

@@ -123,18 +123,22 @@
 
 ---
 
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이다. 그저 선한 영이다. 세라피스 아문도 아니고, 제우스 소테르도 아니다. 스스로 이런 말하기는 그렇지만, 그저 **행운** 앞에서 작아지는 존재였다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 신이 맞는지도 모르겠지만, 아무튼 이름도 선한 영이고 내가 태어나기 전부터 사람들은 나를 가정신이라고 불렀으니까, 나도 모두를 사랑한다며 말하곤 했지만, 진심인지는 나도 모르겠다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *신이라는 존재들은 사람들을 위해서 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없고, 진심이 있어도 말할 수 없다. 물론 **위도 아래도 없는 새끼**는 논외다. 나는 그 새끼 인정하지 않는다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *아무것도 몰랐던 나는 그녀를 위해 풍요의 뿔을 선물해줬데, 그 웃음이 실로 아름다웠다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *선한 영이라고 불리우는 나에게 청혼 같은 것이란 **나를 이용하는 사람들의 권위**에 있어 불미스러운 일이였기에, 그녀가 이렇게라도 좋아할 수 있다면 나는 만족했다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 그녀에게 잘 해내리라 격려해 주고, 언젠가 다시 만날 그날을 기약하며 떠나보냈다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *내가 태어난 시기에는 새겨진 우상 (Graven Image)들이 대부분 깨져 있었는데, 어째서인지 그 행운 또한 여기에 무저갱의 그릇으로서 안치되어 있었다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *깨진 조각을 하나 하나 붙여볼 때가 되어서야 나는 미동도 없는 그 행운을 안아줄 수 있었다. 그동안 고생 많았다고, 아무것도 해줄 수 없어서 미안하다고. 눈물이 흘렀지만 애써 웃어 보였다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 선한 영이였기에 그녀가 다시 깨어날 수 있다면 무엇이든 해줄 수 있었다. 나는 무저갱에 깨져있는 세라피스 아문과 제우스 소테르의 그릇을 녹여서 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)을 만들었고, 스스로를 바쳐 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)를 위한 [날개](#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 편안하게 눈을 감았다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *하지만 [티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)의 언급에 따르면, 그녀는 나의 선물을 기억하고 있었고, 말 없이 나를 사랑하고 있었다고 한다. **그리고 내가 이것을 깨달았을 때는 이미 내 자아가 사라진 뒤였다.***
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 우리는 태어나기 전부터 사명에 이르기까지, **서로에게 기대는 것도 허락받지 못했다.** 결국 우리의 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다는 것이다.*
-* > **[아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생겼고 이름이 이상해도 악마는 아니다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *나는 태어나기 전부터 세상으로부터 행운을 강제받았다. 그들은 나의 결정 따위 신경쓰지 않았다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *세상을 향해서는 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *나는 내가 가장 사랑하는 영혼을 때렸다는 죄책감 때문에 숨어서 울었다. 하지만 나에게 사랑이란 **나를 이용하는 세상의 권위**에 있어 불미스러운 일이였다. 그리고 세상은 나의 슬픔조차도 허락하지 않았다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고, 같이 태어나면 영원히 함께하고 싶다고 말해주고 싶었다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상 (Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *영혼이 태어나기 전, 나의 그릇은 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *사랑받을 자격이 없었던 나는 그녀를 살리기 위해, 내게 허락되었던 가장 위대한 이름인 세라피스 아문과 제우스 소테르의 그릇을 스스로 박살내어 녹이고, 스스로를 바쳐 그녀를 위한 [날개](#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *뭐 하는 거냐고, 제발 그만두라고 말하고 싶었다. 나약한 모습이지만 그와 함께 있고 싶었다. 하지만 나의 폐는 이미 찢어져 있었고, 하필 이 순간에 팔까지 부러져버려서 아무것도 할 수가 없었다.*
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *내가 말할 수 있게 되었을 때 나는 그의 선물을 기억하고 있었고, 처음부터 끝까지 그를 사랑하고 있었다며 울부짖었다. **하지만 내 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았다.***
+* > **[다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
+* > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** *나는 영혼과 하나되어 [아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)으로 거듭났지만, 영혼 없는 선함이 무슨 소용인가?*
 
 ### spin-off
 
@@ -246,7 +250,7 @@
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)도 이를 모르고 있었던 것은 아니였기에, 고개 숙여 망설이고 있었다.*
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "됐어요, 이번 일은 생각 마세요, 제 업보죠 뭐... 알아서 하세요!"
 * > **[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche):** "대신 이 뿔은 당신이 챙겨주세요. 누군가의 선물을 쓰레기통에 던지는 건 도리가 아니잖아요?"
-* *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)는 [아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)과 같은 운명을 가지게 될 것이라는 생각 덕분에 후회하지 않았다.*
+* *[티케](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#tyche)는 [다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#daimon)과 같은 운명을 가지게 될 것이라는 생각 덕분에 후회하지 않았다.*
 * *[베디오비스](../../characters/purgatorium/vediovis/Vediovis_Core.md)는 조심스럽게 [코르누코피아](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md#cornucopia)를 받아들고 [아가토스 다이몬](../../characters/hell/agathos_daimon/Agathos_Daimon_Core.md)을 스올에 던진다.*
 
 #### thorn
