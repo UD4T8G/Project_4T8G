@@ -1,4 +1,4 @@
-# meilichia
+# milky
 
 ---
 
@@ -10,7 +10,7 @@
   * [융합](#fusion)
     * [순교자들의 융합](#fusion_of_martyrs)
 * [융합로](#fusion_core)
-* [메일리키오스](#meilichios)
+* [스네이크](#snake)
   * [모노폴](#monopole)
     * [바이폴](#bipole)
     * [다이폴](#dipole)
@@ -25,13 +25,13 @@
 
 > *불이여! 내가 왔노라! 이 땅 위에 던지기 위함이로다! 나는 간절히 원하노라! 그 불이 이미 붙었더라면!*
 
-| **Name** | 메일리키아 |
+| **Name** | 밀키 |
 | :--- | :--- |
-| **Alias** | Basis Divagans Equorea **M**, 밀키 |
+| **Alias** | 메일리키아 (밀키), 메일리키오스 ([스네이크](#snake)) |
 | **Position** | [사자들](../../../core/messengers/Messengers_Core.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Core.md#purgatorium) |
-| **Gender** | 여성 (메일리키아), 남성 ([메일리키오스](#meilichios)) |
-| **Age Group** | 소녀기 (메일리키아), 중년기 ([메일리키오스](#meilichios)) |
+| **Gender** | 여성 (밀키), 남성 ([스네이크](#snake)) |
+| **Age Group** | 소녀기 (밀키), 중년기 ([스네이크](#snake)) |
 
 ### characteristics
 
@@ -39,11 +39,11 @@
 
 > *수많은 후보들에도 불구하고 굳이 자신을 선택한 동료를 종종 괴롭히곤 하지만, 실제로는 사지가 찢겨져도 동료부터 걱정하는 애증의 관계이다.*
 
-> *혼자 있을 때는 나무에 기대고 [메일리키오스](#meilichios)와 잡담하면서 지내는데, 멀리서 보면 메일리키아가 유혹당하는 것처럼 보이지만, 가까이서 보면 [메일리키오스](#meilichios)가 배려하고 있다.*
+> *혼자 있을 때는 나무에 기대고 [스네이크](#snake)과 잡담하면서 지내는데, 멀리서 보면 밀키가 유혹당하는 것처럼 보이지만, 가까이서 보면 [스네이크](#snake)이 배려하고 있다.*
 
-> *각 [메일리키오스](#meilichios)는 서로 다른 자아를 지니고 있는데, 시도 때도 없이 사고 치는 건 똑같다.*
+> *각 [스네이크](#snake)는 서로 다른 자아를 지니고 있는데, 시도 때도 없이 사고 치는 건 똑같다.*
 
-> *[메일리키오스](#meilichios)를 모두 [해제](#unseal)한 메일리키아의 자아는 순수하지만, [봉인](#seal) 상태의 [메일리키오스](#meilichios)는 메일리키아의 자아와 융합되며, 그 수가 너무 많아서 실시간으로 자아가 바뀌는 미친년처럼 보인다.*
+> *[스네이크](#snake)를 모두 [해제](#unseal)한 밀키의 자아는 순수하지만, [봉인](#seal) 상태의 [스네이크](#snake)는 밀키의 자아와 융합되며, 그 수가 너무 많아서 실시간으로 자아가 바뀌는 미친년처럼 보인다.*
 
 ### abilities
 
@@ -124,11 +124,11 @@
 * **Ability:**
   * [죄악](../../../core/messengers/Messengers_Core.md#sin) 임계 중첩 적용
   * [사태극](#sitaegeuk)을 제외한 모든 형태 융해
-  * 모든 [메일리키오스](#meilichios) 융합
+  * 모든 [스네이크](#snake) 융합
 * **Description:**
   * 최후의 저항이다.
   * 신체가 모두 소실될때까지 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 받아들인다.
-  * [메일리키오스](#meilichios)의 능력치는 [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량에 비례한다.
+  * [스네이크](#snake)의 능력치는 [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량에 비례한다.
   * 참수 능력을 사용하고 있지 않을 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 감소한다.
 
 #### fusion_core
@@ -140,11 +140,11 @@
   * 동력 충전
 * **Description:**
   * 심장부에 장착되어 있는 동력원이다.
-  * 메일리키아의 등에 동력원과 연결할 수 있는 포트가 있다.
+  * 밀키의 등에 동력원과 연결할 수 있는 포트가 있다.
     * [홀스터](#holster)를 선형 연결할 수 있다.
     * 연결된 [홀스터](#holster)를 충전할 수 있다.
 
-#### meilichios
+#### snake
 
 ---
 
@@ -155,7 +155,7 @@
     * 근거리 형태
     * 원거리 형태
 * **Description:**
-  * 메일리키아의 권속이다.
+  * 밀키의 권속이다.
   * 그 수가 무수히 많다.
     * 융합하여 거대화할 수 있다.
     * 분열하여 소형화할 수 있다.
@@ -175,11 +175,11 @@
   * 자동 공격
   * 비행 가속
 * **Description:**
-  * [메일리키오스](#meilichios)의 몸을 변형하여 사용한다.
+  * [스네이크](#snake)의 몸을 변형하여 사용한다.
   * 홀스터가 충전되었을 경우 [모노폴](#monopole)을 수납할 수 있다.
     * 수납된 [모노폴](#monopole)에 연결할 수 있다.
     * 연결된 [모노폴](#monopole)을 충전할 수 있다.
-  * 메일리키아의 신체에 고정하여 자동 조준할 수 있다.
+  * 밀키의 신체에 고정하여 자동 조준할 수 있다.
   * 타겟이 감지될 때마다 자동 사격한다.
   * 뒤로 공격하면 앞으로 추진할 수 있다.
 
@@ -192,7 +192,7 @@
   * 패링
   * 다중 타겟팅
 * **Description:**
-  * [메일리키오스](#meilichios)의 머리를 변형하여 독립적으로 사용한다.
+  * [스네이크](#snake)의 머리를 변형하여 독립적으로 사용한다.
   * [홀스터](#holster)에 연결되어 있을 경우 자동으로 공격한다.
   * [홀스터](#holster)에서 머리를 꺼내는 동시에 공격한다.
   * 여러 대상을 동시에 제압할 수 있다.
@@ -232,12 +232,12 @@
   * 피격 효과 [죄악](../../../core/messengers/Messengers_Core.md#sin) 변환
     * [죄악](../../../core/messengers/Messengers_Core.md#sin) 비례 호전성 증가
     * [죄악](../../../core/messengers/Messengers_Core.md#sin) 비례 신체 안정성 감소
-  * [메일리키오스](#meilichios) 참수 시 지속적으로 [죄악](../../../core/messengers/Messengers_Core.md#sin) 증가
-  * [메일리키오스](#meilichios) 수복 시 [죄악](../../../core/messengers/Messengers_Core.md#sin) 자동 감소
+  * [스네이크](#snake) 참수 시 지속적으로 [죄악](../../../core/messengers/Messengers_Core.md#sin) 증가
+  * [스네이크](#snake) 수복 시 [죄악](../../../core/messengers/Messengers_Core.md#sin) 자동 감소
 * **Description:**
-  * 메일리키아는 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 증가시키는 대신 신체 결손을 수복할 수 있다. 
+  * 밀키는 [죄악](../../../core/messengers/Messengers_Core.md#sin)을 증가시키는 대신 신체 결손을 수복할 수 있다. 
   * [죄악](../../../core/messengers/Messengers_Core.md#sin) 중첩량이 높아질수록 글리치를 일으키고 본질인 무형에 가까워진다.
-  * [메일리키오스](#meilichios)를 참수하여 무기로 사용하고 있을 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 증가한다.
+  * [스네이크](#snake)를 참수하여 무기로 사용하고 있을 경우 [죄악](../../../core/messengers/Messengers_Core.md#sin)이 지속적으로 증가한다.
   * [죄악](../../../core/messengers/Messengers_Core.md#sin)은 지속적으로 감소하며, 해당 속도는 체내 에너지에 비례한다.
 
 #### seal
@@ -245,24 +245,24 @@
 ---
 
 * **Ability:**
-  * [메일리키오스](#meilichios) 봉인
+  * [스네이크](#snake) 봉인
 * **Description:**
-  * [해제](#unseal)된 [메일리키오스](#meilichios)를 보관하여 비전투 형태로 전환한다.
+  * [해제](#unseal)된 [스네이크](#snake)를 보관하여 비전투 형태로 전환한다.
 
 #### unseal
 
 ---
 
 * **Ability:**
-  * [메일리키오스](#meilichios) 해제
+  * [스네이크](#snake) 해제
 * **Description:**
-  * [봉인](#seal)된 [메일리키오스](#meilichios)를 [해제](#unseal)하여 전투 형태로 전환한다.
+  * [봉인](#seal)된 [스네이크](#snake)를 [해제](#unseal)하여 전투 형태로 전환한다.
 
 ### miscellaneous
 
 ---
 
-* [메일리키오스](#meilichios)와 메일리키아의 융합성은 "역사적 다형성"을 참조한다.
+* [스네이크](#snake)과 밀키의 설정은 다음을 참조한다.
   * "Meilichios" (남성) 계열
     * "Zeus Meilichios": "아테네", "에피루스", "테게아", "밀레투스", "아모르고스", "로도스", "시키온", "아르고스", "크레타 하니아", "레바데아", "올림피아", "케오스", "키프로스", "체로네아", "파티카파움", "델포이", "메가라", "에레트리아", "테스피아이", "만티네아", "타렌툼", "록리", "시라쿠사", "페라이", "라리사", "타소스", "칼키스"
     * "Jupiter Meilichius": "로마 수도", "폼페이", "오스티아"
@@ -278,8 +278,8 @@
   * "고대 그리스"에서 "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"의 일환이다.
   * "Meilichia"는 "현대 그리스어"에서 고어이다.
   * "Meilichios"는 "온화한"의 뜻으로만 쓰이고 있다. 
- * 메일리키아의 가벼운 성격은 "고대 그리스"의 "종교 의식"이 일상적이었다는 점을 참조한다.
-* 메일리키아의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
+ * 밀키의 가벼운 성격은 "고대 그리스"의 "종교 의식"이 일상적이었다는 점을 참조한다.
+* 밀키의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [사태극](#sitaegeuk)은 "십자가"를 참조한다.
 * 상단의 문장은 "LUKA 12:49"을 참조한다.
   * > *Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη.*
 * [다이폴](#dipole)에서 언급되는 죽음의 탭댄스는 "Sten Machine Carbine"의 "Sten Stepping"을 참조한다.
