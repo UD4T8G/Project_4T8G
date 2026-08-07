@@ -29,36 +29,6 @@
 
 > *이는 있지 않기 때문이다; 우리에게 그 싸움이 피와 그리고 육을 향하여. 오히려 그 정사들을 향하여, 그 권세들을 향하여, 이 어둠의 그 세상 주관자들을 향하여, 그 하늘의 것들 안의 그 악함의 그 영적인 것들을 향하여!*
 
-#### epithet
-
----
-
-* *연옥에는 달래야 하는 제우스와 반전된 제우스가 있고, 지옥에는 구원의 제우스와 올림포스의 제우스가 있다.*
-* *사자들은 제우스의 이름을 빌려와 그 속성을 공유했을 뿐, 아무런 관련이 없는 사자들이다.*
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** *(독서 중)* "여동생이랑 결혼하고, 아버지의 신부를 빼앗고, 외간 여자를 덮치고..."
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** *(책을 덮으며)* "**위도 아래도 없는 새끼**로 만들어 놨군. 허나 부족함은 참된 인간의 증거로다."
-* *[보스](../../characters/hell/boss/Boss_Core.md)는 세상에 태어나기 전부터 세상의 초등학문을 즐겨왔고, 그는 세상을 사랑하게 되었다.*
-* *그에게 있어 지옥의 사명이란 세상을 위해서 해줄 수 있는 첫사랑이었으나, 세상은 그를 사랑하지 않았다.*
-* > **아에토스 디오스:** "하데스가 어디 있는지 모르겠네요. 어쩌면 우리보다 먼저 내려왔을지도 모르겠네요!"
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** "제우스 크토니우스, 내 듣자하니 스올을 하데스라고도 부르더군."
-* > **아에토스 디오스:** "제우스 말입니까? 그 위도 아래도 없는 새끼 말하시는 거 맞죠?"
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** "미안하네... 너무 어렵게 설명한 것 같군. 제우스 크토니우스가 곧 하데스라고 하면 이해하겠나?"
-* *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군했다.*
-* *아에토스 디오스가 [보스](../../characters/hell/boss/Boss_Core.md)를 지키기 위해 비상했으나, 악한 권세는 육신이 없어 그 어떤 공격도 통하지 않았다.*
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** "아에토스, 버틸 수 있겠나? 이 녀석들은 마치 **프로메테우스를 쪼아대는 검수리**같군."
-* > **아에토스 디오스:** "저는 여기까지인 것 같군요, 그동안 모시게 되어 영광이었습니다... **도망치세요!**"
-* *번개를 던져봤지만 번번히 꺼졌고, [보스](../../characters/hell/boss/Boss_Core.md)는 소멸해가는 아에토스 디오스를 품에 안고 있었다.*
-* *악한 영들이 아에토스 디오스에게 빙의했고, [보스](../../characters/hell/boss/Boss_Core.md)는 영적 싸움에서 패배하여 무저갱에 떨어졌다.*
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** *(빙의된 아에토스 디오스를 쓰러뜨리며)* "내 모든 권세가 여기서는 바람 앞의 등불과도 같구나!"
-* *[보스](../../characters/hell/boss/Boss_Core.md)는 아말테아의 가죽을 꺼내 그를 제압했지만, 빙의된 아에토스 디오스는 비명을 지르며 저항했다.*
-* *그런데 갑자기 아말테아의 가죽이 악한 영들을 배부르게 먹이기 시작했고, 악한 권세들은 떠나가버렸다.*
-* > **빙의된 아에토스 디오스:** "땅 위에 존재하게 된 그날로부터 단 하루도 빠짐없이 굶주렸습니다... **하지만 가죽에 깃든 영은 더러운 저희까지도 배불리 먹이시더군요!** 저희가 받은 은혜를 무엇으로 더 보답하겠습니까?"
-* *악한 영들이 [보스](../../characters/hell/boss/Boss_Core.md) 앞에 엎드려 감사를 표했고, 그들은 스스로를 바쳐 [보스](../../characters/hell/boss/Boss_Core.md)를 위한 [날개](#wings)가 되었다.*
-* *[아이기스](../../characters/hell/boss/Boss_Core.md#aegis)를 착용한 [보스](../../characters/hell/boss/Boss_Core.md)는 자신의 소멸을 유예받았고, 그는 아에토스 디오스와 아말테아를 기억했다.*
-* > **[보스](../../characters/hell/boss/Boss_Core.md):** "**보라, 죽어서도 나를 가르치시니; 나의 참된 어머니로다!**" *(번개를 부러트리며)* "**나는 결코 아버지의 신부를 빼앗지 아니하겠노라!**"
-* *[보스](../../characters/hell/boss/Boss_Core.md)가 무저갱의 [죄악](#sin)을 온전히 받아들이자 옷이 보라색으로 물들었고, 수명과 사명이 부여되었다.*
-* *[보스](../../characters/hell/boss/Boss_Core.md)가 부러진 번개로 할복하자 공허 폭풍이 발생했고, 거기로부터 [아스트라페](../../characters/hell/boss/Boss_Core.md#astrape)가 연단되었다.*
-
 #### blasphemy
 
 ---
@@ -123,22 +93,22 @@
 
 ---
 
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생긴 영혼이지만 악마는 아니다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생긴 영혼이지만 악마는 아니다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *나는 태어나기 전부터 세상으로부터 행운을 강제받았다. 그들은 나의 결정 따위 신경쓰지 않았다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *세상을 향해서는 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *나는 내가 가장 사랑하는 영혼을 때렸다는 죄책감 때문에 숨어서 울었다. 하지만 나에게 사랑이란 **나를 이용하는 세상의 권위**에 있어 불미스러운 일이였다. 그리고 세상은 나의 슬픔조차도 허락하지 않았다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고, 같이 태어나면 영원히 함께하고 싶다고 말해주고 싶었다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상 (Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상 (Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *영혼이 태어나기 전, 나의 그릇은 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *사랑받을 자격이 없었던 나는 그녀를 살리기 위해, 내게 허락되었던 가장 위대한 이름인 세라피스 아문과 제우스 소테르의 그릇을 스스로 박살내어 녹이고, 스스로를 바쳐 그녀를 위한 [날개](#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.*
-* > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *뭐 하는 거냐고, 제발 그만두라고 말하고 싶었다. 나약한 모습이지만 그와 함께 있고 싶었다. 하지만 나의 폐는 이미 찢어져 있었고, 하필 이 순간에 팔까지 부러져버려서 아무것도 할 수가 없었다.*
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *사랑받을 자격이 없었던 나는 그녀를 살리기 위해, 내게 허락되었던 하늘의 그릇을 스스로 박살내어 녹이고, 스스로를 바쳐 그녀를 위한 [날개](#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.*
+* > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *뭐 하는 거냐고, 제발 그만두라고 말하고 싶었다. 나약한 모습이라도 좋으니까 부디 그와 함께 있고 싶었다. 하지만 나의 폐는 이미 찢어져 있었고, 그 순간 팔까지 부러져버려서 아무것도 할 수가 없었다.*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *내가 말할 수 있게 되었을 때 나는 그의 선물을 기억하고 있었고, 처음부터 끝까지 그를 사랑하고 있었다며 울부짖었다. **하지만 내 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았다.***
-* > **[소울](../../characters/hell/misfortune/Misfortune_Core.md#soul):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
-* > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *나는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Core.md)으로 거듭났지만, 영혼 없는 선함이 무슨 소용인가?*
+* > **[스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t]):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
+* > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** *나는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Core.md)으로 거듭났지만, 영혼 없이 행하는 선은 무슨 의미가 있단 말인가?*
 
 ### spin-off
 
@@ -161,10 +131,10 @@
 * > **[밀키](../../characters/purgatorium/milky/Milky_Core.md):** "분위기 달아오르네! 오늘은 나 혼자 해볼테니까 넌 잠깐 빠져봐!"
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래봐!"
 * > ***사람들*:** *(춤을 추며)* "**HELL YEAH!!!**" 
-* > **[밀키](../../characters/purgatorium/milky/Milky_Core.md):** "저것들 굳이 달랠 필요 없어 보이는데? 무슨 일 생기면 네가 옮겨버리면 되잖아!"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "다들 퍽이나 안심하겠다! 나만 보면 무서워서 얼어붙던데?"
+* > **[밀키](../../characters/purgatorium/milky/Milky_Core.md):** "굳이 달랠 필요 없어 보이는데? 무슨 일 생기면 네가 옮겨버리면 되잖아!"
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "다들 나만 보면 무섭다고 얼어붙던데?"
 * *[밀키](../../characters/purgatorium/milky/Milky_Core.md)는 초공간도약, [버디](../../characters/purgatorium/buddy/Buddy_Core.md)는 포털 능력을 보유하고 있다.*
-* *그 좋은 능력 가지고도 사람들 인식 때문에 못 써먹고 있긴 하다.*
+* *그 좋은 능력 가지고도 사람들 때문에 못 써먹고 있다는 게 문제지만.*
 
 #### break_time
 
@@ -188,10 +158,10 @@
 * > **천국 가는 사람:** "닥쳐, 너네 돈으로 마시던가 해!" *(웃음)* "농담이고, 다음에 같이 카페나 가자고!"
 * *커피는 싸고, 데스스토커 독은 비싸다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Core.md):** ([고트](../../characters/purgatorium/buddy/Buddy_Core.md#goat)의 등에 기대며) "근데 우리 카페 갈 수 있어?"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "우리 연옥에서 못 나가..." *(당황하며)* "근데 내 염소..."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "우리 연옥에서 못 나가..." *(당황하며)* "**근데 내 염소...**"
 * *염소는 등이 약하기 때문에 올라타면 안 된다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Core.md):** *([모노폴](../../characters/purgatorium/milky/Milky_Core.md#monopole) 권총을 손가락에 걸고 돌리며)* "그동안 너 힘들어서 어떻게 지냈냐?"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "넌 어떻게 해소했는데?" *(기겁하며)* "일단 그거 좀 내려놓고..."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Core.md):** "일단 그거 좀 내려놓고..." *(기겁하며)* "**넌 어떻게 해소했는데!?**" 
 * *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
 #### wine
@@ -250,7 +220,7 @@
 * *[버디](../../characters/purgatorium/buddy/Buddy_Core.md)도 이를 모르고 있었던 것은 아니였기에, 고개 숙여 망설이고 있었다.*
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** "됐어요, 이번 일은 생각 마세요, 제 업보죠 뭐... 알아서 하세요!"
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune):** "대신 이 뿔은 당신이 챙겨주세요. 누군가의 선물을 쓰레기통에 던지는 건 도리가 아니잖아요?"
-* *[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune)는 [소울](../../characters/hell/misfortune/Misfortune_Core.md#soul)과 같은 운명을 가지게 될 것이라는 생각 덕분에 후회하지 않았다.*
+* *[포춘](../../characters/hell/misfortune/Misfortune_Core.md#fortune)는 [스피릿](../../characters/hell/misfortune/Misfortune_Core.md#[t])과 같은 운명을 가지게 될 것이라는 생각 덕분에 후회하지 않았다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Core.md)는 조심스럽게 [코르누코피아](../../characters/hell/misfortune/Misfortune_Core.md#cornucopia)를 받아들고 [미스포춘](../../characters/hell/misfortune/Misfortune_Core.md)을 스올에 던진다.*
 
 #### thorn
@@ -439,7 +409,6 @@
 * [프리퀄](#prequel)의 문장과 악한 영들은 "1 ENOCH 15:8-9"을 참조한다.
   * > *ወይእዜኒ፡ረዓይት፡እለ፡ተወልዱ፡እመንፈስ፡ወእምሥጋ፡መናፍስተ፡እኩያነ፡ይጼወዑ፡በዲበ፡ምድር፡ወበምድር፡ይከውን፡ማኅደሮሙ።*
   * > *መናፍስት፡እኩያን፡ወፅኡ፡እምሥጋሆሙ፡እስመ፡እምሰብእ፡ተወልዱ፡ወእምቅዱሳን፡ትጉሃን፡ቀዳሚ፡ልደቶሙ፡ወመሠረቶሙ፤መናፍስተ፡እኩያነ፡ይከውኑ፡በዲበ፡ምድር፡ወመናፍስተ፡እኩያነ፡ይጼወዑ።*
-* [에피테트](#epithet) 주석 중 "세상의 초등학문" 부분은 "Colossians", "Galatians"의 "στοιχεῖα"를 참조한다.
 * [신성모독](#blasphemy) 대사 중 "악하고 게으른 종", "땅에 묻어둘 수 있으나" 부분은 "MATTHEW 25:14-30"을 참조한다.
 * [완곡어법](#euphemism) 중 [스네이크](../../characters/purgatorium/milky/Milky_Core.md#snake)의 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
 * [완곡어법](#euphemism) 대사 중 "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다." 부분은 "1 Enoch 60:10"을 참조한다.
