@@ -29,9 +29,9 @@
 
 ---
 
-> *모두에게 격식을 차리기 위하여 그 어떤 표정도 짓지 않았다. 하지만 잠들 때마다 [코르누코피아](#cornucopia)를 끌어안고 슬피 울며 이를 갈다는 목격담이 들려오곤 한다.*
+> *[포춘](#fortune)은 백색 제복, 회색 [코르누코피아](#cornucopia), 회색  성벽관을 착용했고, 다리 대신 [스피릿](#spirit)이 뱀의 꼬리로 연결되어 있다.*
 
-> *자신이 다치더라도 [코르누코피아](#cornucopia)를 먼저 감싸며, 그 누구라도 [코르누코피아](#cornucopia)를 건들면 격렬한 감정을 드러낸다.*
+> *[스피릿](#spirit)은 황금색 프센트를 착용하고 백색 수염을 기른 벽안의 백색 뱀으로, 꼬리 끝에 [포춘](#fortune)이 연결되어 있다.*
 
 ### abilities
 
@@ -140,5 +140,8 @@
 * 설정적 디자인은 "National Archaeological Museum of Athens"에서 소장하고 있는 "Copper alloy statuette of the god Sarapis Amun Agathodaemon"의 "Syncretism"을 참조한다.
   * [스피릿](#spirit)의 설정은 "Agathos Daimon"을 참조한다.
   * [포춘](#fortune)의 설정은 "Fortuna"를 참조한다.
-* 상단의 문장은 "LUKA 22:26"을 참조한다.
-  * > *ὑμεῖς δὲ οὐχ οὕτως, ἀλλ’ ὁ μείζων [ ἐν ὑμῖν ($\mathfrak{P}^{75}$, $\aleph$, B, D, L, W, $\Theta$, $\Psi$, $\mathfrak{M}$) / om. ($\text{it}^a$, $\text{it}^e$) ] [ γινέσθω ($\mathfrak{P}^{75}$, $\aleph$, B, D, L, W, $\Theta$, $\Psi$, 070, 0211, 33, $\text{lat}$, $\text{cop}$, $\text{Cyr}$) / γενέσθω ($\mathfrak{M}$, 579, $\text{TR}$) ] ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς [ ὁ διακονῶν ($\mathfrak{P}^{75}$, $\aleph$, B, L, W, $\Theta$, $\Psi$, 33, $\mathfrak{M}$) / διακονῶν (D, 070, 565) ]*
+* 상단의 문장은 다음을 참조한다.
+  ```text
+  LUKA 22:26
+    ὑμεῖς δὲ οὐχ οὕτως, ἀλλ’ ὁ μείζων [ ἐν ὑμῖν (𝔓⁷⁵, ℵ, B, D, L, W, Θ, Ψ, 𝔐) / om. (itᵃ, itᵉ) ] [ γινέσθω (𝔓⁷⁵, ℵ, B, D, L, W, Θ, Ψ, 070, 0211, 33, lat, cop, Cyr) / γενέσθω (𝔐, 579, TR) ] ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς [ ὁ διακονῶν (𝔓⁷⁵, ℵ, B, L, W, Θ, Ψ, 33, 𝔐) / διακονῶν (D, 070, 565) ]
+  ```
