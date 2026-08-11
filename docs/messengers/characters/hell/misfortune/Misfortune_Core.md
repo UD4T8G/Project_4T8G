@@ -10,7 +10,7 @@
   * [코르누코피아](#cornucopia)
 * [스피릿](#spirit)
   * [파편화](#fragmentation)
-* ***[기타](../misfortune/Misfortune_Miscellaneous.md)***
+* ***[miscellaneous](./Misfortune_Miscellaneous.md)***
 
 ## main
 

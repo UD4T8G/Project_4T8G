@@ -8,7 +8,7 @@
 
 * [아이기스](#aegis)
 * [아스트라페](#astrape)
-* ***[기타](../boss/Boss_Miscellaneous.md)***
+* ***[miscellaneous](./Boss_Miscellaneous.md)***
 
 ## main
 

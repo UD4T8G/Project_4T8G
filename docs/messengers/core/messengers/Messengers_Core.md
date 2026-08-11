@@ -14,7 +14,7 @@
 * [연옥](#purgatorium)
 * [지옥](#hell)
 * [천국](#heaven)
-* ***[기타](../messengers/Messengers_Miscellaneous.md)***
+* ***[miscellaneous](./Messengers_Miscellaneous.md)***
 
 ## main
 

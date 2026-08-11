@@ -17,7 +17,7 @@
 * [심판의 화살](#judgement_bolt)
   * [포메이션](#formation)
   * [엑스큐션](#execution)
-* ***[기타](../buddy/Buddy_Miscellaneous.md)***
+* ***[miscellaneous](./Buddy_Miscellaneous.md)***
 
 ## main
 

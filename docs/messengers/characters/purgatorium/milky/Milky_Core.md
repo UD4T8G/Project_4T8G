@@ -18,7 +18,7 @@
 * [메아 쿨파](#mea_culpa)
   * [봉인](#seal)
   * [해제](#unseal)
-* ***[기타](../milky/Milky_Miscellaneous.md)***
+* ***[miscellaneous](./Milky_Miscellaneous.md)***
 
 ## main
 
