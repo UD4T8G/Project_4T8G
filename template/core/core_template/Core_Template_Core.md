@@ -8,7 +8,7 @@
 
 * [null](#null)
 * [null](#null)
-* [null](#null)
+* ***[miscellaneous](../core_template/Core_Template_Miscellaneous.md)***
 
 ## main
 

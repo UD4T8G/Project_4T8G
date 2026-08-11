@@ -8,6 +8,7 @@
 
 * [null](#null)
 * [null](#null)
+* ***[miscellaneous](../characters_template/Characters_Template_miscellaneous.md)***
 
 ## main
 
@@ -90,11 +91,3 @@
   * null
 * **Description:**
   * null
-
-### miscellaneous
-
----
-
-* null
-* null
-* null
