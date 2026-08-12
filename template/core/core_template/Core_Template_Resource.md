@@ -54,16 +54,20 @@
 
 ---
 
-#### characteristics
+* **Characteristics:**
+  * null
+  * null
+* **Abilities:**
+  * null
+  * null
+
+### null
 
 ---
 
-* null
-* null
-
-#### abilities
-
----
-
-* null
-* null
+* **Characteristics:**
+  * null
+  * null
+* **Abilities:**
+  * null
+  * null
