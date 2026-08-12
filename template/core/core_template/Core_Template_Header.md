@@ -1,0 +1,22 @@
+# Core Template Header
+
+---
+
+* [Main](./Core_Template_Main.md)
+  * [Null](./Core_Template_Main.md#null)
+    * [Null](./Core_Template_Main.md#null)
+    * [Null](./Core_Template_Main.md#null)
+  * [Null](./Core_Template_Main.md#null)
+    * [Null](./Core_Template_Main.md#null)
+    * [Null](./Core_Template_Main.md#null)
+* [Resource](./Core_Template_Resource.md)
+  * [Equipment](./Core_Template_Resource.md#equipment)
+    * [Null](./Core_Template_Resource.md#null)
+    * [Null](./Core_Template_Resource.md#null)
+  * [Discipline](./Core_Template_Resource.md#discipline)
+    * [Null](./Core_Template_Resource.md#null)
+    * [Null](./Core_Template_Resource.md#null)
+  * [Departments](./Core_Template_Resource.md#departments)
+    * [Null](./Core_Template_Resource.md#null)
+    * [Null](./Core_Template_Resource.md#null)
+* [Source](./Core_Template_Source.md)

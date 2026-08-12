@@ -1,16 +1,4 @@
-# null
-
----
-
-## header
-
----
-
-* [null](#null)
-* [null](#null)
-* ***[miscellaneous](../characters_template/Characters_Template_miscellaneous.md)***
-
-## main
+# Characters Template Main
 
 ---
 
@@ -24,27 +12,17 @@
 | **Gender** | null |
 | **Age Group** | null |
 
-### characteristics
+## characteristics
 
 ---
 
 > *null*
 
-### abilities
+## abilities
 
 ---
 
-#### melee
-
----
-
-| **Traits** | null |
-| :--- | :--- |
-| **Basic** | null |
-| **Special** | null |
-| **Ultimate** | null |
-
-#### ranged
+### melee
 
 ---
 
@@ -54,7 +32,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+### ranged
 
 ---
 
@@ -64,30 +42,12 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-## source
+### distance_control
 
 ---
 
-### abilities
-
----
-
-#### null
-
----
-
-> import [null](#null) from [null](#null)
-
-* **Ability:**
-  * null
-* **Description:**
-  * null
- 
-#### null
-
----
-
-* **Ability:**
-  * null
-* **Description:**
-  * null
+| **Traits** | null |
+| :--- | :--- |
+| **Basic** | null |
+| **Special** | null |
+| **Ultimate** | null |
