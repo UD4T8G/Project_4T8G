@@ -1,10 +1,10 @@
-# miscellaneous
+# Buddy Source
 
 ---
 
 * 버디의 설정은 "Vediovis"를 참조한다.
-  * [심판의 화살](./Buddy_Core.md#judgement_bolt)의 특징은 "Vediovis"가 "화살 다발"을 들고 있었다는 점을 참조한다.
-  * [고트](./Buddy_Core.md#goat)와 [성흔안](./Buddy_Core.md#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 "카피톨리누스 언덕"에서 발굴된 "Vediovis" 조각상의 머리와 손이 잘려져 있었다는 점을 참조한다.
+  * [심판의 화살](./Buddy_Resource.md#judgement_bolt)의 특징은 "Vediovis"가 "화살 다발"을 들고 있었다는 점을 참조한다.
+  * [고트](./Buddy_Resource.md#goat)와 [성흔안](./Buddy_Resource.md#stigmata_eyes)은 각각 머리와 손을 매개로 하는데, 이는 "카피톨리누스 언덕"에서 발굴된 "Vediovis" 조각상의 머리와 손이 잘려져 있었다는 점을 참조한다.
   * 버디의 성격이 무겁다는 점은 "고대 로마"의 "종교 의식"이 매우 엄격했다는 점을 참조한다.
   * 버디의 성격이 가벼워지기도 한다는 점은 "아실룸"의 포용적 특징을 참조한다.
     * 로물루스가 높다란 바위 (돌담)로 숲을 둘러싸고 **"누구든 간에, 이리로 피하라. 안전할 것이다"** 라고 말했던 곳이다. (오비디우스. 행사기. 3.429–436)
@@ -40,14 +40,14 @@
       Vediiovis ] V (Vaticanus 3452, 13c.) ; Vediovis P (Parisiensis 5765, 12c.) ; Veiovis R ; Veiove Q ;
       inter duos lucos ] P V R Q ; om. Romae Hertz
     ```
-* [성흔안](./Buddy_Core.md#stigmata_eyes)은 "십자가형"을 참조한다.
-* [고트](./Buddy_Core.md#goat)는 다음을 참조한다.
+* [성흔안](./Buddy_Resource.md#stigmata_eyes)은 "십자가형"을 참조한다.
+* [고트](./Buddy_Resource.md#goat)는 다음을 참조한다.
   * "유다 염소"
-  * [고트](./Buddy_Core.md#goat)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
+  * [고트](./Buddy_Resource.md#goat)의 성별이 중성인 이유는 다음 두 참조가 서로 다른 성별을 다루기 때문이다.
     * "Vediovis"에게 제물로 바치는 "암염소"
-    * "에녹 1서"의 타락한 [사자들](../../../core/messengers/Messengers_Core.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"
-  * [고트](./Buddy_Core.md#goat)의 실리를 따지는 성격은 실제 염소의 성격을 참조한다.
-* 버디의 [날개](../../../core/messengers/Messengers_Core.md#wings)에 해당하는 [팔괘](./Buddy_Core.md#bagua)의 배치는 "복희 팔괘"를 참조한다.
+    * "에녹 1서"의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"
+  * [고트](./Buddy_Resource.md#goat)의 실리를 따지는 성격은 실제 염소의 성격을 참조한다.
+* 버디의 [날개](../../../core/messengers/Messengers_Resource.md#wings)에 해당하는 [팔괘](./Buddy_Resource.md#bagua)의 배치는 "복희 팔괘"를 참조한다.
   * 각 괘의 디자인은 다음 아이콘을 참조한다.
     ```text
     건: 트리니티

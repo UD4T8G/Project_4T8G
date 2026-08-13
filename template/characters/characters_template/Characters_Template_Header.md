@@ -4,7 +4,7 @@
 
 * [Main](./Characters_Template_Main.md)
   * [Characteristics](./Characters_Template_Main.md#characteristics)
-  * [Abilities](./Characters_Template_Main.md#Abilities)
+  * [Abilities](./Characters_Template_Main.md#abilities)
     * [Melee](./Characters_Template_Main.md#melee)
     * [Ranged](./Characters_Template_Main.md#ranged)
     * [Distance Control](./Characters_Template_Main.md#distance_control)
