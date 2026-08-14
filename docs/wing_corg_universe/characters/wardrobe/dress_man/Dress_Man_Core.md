@@ -1,4 +1,4 @@
-# dress_man
+# dress-man
 
 ---
 
@@ -55,7 +55,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

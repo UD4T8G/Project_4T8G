@@ -1,4 +1,4 @@
-# blood_moon
+# blood-moon
 
 ---
 
@@ -58,7 +58,7 @@
 | **Special** | 달빛과 중력을 비활성화하여 생태계 마비 |
 | **Ultimate** | 소행성을 끌여들어 투척 |
 
-#### distance_control
+#### distance-control
 
 ---
 

@@ -2,34 +2,59 @@
 
 ---
 
-## aegis
+## abilities
 
 ---
 
-> import [날개](../../../core/messengers/Messengers_Resource.md#wings) from [사자들](../../../core/messengers/Messengers_Header.md)
-
-* **Ability:**
-  * 본체 백업
-  * 본체 방어
-  * 공허 비행
-  * [죄악](../../../core/messengers/Messengers_Resource.md#sin) 비례 효과
-* **Description:**
-  * [사자들](../../../core/messengers/Messengers_Header.md)의 [날개](../../../core/messengers/Messengers_Resource.md#wings)이다.
-  * 보스의 권속이자 아에토스 디오스의 날개가 장착되어 있는 방패이다.
-  * 등에서 분리하고 접어 방패로 사용할 수 있다.
-  * 등에 결합하고 펼쳐 공허 사이를 비행할 수 있다.
-  * 오브젝트의 공격력에 비례하는 피해를 방어하고 해당 수치는 오브젝트의 [죄악](../../../core/messengers/Messengers_Resource.md#sin) 중첩량에 비례한다.
-
-## astrape
+### melee
 
 ---
 
-> import [죄악](../../../core/messengers/Messengers_Resource.md#sin) from [사자들](../../../core/messengers/Messengers_Header.md)
+* [아이기스](#aegis)를 빠르게 휘두른다.
+* [아이기스](#aegis)의 날개를 접어 받은 피해를 흡수한 후 날개를 펼쳐 돌격한다.
 
-* **Ability:**
-  * 방어력 관통
-  * 오브젝트 [죄악](../../../core/messengers/Messengers_Resource.md#sin) 비례 효과
-* **Description:**
-  * 보스가 쥐고 있는 공허 폭풍이다.
-  * 오브젝트가 방어에 성공해도 전하 유도 및 재결합을 통해 오브젝트의 뒤를 공격할 수 있다.
-  * 오브젝트의 최대 체력에 비례하는 피해를 입히고 해당 수치는 오브젝트의 [죄악](../../../core/messengers/Messengers_Resource.md#sin) 중첩량에 비례한다.
+### ranged
+
+---
+
+* [아스트라페](#astrape)를 연속으로 빠르게 던진다.
+* [아스트라페](#astrape)를 산개시켜 빠르게 던진다.
+* [아이기스](#aegis)의 날개를 접어 받은 피해를 흡수한 후 날개를 펼쳐 던진 후 회수한다.
+* [아스트라페](#astrape)를 융합시키고 거대화하여 느리게 던진 후 폭발시킨다.
+* [아스트라페](#astrape)를 분열시키고 소형화하여 느리게 던진 후 산개시킨다.
+
+### distance-Control
+
+---
+
+* [아이기스](#aegis)로 비행하면서 [아스트라페](#astrape)로 찌른다.
+* [아이기스](#aegis)로 비행하면서 [아스트라페](#astrape)를 던진다.
+* [아이기스](#aegis)로 날아올라 [아스트라페](#astrape)로 할복하여 모든 것을 집어삼키는 공허 폭풍을 생성한다.
+
+
+## equipment
+
+---
+
+### aegis
+
+---
+
+* **[사자들](../../../core/messengers/Messengers_Header.md)의 [날개](../../../core/messengers/Messengers_Resource.md#wings):** 
+  * 아이기스로 [날개](../../../core/messengers/Messengers_Resource.md#wings) 능력을 사용한다.
+* **아이기스 제트팩:**
+  * 아이기스를 등에 결합하고 아에토스 디오스의 날개를 펼쳐 제트팩으로 사용한다.
+  * 비행하면서 주변에 공허 폭풍을 두른다.
+* **아이기스 방패:**
+  * 아이기스를 등에서 분리하고 아에토스 디오스의 날개를 접어 방패로 사용한다.
+  * 피해를 입을 때마다 [날개](../../../core/messengers/Messengers_Resource.md#wings)가 충전된다.
+  * 방어력은 적의 모든 권능에 비례한다.
+
+### astrape
+
+---
+
+* **아스트라페 창:**
+  * 아스트라페를 손에 들고 창으로 사용한다.
+  * 피해량은 적의 모든 권능에 비례한다.
+  * 적의 방어 여부에 상관없이 전하 유도 및 재결합하여 다시 공격한다.

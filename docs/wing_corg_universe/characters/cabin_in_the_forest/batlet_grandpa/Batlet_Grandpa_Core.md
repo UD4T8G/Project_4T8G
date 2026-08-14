@@ -1,4 +1,4 @@
-# batlet_grandpa
+# batlet-grandpa
 
 ---
 
@@ -53,7 +53,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

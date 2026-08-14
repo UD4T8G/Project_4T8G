@@ -18,7 +18,7 @@
     2 MACCABEES 12:44
       εἰ [ μὴ γὰρ (A, Ed. Göttingen, Rahlfs) / γὰρ μὴ (V, L, Ed. Sixtina) ] τοὺς προπεπτωκότας ἀναστῆναι προσεδόκα, [ περισσὸν καὶ ληρῶδες (A, Ed. Göttingen, Rahlfs) / περισσὸν ἂν ἦν καὶ ληρῶδες (V, L, 𝔐, La/Vulg, Ed. Sixtina) ] ὑπὲρ [ νεκρῶν (A, V, L, Ed. Göttingen) / τῶν νεκρῶν (𝔐) ] [ εὔχεσθαι (A, Ed. Göttingen, Rahlfs) / προσεύχεσθαι (V, L, 𝔐, Ed. Sixtina) ]
     ```
-  * [첫 데이트](./Messengers_Main.md#first_date)의 게힌놈은 "Hesychasm", "Palamism"을 참조하므로 네하르 디누르의 성질을 지닌다.
+  * [첫 데이트](./Messengers_Main.md#first-date)의 게힌놈은 "Hesychasm", "Palamism"을 참조하므로 네하르 디누르의 성질을 지닌다.
 * [천국](./Messengers_Resource.md#heaven) 묘사에 대한 제한은 다음을 참조한다.
   ```text
   1 ENOCH 14:7 [ 4Q204 ]
@@ -68,14 +68,14 @@
   BUKHARI 5057, MUSLIM 1066
     يَأْتِي فِي آخِرِ الزَّمَانِ قَوْمٌ حُدَثَاءُ الأَسْنَانِ، سُفَهَاءُ الأَحْلاَمِ، يَقُولُونَ مِنْ خَيْرِ قَوْلِ الْبَرِيَّةِ، [ يَقْرَءُونَ الْقُرْآنَ ( 𝔅³⁶¹¹, 𝔐, 𝔇 ) / ∅ ( 𝔅⁵⁰⁵⁷ ) ] لاَ يُجَاوِزُ [ إِيمَانُهُمْ ( 𝔅⁵⁰⁵⁷ ) / ∅ ( 𝔅³⁶¹¹, 𝔐 ) ] [ حَنَاجِرَهُمْ ( 𝔅⁵⁰⁵⁷, 𝔇 ) / تَرَاقِيَهُمْ ( 𝔅³⁶¹¹, 𝔐, \mathfrak{N} ) ]، يَمْرُقُونَ مِنَ [ الإِسْلاَمِ ( 𝔅⁵⁰⁵⁷ ) / الدِّينِ ( 𝔅³⁶¹¹, 𝔐, 𝔇, \mathfrak{N} ) ] كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ.
   ```
-* [쉬는 시간](./Messengers_Main.md#break_time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
+* [쉬는 시간](./Messengers_Main.md#break-time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
 * [시퀄](./Messengers_Main.md#sequel)의 문장은 다음을 참조한다.
   ```text
   1 ENOCH 41:9
     እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።
   ```
-  * [심판의 날](./Messengers_Main.md#judgement_day) 중 "모두를 감찰하신" 대사는 해당 문장을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 심판의 전제 조건은 다음을 참조한다.
+  * [심판의 날](./Messengers_Main.md#judgement-day) 중 "모두를 감찰하신" 대사는 해당 문장을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 심판의 전제 조건은 다음을 참조한다.
   ```text
   MEGILLAH 10b, SANHEDRIN 39b
     מעשה ידי [ ... ] בים ואתם אומרים שירה לפני
@@ -83,17 +83,17 @@
   ```
   * > *내 손으로 만든 피조물들이 바다에 빠져 죽어가고 있는데, 너희가 내 앞에서 감히 찬가를 부르느냐?*
   * 해당 문장은 홍해 바다가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 다룬다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 "알파로부터 오메가에 이르기까지" 대사는 "REVELATION 22:13"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 "마음을 다하고 뜻을 다하고 힘을 다하여!" 대사는 "DEUTERONOMY 6:5"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라." 대사는 "1 JOHN 4:19"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니," 대사는 다음을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 "알파로부터 오메가에 이르기까지" 대사는 "REVELATION 22:13"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 "마음을 다하고 뜻을 다하고 힘을 다하여!" 대사는 "DEUTERONOMY 6:5"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라." 대사는 "1 JOHN 4:19"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니," 대사는 다음을 참조한다.
   ```text
   PSALMS 66:18
     אָוֶן אִם־רָאִיתִי בְלִבִּי לֹא יִשְׁמַע אֲדֹנָי׃
   ```
   * 해당 문장은 "**If I regard**" 정도의 "주격 표현"이 포함된다.
   * "불가타 (Vulgate)"를 비롯한 상당히 많은 번역본들이 "주격 표현"을 흐리는 문제가 있다.
-* [심판의 날](./Messengers_Main.md#judgement_day) 중 "스올에서도 주를 찬양하리이다." 대사는 "PSALMS 6:5"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 "스올에서도 주를 찬양하리이다." 대사는 "PSALMS 6:5"을 참조한다.
 * [가시](./Messengers_Main.md#thorn) 중 "미지근해지지 않도록" 대사는 다음을 참조한다.
   ```text
   REVELATION 3:16
@@ -101,4 +101,4 @@
   ```
   * "ℵ, 051, 1, 2020, 2050, 2062" 문헌에는 "차지도 아니하고 뜨겁지도 아니하니 (οὔτε ψυχρὸς οὔτε ζεστός)"로 표기되어 있고, "A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR" 문헌에는 "뜨겁지도 아니하고 차지도 아니하니 (οὔτε ζεστός οὔτε ψυχρός)"로 표기되어 있기에 해당 문장은 정확하게 참조하기 어렵다.
 * [가시](./Messengers_Main.md#thorn) 중 "사탄의 사자" 대사는 "2 CORINTHIANS 12:7"을 참조한다.
-* [첫 데이트](./Messengers_Main.md#first_date) 중 "사내 연애는 엄격하게 금지되어 있다는" 대사는 "MATTHEW 22:30"을 참조한다.
+* [첫 데이트](./Messengers_Main.md#first-date) 중 "사내 연애는 엄격하게 금지되어 있다는" 대사는 "MATTHEW 22:30"을 참조한다.

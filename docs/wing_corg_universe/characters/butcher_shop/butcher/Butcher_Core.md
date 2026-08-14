@@ -6,9 +6,9 @@
 
 ---
 
-* [발골용 정육도](#meat_cleaver)
-* [무의미한 수배지](#wanted_poster)
-* [돌팔이의 투명 부적](#fake_talisman)
+* [발골용 정육도](#meat-cleaver)
+* [무의미한 수배지](#wanted-poster)
+* [돌팔이의 투명 부적](#fake-talisman)
 
 ## main
 
@@ -21,7 +21,7 @@
 | **Name** | 고깃집 사장 |
 | :--- | :--- |
 | **Alias** | 부처님 |
-| **Position** | 사장, 고용주 ([윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)) |
+| **Position** | 사장, 고용주 ([윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)) |
 | **Department** | 정육점 |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
@@ -30,17 +30,17 @@
 
 ---
 
-> *초재생능력을 지닌 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 살점으로 개고기를 팔고 그 목욕물로 육수를 팔아 대박 난 악덕 사장.*
+> *초재생능력을 지닌 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)의 살점으로 개고기를 팔고 그 목욕물로 육수를 팔아 대박 난 악덕 사장.*
 
-> *[윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 칼솜씨에 감탄하여 '윙고기'라는 별명을 붙여준 장본인이기도 하다.*
+> *[윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)의 칼솜씨에 감탄하여 '윙고기'라는 별명을 붙여준 장본인이기도 하다.*
 
-> *분노한 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 절연당한 이후, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 매일같이 고기를 털리면서도 협박에 의해 강제로 적자 영업을 이어가는 가련한 신세로 전락했다.*
+> *분노한 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)에게 절연당한 이후, [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)에게 매일같이 고기를 털리면서도 협박에 의해 강제로 적자 영업을 이어가는 가련한 신세로 전락했다.*
 
-> *직원들은 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)가 너무나도 뻔뻔하고 당당하게 고기를 훔쳐 가는 데다 매번 분장 (젖소)이 바뀌기 때문에, 그를 사장이 고용한 신입 직원으로 굳게 믿고 있다.*
+> *직원들은 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)가 너무나도 뻔뻔하고 당당하게 고기를 훔쳐 가는 데다 매번 분장 (젖소)이 바뀌기 때문에, 그를 사장이 고용한 신입 직원으로 굳게 믿고 있다.*
 
-> *한 번은 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)를 막기 위해 사장이 전신 무장을 하고 전 직원을 보초로 세웠으나, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)가 환풍구와 (진짜) 투명 부적의 시너지를 활용해 고기를 전부 털어간 뼈아픈 전적이 있다.*
+> *한 번은 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)를 막기 위해 사장이 전신 무장을 하고 전 직원을 보초로 세웠으나, [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)가 환풍구와 (진짜) 투명 부적의 시너지를 활용해 고기를 전부 털어간 뼈아픈 전적이 있다.*
 
-> *후일담으로, [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 털린 사장이 복수하기 위해 돌팔이 무당에게 부적을 사서 윙콕 가족의 집에 역침입을 시도한 적이 있다. 하지만 부적이 가짜였기에 떡이 되도록 두들겨 맞고 병원에 입원했으며, 그 기간 동안 정육점은 윙콕 가족의 훌륭한 무료 고기 뷔페가 되었다.*
+> *후일담으로, [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)에게 털린 사장이 복수하기 위해 돌팔이 무당에게 부적을 사서 윙콕 가족의 집에 역침입을 시도한 적이 있다. 하지만 부적이 가짜였기에 떡이 되도록 두들겨 맞고 병원에 입원했으며, 그 기간 동안 정육점은 윙콕 가족의 훌륭한 무료 고기 뷔페가 되었다.*
 
 ### abilities
 
@@ -52,9 +52,9 @@
 
 | **Traits** | 처형자, 출혈, 분노 |
 | :--- | :--- |
-| **Basic** | [발골용 정육도](#meat_cleaver)로 전방의 오브젝트 난도질 |
-| **Special** | 캐스팅 후 약점을 찾아 [발골용 정육도](#meat_cleaver)로  치명타 타격 |
-| **Ultimate** | [발골용 정육도](#meat_cleaver)를 미친 듯이 휘두르며 전진 |
+| **Basic** | [발골용 정육도](#meat-cleaver)로 전방의 오브젝트 난도질 |
+| **Special** | 캐스팅 후 약점을 찾아 [발골용 정육도](#meat-cleaver)로  치명타 타격 |
+| **Ultimate** | [발골용 정육도](#meat-cleaver)를 미친 듯이 휘두르며 전진 |
 
 #### ranged
 
@@ -62,19 +62,19 @@
 
 | **Traits** | 오피서, 군중제어기 |
 | :--- | :--- |
-| **Basic** | [무의미한 수배지](#wanted_poster)를 산탄 투척하여 타격 |
-| **Special** | [무의미한 수배지](#wanted_poster)를 속사하여 시야 교란 |
-| **Ultimate** | [무의미한 수배지](#wanted_poster)를 뭉쳐 포획용 그물망 형성 |
+| **Basic** | [무의미한 수배지](#wanted-poster)를 산탄 투척하여 타격 |
+| **Special** | [무의미한 수배지](#wanted-poster)를 속사하여 시야 교란 |
+| **Ultimate** | [무의미한 수배지](#wanted-poster)를 뭉쳐 포획용 그물망 형성 |
 
-#### distance_control
+#### distance-control
 
 ---
 
 | **Traits** | 돌진, 버서커 |
 | :--- | :--- |
-| **Basic** | [돌팔이의 투명 부적](#fake_talisman)을 이마에 붙이고 질주 |
-| **Special** | [돌팔이의 투명 부적](#fake_talisman)을 전신에 붙이고 무거운 육탄 돌격 |
-| **Ultimate** | 모든 [돌팔이의 투명 부적](#fake_talisman)을 흩뿌리고 도주 |
+| **Basic** | [돌팔이의 투명 부적](#fake-talisman)을 이마에 붙이고 질주 |
+| **Special** | [돌팔이의 투명 부적](#fake-talisman)을 전신에 붙이고 무거운 육탄 돌격 |
+| **Ultimate** | 모든 [돌팔이의 투명 부적](#fake-talisman)을 흩뿌리고 도주 |
 
 ## source
 
@@ -84,7 +84,7 @@
 
 ---
 
-#### meat_cleaver
+#### meat-cleaver
 
 ---
 
@@ -95,7 +95,7 @@
   * '윙고기' 시절부터 사용해 온 식칼이다.
   * 재생 능력을 지닌 오브젝트를 해체하기 좋다.
 
-#### wanted_poster
+#### wanted-poster
 
 ---
 
@@ -103,11 +103,11 @@
   * 시야 차단
   * 군중 제어
 * **Description:**
-  * [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)를 잡기 위해 인쇄한 대량의 현상수배지다.
-  * [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)의 분장이 매번 바뀌어 잡는 데는 아무런 의미가 없지만, 무기로 던진다.
+  * [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)를 잡기 위해 인쇄한 대량의 현상수배지다.
+  * [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)의 분장이 매번 바뀌어 잡는 데는 아무런 의미가 없지만, 무기로 던진다.
   * 무겁고 질겨 오브젝트를 제압하는 데 좋다.
 
-#### fake_talisman
+#### fake-talisman
 
 ---
 

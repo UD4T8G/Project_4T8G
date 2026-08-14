@@ -1,4 +1,4 @@
-# grand_king_1 
+# grand-king-1 
 
 ---
 
@@ -53,7 +53,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

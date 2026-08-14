@@ -1,4 +1,4 @@
-# pickup_man
+# pickup-man
 
 ---
 
@@ -6,9 +6,9 @@
 
 ---
 
-* [습득의 육신](#body_of_pickup)
-  * [습득 훈련](#pickup_training)
-  * [습득 구현](#pickup_realize)
+* [습득의 육신](#body-of-pickup)
+  * [습득 훈련](#pickup-training)
+  * [습득 구현](#pickup-realize)
 
 ## main
 
@@ -44,9 +44,9 @@
 
 | **Traits** | 도발, 근접 유닛 |
 | :--- | :--- |
-| **Basic** | 달려오면서 느리고 가벼운 펀치로 [습득의 육신](#body_of_pickup) 활성화 유도 |
-| **Special** | [습득 훈련](#pickup_training)으로 캐스팅 후 습득한 능력 구사<br>[습득 구현](#pickup_realize)으로 캐스팅 후 습득한 형태 변형 |
-| **Ultimate** | [습득의 육신](#body_of_pickup)을 응용하여 [습득 구현](#pickup_realize)을 신체에 두르고 [습득 훈련](#pickup_training)으로 타격 |
+| **Basic** | 달려오면서 느리고 가벼운 펀치로 [습득의 육신](#body-of-pickup) 활성화 유도 |
+| **Special** | [습득 훈련](#pickup-training)으로 캐스팅 후 습득한 능력 구사<br>[습득 구현](#pickup-realize)으로 캐스팅 후 습득한 형태 변형 |
+| **Ultimate** | [습득의 육신](#body-of-pickup)을 응용하여 [습득 구현](#pickup-realize)을 신체에 두르고 [습득 훈련](#pickup-training)으로 타격 |
 
 #### ranged
 
@@ -54,19 +54,19 @@
 
 | **Traits** | 도발, 원거리 유닛 |
 | :--- | :--- |
-| **Basic** | 도망치면서 느리고 가벼운 투척으로 [습득의 육신](#body_of_pickup) 활성화 유도 |
-| **Special** | [습득 구현](#pickup_realize)으로 캐스팅 후 습득한 능력을 빠르게 발사<br>[습득 구현](#pickup_realize)으로 캐스팅 후 습득한 능력을 강하게 발사 |
-| **Ultimate** | [습득 훈련](#pickup_training)으로 비행하면서 [습득의 육신](#body_of_pickup)을 응용하여 [습득 구현](#pickup_realize)으로 탄막 형성 |
+| **Basic** | 도망치면서 느리고 가벼운 투척으로 [습득의 육신](#body-of-pickup) 활성화 유도 |
+| **Special** | [습득 구현](#pickup-realize)으로 캐스팅 후 습득한 능력을 빠르게 발사<br>[습득 구현](#pickup-realize)으로 캐스팅 후 습득한 능력을 강하게 발사 |
+| **Ultimate** | [습득 훈련](#pickup-training)으로 비행하면서 [습득의 육신](#body-of-pickup)을 응용하여 [습득 구현](#pickup-realize)으로 탄막 형성 |
 
-#### distance_control
+#### distance-control
 
 ---
 
 | **Traits** | 업그레이드, 생존, 무적 |
 | :--- | :--- |
-| **Basic** | 피격 후 슬로건을 외쳐 [습득의 육신](#body_of_pickup) 발동 |
-| **Special** | 채널링을 해제하고 [습득 훈련](#pickup_training)으로 질주<br>채널링에 진입하여 [습득 구현](#pickup_realize)으로 방어 |
-| **Ultimate** | [습득의 육신](#body_of_pickup)을 폭주시켜 짧은 시간동안 채널링 진입 속성과 채널링 해제 속성을 동시에 구사 |
+| **Basic** | 피격 후 슬로건을 외쳐 [습득의 육신](#body-of-pickup) 발동 |
+| **Special** | 채널링을 해제하고 [습득 훈련](#pickup-training)으로 질주<br>채널링에 진입하여 [습득 구현](#pickup-realize)으로 방어 |
+| **Ultimate** | [습득의 육신](#body-of-pickup)을 폭주시켜 짧은 시간동안 채널링 진입 속성과 채널링 해제 속성을 동시에 구사 |
 
 ## source
 
@@ -76,7 +76,7 @@
 
 ---
 
-#### body_of_pickup
+#### body-of-pickup
 
 ---
 
@@ -92,7 +92,7 @@
     * 채널링을 해제하면 습득 피해에 의해 해당하는 습득 상태가 미습득 상태로 전환된다.
     * 채널링에 진입하면 미습득 피해에 의해 무작위 습득 상태가 미습득 상태로 전환된다.
  
-#### pickup_training
+#### pickup-training
 
 ---
 
@@ -103,7 +103,7 @@
   * 습득한 능력의 자세를 따라할 수 있다.
   * 습득한 능력에 맞춰 신체를 변형할 수 있다.
 
-#### pickup_realize
+#### pickup-realize
 
 ---
 
@@ -118,4 +118,4 @@
 
 ---
 
-* 원안에서는 [판스 금서](../../panda_corporation/pan_teach/Pan_Teach_Core.md#forbidden_book_of_pan_teach) 빛의 힘으로 무력화 했는데, "데우스 엑스 마키나" 연출을 최소화하기 위해 2026년에 "채널링" 설정을 도입했다.
+* 원안에서는 [판스 금서](../../panda-corporation/pan-teach/Pan-Teach-Core.md#forbidden-book-of-pan-teach) 빛의 힘으로 무력화 했는데, "데우스 엑스 마키나" 연출을 최소화하기 위해 2026년에 "채널링" 설정을 도입했다.

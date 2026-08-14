@@ -1,4 +1,4 @@
-# james_inferno
+# james-inferno
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-> *[엮은이법](../../../core/editor_law/Editor_Law_Core.md)은 이름 제비뽑기에 한하여 개명을 허용했지만 천박한 이름만 나왔고, 슴가는 홧김에 성전환 수술을 강행한 뒤 제비뽑기에서 제임스 인페르노를 골라 개명했다.*
+> *[엮은이법](../../../core/editor-law/Editor-Law-Core.md)은 이름 제비뽑기에 한하여 개명을 허용했지만 천박한 이름만 나왔고, 슴가는 홧김에 성전환 수술을 강행한 뒤 제비뽑기에서 제임스 인페르노를 골라 개명했다.*
 
 ### abilities
 
@@ -57,7 +57,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 
@@ -101,4 +101,4 @@
 
 * 원안에서는 장기적으로 등장했음에도 불구하고 캐릭터성이 부족했다.
   * 슴가는 설정을 확장하기만 하는 캐릭터였다.
-  * 애미는 [욕쟁이 할머니](../cursing_grandma/Cursing_Grandma_Core.md)에게 당하기만 하는 캐릭터였다.
+  * 애미는 [욕쟁이 할머니](../cursing-grandma/Cursing-Grandma-Core.md)에게 당하기만 하는 캐릭터였다.

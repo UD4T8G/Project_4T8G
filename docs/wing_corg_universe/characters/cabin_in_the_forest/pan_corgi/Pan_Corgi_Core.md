@@ -1,4 +1,4 @@
-# pan_corgi
+# pan-corgi
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-> *이번 연구는 잘 되가고 있습니다. [빨래방망이 할아버지](../batlet_grandpa/Batlet_Grandpa_Core.md) 모셔오세요.*
+> *이번 연구는 잘 되가고 있습니다. [빨래방망이 할아버지](../batlet-grandpa/Batlet-Grandpa-Core.md) 모셔오세요.*
 
 > *판다도 아니고 코기도 아닙니다. 판코기는 판코기로서 존중해 주시죠.*
 
@@ -29,7 +29,7 @@
 
 ---
 
-> *액체 판다가 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)에게 흘러들어간 후 짝짓기하여 태어난 혼혈 종족. 놀라운 지능을 보유하고 있다.*
+> *액체 판다가 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)에게 흘러들어간 후 짝짓기하여 태어난 혼혈 종족. 놀라운 지능을 보유하고 있다.*
 
 ### abilities
 
@@ -55,7 +55,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

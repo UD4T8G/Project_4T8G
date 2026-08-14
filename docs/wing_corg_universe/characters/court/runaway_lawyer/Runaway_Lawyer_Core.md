@@ -1,4 +1,4 @@
-# runaway_lawyer
+# runaway-lawyer
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-> *누명을 쓴 [라카이](../../wing_corg_family/lackey/Lackey_Core.md)를 위해 [윙코기](../../wing_corg_family/wing_corgi/Wing_Corgi_Core.md)가 선임해 준 변호사.*
+> *누명을 쓴 [라카이](../../wing-corg-family/lackey/Lackey-Core.md)를 위해 [윙코기](../../wing-corg-family/wing-corgi/Wing-Corgi-Core.md)가 선임해 준 변호사.*
 
 > *패소의 냄새를 맡으면 피고를 방치하고 탈주하여 커리어를 지킨다.* 
 
@@ -59,7 +59,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

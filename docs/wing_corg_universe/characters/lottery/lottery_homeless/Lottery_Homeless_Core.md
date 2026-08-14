@@ -1,4 +1,4 @@
-# lottery_homeless
+# lottery-homeless
 
 ---
 
@@ -54,7 +54,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

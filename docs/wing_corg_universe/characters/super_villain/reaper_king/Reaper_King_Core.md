@@ -1,4 +1,4 @@
-# reaper_king
+# reaper-king
 
 ---
 
@@ -55,7 +55,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

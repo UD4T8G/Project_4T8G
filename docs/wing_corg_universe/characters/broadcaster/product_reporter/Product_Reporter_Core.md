@@ -1,4 +1,4 @@
-# product_reporter
+# product-reporter
 
 ---
 
@@ -55,7 +55,7 @@
 | **Special** | null |
 | **Ultimate** | null |
 
-#### distance_control
+#### distance-control
 
 ---
 

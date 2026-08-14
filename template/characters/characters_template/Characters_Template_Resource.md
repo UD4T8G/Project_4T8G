@@ -2,22 +2,85 @@
 
 ---
 
-## null
+## abilities
 
 ---
 
-> import [null](#null) from [null](#null)
-
-* **Ability:**
-  * null
-* **Description:**
-  * null
- 
-## null
+### melee
 
 ---
 
-* **Ability:**
+* null
+* null
+* null
+
+### ranged
+
+---
+
+* null
+* null
+* null
+
+### distance-control
+
+---
+
+* null
+* null
+* null
+
+## equipment
+
+---
+
+### null
+
+---
+
+* **null:**
   * null
-* **Description:**
+  * null
+  * null
+* **null:**
+  * null
+  * null
+  * null
+* **null:**
+  * null
+  * null
+  * null
+
+### null
+
+---
+
+* **null:**
+  * null
+  * null
+  * null
+* **null:**
+  * null
+  * null
+  * null
+* **null:**
+  * null
+  * null
+  * null
+
+### null
+
+---
+
+* **null:**
+  * null
+  * null
+  * null
+* **null:**
+  * null
+  * null
+  * null
+* **null:**
+  * null
+  * null
   * null

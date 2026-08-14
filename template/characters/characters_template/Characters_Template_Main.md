@@ -18,36 +18,14 @@
 
 > *null*
 
-## abilities
+> *null*
+
+> *null*
+
+## lines
 
 ---
 
-### melee
-
----
-
-| **Traits** | null |
-| :--- | :--- |
-| **Basic** | null |
-| **Special** | null |
-| **Ultimate** | null |
-
-### ranged
-
----
-
-| **Traits** | null |
-| :--- | :--- |
-| **Basic** | null |
-| **Special** | null |
-| **Ultimate** | null |
-
-### distance_control
-
----
-
-| **Traits** | null |
-| :--- | :--- |
-| **Basic** | null |
-| **Special** | null |
-| **Ultimate** | null |
+* > **Characters:** *(null)* "null"
+* > **Characters:** *(null)* "null"
+* > **Characters:** *(null)* "null"
