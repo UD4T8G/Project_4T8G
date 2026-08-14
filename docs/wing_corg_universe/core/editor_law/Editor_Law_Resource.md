@@ -32,10 +32,10 @@
 
 ---
 
-> *[윙코기](../../characters/wing-corg-family/wing-corgi/Wing-Corgi-Core.md)가 전 세계의 대통령이 되었을 때, [라카이](../../characters/wing-corg-family/lackey/Lackey-Core.md)의 쿠데타를 예방하기 위하여 시행한 대통령령.*
+> *[윙코기](../../characters/wingcorg_family/wingcorgi/WingCorgi_Header.md)가 전 세계의 대통령이 되었을 때, [라카이](../../characters/wingcorg_family/lackey/Lackey_Header.md)의 쿠데타를 예방하기 위하여 시행한 대통령령.*
 
-* [라카이](../../characters/wing-corg-family/lackey/Lackey-Core.md)가 피해자일 경우에 한하여 가해자가 처벌되지 않는다.
-* [라카이](../../characters/wing-corg-family/lackey/Lackey-Core.md)에게 징역형이 선고될때에 한하여 1억년을 곱산한다.
+* [라카이](../../characters/wingcorg_family/lackey/Lackey_Header.md)가 피해자일 경우에 한하여 가해자가 처벌되지 않는다.
+* [라카이](../../characters/wingcorg_family/lackey/Lackey_Header.md)에게 징역형이 선고될때에 한하여 1억년을 곱산한다.
 
 ## departments
 
