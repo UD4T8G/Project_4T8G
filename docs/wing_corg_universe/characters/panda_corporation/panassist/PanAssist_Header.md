@@ -2,10 +2,6 @@
 
 ---
 
-> *[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)씨? (**왜!**) 엄청난 일이 일어났습니다.*
-
-> *[라카이](../../wingcorg_family/lackey/Lackey_Header.md)씨? (**왜!**) 엄청난 일이 일어났습니다.*
-
 | **Name** | 판비 |
 | :--- | :--- |
 | **Alias** | 판다 비서 |
@@ -14,7 +10,7 @@
 | **Gender** | 여성 |
 | **Age Group** | 중년기 |
 
-### characteristics
+## characteristics
 
 ---
 
@@ -25,6 +21,13 @@
 > *윙콕 가족과는 겉으로 대놓고 싸우진 않지만 속으로는 날이 선 '냉전 관계'를 유지하고 있다.*
 
 > *치명적인 파괴력의 죽창검과 절대 방어의 판스 갑옷을 동시에 다루는 극단적인 밸런스의 소유자다.*
+
+## lines
+
+---
+
+* > **판비:** "[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)씨?" (**[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
+* > **판비:** "[라카이](../../wingcorg_family/lackey/Lackey_Header.md)씨?" (**[라카이](../../wingcorg_family/lackey/Lackey_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
 
 # PanAssist Resource
 

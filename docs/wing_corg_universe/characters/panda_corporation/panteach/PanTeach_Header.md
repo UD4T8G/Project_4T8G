@@ -2,7 +2,7 @@
 
 ---
 
-> *내 유산을 따르라!*
+
 
 | **Name** | 판스 |
 | :--- | :--- |
@@ -27,6 +27,12 @@
 > *역사상 최초로 판스의 환영을 마주하고 전설의 활을 얻어 각성한 [전설의 판다](../panda-of-legend/Panda-of-Legend_Header.md)의 스승이다.*
 
 > *[전설의 판다](../panda-of-legend/Panda-of-Legend_Header.md)의 지도 아래 [판비](../pan-assist/Pan-Assist_Header.md)와 [판도](../pan-tao/Pan-Tao_Header.md) 역시 판스의 환영을 보았으며, 이를 통해 [판스 금서](#forbidden-book-of-pan-teach)의 '빛의 힘'을 부여받아 개념을 탈취하는 우주적 빌런 [습득맨](../../super_villain/pickupman/PickupMan_Header.md)의 습득 효과를 완벽하게 우회하고 물리치는 역사적 전공을 세우게 된다.*
+
+## lines
+
+---
+
+* > **판스:** "내 유산을 따르라!"
 
 # PanTeach Resource
 

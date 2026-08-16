@@ -2,8 +2,6 @@
 
 ---
 
-> *null*
-
 | **Name** | null |
 | :--- | :--- |
 | **Alias** | null |

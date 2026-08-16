@@ -2,8 +2,6 @@
 
 ---
 
-> *땅에 Uneven Mecha Wizard가 있다면, 하늘에는 DAS3OS가 있다.*
-
 | **Name** | DAS3OS |
 | :--- | :--- |
 | **Alias** | 스페이스 인베이더 |
