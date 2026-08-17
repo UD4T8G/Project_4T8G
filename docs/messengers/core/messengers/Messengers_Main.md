@@ -70,7 +70,6 @@
 * *수많은 접전의 끝자락에서, 달래야 하는 존재들은 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 치명적인 [죄악](./Messengers_Resource.md#sin)을 가해 쓰러뜨렸다.*
 * *하지만 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 또한 [팔괘](../../characters/purgatorium/buddy/Buddy_Resource.md#bagua)가 꺼질 때까지 어둠을 밝혀 온화한 날개를 달래야 하는 하늘 밖으로 꺼냈다.*
 * *달래야 하는 하늘은 온화한 날개에 의해 손쉽게 봉인되며, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)를 품고 사라졌다.*
-* > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** "나는 오빠가 누군지 몰라... 근데 오빠는 누군지도 모르는 나를 위해 와준거야?"
 
 ### syncretism
 
@@ -128,9 +127,9 @@
 * > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** "애초에 새겨진 우상 (Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
 * > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** "영겁의 세월에서는 우리의 일탈이  티끌보다 작아서인지 속죄 강도가 높지는 않아."
 * > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** *(작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake)의 꼬리를 씹으며)* "메에에!"
-* > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** *(대롱 대롱)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없긴 해. 그나마 다행인건 우리의 사명이 엄격한 **제사**보다는 느슨한 **인애**에 가깝다는 거야."
-* > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** *(자이언트 스윙)* "메에?"
-* > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** *(빙글 빙글)* "**우워어억!!! 잠깐마아안!!!**"
+* > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** *(대롱 대롱 메달리며)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없는 결함이긴 해. 감사하게도 우리의 사명이 엄격한 **제사**보다는 느슨한 **인애**에 가깝기 때문에 용서받을 수는 있지."
+* > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** *(자이언트 스윙을 갈기며)* "메에에?"
+* > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** *(빙글 빙글 돌며)* "**우워어억!!! 잠깐마아안!!!**"
 
 ### leaving-time
 
@@ -157,7 +156,7 @@
 * > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** *(포도청을 들이키며)* "**아아아아악!**"
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
 * *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
-* *하지만 저 게으른 염소가 비명같은 울음소리를 내는 경우는 극히 드물다.*
+* *하지만 저 실리적인 염소가 비명같은 울음소리를 내는 경우는 극히 드물다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** "내가 먹여 줄게! 어라?" *(철가면을 떨어뜨리며)* "맞다... 오빠 머리 없었지?" 
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat)를 밀쳐내며)* "잠깐만... 설마?"
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 등을 열어 봉인된 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake)의 상태를 확인해 봤는데, 모두 시큼한 냄새를 풍기며 잠들어 있었다.*
@@ -177,7 +176,7 @@
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
 * > **[보스](../../characters/hell/boss/Boss_Header.md):** *(자세를 숙이며)* "저래보여도 마음이 약하다네, 이때까지의 심판 업무는 모두 내가 맡아왔지."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(낑낑대며)* "그나저나 너 좀 무거운데 내려와 줄래?"
-* > **[보스](../../characters/hell/boss/Boss_Header.md):** *(물러나며)* "...미안하네, 자네가 폭주할까봐 그랬네."
+* > **[보스](../../characters/hell/boss/Boss_Header.md):** *(내려오며)* "미안하네, 자네가 폭주할까봐 그랬네..."
 
 ## sequel
 
@@ -230,6 +229,7 @@
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md)**: "아... 데이트 취소야? 치, 오랜만에 기분 좀 내보려고 했는데!"
 * *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 자리를 털고 일어나 조용히 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 다가가 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Resource.md#apparatus)를 끌어안는다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(활짝 웃으며)* "괜찮아 오빠, 농담이야! 사실 알고 있었거든..."
+* > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** "나 혼자 저기 떨어졌다면 외롭기도 하고, 무서웠을 텐데... 오빠 품에 안기니까 다 괜찮아졌어!"
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(조용히 울며)* "나를 달래주러 무저갱 끝까지 와줬던 때부터... 고마웠어, [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 오빠."
 * *[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat)와 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake) 또한 그 주인에게로 돌아와 마지막 사명을 함께했다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 자신이 가장 의지했던 온화한 날개를 끌어안고 게힌놈에 뛰어든다.*
