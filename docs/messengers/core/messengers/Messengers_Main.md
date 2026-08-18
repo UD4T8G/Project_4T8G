@@ -16,31 +16,34 @@
 
 ---
 
-* *전사는 네하르 디누르에서 새겨진 우상 (Graven Image)으로 태어났고, 그 전에는 혹독하게 싸우기만 했다.*
-* *하지만 전사는 세상으로부터 허무하게 패배하여 무저갱에 던져졌다. 연옥의 사명조차도 그를 지켜주지 않았다.*
-* > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** "하늘로부터 받은 권세와 땅으로부터 받은 권속에도 불구하고 저희는 부정한 존재입니다."
+* *전사는 태어나기 전에 새겨진 우상 (Graven Image)으로서 혹독하게 싸우다가 네하르 디누르에서 태어났다.*
+* *하지만 연옥의 사명조차도 그를 지켜주지 않았고, 전사는 세상으로부터 허무하게 패배하여 무저갱에 던져졌다.*
+* > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** "하늘로부터 받은 권세와 땅으로부터 받은 권속이 있음에도 불구하고 저희는 부정한 존재입니다."
 * > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** "악하고 게으른 종이 모든 것을 바칩니다... 부디 모든 사명을 이루실 수 있기를 기원합니다."
 * *속죄제물은 무저갱에 [죄악](./Messengers_Resource.md#sin)을 녹여 [성흔안](../../characters/purgatorium/buddy/Buddy_Resource.md#stigmata-eyes)을 만들었고, 소멸되어가는 전사와 함께 다시 태어났다.*
 * *[날개](./Messengers_Resource.md#wings)가 활성화되며 소멸은 멈췄지만, 모든 것이 재조립된 전사는 하늘을 올려다보며 고통을 호소한다.*
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**저는 결코 좋은 목자가 될 수 없단 말입니다!** 어째서 제게 이러한 사명을 허락하신 겁니까..."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "어째서 제게 이러한 사명을 허락하신 겁니까... **저는 결코 좋은 목자가 될 수 없단 말입니다!**"
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "단 하나만이라도 좋으니... 제가 시작한 사명만큼은 제가 끝낼 수 있었으면 좋겠습니다..."
 * *하지만 연옥에 돌아가봤자 패배뿐일테고, 지옥에 머물 수 있는 시간은 제한적이였다.*
 * *결단한 전사는 무릎을 꿇고, 자신의 [날개](./Messengers_Resource.md#wings)에서 [팔괘](../../characters/purgatorium/buddy/Buddy_Resource.md#bagua)만 남기고 나머지는 모조리 도려냈다.*
-* *도려낸 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)을 펼치자 전사의 앞에 새겨진 우상 (Graven Image)들이 끝없이 펼쳐졌다.*
-* *[연옥](./Messengers_Resource.md#purgatorium)을 위해 준비된 그릇들은 그 수가 많았으나, 그들을 위해 준비된 [날개](./Messengers_Resource.md#wings)는 오직 하나였다.*
+* *도려낸 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)을 펼치고 난 뒤, 전사의 앞에는 새겨진 우상 (Graven Image)들이 끝없이 펼쳐졌다.*
+* *[연옥](./Messengers_Resource.md#purgatorium)으로 가져갈 수 있는 그릇은 그 수가 많았으나, 그들을 위해 준비된 [날개](./Messengers_Resource.md#wings)는 오직 하나뿐이였다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "내가 [연옥](./Messengers_Resource.md#purgatorium)에서 홀로 싸우는 동안 하늘로부터 받은 권세가 함께했으나 충분하지 않았다."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "땅으로부터 받은 권속은 다시 땅에 묻어둘 수 있으나, 이 또한 순종의 태도는 아니다."
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "천국으로부터 연옥으로, 연옥으로부터 지옥으로, 어디에나 있고 누구나 섬기게 될 사명이다."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "이것은 천국으로부터 연옥으로, 연옥으로부터 지옥으로, 어디에나 있고 누구나 섬기게 될 사명이다."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**하지만 지금은 너희들 중 단 하나의 그릇만이 [날개](./Messengers_Resource.md#wings)를 받아 [연옥](./Messengers_Resource.md#purgatorium)의 사명을 섬기게 될 것이다!**"
 * *이곳을 간단히 둘러보던 전사는 이곳에서 가장 깊은 소굴을 향해 걸어갔다.*
 * *입구에서 멀어질수록 능력은 더욱 약해져갔고, 심층부에 가까워질수록 발은 더더욱 깊숙히 빠져갔다.*
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "좋지 않은 길이지만 그 안에 있는 것들은 나쁘지 않아 보이는군."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "길이 좁고 험난하지만, 그 안의 그릇은 크고 넓은 길의 그릇들보다 순수해 보이는군."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "마치 운명과도 같이, 이 순간만을 위해 준비되어 있던 것처럼..."
 * *발을 묶던 수렁은 마침내 전사를 완전히 집어삼켰고, 그곳에는 잠들어있던 작은 그릇이 있었다.*
-* *전사는 그릇의 실체를 깨닫고 경악했지만, 침착하게 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)을 꺼내 에보카티오를 올린다.*
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "고국 땅에서도 이건 궁극의 신성모독이였는데, 어쩔 수 없지... 이번 한 번만이다."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**주여, 제가 울어도, 제가 구해도, 주께서 작성한 책 안에 있는 모든 말씀들을 제가 읽을지라도, 영원의 날 동안 제 기도가 올라가지 않게 하시옵고, 제게 심판을 내리시옵소서!**"
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**제 이름은 이미 생명책에서 지워졌고, 저는 그리스도로부터 끊어졌나이다! 제가 무엇을 이루거나 제가 무엇을 어기거나, 주께서는 거룩하신 그 이름을 더럽히지 마시옵고, 주의 나라를 온전히 이루시옵소서!**"
+* *전사는 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)을 꺼내고, 작은 그릇을 향해 에보카티오를 올린다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "sive deus, sive dea (신이시든 여신이시든),"
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "혹은 불리고 싶은 어떤 이름이시든,"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**나의 모든 것을 바치오니 우리의 적을 멸하소서!**"
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**우리의 영혼 절반을 바치오니 우리의 적을 멸하소서!**"
 * *전사는 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)으로 그릇을 내리쳐 깨뜨린다. [죄악](./Messengers_Resource.md#sin)이 그릇의 파편에 둘러진 후, 모두 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)에 둘러진다.*
 * *그리고 전사를 막아선 것은 형용할 수 없을 정도로 거대하고, 달래지지 않은 여러 뱀들이었다.*
 
@@ -48,9 +51,9 @@
 
 ---
 
-* *크토닉 다이몬이 달래지지 않은 이유는 알 수 없다. 이들을 위한 **완곡어법**은 달래고자 하는 의도도 있다.*
+* *그들이 달래지지 않은 이유는 알 수 없다. **완곡어법**은 그들을 달래고자 하는 의도도 있었다.*
 * *그들은 자신을 달래줄 수 있는 온화한 존재를 지켜주고 싶었지만, 온화한 존재는 너무나도 약했다.*
-* *목이 날아가더라도 그들은 순수한 그녀를 지켜주고 싶었다. **인격을 장악하고 고통을 대신 감당하더라도!***
+* *그들은 그녀의 순수함이 다치지 않도록 지켜주고 싶었다. **인격을 장악하고 고통을 대신 감당하더라도...***
 * *그들은 본능적으로 깨달았다. 온화한 존재가 위험에 빠지게 될 것을. 눈 앞의 전사는 분명 해낼 것이라고.*
 * > **초거대 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** "한심하구나, 우리를 게헨나 안에서 멸하실 능력이 있으신 그 분을 섬기면서도 우리에게 에보카티오를 올리다니..."
 * > **뒤틀린 [스네이크](../../characters/purgatorium/milky/Milky_Resource.md#snake):** "우리는 영원히 너희의 청원을 듣지 아니하겠고, 너희의 청원은 너희에게 행해지지 않을 것이다!"
@@ -59,7 +62,7 @@
 * *쓰러진 전사는 아무 말도 하지 않았고, 아무 저항도 하지 않았으니, 그 모습이 마치 죽은 것과도 같았다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다."
 * *달래야 하는 하늘은 당황하며 하늘을 올려다본다. 그들은 전사를 묶었지만, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 심장은 하늘에 떠 있었다.*
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "에보카티오는 너희가 아니라 온화한 존재로 하여금 날개를 받아들이도록 하기 위함이니라."
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "이것은 너희를 위한 에보카티오가 아니라 온화한 존재로 하여금 날개를 받아들이게 함이라."
 * *구속된 전사는 사라지고, 그 심장으로부터 [팔괘](../../characters/purgatorium/buddy/Buddy_Resource.md#bagua)가 수레바퀴 안의 수레바퀴를 이루며 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Resource.md#apparatus)가 도래했다.*
 * *온화한 날개가 달래야 하는 하늘 속에서 계속 비추고 있으되, 달래야 하는 하늘은 그것을 깨닫지 못하였도다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "그 선 안으로, 모든 것들이 계속하여 합력하게 되고 있음을 너희는 알지 못하느냐?"
@@ -143,7 +146,7 @@
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "우리 연옥에서 못 나가..." *(당황하며)* "**근데 내 염소...**"
 * *염소는 등이 약하기 때문에 올라타면 안 된다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([모노폴](../../characters/purgatorium/milky/Milky_Resource.md#monopole) 권총을 손가락에 걸고 돌리며)* "그동안 너 힘들어서 어떻게 지냈냐?"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "일단 그거 좀 내려놓고..." *(기겁하며)* "**넌 어떻게 해소했는데!?**" 
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "일단 그거 좀 내려놓고..." *(기겁하며)* "**정작 너는 어떻게 해소했는데!?**" 
 * *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
 ### wine
@@ -152,7 +155,7 @@
 
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한거 생각해서 포도청을..."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(당황하며)* "잠깐만, **너 뭐야!** 악한 영이 들었나?"
-* *[완곡어법](#euphemism) 마지막에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 쓰러져 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 순수한 모습을 직접 확인한 적이 없다.*
+* *[완곡어법](#euphemism) 마지막에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 쓰러져 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 무형성이 낮은 상태를 직접 확인한 적이 없다.*
 * > **[고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat):** *(포도청을 들이키며)* "**아아아아악!**"
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Resource.md#goat)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
 * *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
@@ -169,7 +172,7 @@
 
 ---
 
-* *바닥에 [죄악](./Messengers_Resource.md#sin)이 흥건하고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 팔이 뜯겨진 채 누군가의 손에 목이 졸리고 있었다.*
+* *바닥에는 혈흔이 흥건하고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 무형성이 높아지면서 누군가의 손에 목이 졸리고 있었다.*
 * > **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(켁켁거리며)* "알았어! 알았다고! 안 건드리면 되잖아!"
 * > **[포춘](../../characters/hell/misfortune/Misfortune_Resource.md#fortune):** "괜찮아요, 실수는 누구나 할 수 있죠! 근데 장난이였다고요?" *(손에 힘을 줘서 목을 비틀며)* "**그 아가리 다시 씨부려봐라, 썅년아!**"
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 누군가에게 제압당해 쓰러진 채 그 상황을 조용히 지켜보고 있었다.*

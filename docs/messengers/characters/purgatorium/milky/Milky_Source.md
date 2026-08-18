@@ -19,7 +19,6 @@
   ```
   * "Meilichios"와 "Meilichia"는 "달래야 하는"으로 번역되며, 이는 "Euphemism"이다.
     * [스네이크](./Milky_Resource.md#snake)가 밀키의 성격을 무겁게 만든다는 점은 "달래야 하는" 특성을 참조한다.
-    * 밀키의 연령대가 소녀기라는 점은 "Meilichia"의 "아프로디테 (Aphrodite)"나 "어머니 (Mater)"의 성숙한 특징을 참조하지 않았는데, 정확히는 석비의 훼손이 심했다는 점이 오히려 "Euphemism"을 연상시켜서 "셀리눈테" 등지의 "Meilichioi"를 참조하게 된 것이다.
+    * 밀키의 연령대가 소녀기라는 점은 "Meilichia"의 "아프로디테 (Aphrodite)"나 "어머니 (Mater)"의 성숙한 특징을 참조하지 않았는데, 정확히는 석비의 훼손이 심했다는 점이 오히려 무형성을 연상시켜서 "셀리눈테" 등지의 "Meilichioi"를 참조하게 된 것이다.
  * 밀키의 가벼운 성격은 "고대 그리스"의 "종교 의식"이 일상적이었다는 점을 참조한다.
 * 밀키의 [날개](../../../core/messengers/Messengers_Resource.md#wings)에 해당하는 [사태극](./Milky_Resource.md#sitaegeuk)은 "십자가"를 참조한다.
-* 죽음의 탭댄스, 기관단총 대각합체 형태의 [다이폴](./Milky_Resource.md#dipole)은 "Sten Machine Carbine"의 "Sten Stepping"을 참조한다.
