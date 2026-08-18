@@ -1,137 +1,17 @@
-# Cursing Grandma Main
+# Cursing Grandma Header
 
 ---
 
-| **Name** | 욕쟁이 할머니 |
-| :--- | :--- |
-| **Alias** | KNJ 울트라 프로젝트급 데우스 엑스 마키나 |
-| **Position** | 한식조리기능사, 식육처리기능사, 한국발효음식지도자, 종합격투기 2000 챔피언, 베어너클 2000 챔피언, 복싱 2000 챔피언, 보디빌딩 2000 챔피언, 제 4차 세계 대전 종결 영웅 |
-| **Department** | 욕쟁이 할머니 음식점 |
-| **Gender** | 여성 |
-| **Age Group** | 노년기 |
-
-## characteristics
-
----
-
-> *허리가 아프다는 핑계로 보쌈은 항상 며느리한테 시킨다.*
-
-> *며느리가 홧김에 돈을 훔치고 손님이 적게 왔다고 핑계를 대도, 할머니는 동네 사람들을 협박했기 때문에 하루에 얼마를 벌 수 있는지 대충 예측할 수 있다.*
-
-> *높으신 분들이고 뭐고 배고픈 손주에게 계란 하나 더 까준다.*
-
-> *손주가 전쟁 포로로 잡혀가면 별 신경 안 쓰지만, 거기서 굶으면 그날로 각국 지도자들은 멱살 잡혀 가마솥 앞으로 끌려간 뒤 국자로 평화를 맹세하게 된다.*
-
-> *[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)의 '윙콕치킨'에 대항하기 위하여 새 기름에 닭가슴살만 튀겨서 만드는 '닭가치킨'을 만들었다. 가격이 비싸서 [사람들]에게 욕을 많이 먹었지만, 의외로 잘 팔렸다.*
-
-> *대통령이 자신의 음식집을 방문했다는 사실을 믿지 않기 위하여 초자연적인 힘을 길렀다.*
-
-> *초당 지구 7바퀴 반에 수렴하는 속도로 질주할 수 있다. 오브젝트를 던져서 지구 몇 바퀴 공전시키는 건 일도 아니다.*
-
-> *지구 반대편의 뒷담화를 들을 수 있으며, 1초만에 문을 부수고 쳐들어와 도시락을 강제로 먹인다.*
-
-## lines
-
----
-
-* > **욕쟁이 할머니:** "애미야! 어서 가서 보쌈을 만들어라!"
-* > **욕쟁이 할머니:** "걱정하지 마라! 내가 동네 사람들에게 협박을 해서 1억개는 무조건 팔리게 되어 있거든!"
-* > **욕쟁이 할머니:** "그래도 그 놈은 큰일이나 했지. 옛다, 계란이나 더 쳐먹어!"
-
-# Cursing Grandma Resource
-
----
-
-## abilities
-
----
-
-### melee
-
----
-
-| **Traits** | 버퍼, 힐러, 암살자 |
-| :--- | :--- |
-| **Basic** | 밥을 젓고 국을 저어 엔트로피 가속 |
-| **Special** | [국자](#ladle)를 휘둘러 타격 |
-| **Ultimate** | 캐스팅 후 [육신](#body)으로 이동하면서 [국자](#ladle)를 휘둘러 양자 분해 |
-
-### ranged
-
----
-
-| **Traits** | 서포터, 저격수, 핵 |
-| :--- | :--- |
-| **Basic** | 밥을 짓고 국을 끓여 국밥 생성 |
-| **Special** | [가마솥](#cauldron)을 집어던져 타격 |
-| **Ultimate** | [육신](#body)으로 [가마솥](#cauldron)을 찌그러트려서 블랙홀 생성 |
-
-### distance-control
-
----
-
-| **Traits** | 스피드스터, 버서커, 탱커 |
-| :--- | :--- |
-| **Basic** | 다리를 움직여 질주 |
-| **Special** | 팔을 움직여 양자 분해 |
-| **Ultimate** | 모든 기습 위치로 질주해 피해 흡수 |
-
-## equipment
-
----
-
-### body
-
----
-
-* **Ability:**
-  * 절대 감각
-  * 초공간도약
-  * 절대 맷집
-  * 절대 위력
-* **Description:**
-  * 오브젝트의 거리에 상관없이 오감으로 감시할 수 있다.
-  * 다리를 빠르게 움직여 빛의 속도로 질주할 수 있다.
-  * 오브젝트의 출력에 상관없이 모든 것을 막을 수 있다.
-  * 오브젝트를 확대하고 축소할 수 있다.
-    * 악력으로 누벼이은 다중우주 하나를 쥐어짜 송편처럼 빚을 수 있다.
-    * 악력으로 양자 다중우주를 찢어 사라진 우주를 불러올 수 있다.
-
-### ladle
-
----
-
-* **Ability:**
-  * 통계역학 초월
-* **Description:**
-  * 오브젝트를 찢어 인과율을 뒤틀 수 있다.
-    * 양자분해하여 과거에도 존재한 적 없게 할 수 있다.
-    * 정교하게 조작하여 무에서 유를 창조할 수 있다.
-  * 음식물을 섞을 수 있다.
-  * 음식물을 퍼올릴 수 있다.
-
-
-### cauldron
-
----
-
-* **Ability:**
-  * 열역학 초월
-* **Description:**
-  * 오브젝트를 찌그러뜨려 인과율을 뒤틀 수 있다.
-    * 블랙홀을 만들 수 있다.
-    * 화이트홀을 만들 수 있다.
-  * 밥을 짓는다.
-  * 국을 끓인다.
-
-
-# Cursing Grandma Source
-
----
-
-* 원안은 "원할머니 보쌈" 음식점을 방문하면서 제작되었다. 
-  * 음식점 이름이 할머니집인데 정작 아저씨들만 일하는 상황에 대한 인지부조화에서 출발했다.
-  * 이후 아저씨들은 "막장 드라마"의 "며느리" ("애미야, 국이 짜다!") 등으로 재해석됐다.
-* 대통령 방문 부정 설정은 "삼백집"의 "이봉순" 할머니를 참조하며, 이는 2026년에 추가된 설정이다.
-  * 상단의 문장 ("그래도 그 놈은 큰일이나 했지. 옛다, 계란이나 더 쳐먹어!")은 해당 할머니의 실제 어록이다.
-  * 해당 할머니가 부정하고자 했던 인물은 "박정희" 대통령이었다고 한다.
+* [Main](./Cursing_Grandma_Main.md)
+  * [Characteristics](./Cursing_Grandma_Main.md#characteristics)
+  * [Lines](./Cursing_Grandma_Main.md#lines)
+* [Resource](./Cursing_Grandma_Resource.md)
+  * [Abilities](./Cursing_Grandma_Resource.md#abilities)
+    * [Melee](./Cursing_Grandma_Resource.md#melee)
+    * [Ranged](./Cursing_Grandma_Resource.md#ranged)
+    * [Distance Control](./Cursing_Grandma_Resource.md#distance-control)
+  * [Equipment](./Cursing_Grandma_Resource.md#equipment)
+    * [육신](./Cursing_Grandma_Resource.md#body)
+    * [국자](./Cursing_Grandma_Resource.md#ladle)
+    * [가마솥](./Cursing_Grandma_Resource.md#cauldron)
+* [Source](./Cursing_Grandma_Source.md)

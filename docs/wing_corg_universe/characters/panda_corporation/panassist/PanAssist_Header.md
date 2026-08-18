@@ -1,111 +1,17 @@
-# PanAssist Main
+# PanAssist Header
 
 ---
 
-| **Name** | 판비 |
-| :--- | :--- |
-| **Alias** | 판다 비서 |
-| **Position** | 비서 |
-| **Department** | 죽창 번개 요새 |
-| **Gender** | 여성 |
-| **Age Group** | 중년기 |
-
-## characteristics
-
----
-
-> *판다 주식회사의 엘리트 간부이자 비서. 거대한 판다 건물의 3층 왼손인 "죽창 번개 요새"에서 업무를 관장한다.*
-
-> *[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)나 [라카이](../../wingcorg_family/lackey/Lackey_Header.md)를 부른 뒤, 상대가 짜증 섞인 목소리로 '왜!'라고 대답하는 순간을 수락의 신호로 간주하여 '엄청난 일이 일어났습니다.'라고 외치며 대사건을 시작하는 '윙콕 갬빗'의 시동자다.*
-
-> *윙콕 가족과는 겉으로 대놓고 싸우진 않지만 속으로는 날이 선 '냉전 관계'를 유지하고 있다.*
-
-> *치명적인 파괴력의 죽창검과 절대 방어의 판스 갑옷을 동시에 다루는 극단적인 밸런스의 소유자다.*
-
-## lines
-
----
-
-* > **판비:** "[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)씨?" (**[윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
-* > **판비:** "[라카이](../../wingcorg_family/lackey/Lackey_Header.md)씨?" (**[라카이](../../wingcorg_family/lackey/Lackey_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
-
-# PanAssist Resource
-
----
-
-## abilities
-
----
-
-### melee
-
----
-
-| **Traits** | 극딜, 암살, 유리대포 |
-| :--- | :--- |
-| **Basic** | [죽창검](#bamboo-spear-sword)을 가볍게 휘둘러 오브젝트의 방어구 훼손 |
-| **Special** | 채널링 후 [죽창검](#bamboo-spear-sword)으로 돌진 |
-| **Ultimate** | [죽창검](#bamboo-spear-sword)으로 "너도 한 방, 나도 한 방" 관통 |
-
-### ranged
-
----
-
-| **Traits** | 도발, 광역 어그로, 서사 조작 |
-| :--- | :--- |
-| **Basic** | 상대의 신경을 긁는 묘한 타이밍에 [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)나 [라카이](../../wingcorg_family/lackey/Lackey_Header.md)의 이름을 부르며 [윙콕 갬빗](#wing-corg-gambit) 유도 |
-| **Special** | 상대방이 "왜!"라고 화를 내는 순간, "엄청난 일이 일어났습니다."라며 확성기로 브리핑을 시작해 [윙콕 갬빗](#wing-corg-gambit) 발동 |
-| **Ultimate** | [윙콕 갬빗](#wing-corg-gambit)을 강제로 성사시켜, 전장의 모든 적과 아군을 통제 불능의 거대한 상황극(대형 이벤트) 속으로 강제 편입 |
-
-### distance-control
-
----
-
-| **Traits** | 절대 방어, 자동 수복, 유지력 |
-| :--- | :--- |
-| **Basic** | [죽창검](#bamboo-spear-sword)의 극단적인 페널티(나도 한 방)를 [판스 갑옷](#pan-teach-armor)의 방어력으로 상쇄하며 안전하게 전장 진입 및 이탈 |
-| **Special** | 적의 강력한 공격을 맞고 장갑이 파손되었을 때, [판스 갑옷](#pan-teach-armor)의 '자동 수복' 능력을 활성화하여 순식간에 복구 |
-| **Ultimate** | [판스 갑옷](#pan-teach-armor)으로 건국 신화 '[판스](../pan-teach/Pan-Teach_Header.md)'의 가죽에 깃든 영험한 기운을 방출하여, X-프로토콜 갑옷에 버금가는 내구력으로 적의 포화 한가운데서 무적에 가까운 요새화 시전 |
-
-## equipment
-
----
-
-### bamboo-spear-sword
-
----
-
-* **Ability:**
-  * 방어력 무시 치명타
-  * 동귀어진 (페널티)
-* **Description:**
-  * 판비가 다루는 치명적인 주무기로, '판스 금서'의 마법으로 인챈트되어 있다.
-  * 스치기만 해도 목숨이 위험한 "너도 한 방, 나도 한 방"의 지독한 파괴력을 지녀 다루기 매우 까다롭다.
- 
-### wing-corg-gambit
-
----
-
-* **Ability:**
-  * 상황극 (이벤트) 강제 시작
-  * 광역 어그로
-* **Description:**
-  * 판비가 대화를 걸었을 때, 상대가 짜증 섞인 목소리로 "왜!"라고 화답하면 발동되는 특수한 규칙이다.
-  * 이 대답을 갬빗(전술적 수락)으로 간주하고, "엄청난 일이 일어났습니다!"라는 선언과 함께 전장을 강제적인 사건의 소용돌이로 끌고 간다.
-
-### pan-teach-armor
-
----
-
-* **Ability:**
-  * 피해 무효화
-  * 자동 수복
-* **Description:**
-  * 판다들의 위대한 선조이자 건국 신화인 '[판스](../pan-teach/Pan-Teach_Header.md)'가 죽어서 남긴 가죽으로 만든 전설의 방어구다.
-  * [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)의 X-프로토콜 갑옷에 버금가는 세계관 최강급 내구력을 자랑하며, 손상되어도 스스로 복구되는 기적적인 능력이 있어 죽창검의 페널티를 완벽하게 보완한다.
-
-# PanAssist Source
-
----
-
-* 판다 주식회사 카테고리 중 가장 먼저 창조된 캐릭터이며, 설정의 수도 가장 많다.
+* [Main](./PanAssist_Main.md)
+  * [Characteristics](./PanAssist_Main.md#characteristics)
+  * [Lines](./PanAssist_Main.md#lines)
+* [Resource](./PanAssist_Resource.md)
+  * [Abilities](./PanAssist_Resource.md#abilities)
+    * [Melee](./PanAssist_Resource.md#melee)
+    * [Ranged](./PanAssist_Resource.md#ranged)
+    * [Distance Control](./PanAssist_Resource.md#distance-control)
+  * [Equipment](./PanAssist_Resource.md#equipment)
+    * [죽창검](./PanAssist_Resource.md#bamboo-spear-sword)
+    * [윙콕 갬빗](./PanAssist_Resource.md#wingcorg-gambit)
+    * [판스 갑옷](./PanAssist_Resource.md#panteach-armor)
+* [Source](./PanAssist_Source.md)

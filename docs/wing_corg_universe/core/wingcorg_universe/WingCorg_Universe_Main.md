@@ -1,4 +1,4 @@
-# Wing Corg Universe Main
+# WingCorg Universe Main
 
 ---
 

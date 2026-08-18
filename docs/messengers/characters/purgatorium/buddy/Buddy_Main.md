@@ -4,11 +4,11 @@
 
 | **Name** | 버디 |
 | :--- | :--- |
-| **Alias** | 베디오비스 (버디), 유다 염소 ([고트](./Buddy_Resource.md#goat)) |
+| **Alias** | 베디오비스(버디), 유다 염소([고트](./Buddy_Resource.md#goat)) |
 | **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Resource.md#purgatorium) |
-| **Gender** | 중성 (버디), 중성 ([고트](./Buddy_Resource.md#goat)) |
-| **Age Group** | 청년기 (버디), 중년기 ([고트](./Buddy_Resource.md#goat)) |
+| **Gender** | 중성(버디), 중성([고트](./Buddy_Resource.md#goat)) |
+| **Age Group** | 청년기(버디), 중년기([고트](./Buddy_Resource.md#goat)) |
 
 ## characteristics
 
@@ -33,7 +33,7 @@
 * > **버디:** "두려워하지 말라. 나는 [연옥](../../../core/messengers/Messengers_Resource.md#purgatorium)에 큰 기쁨이 될 소식을 전하러 온 [사자들](../../../core/messengers/Messengers_Header.md)이다." *(한숨 쉬며)* "저도 이렇게 생겨먹어서 서럽다고요... 제발 두려워 하지 말아주세요..."
 * > **버디:** *(모든 [성흔안](./Buddy_Resource.md#stigmata-eyes)의 검지를 흔들며)* "너를 위해서 해주고 싶은 건 많지만, 그건 사명에 어긋나는 행위다."
 * > **버디:** *(적에게 안광을 비추며)* "어딜 보고 있느냐? 네 상대는 나 뿐이다!"
-* > **버디:** *(묵주를 부수고 기도하며)* "**제가 사명을 어떻게 버립니까? 오히려 새겨진 우상 (Graven Image)인 제가 사명을 마치면 마땅히 버려져야 하지 않겠습니까!**"
+* > **버디:** *(묵주를 부수고 기도하며)* "**제가 사명을 어떻게 버립니까? 오히려 새겨진 우상(Graven Image)인 제가 사명을 마치면 마땅히 버려져야 하지 않겠습니까!**"
 * > **[고트](./Buddy_Resource.md#goat):** *(버디의 로브를 씹으며)* "메에에!"
 * > **[고트](./Buddy_Resource.md#goat):** *(포도주를 마시며)* "**아아아아악!**"
 * > **[고트](./Buddy_Resource.md#goat):** *(전장으로 뛰어들며)* "**아아아아악!**"

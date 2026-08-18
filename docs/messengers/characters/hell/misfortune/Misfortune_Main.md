@@ -4,7 +4,7 @@
 
 | **Name** | 미스포춘 |
 | :--- | :--- |
-| **Alias** | 포르투나 ([포춘](./Misfortune_Resource.md#fortune)), 아가토스 다이몬 ([스피릿](./Misfortune_Resource.md#spirit)) |
+| **Alias** | 포르투나([포춘](./Misfortune_Resource.md#fortune)), 아가토스 다이몬([스피릿](./Misfortune_Resource.md#spirit)) |
 | **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
 | **Department** | [지옥](../../../core/messengers/Messengers_Resource.md#hell) |
 | **Gender** | 양성구유 |

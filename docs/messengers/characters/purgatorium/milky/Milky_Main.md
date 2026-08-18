@@ -4,11 +4,11 @@
 
 | **Name** | 밀키 |
 | :--- | :--- |
-| **Alias** | 메일리키아 (밀키), 메일리키오스 ([스네이크](./Milky_Resource.md#snake)) |
+| **Alias** | 메일리키아(밀키), 메일리키오스([스네이크](./Milky_Resource.md#snake)) |
 | **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Resource.md#purgatorium) |
-| **Gender** | 여성 (밀키), 남성 ([스네이크](./Milky_Resource.md#snake)) |
-| **Age Group** | 소녀기 (밀키), 중년기 ([스네이크](./Milky_Resource.md#snake)) |
+| **Gender** | 여성(밀키), 남성([스네이크](./Milky_Resource.md#snake)) |
+| **Age Group** | 소녀기(밀키), 중년기([스네이크](./Milky_Resource.md#snake)) |
 
 ## characteristics
 
@@ -39,5 +39,5 @@
 * > **밀키:** *(등을 돌리며)* "저리 가, 혼자 있고 싶어..." *(울먹이며)* '*제발, 기댈 곳이 필요해...*' ***(무형성 낮음)***
 * > **작은 [스네이크](./Milky_Resource.md#snake):** "두려워하라! [연옥](../../../core/messengers/Messengers_Resource.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이 너희를 심판하러 왔노라!" *(키득키득하며)* "농담이고, 우리가 의인을 심판하면 월권이야."
 * > **작은 [스네이크](./Milky_Resource.md#snake):** *(혀를 낼름거리며)* "야, 너 참 옛 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐? 아하, 너는 엄마가 없구나! 아빠가 없나? 아, 미안해! 둘 다 없을수도 있지?"
-* > **작은 [스네이크](./Milky_Resource.md#snake):** *(적을 휘감으며)* "궁금한 게 있는데, 너를 참수해서 무기로 쓸 수 있을까? 진짜 궁금해서 그래. 해봐도 돼? 죽는다는 핑계는 대지 말고. 너도 죽어서 왔잖아, 죽음의 죽음이 세상에 어디 있어?"
+* > **작은 [스네이크](./Milky_Resource.md#snake):** *(적군을 휘감으며)* "궁금한 게 있는데, 너를 참수해서 무기로 쓸 수 있을까? 진짜 궁금해서 그래. 해봐도 돼? 죽는다는 핑계는 대지 말고. 너도 죽어서 왔잖아, 죽음의 죽음이 세상에 어디 있어?"
 * > **작은 [스네이크](./Milky_Resource.md#snake):** *(누군가의 품에 안기며)* "난 왜 이렇게 뒤틀려서 태어났을까? 뭐, 나한테는 진짜로 울어버리는 아이도 있으니까 우는 척하는 것도 내 분수에 안 맞지..."
