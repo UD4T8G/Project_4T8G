@@ -39,7 +39,7 @@
 * *발을 묶던 수렁은 마침내 전사를 완전히 집어삼켰고, 그곳에는 잠들어있던 작은 그릇이 있었다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "고국 땅에서도 이건 궁극의 신성모독이였는데, 어쩔 수 없지... 이번 한 번만이다."
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**주여, 제가 울어도, 제가 구해도, 주께서 작성한 책 안에 있는 모든 말씀들을 제가 읽을지라도, 영원의 날 동안 제 기도가 올라가지 않게 하시옵고, 제게 심판을 내리시옵소서!**"
-* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**제 이름은 이미 생명책에서 지워졌고, 저는 그리스도로부터 끊어졌나이다! 제가 무엇을 이루거나 제가 무엇을 어기거나, 주께서는 거룩하신 그 이름을 더럽히지 마시옵고, 주의 나라를 온전히 이루시옵소서!**"
+* > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**제 이름은 이미 생명책에서 지워졌고, 저는 그리스도로부터 끊어졌나이다! 제가 무엇을 지키거나 제가 무엇을 어기거나, 주께서는 거룩하신 그 이름을 더럽히지 마시옵고, 주의 나라를 온전히 이루시옵소서!**"
 * *전사는 [사태극](../../characters/purgatorium/milky/Milky_Resource.md#sitaegeuk)을 꺼내고, 작은 그릇을 향해 에보카티오를 올린다.*
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "sive deus, sive dea (신이시든 여신이시든),"
 * > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "혹은 불리고 싶은 어떤 이름이시든,"
