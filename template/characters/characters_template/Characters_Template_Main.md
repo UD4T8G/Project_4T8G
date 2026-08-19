@@ -24,6 +24,8 @@
 
 ---
 
-* > **Characters:** *(null)* "null"
-* > **Characters:** *(null)* "null"
-* > **Characters:** *(null)* "null"
+>  **Characters:** *(null)* "null"
+
+>  **Characters:** *(null)* "null"
+
+>  **Characters:** *(null)* "null"

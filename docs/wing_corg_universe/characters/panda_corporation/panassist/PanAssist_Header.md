@@ -12,6 +12,6 @@
     * [Distance Control](./PanAssist_Resource.md#distance-control)
   * [Equipment](./PanAssist_Resource.md#equipment)
     * [죽창검](./PanAssist_Resource.md#bamboo-spear-sword)
+    * [죽창 번개 요새](./PanAssist_Resource.md#bamboo-spear-lightning-fortress)
     * [윙콕 갬빗](./PanAssist_Resource.md#wingcorg-gambit)
-    * [판스 갑옷](./PanAssist_Resource.md#panteach-armor)
 * [Source](./PanAssist_Source.md)

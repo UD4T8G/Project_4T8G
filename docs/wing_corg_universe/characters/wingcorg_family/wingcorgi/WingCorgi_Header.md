@@ -14,5 +14,4 @@
     * [초재생능력 육신](./WingCorgi_Resource.md#super-regeneration-body)
     * [각성 스킬](./WingCorgi_Resource.md#awakening-skill)
     * [윙카이](./WingCorgi_Resource.md#wingky)
-    * [X-프로토콜](./WingCorgi_Resource.md#wingky)
 * [Source](./WingCorgi_Source.md)

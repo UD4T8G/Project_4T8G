@@ -15,5 +15,4 @@
     * [예속된 영체](./Lackey_Resource.md#enslaved-spirit)
     * [닿을 수 없는 감미](./Lackey_Resource.md#unreachable-sweetness)
     * [역행의 인과율](./Lackey_Resource.md#causality-of-inversion)
-    * [탈취한 흑마법서](./Lackey_Resource.md#stolen-black-magic-book)
 * [Source](./Lackey_Source.md)

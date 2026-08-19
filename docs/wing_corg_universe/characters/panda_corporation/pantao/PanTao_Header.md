@@ -12,6 +12,5 @@
     * [Distance Control](./PanTao_Resource.md#distance-control)
   * [Equipment](./PanTao_Resource.md#equipment)
     * [팔괘 방패](./PanTao_Resource.md#bagua-shield)
-    * [미사일 요새](./PanTao_Resource.md#missile-fortress)
-    * [판스 갑옷](./PanTao_Resource.md#panteach-armor)
+    * [기 미사일 요새](./PanTao_Resource.md#ki-missile-fortress)
 * [Source](./PanTao_Source.md)

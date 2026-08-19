@@ -12,6 +12,5 @@
     * [Distance Control](./Arcticy_Resource.md#distance-control)
   * [Equipment](./Arcticy_Resource.md#equipment)
     * [북극성의 방패](./Arcticy_Resource.md#shield-of-north-castle)
-    * [가장의 뱃살](./Arcticy_Resource.md#belly-of-father)
     * [무자비한 박치기](./Arcticy_Resource.md#ruthless-headbutt)
 * [Source](./Arcticy_Source.md)

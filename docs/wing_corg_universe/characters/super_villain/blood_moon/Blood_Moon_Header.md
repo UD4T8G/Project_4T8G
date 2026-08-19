@@ -4,7 +4,6 @@
 
 * [Main](./Blood_Moon_Main.md)
   * [Characteristics](./Blood_Moon_Main.md#characteristics)
-  * [Lines](./Blood_Moon_Main.md#lines)
 * [Resource](./Blood_Moon_Resource.md)
   * [Abilities](./Blood_Moon_Resource.md#abilities)
     * [Melee](./Blood_Moon_Resource.md#melee)

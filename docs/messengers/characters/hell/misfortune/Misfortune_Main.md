@@ -34,8 +34,12 @@
 
 ---
 
-* > **[포춘](./Misfortune_Resource.md#fortune):** *(걱정하며)* "두려워하시면 제가 곤란해요. [지옥](../../../core/messengers/Messengers_Resource.md#hell)의 [사자들](../../../core/messengers/Messengers_Header.md) 처음 보세요?"
-* > **[포춘](./Misfortune_Resource.md#fortune):** *(정색하며)* "공과 사는 확실하게 합시다. 저는 사명 때문에 당신을 모실 뿐입니다."
-* > **[포춘](./Misfortune_Resource.md#fortune):** *(해맑게 웃으며)* "제가 화내는 모습이 보고 싶으셨군요?" *(격노하여 [코르누코피아](./Misfortune_Resource.md#cornucopia)로 폭행하며)* "**내 뿔 건들지 마, 애미 뒤진 씨발새끼야!!!**"
-* > **[포춘](./Misfortune_Resource.md#fortune):** *([스피릿](./Misfortune_Resource.md#spirit)의 독니를 드러내며)* "당신은 정말 최악이네요, "
-* > **[포춘](./Misfortune_Resource.md#fortune):** *(전장에 쓰러져서 [코르누코피아](./Misfortune_Resource.md#cornucopia)를 끌어안고 울며)* "우리는... 언젠가 다시 만날 수 있을까요?"
+> **[포춘](./Misfortune_Resource.md#fortune):** *(걱정하며)* "두려워하시면 제가 곤란해요. [지옥](../../../core/messengers/Messengers_Resource.md#hell)의 [사자들](../../../core/messengers/Messengers_Header.md) 처음 보세요?"
+
+> **[포춘](./Misfortune_Resource.md#fortune):** *(정색하며)* "공과 사는 확실하게 합시다. 저는 사명 때문에 당신을 모실 뿐입니다."
+
+> **[포춘](./Misfortune_Resource.md#fortune):** *(해맑게 웃으며)* "제가 화내는 모습이 보고 싶으셨군요?" *(격노하여 [코르누코피아](./Misfortune_Resource.md#cornucopia)로 폭행하며)* "**내 뿔 건들지 마, 애미 뒤진 씨발새끼야!!!**"
+
+> **[포춘](./Misfortune_Resource.md#fortune):** *([스피릿](./Misfortune_Resource.md#spirit)의 독니를 드러내며)* "당신은 정말 최악이네요, "
+
+> **[포춘](./Misfortune_Resource.md#fortune):** *(전장에 쓰러져서 [코르누코피아](./Misfortune_Resource.md#cornucopia)를 끌어안고 울며)* "우리는... 언젠가 다시 만날 수 있을까요?"

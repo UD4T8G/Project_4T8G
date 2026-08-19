@@ -24,8 +24,12 @@
 
 ---
 
-* > **보스:** "너무 두려워하지 말게나. 나는 [지옥](../../../core/messengers/Messengers_Resource.md#hell)의 [사자들](../../../core/messengers/Messengers_Header.md), 보스라고 하네."
-* > **보스:** "[지옥](../../../core/messengers/Messengers_Resource.md#hell) 또한 사명을 위해 존재하는 곳이라네. 자네는 무슨 고민을 하고 있는겐가?"
-* > **보스:** *([아이기스](./Boss_Resource.md#aegis) 방패를 사용하며)* "어머니는 훌륭하신 분입니다. 죽어서도 저를 지켜주시니까요."
-* > **보스:** *([아이기스](./Boss_Resource.md#aegis) 제트팩을 사용하며)* "이제는 제가 지켜드리겠습니다, 어머니!"
-* > **보스:** "나의 시험은 나의 업보라네. 승리하면 더 강해질테고, 패배하면... 그래도 상관없지 않겠나? 아마도..."
+> **보스:** "너무 두려워하지 말게나. 나는 [지옥](../../../core/messengers/Messengers_Resource.md#hell)의 [사자들](../../../core/messengers/Messengers_Header.md), 보스라고 하네."
+
+> **보스:** "[지옥](../../../core/messengers/Messengers_Resource.md#hell) 또한 사명을 위해 존재하는 곳이라네. 자네는 무슨 고민을 하고 있는겐가?"
+
+> **보스:** *([아이기스](./Boss_Resource.md#aegis) 방패를 사용하며)* "어머니는 훌륭하신 분입니다. 죽어서도 저를 지켜주시니까요."
+
+> **보스:** *([아이기스](./Boss_Resource.md#aegis) 제트팩을 사용하며)* "이제는 제가 지켜드리겠습니다, 어머니!"
+
+> **보스:** "나의 시험은 나의 업보라네. 승리하면 더 강해질테고, 패배하면... 그래도 상관없지 않겠나? 아마도..."
