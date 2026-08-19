@@ -26,7 +26,6 @@
 
 * [무자비한 박치기](#ruthless-headbutt)로 회피한다.
 * [북극성의 방패](#shield-of-north-castle)로 요새를 만들고 도주한다.
-* 각성 스킬을 발동하여 마차 위에 올라탄 뒤 돌격하여 강화된 [무자비한 박치기](#ruthless-headbutt)를 시전한다.
 
 ## equipment
 

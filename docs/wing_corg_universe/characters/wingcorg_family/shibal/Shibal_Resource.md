@@ -27,7 +27,6 @@
 
 * 윙콕 부모로부터 구매한 약을 복용하고 [현실 부정 필터](#reality-denial-filter)를 강화한다.
 * "나 잡아 봐라~!"를 외치며 [해맑은 스텝](#cheerful-step)로 모든 것을 튕겨내며 도주한다.
-* 각성 스킬 발동 시, [플라나리아](../planaria/Planaria_Header.md)와 함께 마차를 끌면서 [해맑은 스텝](#cheerful-step)으로 지면을 평탄화한다.
 
 ## equipment
 

@@ -19,9 +19,9 @@
 ---
 
 * [수호의 잔재](#remnants-of-guardian)를 사용하여 공허 투사체를 발사한다.
-* [예속된 영체](#enslaved-spirit)를 사용하여 윙카이 상태로 포탄을 빠르게 투척한다.
+* [예속된 영체](#enslaved-spirit)를 사용하여 [윙카이](../wingcorgi/WingCorgi_Resource.md#wingky) 상태로 포탄을 빠르게 사격한다.
 * 에너지를 충전한 후 [수호의 잔재](#remnants-of-guardian)를 지하에 사용하여 지진을 일으킨다.
-* 에너지를 충전한 후 [예속된 영체](#enslaved-spirit)를 사용하여 윙카이 상태로 초대형 포탄을 투하한다.
+* 에너지를 충전한 후 [예속된 영체](#enslaved-spirit)를 사용하여 [윙카이](../wingcorgi/WingCorgi_Resource.md#wingky) 상태로 초대형 포탄을 투하한다.
 * [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#black-magic-book)로 공허 마법을 증폭한다.
 * [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#black-magic-book)로 흑마법 골렘을 소환하여 전장을 짖밟는다.
 
@@ -33,8 +33,8 @@
 * [예속된 영체](#enslaved-spirit)를 활용하여 슬라임 형태로 액체기동한다.
 * [닿을 수 없는 감미](#unreachable-sweetness)의 개입을 악용하여 공격받기 직전에 사탕을 꺼내서 고기방패를 소환한다.
 * [닿을 수 없는 감미](#unreachable-sweetness)의 사탕 추적 효과를 악용하여 순간적으로 사탕을 바라보고 빠르게 회피한다.
-* [역행의 인과율](#causality-of-inversion)로 거꾸로 세계에 진입하여 전장에서 탈출한다.
-* [역행의 인과율](#causality-of-inversion)로 적군에게 "욕하는데 자기만 모르는 헬멧"을 착용시켜 내분을 일으킨다.
+* [거꾸로 세계](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#reverse-world)에 진입하여 전장에서 탈출한다.
+* 적군에게 [욕이 나오는데 자기만 모르는 헬멧](#helmet-blaring-swear-words-that-only-the-person-wearing-it-cant-hear)을 착용시켜 내분을 일으킨다.
 
 ## equipment
 
@@ -73,17 +73,13 @@
   * 제작자는 화장실에서 무조건 암살당한다.
   * 어떻게든 혀에 닿는다 해도 미각이 상실된다.
 
-### causality-of-inversion
+### helmet-blaring-swear-words-that-only-the-person-wearing-it-can't-hear
 
 ---
 
-* **거꾸로 세계:**
-  * [윙코기](../wingcorgi/WingCorgi_Header.md)가 등록한 1주일 체험 프로그램이다.
-  * 모든 언어와 법칙이 역방향으로 흐르는 곳이다.
-  * 정상적인 이성을 유지하면 질서 위반으로 폭행당한다.
-* **욕이 나오는데 자기만 모르는 헬멧:**
+* **저주받은 선물:**
   * [윙코기](../wingcorgi/WingCorgi_Header.md)가 만든 [X-프로토콜](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#x-protocol) 아머다.
-  * [원원이](../wonwonyee/WonWonYee_Header.md)가 라카이에게 줬다.
+  * [원원이](../wonwonyee/WonWonYee_Header.md)가 라카이에게 선물로 줬다.
   * 헬멧을 착용한 대상이 말하면 "씨발놈아"로 번역된다.
   * 욕을 들은 대상은 헬멧을 착용한 대상에게 도발이 걸린다.
   * 헬멧을 착용한 대상은 헬멧의 욕을 들을 수 없다.

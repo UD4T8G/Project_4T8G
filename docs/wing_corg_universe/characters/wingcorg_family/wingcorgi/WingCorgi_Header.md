@@ -12,6 +12,5 @@
     * [Distance Control](./WingCorgi_Resource.md#distance-control)
   * [Equipment](./WingCorgi_Resource.md#equipment)
     * [초재생능력 육신](./WingCorgi_Resource.md#super-regeneration-body)
-    * [각성 스킬](./WingCorgi_Resource.md#awakening-skill)
     * [윙카이](./WingCorgi_Resource.md#wingky)
 * [Source](./WingCorgi_Source.md)

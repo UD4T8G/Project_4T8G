@@ -28,7 +28,7 @@
 ---
 
 * **판스의 가죽**
-  * 판다들의 위대한 선조이자 건국 신화인 '[판스](../panteach/PanTeach_Header.md)'가 죽어서 남긴 가죽으로 만든 전설의 방어구다.
+  * 판다들의 위대한 선조이자 건국 신화인 [판스](../../characters/panda_corporation/panteach/PanTeach_Header.md)가 죽어서 남긴 가죽으로 만든 전설의 방어구다.
   * X-프로토콜 갑옷에 버금가는 세계관 최강급 내구력을 보유하고 있다.
   * 손상되어도 자동으로 복구되는 기적적인 능력이 있다.
 
@@ -41,3 +41,30 @@
   * 원하는 형태의 질량체를 임시적으로 생성한다.
   * 다른 모든 것을 반중력 비행시키는 능력이 있다.
 
+## discipline
+
+---
+
+### awakening-skill
+
+---
+
+* **그대들은 총력전을 원하는가:**
+  * 호출자의 위치로 윙콕 가족 전원이 순간이동하며 거대한 마차가 소환된다.
+  * [시바](../../characters/wingcorg_family/shibal/Shibal_Header.md)가 [해맑은 스텝](../../characters/wingcorg_family/shibal/Shibal_Resource.md#cheerful-step)으로 마차를 끈다.
+  * [플라나리아](../../characters/wingcorg_family/planaria/Planaria_Header.md)가 [지옥의 조교 스텝](../../characters/wingcorg_family/planaria/Planaria_Resource.md#step-of-hell-assistant)으로 마차를 끈다.
+  * [원원이](../../characters/wingcorg_family/wonwonyee/WonWonYee_Header.md)가 [두더지 뿅](../../characters/wingcorg_family/wonwonyee/WonWonYee_Resource.md#whack-a-mole)으로 마차 주변을 공격한다.
+  * 마차 위에서 [북극이](../../characters/wingcorg_family/arcticy/Arcticy_Header.md)가 [무자비한 박치기](../../characters/wingcorg_family/arcticy/Arcticy_Resource.md#ruthless-headbutt)로 돌격한다.
+  * [윙카이](../../characters/wingcorg_family/wingcorgi/WingCorgi_Resource.md#wingky)가 마차 주변을 공전하며 포격한다.
+
+## departments
+
+---
+
+### reverse-world
+
+---
+
+* **1주일 체험 프로그램**
+  * 모든 언어와 법칙이 역방향으로 흐르는 곳이다.
+  * 정상적인 이성을 유지하면 질서 위반으로 폭행당한다.

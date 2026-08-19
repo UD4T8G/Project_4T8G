@@ -27,8 +27,7 @@
 ---
 
 * [지옥의 조교 스텝](#step-of-hell-assistant)으로 질주한다.
-* [지옥의 조교 스텝](#step-of-hell-assistant)으로 최단 경로를 저격하여 오브젝트의 경로를 사전에 차단한다.
-* 각성 스킬을 발동하여 [시바](../shibal/Shibal_Header.md)와 함께 마차를 끌면서 [지옥의 조교 스텝](#step-of-hell-assistant)으로 돌격한다.
+* [지옥의 조교 스텝](#step-of-hell-assistant)으로 최단 경로를 저격하여 적군의 경로를 사전에 차단한다.
 
 ## equipment
 
