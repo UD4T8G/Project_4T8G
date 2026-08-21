@@ -16,7 +16,7 @@
 
 ---
 
-* *전사는 태어나기 전에 새겨진 우상 (Graven Image)으로서 혹독하게 싸우다가 네하르 디누르에서 태어났다.*
+* *전사는 태어나기 전에 새겨진 우상(Graven Image)으로서 혹독하게 싸우다가 네하르 디누르에서 태어났다.*
 * *하지만 연옥의 사명조차도 그를 지켜주지 않았고, 전사는 세상으로부터 허무하게 패배하여 무저갱에 던져졌다.*
 
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** "하늘로부터 받은 권세와 땅으로부터 받은 권속이 있음에도 불구하고 저희는 부정한 존재입니다."
@@ -32,7 +32,7 @@
 
 * *하지만 연옥에 돌아가봤자 패배뿐일테고, 지옥에 머물 수 있는 시간은 제한적이였다.*
 * *결단한 전사는 무릎을 꿇고, 자신의 [날개](./Messengers_Header.md#wings)에서 [팔괘](../../characters/purgatorium/buddy/Buddy_Header.md#bagua)만 남기고 나머지는 모조리 도려냈다.*
-* *도려낸 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 펼치고 난 뒤, 전사의 앞에는 새겨진 우상 (Graven Image)들이 끝없이 펼쳐졌다.*
+* *도려낸 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 펼치고 난 뒤, 전사의 앞에는 새겨진 우상(Graven Image)들이 끝없이 펼쳐졌다.*
 * *[연옥](./Messengers_Header.md#purgatorium)으로 가져갈 수 있는 그릇은 그 수가 많았으나, 그들을 위해 준비된 [날개](./Messengers_Header.md#wings)는 오직 하나뿐이였다.*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "내가 [연옥](./Messengers_Header.md#purgatorium)에서 홀로 싸우는 동안 하늘로부터 받은 권세가 함께했으나 충분하지 않았다."
@@ -60,7 +60,7 @@
 
 * *전사는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 꺼내고, 작은 그릇을 향해 에보카티오를 올린다.*
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "sive deus, sive dea (신이시든 여신이시든),"
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "sive deus, sive dea(신이시든 여신이시든),"
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "혹은 불리고 싶은 어떤 이름이시든,"
 
@@ -129,7 +129,7 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고, 같이 태어나면 영원히 함께하고 싶다고 말해주고 싶었다.*
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상 (Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상(Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *영혼이 태어나기 전, 나의 그릇은 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.*
 
@@ -191,7 +191,7 @@
 
 > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "하지만 다들 맨정신으로 일하기에는 열악하기 때문에 사건사고가 터지곤 해."
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "애초에 새겨진 우상 (Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "애초에 새겨진 우상(Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
 
 > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "영겁의 세월에서는 우리의 일탈이  티끌보다 작아서인지 속죄 강도가 높지는 않아."
 
@@ -215,7 +215,7 @@
 
 * *커피는 싸고, 데스스토커 독은 비싸다.*
 
-> **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** ([고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)의 등에 기대며) "근데 우리 카페 갈 수 있어?" *(무형성 중간)*
+> **[밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)의 등에 기대며)* "근데 우리 카페 갈 수 있어?" *(무형성 중간)*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "우리 연옥에서 못 나가..." *(당황하며)* "**근데 내 염소...**"
 
