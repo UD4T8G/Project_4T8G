@@ -2,32 +2,92 @@
 
 ---
 
-* [Main](./Messengers_Main.md)
-  * [프리퀄](./Messengers_Main.md#prequel)
-    * [신성모독](./Messengers_Main.md#blasphemy)
-    * [완곡어법](./Messengers_Main.md#euphemism)
-    * [융합주의](./Messengers_Main.md#syncretism)
-  * [스핀오프](./Messengers_Main.md#spin-off)
-    * [근무 시간](./Messengers_Main.md#work-hours)
-    * [쉬는 시간](./Messengers_Main.md#break-time)
-    * [퇴근 시간](./Messengers_Main.md#leaving-time)
-    * [포도주](./Messengers_Main.md#wine)
-    * [불운](./Messengers_Main.md#misfortune)
-  * [시퀄](./Messengers_Main.md#sequel)
-    * [심판의 날](./Messengers_Main.md#judgement-day)
-    * [선물](./Messengers_Main.md#gift)
-    * [가시](./Messengers_Main.md#thorn)
-    * [첫 데이트](./Messengers_Main.md#first-date)
-* [Resource](./Messengers_Resource.md)
-  * [Equipment](./Messengers_Resource.md#equipment)
-    * [날개](./Messengers_Resource.md#wings)
-    * [죄악](./Messengers_Resource.md#sin)
-  * [Discipline](./Messengers_Resource.md#discipline)
-    * [속죄](./Messengers_Resource.md#redemption)
-    * [유폐](./Messengers_Resource.md#detention)
-    * [심판](./Messengers_Resource.md#judgement)
-  * [Departments](./Messengers_Resource.md#departments)
-    * [연옥](./Messengers_Resource.md#purgatorium)
-    * [지옥](./Messengers_Resource.md#hell)
-    * [천국](./Messengers_Resource.md#heaven)
-* [Source](./Messengers_Source.md)
+## equipment
+
+---
+
+### wings
+
+---
+
+> *충직한 사자들은 하늘로부터 권세를 부여받고, 타락한 사자들은 땅으로부터 권세를 약탈해간다.*
+
+* 신체를 백업하여 서로를 죽일 수 없다.
+* 외부 동력원으로 사용할 수 있다.
+* 개인의 장비 외 능력을 구현할 수 있다.
+
+## discipline
+
+---
+
+### redemption
+
+---
+
+* 훈계
+* 불채찍 60대
+* 네하르 디누르에서의 정화
+
+### detention
+
+---
+
+* [날개](#wings) 박탈
+* 수명 부여
+* 생매장
+
+### judgement
+
+---
+
+* 주거지 박탈
+* 자아 거세
+* 악령화
+
+## departments
+
+---
+
+### purgatorium
+
+---
+
+* **Characteristics:**
+  * [천국](#heaven)과 [지옥](#hell) 사이의 정화 장소이다.
+  * 하늘의 [날개](#wings)를 제한적으로 사용한다.
+  * 사자들이 두려워한다.
+    * 멸망의 악몽을 꾼다.
+    * 가까운 징계에 불안해한다.
+  * 사람들을 예비시켜 천국으로 보낸다.
+* **Abilities:**
+  * **네하르 디누르:**
+    * 보좌에서 내려오는 불의 강이다.
+    * 모두를 정화시킬 수 있다.
+    * 사자들이 소멸하고 탄생한다.
+
+### hell
+
+---
+
+* **Characteristics:**
+  * 땅의 [날개](#wings)를 무제한으로 사용한다.
+  * 음부강하 이후로 사자들이 체념하게 되었다.
+  * 이전에도 이후로도 영원한 징계가 존재한다.
+* **Abilities:**
+  * **스올, 하데스:** 사자들과 권세들을 구속한다.
+  * **게힌놈, 힌놈의 골짜기, 불의 게헨나:** 영원하고 절대적인 고통을 가한다.
+  * **무저갱:** 존재 자체를 부정하고 그릇으로 만든다.
+
+### heaven
+
+---
+
+* **Characteristics:**
+  * 하늘의 [날개](#wings)를 한 치의 오차도 없이 사용한다.
+  * 사자들이 주어진 업무를 한 치의 오차도 없이 수행한다.
+  * 다른 존재들에게 [날개](#wings)를 부여한다.
+  * 그 어떤 사자들도 알 수 없는 비밀들이 많다.
+* **Abilities:**
+  * 오감적 자료를 통해 직접적으로 묘사하는 것은 불가능합니다.
+  * 종교적으로 민감한 소재이기에 성령훼방죄가 성립될 수 있습니다.
+  * 창작물 내부에서 간접적으로 언급하는 것은 가능합니다.

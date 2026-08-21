@@ -1,4 +1,4 @@
-# Core Template Main
+# Editor Law Main
 
 ---
 

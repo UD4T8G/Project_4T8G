@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Alias** | 판다 도사 |
 | **Position** | 도사 |
-| **Department** | [기 미사일 요새](./PanTao_Resource.md#ki-missile-fortress) |
+| **Department** | [기 미사일 요새](./PanTao_Header.md#ki-missile-fortress) |
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
@@ -14,7 +14,7 @@
 
 ---
 
-> *판다 주식회사의 엘리트 간부이자 무술 도사. 거대한 판다 건물의 3층 오른손인 [기 미사일 요새](./PanTao_Resource.md#ki-missile-fortress)에서 업무 및 화력 제어를 관장한다.*
+> *판다 주식회사의 엘리트 간부이자 무술 도사. 거대한 판다 건물의 3층 오른손인 [기 미사일 요새](./PanTao_Header.md#ki-missile-fortress)에서 업무 및 화력 제어를 관장한다.*
 
 > *건국 영웅인 [전설의 판다](../panda_of_legend/Panda_of_Legend_Header.md)가 주식회사의 숨겨진 비밀 병기 포지션으로 은둔하게 되면서, 하위 직원 판다들을 실질적으로 연마시키고 혹독하게 훈련하여 부대의 군사적 기강을 잡는 진짜 사부 역할을 수행하고 있다.*
 

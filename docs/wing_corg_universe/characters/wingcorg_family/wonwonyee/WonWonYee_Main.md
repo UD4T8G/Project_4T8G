@@ -4,8 +4,8 @@
 
 | **Name** | 원원이 |
 | :--- | :--- |
-| **Alias** | [두더지 뿅](./WonWonYee_Resource.md#whack-a-mole) |
-| **Position** | 주례(북극성), 애완동물(윙콕 가족), 수호자([흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#black-magic-book)) |
+| **Alias** | [두더지 뿅](./WonWonYee_Header.md#whack-a-mole) |
+| **Position** | 주례(북극성), 애완동물(윙콕 가족), 수호자([흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)) |
 | **Department** | 윙콕 가족 |
 | **Gender** | 남성 |
 | **Age Group** | 소년기 |
@@ -18,7 +18,7 @@
 
 > *타고난 주둥아리 때문에 상황만 발생하면 투명 망토를 쓰고 내레이터를 자처하며, 이 입방정 때문에 [시바](../shibal/Shibal_Header.md)를 폭주시켜 세계 멸망 시나리오를 쓸 뻔한 전적이 있다.*
 
-> *최근에는 [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Resource.md#black-magic-book)를 지키는 수호자가 되었으나, 잠을 자다가 라카이에게 책을 털리는 직무유기를 저질렀다.*
+> *최근에는 [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)를 지키는 수호자가 되었으나, 잠을 자다가 라카이에게 책을 털리는 직무유기를 저질렀다.*
 
 ## lines
 

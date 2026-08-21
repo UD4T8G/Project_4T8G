@@ -2,16 +2,66 @@
 
 ---
 
-* [Main](./Cursing_Grandma_Main.md)
-  * [Characteristics](./Cursing_Grandma_Main.md#characteristics)
-  * [Lines](./Cursing_Grandma_Main.md#lines)
-* [Resource](./Cursing_Grandma_Resource.md)
-  * [Abilities](./Cursing_Grandma_Resource.md#abilities)
-    * [Melee](./Cursing_Grandma_Resource.md#melee)
-    * [Ranged](./Cursing_Grandma_Resource.md#ranged)
-    * [Distance Control](./Cursing_Grandma_Resource.md#distance-control)
-  * [Equipment](./Cursing_Grandma_Resource.md#equipment)
-    * [육신](./Cursing_Grandma_Resource.md#body)
-    * [국자](./Cursing_Grandma_Resource.md#ladle)
-    * [가마솥](./Cursing_Grandma_Resource.md#cauldron)
-* [Source](./Cursing_Grandma_Source.md)
+## abilities
+
+---
+
+### melee
+
+---
+
+* 밥을 젓고 국을 저어 엔트로피를 극도로 가속한다.
+* [국자](#ladle)를 휘둘러 적군을 밀어낸다.
+* 자세를 잡고 [육신](#body)으로 이동하면서 [국자](#ladle)를 휘둘러 양자 분해한다.
+
+### ranged
+
+---
+
+* 밥을 짓고 국을 끓여 극도의 강화 능력과 극도의 치유 능력을 보유하고 있는 국밥을 만든다.
+* [가마솥](#cauldron)을 집어던져 적군을 가둔다.
+* [육신](#body)으로 [가마솥](#cauldron)을 찌그러트려서 블랙홀을 생성한다.
+
+### distance-control
+
+---
+
+* [육신](#body)으로 다리를 움직여 극도로 빠른 속도로 질주한다.
+* [육신](#body)으로 팔을 움직여 다중 우주를 조작한다.
+* [육신](#body)으로 공습 위치의 모든 피해를 흡수한다.
+
+## equipment
+
+---
+
+### body
+
+---
+
+* **할미는 안단다:**
+  * 모든 것의 거리에 상관없이 오감으로 감시한다.
+  * 다리를 빠르게 움직여 빛의 속도로 질주한다.
+  * 모든 것의 출력에 상관없이 모든 것을 막는다.
+  * 모든 것을 확대하고 축소한다.
+  * 악력으로 누벼이은 다중우주 하나를 쥐어짜 송편처럼 빚는다.
+  * 악력으로 양자 다중우주를 찢어 사라진 우주를 불러온다.
+
+### ladle
+
+---
+
+* **한 그릇 더:**
+  * 모든 것을 찢어 인과율을 뒤튼다.
+  * 양자분해하여 과거에도 존재한 적 없게 한다.
+  * 정교하게 조작하여 무에서 유를 창조한다.
+  * 음식물을 섞고 퍼올린다.
+
+
+### cauldron
+
+---
+
+* **아궁이 맛:**
+  * 모든 것을 찌그러뜨려 인과율을 뒤튼다.
+  * 블랙홀과 화이트홀을 만든다.
+  * 밥을 짓고 국을 끓인다.

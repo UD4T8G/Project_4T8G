@@ -1,4 +1,4 @@
-# Core Template Source
+# Editor Law Source
 
 ---
 

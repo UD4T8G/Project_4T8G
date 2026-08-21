@@ -2,13 +2,43 @@
 
 ---
 
-* [Main](./Blood_Moon_Main.md)
-  * [Characteristics](./Blood_Moon_Main.md#characteristics)
-* [Resource](./Blood_Moon_Resource.md)
-  * [Abilities](./Blood_Moon_Resource.md#abilities)
-    * [Melee](./Blood_Moon_Resource.md#melee)
-    * [Ranged](./Blood_Moon_Resource.md#ranged)
-    * [Distance Control](./Blood_Moon_Resource.md#distance-control)
-  * [Equipment](./Blood_Moon_Resource.md#equipment)
-    * [궤도](./Blood_Moon_Resource.md#orbit)
-* [Source](./Blood_Moon_Source.md)
+## abilities
+
+---
+
+### melee
+
+---
+
+* 지면에 가깝게 지나쳐 지형지물을 파괴한다.
+* 적군에게 충돌하고 지나간다.
+* 지구에 충돌하여 대멸종을 유도한다.
+
+### ranged
+
+---
+
+* 달빛으로 적군을 세뇌하여 좀비 아포칼립스 시나리오를 일으킨다.
+* 달빛과 중력을 비활성화하여 생태계를 마비시킨다.
+* 소행성을 끌여들어 투척한다.
+
+### distance-control
+
+---
+
+* 지구를 중심으로 공전한다.
+* 지구 중심의 공전에서 이탈한다.
+* [궤도](#orbit)를 바꿔 지구 자전 궤도를 조작한다.
+
+## equipment
+
+---
+
+### orbit
+
+---
+
+* **Ability:**
+  * 고속 이동
+* **Description:**
+  * 달의 공전 궤도를 조작한다.

@@ -2,15 +2,58 @@
 
 ---
 
-* [Main](./Chu_Main.md)
-  * [Characteristics](./Chu_Main.md#characteristics)
-  * [Lines](./Chu_Main.md#lines)
-* [Resource](./Chu_Resource.md)
-  * [Abilities](./Chu_Resource.md#abilities)
-    * [Melee](./Chu_Resource.md#melee)
-    * [Ranged](./Chu_Resource.md#ranged)
-    * [Distance Control](./Chu_Resource.md#distance-control)
-  * [Equipment](./Chu_Resource.md#equipment)
-    * [무표정의 추여사](./Chu_Resource.md#expressionless-madam-chu)
-    * [차원 탐색](./Chu_Resource.md#dimensional-search)
-    * [추침팬고릴라의 재앙](./Chu_Resource.md#disaster-of-chu-chimpan-gorilla)
+## abilities
+
+---
+
+### melee
+
+---
+
+* [추침팬고릴라의 재앙](#disaster-of-chu-chimpan-gorilla) 중 추침팬치의 민첩한 움직임으로 적을 농락하며 타격한다.
+* [추침팬고릴라의 재앙](#disaster-of-chu-chimpan-gorilla) 중 추고릴라로 거대화하여 압도적인 피지컬로 찍어 누른다.
+* [추침팬고릴라의 재앙](#disaster-of-chu-chimpan-gorilla) 중 대륙 파괴급 괴수 추침팬고릴라로 최종 진화하여 윙콕 가족과 판다 주식회사를 동시에 기강 잡는 대지진을 일으킨다.
+
+### ranged
+
+---
+
+* 기분 나쁜 [무표정의 추여사](#expressionless-madam-chu)로 상대를 응시하여 사기 저하를 유도한다.
+* [무표정의 추여사](#expressionless-madam-chu)로 침팬지의 괴성을 광역 초음파로 발사한다.
+* [무표정의 추여사](#expressionless-madam-chu) 중 갑자기 침팬지로 변이하려는 전조 증상을 보여 전방위의 모든 대상에게 과거의 트라우마를 유발하고 마비시킨다.
+
+### distance Control
+
+---
+
+* [차원 탐색](#dimensional-search)으로 지형지물을 침팬지처럼 타고 넘으며 맵 전체를 초고속으로 휘젓는다.
+* [차원 탐색](#dimensional-search)으로 세계관 관리자 W-B의 흔적을 쫓아 세계관의 구역을 뛰어넘는 도약 돌진한다.
+* [차원 탐색](#dimensional-search)으로 동체급 무패의 절대적인 '대진운'을 발동시켜 적의 요격과 방해를 전부 빗나가게 만들며 무식하게 거리를 좁힌다.
+
+## equipment
+
+---
+
+### expressionless-madam-chu
+
+---
+
+* **추하다:**
+  * 모든 재앙의 시작이 된 특유의 무표정이다.
+  * 추여사 상태에서 이 표정을 지으며 침팬지 흉내를 내려는 낌새만 모두가 기겁하며 얼어붙는다.
+ 
+### dimensional-search
+
+---
+
+* **어디있지:**
+  * 세계관 관리자를 찾기 위해 허구한 날 우주를 쏘다니며 도발하던 탐색 능력이다.
+  * 기가 막힌 대진운이 작동하여 동체급에서 절대 패배하지 않는 무적의 돌파력을 자랑한다.
+
+### disaster-of-chu-chimpan-gorilla
+
+---
+
+* **아우에:**
+  * 연승을 거듭할수록 몸집과 파괴력이 기하급수적으로 커진다. (추침팬치, 추고릴라, 추침팬고릴라)
+  * 최전성기 시절에는 판다 주식회사와 윙콕 가족의 기강을 홀로 박살 낼 정도였으며, 결국 두 집단이 임시 동맹을 맺고 레이드를 뛴 끝에야 추여사로 돌려놓을 수 있었다.
