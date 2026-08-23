@@ -56,9 +56,9 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**주여, 제가 울어도, 제가 구해도, 주께서 작성한 책 안에 있는 모든 말씀들을 제가 읽을지라도, 영원의 날 동안 제 기도가 올라가지 않게 하시옵고, 제게 심판을 내리시옵소서!**"
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**제 이름은 이미 생명책에서 지워졌고, 저는 그리스도로부터 끊어졌나이다! 제가 무엇을 지키거나 제가 무엇을 어기거나, 주께서는 거룩하신 그 이름을 더럽히지 마시옵고, 주의 나라를 온전히 이루시옵소서!**"
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**새겨진 우상(Graven Image)으로 잉태되기 전부터 제 이름은 이미 생명책에서 지워졌고, 제 운명은 이미 그리스도로부터 끊어져 있었나이다! 제가 무엇을 지키거나 제가 무엇을 어기거나, 주께서는 거룩하신 그 이름을 더럽히지 마시옵고, 주의 나라를 온전히 이루시옵소서!**"
 
-* *전사는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 꺼내고, 작은 그릇을 향해 에보카티오를 올린다.*
+* *전사는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 꺼내고, 자신의 주인이 아니라 작은 그릇을 향하여 에보카티오를 올린다.*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "sive deus, sive dea(신이시든 여신이시든),"
 
@@ -66,7 +66,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**우리의 영혼 절반을 바치오니 상대의 영혼을 가져가소서!**"
 
-* *전사가 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)으로 그릇을 내리쳐 깨뜨리자, 그릇의 파편이 모두 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)에 둘러진다.*
+* *전사는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)으로 그릇을 내리쳐 깨뜨렸고, 그릇의 파편은 모두 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)에 둘러졌다.*
 * *그리고 전사를 막아선 것은 형용할 수 없을 정도로 거대하고, 달래지지 않은 여러 뱀들이었다.*
 
 ### euphemism
@@ -113,37 +113,37 @@
 
 ---
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생긴 영혼이지만 악마는 아니다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생긴 영혼이지만 악마는 아니다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *나는 태어나기 전부터 세상으로부터 행운을 강제받았다. 그들은 나의 결정 따위 신경쓰지 않았다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 태어나기 전부터 세상으로부터 행운을 강제받았다. 그들은 나의 결정 따위 신경쓰지 않았다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *세상을 향해서는 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '세상을 향해서는 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *나는 내가 가장 사랑하는 영혼을 때렸다는 죄책감 때문에 숨어서 울었다. 하지만 나에게 사랑이란 **나를 이용하는 세상의 권위**에 있어 불미스러운 일이였다. 그리고 세상은 나의 슬픔조차도 허락하지 않았다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 내가 가장 사랑하는 영혼을 때렸다는 죄책감 때문에 숨어서 울었다. 하지만 나에게 사랑이란 **나를 이용하는 세상의 권위**에 있어 불미스러운 일이였다. 그리고 세상은 나의 슬픔조차도 허락하지 않았다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고, 같이 태어나면 영원히 함께하고 싶다고 말해주고 싶었다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고, 같이 태어나면 영원히 함께하고 싶다고 말해주고 싶었다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상(Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상(Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *영혼이 태어나기 전, 나의 그릇은 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '영혼이 태어나기 전, 나의 그릇은 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *사랑받을 자격이 없었던 나는 그녀를 살리기 위해, 내게 허락되었던 하늘의 그릇을 스스로 박살내어 녹이고, 스스로를 바쳐 그녀를 위한 [날개](./Messengers_Header.md#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '사랑받을 자격이 없었던 나는 그녀를 살리기 위해, 내게 허락되었던 하늘의 그릇을 스스로 박살내어 녹이고, 스스로를 바쳐 그녀를 위한 [날개](./Messengers_Header.md#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *뭐 하는 거냐고, 제발 그만두라고 말하고 싶었다. 나약한 모습이라도 좋으니까 부디 그와 함께 있고 싶었다. 하지만 나의 폐는 이미 찢어져 있었고, 그 순간 팔까지 부러져버려서 아무것도 할 수가 없었다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '뭐 하는 거냐고, 제발 그만두라고 말하고 싶었다. 나약한 모습이라도 좋으니까 부디 그와 함께 있고 싶었다. 하지만 나의 폐는 이미 찢어져 있었고, 그 순간 팔까지 부러져버려서 아무것도 할 수가 없었다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *내가 말할 수 있게 되었을 때 나는 그의 선물을 기억하고 있었고, 처음부터 끝까지 그를 사랑하고 있었다며 울부짖었다. **하지만 내 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았다.***
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '내가 말할 수 있게 되었을 때 나는 그의 선물을 기억하고 있었고, 처음부터 끝까지 그를 사랑하고 있었다며 울부짖었다. **하지만 내 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았다.**'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** *나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.*
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *나는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)으로 거듭났지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말인가?*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** 'ㅁ나는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)으로 거듭났지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말인가?'
 
 ## spin-off
 
@@ -260,13 +260,13 @@
 
 ---
 
-* *바닥에는 혈흔이 흥건하고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 무형성이 높아지면서 누군가의 손에 목이 졸리고 있었다.*
+* *바닥에는 죄악이 흥건하고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 무형성이 점점 높아지면서 누군가의 손에 의해 목이 졸리고 있었다.*
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(켁켁거리며)* "알았어! 알았다고! 안 건드리면 되잖아!"
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "괜찮아요, 실수는 누구나 할 수 있죠! 근데 장난이였다고요?" *(손에 힘을 줘서 목을 비틀며)* "**그 아가리 다시 씨부려봐라, 썅년아!**"
 
-* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 누군가에게 제압당해 쓰러진 채 그 상황을 조용히 지켜보고 있었다.*
+* *천둥벼락이 울리며 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 누군가의 공격에 찔려 쓰러졌고, 제압당한 채 그 상황을 조용히 지켜보고 있었다.*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
 
