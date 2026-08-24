@@ -102,3 +102,4 @@ REVELATION 3:16
 ```
 * [가시](./Messengers_Main.md#thorn) 중 "사탄의 사자" 대사는 "2 CORINTHIANS 12:7"을 참조한다.
 * [첫 데이트](./Messengers_Main.md#first-date) 중 "사내 연애는 엄격하게 금지되어 있다는" 대사는 "MATTHEW 22:30"을 참조한다.
+* [첫 데이트](./Messengers_Main.md#first-date) 중 잔에 대한 언급은 "유월절 세데르"의 "Cup of Elijah"와 "Spilling the wine for the plagues"의 "Elegy" 요소를 제한적으로 참조한다. 이는 해당 시점에서 창작물이 "REVELATION" 이후를 다루고 있기 때문이다.
