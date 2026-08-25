@@ -113,47 +113,47 @@
 
 ---
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 태어나기 전부터 평범한 영혼이였다. 뱀처럼 생긴 영혼이지만 악마는 아니다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '저는 태어나기 전부터 영혼이였어요! 뱀처럼 생긴 영혼이요... 그렇다고 악마라고 부르지는 마세요!'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 태어나기 전부터 세상으로부터 행운을 강제받았다. 그들은 나의 결정 따위 신경쓰지 않았다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 태어나기 전부터 세상으로부터 행운을 강제받았습니다. 그들은 저의 결정 따위 신경쓰지 않았죠.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '세상으로부터 자유로웠기에 책임감도 생겼다. 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '세상으로부터 자유로웠기에 저는 책임감도 배웠어요! 누군가를 기쁘게 해줄 필요는 없었지만, 슬프게 하고 싶지는 않았거든요... 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 저는 그 새끼 인정하지 않을거예요!'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '세상을 향해서는 항상 격식을 갖춰야만 했다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 나는 그 새끼 인정하지 않는다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '세상을 향해서는 항상 격식을 갖춰야만 했습니다. 욕망이 있어도 드러낼 수 없었고, 진심이 있어도 말할 수 없었습니다. 물론 **위도 아래도 없는 새끼**는 안 그랬는데, 저는 그 새끼 인정하지 않을겁니다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 떨렸지만 용기를 내서 풍요의 뿔을 그녀에게 선물했다. 그리고 그녀에게 고백했는데, 그녀는 나를 때리고 쫓아내버렸다. 나는 그녀를 슬프게 했다는 두려움 때문에 숨어서 울었다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '어느 날, 저는 누군가를 좋아하게 되었어요! 단 둘이 있는 시간이 많았고, 마음이 너무나도 잘 맞았거든요! 저는 떨렸지만 용기를 내서 풍요의 뿔을 선물했어요! 그리고 마침내 고백했는데, 그녀는 저를 때리고 쫓아내버렸어요... 저는 그녀를 슬프게 했다는 두려움 때문에 태어나기 전까지 숨어버렸고, 한없이 울기만 했어요...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 내가 가장 사랑하는 영혼을 때렸다는 죄책감 때문에 숨어서 울었다. 하지만 나에게 사랑이란 **나를 이용하는 세상의 권위**에 있어 불미스러운 일이였다. 그리고 세상은 나의 슬픔조차도 허락하지 않았다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 제가 가장 사랑하는 영혼을 때렸다는 죄책감에 시달렸지만, 세상은 나의 슬픔조차도 허락하지 않았기에 저는 숨어서 울 수도 없었습니다. 저는 풍요의 뿔을 사슬로 제 몸에 단단히 묶어 그를 기억하고자 했습니다. 하지만 제게 사랑이란 **저를 이용하는 세상의 권위**에 있어 불미스러운 일이였죠.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '영겁의 세월이 흘러 그녀는 나보다 먼저 태어났고, 나보다 먼저 사명을 부여받았다. 나는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '영겁의 세월이 흘러 그녀는 저보다 먼저 태어났고, 저보다 먼저 사명을 부여받았어요... 저는 다시 한번 그녀를 찾아가고 싶었지만, 그녀가 상처받을까봐 차마 나서지 못했죠...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었다. 때려서 미안했다고 말해주고 싶었다. 이 선물에 대한 진심을 말해주고 싶었다. 같이 태어나면 고백도 수락하고 함께하고 싶었다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '태어나기 전에 마지막으로 그 영혼을 다시 한번 만나보고 싶었습니다. 때려서 정말로 미안했습니다. 이 선물에 대한 진심을 말해주고 싶었습니다. 같이 태어나면 세상 끝날까지 함께하고 싶었습니다...'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 [천국](./Messengers_Header.md#heaven)에 올라갈 자격이 없었기에 [지옥](./Messengers_Header.md#hell)의 사명을 받았다. 내가 태어난 시기에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 새겨진 우상(Graven Image)의 수많은 파편들 사이에서 혼자 살아남은 행운이 나를 향해 기어오고 있었다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '저는 [천국](./Messengers_Header.md#heaven)에 올라갈 자격이 없었기에 [지옥](./Messengers_Header.md#hell)의 사명을 받았어요... 제가 태어난 때에는 무저갱의 그릇들이 대부분 깨져 있었는데, 놀랍게도 수많은 새겨진 우상(Graven Image)들의 파편 사이에서 혼자 살아남은 행운이 저를 향해 기어오고 있었어요!'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 [천국](./Messengers_Header.md#heaven)에 올라갈 자격이 없었기에 [지옥](./Messengers_Header.md#hell)의 사명을 받았다. 영혼이 태어나기 전, 나의 그릇은 무저갱의 거친 싸움에 휘말려 깨져나갔다. 운이 좋았던 건지 그 많은 그릇들 중에서도 나 혼자 살아남았다. 나는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 [천국](./Messengers_Header.md#heaven)에 올라갈 자격이 없었기에 [지옥](./Messengers_Header.md#hell)의 사명을 받았답니다. 하지만 영혼이 태어나기 직전, 저의 그릇은 무저갱의 거친 싸움에 휘말려 깨져나갔습니다. 운이 좋았던 건지 그 많은 그릇들 중에서도 저 혼자 살아남았고요. 저는 모든 것이 깨져나가는 고통에도 신음을 삼키며 영혼에게 안겼습니다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '하지만 우리는 서로 [날개](./Messengers_Header.md#wings)가 없다는 사실을 깨달았고, [날개](./Messengers_Header.md#wings)가 없는 존재는 무저갱에서 살아남지 못한다. 시간이 없었다. 나는 그녀를 살리기 위해 내게 허락되었던 하늘의 그릇을 스스로 박살내어 녹였고, 스스로를 바쳐 그녀를 위한 [날개](./Messengers_Header.md#wings)가 되었다. 모든 그릇이 그녀와 융합됐고, 나는 눈을 감았다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '하지만 우리는 서로 [날개](./Messengers_Header.md#wings)가 없다는 사실을 깨달았고, [날개](./Messengers_Header.md#wings)가 없는 존재는 무저갱에서 살아남을 수 없었어요! 저는 그녀를 살리기 위해 제게 허락되었던 하늘의 그릇을 스스로 박살내어 녹였고, 스스로를 바쳐 그녀를 위한 [날개](./Messengers_Header.md#wings)가 되었어요... 모든 그릇이 그녀와 융합됐고, 저는 눈을 감았습니다...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '제발 그만두라고 말하고 싶었다. 같이 소멸하더라도 좋으니까, 부디 마지막 순간만큼은 함께 있고 싶었다. 하지만 나의 허파는 이미 찢어져 있었고, 팔까지 부러져 있었기에 아무것도 할 수가 없었다.'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '제발 그만두라고 말하고 싶었습니다. 같이 소멸하더라도 좋으니까, 부디 마지막 순간만큼은 함께 있고 싶었습니다. 하지만 제 허파는 이미 찢어져 있었고, 팔까지 부러져 있었기에 아무것도 할 수가 없었습니다.'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '서로의 마음을 단 한번만이라도 확인할 수 있었다면 좋았을 것이다. 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 나의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '서로의 마음을 한 번만이라도 확인할 수 있었다면 좋았을 것 같네요... 하지만 상대의 마음은 묻지도 않은 채 내 방식대로 구원을 강제해 버렸으니, 결국 저의 맹목적인 몸부림은 **위도 아래도 없는 새끼**의 행적과 전혀 다를 바 없었어요...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '내가 말할 수 있게 되었을 때 나는 그의 선물을 기억하고 있었고, 처음부터 끝까지 그를 사랑하고 있었다며 울부짖었다. **하지만 내 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았다.**'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '제가 말할 수 있게 되었을 때 저는 영혼을 끌어안고 떨며 처음부터 끝까지 그를 사랑하고 있었다고 울부짖었습니다. **하지만 제 목소리가 비로소 그곳에 닿았을 때, 온전한 영혼은 이미 존재하지 않았습니다.**'
 
-> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다.'
+> **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '저는 입이 없습니다. 그리고 저는 슬피 울며 이를 갈아야 합니다...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '나는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)으로 거듭났지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말인가?'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)으로 거듭났지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말입니까!?'
 
 ### up-down
 
 ---
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '위도 아래도 없는 새끼, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 불가하다. 그는 스스로가 없기에 위가 없고, 주인이 있기에 아래가 있다. 오히려 나는 사명조차도 받지 못했기에 아래가 없고. 스스로가 주인을 정의하기에 위가 있다.'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '위도 아래도 없는 새끼, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 불가합니다. 그는 스스로가 없기에 아래가 없고, 주인이 있기에 위가 있습니다. 오히려 저는 사명조차도 받지 못했기에 위가 없고, 스스로가 주인을 정의하기에 아래가 있습니다.'
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '내가 주인으로부터 달란트를 받았을 때 이것을 무엇으로 보답하겠는가? 나의 뜻이 섞이지 않은 주인을 뜻을 행할 수 있는가? 초등 학문에서는 교만과 겸손이 한 끗 차이다.'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '제가 주인으로부터 달란트를 받았을 때 이것을 무엇으로 보답하겠습니까? 저의 뜻이 섞이지 않은 주인을 뜻을 행할 수 있습니까? 초등 학문에서는 교만과 겸손이 한 끗 차이입니다.'
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '하다못해 모순까지도 그 선 안으로, 모든 것들이 계속하여 합력하는 세상에서 초등 학문은 힘을 잃었다. 나는 초등 학문에 귀속되어 버렸고, 이러한 내가 행할 수 있는 사명은 오직 하나 뿐...'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '하다못해 모순까지도 그 선 안으로, 모든 것들이 계속하여 합력하는 세상에서 초등 학문은 힘을 잃었습니다. 저는 초등 학문에 귀속되어 버렸고, 이러한 제가 행할 수 있는 사명은 오직 하나 뿐입니다...'
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** '**우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속 되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!**'
 
@@ -271,6 +271,40 @@
 * *"Zeus snake"에게는 "Nephalia", 즉 금주 공헌을 해야 한다. 지금 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 술에 꼴아 잠든 것이다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 없는 머리를 굴려봤지만 아무런 해결책도 떠오르지 않아서 그냥 주저앉은 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 안아줬다.*
 
+### fragile
+
+---
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '대부분 안 통할 겁니다... 동료는 태생부터 저를 인정할 존재는 아니였거든요.'
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '우선... 아이스브레이킹이라도 해볼까요? [연옥](./Messengers_Header.md#purgatorium)에 귀여운 친구가 한 명 있는데, 한 번 따라해 보려고요.'
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(찌그러진 냄비에 라면을 끓이며)* "어, 면이 불었네?" *(할복하며)* "**죽을죄를 지었습니다!**"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "!!!"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(하트 모양 틀에 계란프라이를 하며)* "어, 노른자가 터졌네?" *(할복하며)* "**죽을죄를 지었습니다!**"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(손을 뻗으며)* "야, 야야..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(낡은 양말을 신으며)* "어, 짝짝이네?" *(할복하며)* "**죽을죄를 지었습니다!**"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(팔을 잡고 뜯어말리며)* "**그마아아안!!!**" *(숨을 거칠게 몰아쉬며)* "알았어... 인정해줄테니까 제발 그만해..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(웃어보이며)* "아무튼 분위기는 좀 풀렸잖습니까?"
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "저게... 나라고?"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(바닥의 죄악을 걸레로 닦으며)* "한 치의 오차도 없이 계획한 대로군요."
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(한숨 쉬며)* "그래... 다들 너만 보고 있네..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(악한 존재들을 걸레로 때려잡으며)* "앞으로 [지옥](./Messengers_Header.md#hell)은 걱정할 일 없을 겁니다. 제가 알아서 다 할테니까요."
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(머리를 쥐어뜯으며)* "저건 내가 알던 **위도 아래도 없는 새끼**가 아니야... 저건 **미친 소크라테스**라고..."
+
 ### misfortune
 
 ---
@@ -285,11 +319,11 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** *(자세를 숙이며)* "저래보여도 마음이 약하답니다? 이때까지의 심판 업무는 모두 제가 대신 맡아왔죠!"
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(자세를 숙이며)* "저래보여도 마음이 약하답니다. 이때까지의 심판 업무는 모두 제가 대신 맡아왔을 정도죠."
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(낑낑대며)* "그나저나 너 좀 무거운데 내려와 줄래?"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** *(내려오며)* "죄송합니다, 당신이 폭주할까봐 그랬어요..."
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(내려오며)* "죄송합니다, 당신이 폭주할까봐 그랬습니다."
 
 ## sequel
 
@@ -332,16 +366,16 @@
 
 ---
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** "영겁의 세월동안 이뤄온 저희 사명 가운데 이토록 통쾌한 순간은 없었습니다!"
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "영겁의 세월동안 이뤄온 저희 사명 가운데 이토록 통쾌한 순간은 없었습니다."
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** "그간 저는 고통에 무심하였기에 신앙이 미지근해지지 않도록 유지하면서도 기쁠 수 있었습니다."
 
 * *무저갱에 연단된 무기를 사용하는 대가로 스스로를 간신히 유지해왔던 [보스](../../characters/hell/boss/Boss_Header.md)는 서서히 소멸되기 시작했다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [보스](../../characters/hell/boss/Boss_Header.md)가 소멸하기 전에 그를 속히 심판해야 했지만, 자신의 죄악 때문에 심판을 내리지 못하고 있었다.*
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** "철부지같은 당신이 고작 저 같은 애늙은이처럼 고뇌하고 계십니까? 그토록 바라던 것을 알게 되었으니 기뻐해야 하지 않겠습니까!"
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "철부지같은 당신이 고작 저 같은 애늙은이처럼 무엇을 고뇌하고 계십니까! 그토록 바라던 것을 알게 되었으니 기뻐해야 하지 않겠습니까?"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** "제가 당신을 위한 사탄의 사자가 되어, 당신의 믿음이 흔들릴 때마다 마땅히 시험해 드리겠습니다!"
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "제가 당신을 위한 사탄의 사자가 되어, 당신의 믿음이 흔들릴 때마다 마땅히 시험해 드리겠습니다."
 
 * *[보스](../../characters/hell/boss/Boss_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 등에 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)를 달아주고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 손에 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 손에 쥐어준다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [보스](../../characters/hell/boss/Boss_Header.md)의 발을 씻겨준 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광으로 자연 소멸을 중단시키고 무저갱에 던진다.*

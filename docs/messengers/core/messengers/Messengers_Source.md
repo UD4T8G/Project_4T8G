@@ -78,7 +78,7 @@ JOHN 1:5
   καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.
 ```
 
-* [융합주의](./Messengers_Main.md#syncretism) 서사는 다음을 참조하며, 대사 중 "위도 아래도 없는 새끼" 부분은 "아직도 위와 아래가 존재하는가?" 부분을 참조한다.
+* [융합주의](./Messengers_Main.md#syncretism)와 창작물 대사 중 "위도 아래도 없는 새끼" 부분은 "아직도 위와 아래가 존재하는가?" 부분을 참조한다.
 
 ```text
 The Gay Science, § 125
@@ -88,7 +88,7 @@ The Gay Science, § 125
   Man erzählt noch, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] der tolle Mensch desselben Tages in verschiedene Kirchen eingedrungen sei und darin sein Requiem aeternam [ deo (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Deo (𝔊𝔒𝔄) ] angestimmt habe. Hinausgeführt und zur Rede gesetzt, habe er immer nur dies entgegnet: „Was sind denn diese Kirchen noch, wenn sie nicht die Grüfte und Grabmäler Gottes sind?“
 ```
 
-* [융합주의](./Messengers_Main.md#syncretism) 대사 중 "나는 입이 없다. 그리고 나는 슬피 울며 이를 갈아야 한다." 부분의 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조하고, "슬피 울며 이를 갈리라" 부분은 "MATTHEW" 표현 방식을 참조한다.
+* [융합주의](./Messengers_Main.md#syncretism) 대사 중 "저는 입이 없습니다. 그리고 저는 슬피 울며 이를 갈아야 합니다..." 부분의 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조하고, "슬피 울며 이를 갈리라" 부분은 "MATTHEW" 표현 방식을 참조한다.
 * [융합주의](./Messengers_Main.md#syncretism) 대사 중 "성령이 빠져나간 언약궤" 부분은 "1 SAMUEl 4-5"의 "Ichabod"를 참조한다. 또한 "언약궤"는 "블레셋"의 "다곤 신전"에 모셔졌는데, 여기서 "다곤(Zeus Arotrios)" 또한 "제우스"의 "에피테트"이다. 또한 "다곤"은 첫째 날 아침에 "언약궤" 앞에 엎드렸고, 둘째 날 아침에 머리와 손목이 끊어져 있었는데, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 형상 또한 이를 참조한다.
 * [위 아래](./Messengers_Main.md#up-down)의 대사 중 "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속 되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!" 부분은 다음을 참조한다.
 
@@ -105,6 +105,13 @@ BUKHARI 5057, MUSLIM 1066
 ```
 
 * [쉬는 시간](./Messengers_Main.md#break-time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
+* [유리멘탈](./Messengers_Main.md#fragile) 대사 중 "미친 소크라테스"는 "디오게네스"에 대한 "플라톤"의 평가를 참조한다.
+
+```text
+The Lives and Opinions of Eminent Philosophers, Book VI. 54
+  [ Ἐρωτηθεὶς (B, P, F, Dorandi, Marcovich) / Πλάτων ἐρωτηθεὶς (Gnomologia, edd. vett.) ] ὑπό τινος, “[ ποῖός τίς σοι (B, P, F, OCT, Dorandi) / ποῖός σοι (Deteriores) ] [ Διογένης δοκεῖ (B, P, F, Dorandi) / δοκεῖ Διογένης (Φ, Marcovich) ];” [ “Σωκράτης,” εἶπε (B, P, Dorandi) / “Σωκράτης,” ἔφη (F, OCT, Marcovich) / Σωκράτην μαινόμενον ἔλεγε (Aelianus VH 14.33) ] “μαινόμενος.”
+```
+
 * [시퀄](./Messengers_Main.md#sequel)의 문장과 [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "모두를 감찰하신" 부분은 다음을 참조한다.
 
 ```text
