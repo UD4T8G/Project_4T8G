@@ -171,7 +171,7 @@
 
 * *[완곡어법](#euphemism) 후반부에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 쓰러져 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 존재를 직접 확인한 적이 없다.*
 
-> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "전부 다 틀렸어! 그것보다 다친 데는 안 아파? 여기가 어딘지는 알아보겠고?"
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "아니거든? 그보다 다친 데는 안 아파? 여기가 어딘지는 알겠고?"
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(파괴된 장비를 수습하며)* "아플 시간도 없어... 그리고 여기는 딱 봐도 [연옥](Messengers_Header.md#purgatorium)이네... 잠시만, *(주변을 둘러보며)* **저걸 너 혼자 다 쓰러뜨린거야!?** 내가 전력으로 싸워도 못 이겼던 존재들인데?"
 
@@ -365,6 +365,12 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "괜찮아요, 실수는 누구나 할 수 있죠! 근데 장난이였다고요?" *(손에 힘을 줘서 목을 비틀며)* "**그 아가리 다시 씨부려봐라, 썅년아!**"
 
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(침을 질질 흘리며)* "**커어억! 잘못했어요! 살려주세요! 다시는 안 그럴게요!**"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "호호호! 반성하는 것 같아서 보기 좋네요!" *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 잔류장을 주입하며)* "**잘못한 아이는 벌을 받아야겠죠?**"
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(고통받으며)* "**끼야아아아아아아아악!!!**"
+
 * *천둥벼락이 울리며 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 누군가의 공격에 찔려 쓰러졌고, 제압당한 채 그 상황을 조용히 지켜보고 있었다.*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
@@ -429,9 +435,9 @@
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "심심해서... 읍!"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)의 입을 막으며)* "철거 예고장입니다. 조금 뒤면 악한 존재들이 최전방으로 쳐들어온다고 하는군요."
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)의 입을 막으며)* "악한 존재들의 철거 예고장입니다. 조금 뒤면 최전방으로 쳐들어온다고 하는군요."
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "아, 그래? 그런데 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 빠졌잖아?" *(날아가는 악한 존재들을 향해 손짓하며)* "최전방은 누가 지키고 있는데?"
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "아, 그래? 그런데 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 최전방에서 빠졌네?" *(날아가는 악한 존재들을 향해 손짓하며)* "그러면 최전방은 누가 지키고 있는데?"
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(철거되는 최전방을 바라보며)* "어... [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md) 씨?"
 

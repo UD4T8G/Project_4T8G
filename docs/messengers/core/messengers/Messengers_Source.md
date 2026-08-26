@@ -106,6 +106,7 @@ BUKHARI 5057, MUSLIM 1066
 
 * [쉬는 시간](./Messengers_Main.md#break-time) 대사 중 "엄격한 **제사**보다는 느슨한 **인애**" 부분은 "HOSEA 6:6"을 참조한다.
 * [유리멘탈](./Messengers_Main.md#fragile) 대사 중 "미친 소크라테스"는 "디오게네스"에 대한 "플라톤"의 평가를 참조한다.
+* [철거](./Messengers_Main.md#demolition)의 "불법 건축물"은 "바벨탑"을 참조한다.
 
 ```text
 The Lives and Opinions of Eminent Philosophers, Book VI. 54
