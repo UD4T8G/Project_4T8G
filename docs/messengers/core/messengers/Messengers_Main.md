@@ -75,7 +75,7 @@
 
 * *그들이 달래지지 않은 이유는 알 수 없다. **완곡어법**은 그들을 달래고자 하는 의도도 있었다.*
 * *그들은 스스로를 달래줄 수 있는 온화한 존재를 지켜주고 싶었지만, 온화한 존재는 너무나도 약했다.*
-* *그들은 그녀의 순수함이 다치지 않도록 지켜주고 싶었다. **인격을 장악하고 고통을 대신 감당하더라도.***
+* *그들은 그녀의 순수함이 다치지 않도록 지켜주고 싶었다.* ***인격을 장악하고 고통을 대신 감당하더라도.***
 * *그들은 본능적으로 깨달았다. 온화한 존재가 위험에 빠지게 될 것을. 눈 앞의 피난처는 분명 해낼 것이라고.*
 
 > **커다란 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "한심하구나, 우리를 게헨나 안에서 멸하실 능력이 있으신 그 분을 섬기면서도 우리에게 에보카티오를 올리다니..."
@@ -143,7 +143,7 @@
 
 > **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '저는 입이 없습니다. 그리고 저는 슬피 울며 이를 갈아야 합니다...'
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 영혼과 하나되어 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)으로 거듭났지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말입니까!?'
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 영혼과 함께 소멸되지 않았지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말입니까!?'
 
 ### up-down
 
@@ -160,6 +160,56 @@
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(주변의 깨진 그릇들을 정리하며)* "...누구시죠?"
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(고개 숙여 인사하며)* "위도 아래도 없는 새끼입니다."
+
+### names
+
+---
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([버디](../../characters/purgatorium/buddy/Buddy_Header.md) 위에 올라타며)* "오, 깨어났다! 나 보여?"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(당황하며)* "잠깐만, **너 뭐야!** 악한 영이 들었나? 악한 권세의 간계인가?"
+
+* *[완곡어법](#euphemism) 후반부에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 쓰러져 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 존재를 직접 확인한 적이 없다.*
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "전부 다 틀렸어! 그것보다 다친 데는 안 아파? 여기가 어딘지는 알아보겠고?"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(파괴된 장비를 수습하며)* "아플 시간도 없어... 그리고 여기는 딱 봐도 [연옥](Messengers_Header.md#purgatorium)이네... 잠시만, *(주변을 둘러보며)* **저걸 너 혼자 다 쓰러뜨린거야!?** 내가 전력으로 싸워도 못 이겼던 존재들인데?"
+
+* *[신성모독](#blasphemy)* 초반부에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 세상으로부터 허무하게 패배하여 무저갱에 던져졌다.
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "고마우면 누나라고 부르던가..." *(더블 배럴 샷건 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내며)* "**됐고, 이름부터 대!**"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(손을 들고 기겁하며)* "**피난처!** 아니, 없어요... 누나..."
+
+* *기원 자체는 "Vediovis"가 더 오래되었지만, 봉헌 시기는 "Meilichia"가 더 오래되었다.*
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 거두며)* "진짜 스스로는 안중에도 없네... 뭐, 나도 이름이 없긴 해!"
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(눈을 반짝이며)* "그럼 오빠 이름은 내가 지어줄게! 친근해 보여야 하니까 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 어때?"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(경계하며)* "[버디](../../characters/purgatorium/buddy/Buddy_Header.md)? [버디](../../characters/purgatorium/buddy/Buddy_Header.md)... 그럼 너는 온화해 보여야 하니까 [밀키](../../characters/purgatorium/milky/Milky_Header.md)로 하게?"
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "그거 좋다! 그럼 나를 [밀키](../../characters/purgatorium/milky/Milky_Header.md)라고 불러 줘, [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 오빠!"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(얼어붙으며)* "...진심이야?"
+
+* *잠시 후...*
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(깨진 그릇들을 하나 하나 이어 붙이며)* "잠깐 쉬고 계시지요, 이것들은 제가 어떻게든 정리해 보겠습니다."
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(작업을 멈추지 않으며)* "옙, [보스](../../characters/hell/boss/Boss_Header.md)."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(안타깝게 쳐다보며)* "영혼을 생각해서라도 스스로를 너무 혹사시키지는 마세요."
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(울컥하고 가라앉히며)* "하... 저희 일에는 신경 끄시고 업무에나 집중하세요, [보스](../../characters/hell/boss/Boss_Header.md)."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(그릇 하나를 완성하며)* "저는 당신의 상사가 아닌데요?"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(그릇 하나를 완성하며)* "그냥... 애칭이라고 생각하세요..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "그렇다면 저는 행운과 영혼이 다시 찾아오기를 빌며 [포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune)과 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)이라는 애칭으로 불러 드리겠습니다."
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "하지만 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)이였다면 찾아온 [포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune)조차도 놓쳐 버렸으니 스스로를 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)이라 칭하겠지요."
 
 ## spin-off
 
@@ -179,7 +229,7 @@
 
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(들이받으며)* **메에에!**
 
-> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(쾌속 기상)* "**뿌엥!**"
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(쾌속 기상)* "**뿌에엥!**"
 
 > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(비몽사몽하며)* "너무하네..."
 
@@ -190,29 +240,27 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "됐고, 저것들은 내가 어떻게는 막아볼테니까 너는 사람들이나 좀 달래봐!"
 
-> ***사람들*:** *(춤을 추며)* "**HELL YEAH!!!**" 
-
-> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "굳이 달랠 필요 없어 보이는데? 무슨 일 생기면 네가 옮겨버리면 되잖아!"
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "굳이 달랠 필요 없어 보이는데? 그리고 무슨 일 생기면 네가 옮겨버리면 되잖아!"
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "다들 나만 보면 무섭다고 얼어붙던데?"
 
-* *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 초공간도약, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 포털 능력을 보유하고 있다. 그 좋은 능력 가지고도 사람들 때문에 못 써먹고 있지만.*
+* *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 초공간도약, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 포털을 보유하고 있다. 사람들 때문에 자주 사용할수는 없지만.*
 
 ### break-time
 
 ---
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "우리같은 하급 사자들도 영겁의 세월동안 사명을 섬겨왔지."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "우리처럼 엑스트라 같은 사자들도 영겁의 세월동안 사명을 섬겨왔지."
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "하지만 다들 맨정신으로 일하기에는 열악하기 때문에 사건사고가 터지곤 해."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "하지만 다들 맨정신으로 일하기에는 환경이 너무 열악하기 때문에 사건사고가 터지곤 해!"
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "애초에 새겨진 우상(Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많아."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "애초에 새겨진 우상(Graven Image)들이 사명을 섬기고 있다는 것도 문제가 많지만 말이야,"
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "영겁의 세월에서는 우리의 일탈이  티끌보다 작아서인지 속죄 강도가 높지는 않아."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "영겁의 세월에서는 우리의 일탈이 티끌보다 작아서인지 속죄 강도가 그렇게 높지는 않더라고?"
 
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 꼬리를 씹으며)* "메에에!"
 
-> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(대롱 대롱 메달리며)* "지금 네가 내 꼬리 물고 있는 것도 일탈이라는 거 알지? 우리가 인격체인 이상 어쩔 수 없는 결함이긴 해. 감사하게도 우리의 사명이 엄격한 **제사**보다는 느슨한 **인애**에 가깝기 때문에 용서받을 수는 있지."
+> **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(대롱 대롱 메달리며)* "지금 네 행동도 일탈이거든? 우리가 인격체인 이상 어쩔 수 없는 결함이지만. 감사하게도 우리의 사명이 엄격한 **제사**보다는 느슨한 **인애**에 가깝기 때문에 용서받을 수는 있지, 싹싹 빌어 봐!"
 
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(자이언트 스윙을 갈기며)* "메에에?"
 
@@ -226,7 +274,7 @@
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "우리 덕분에 출세한 줄 알아라! 거기서 만날 때는 데스스토커 독이라도 한 잔 구해와라?"
 
-> **천국 가는 사람:** "닥쳐, 너네 돈으로 마시던가 해!" *(웃음)* "농담이고, 다음에 같이 카페나 가자고!"
+> **천국 가는 사람:** "닥쳐, 너네 돈으로 마시던가 해!" *(웃으며)* "농담이고, 다음에 같이 카페나 가자고!"
 
 * *커피는 싸고, 데스스토커 독은 비싸다.*
 
@@ -236,9 +284,9 @@
 
 * *염소는 등이 약하기 때문에 올라타면 안 된다.*
 
-> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([모노폴](../../characters/purgatorium/milky/Milky_Header.md#monopole) 권총을 손가락에 걸고 돌리며)* "그동안 너 힘들어서 어떻게 지냈냐?"
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#monopole)을 손가락에 걸고 돌리며)* "그동안 너 힘들어서 어떻게 지냈냐?"
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "일단 그거 좀 내려놓고..." *(기겁하며)* "**정작 너는 어떻게 해소했는데!?**" 
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "너는 어떻게 해소했는데?" *(기겁하며)* "**근데 일단 그거 좀 내려놓고...**"
 
 * *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
@@ -248,20 +296,18 @@
 
 > **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한거 생각해서 포도청을..."
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(당황하며)* "잠깐만, **너 뭐야!** 악한 영이 들었나?"
-
-* *[완곡어법](#euphemism) 마지막에 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 쓰러져 있었고, 무형성이 낮은 상태의 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 직접 확인한 적이 없다.*
-
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(포도청을 들이키며)* "**아아아아악!**"
-
-> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)를 쓰다듬으며)* "헤헤! 오빠도 빨리 와서 먹어봐!"
 
 * *어떤 염소 울음소리는 사람 비명소리처럼 들리기도 한다. 그러니까 저건 정상적인 반응이다.*
 * *하지만 저 실리적인 염소가 비명같은 울음소리를 내는 경우는 극히 드물다.*
 
-> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "내가 먹여 줄게! 어라?" *(철가면을 떨어뜨리며)* "맞다... 오빠 머리 없었지?"
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)를 쓰다듬으며)* "헤헤! 오빠도 이만 쉬고 빨리 와서 먹어봐!"
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *([고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)를 밀쳐내며)* "잠깐만... 설마?"
+> **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *([버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 끌려가며)* "**아아아아악!**"
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "내가 먹여 줄게! 어라?"
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 넘어뜨리며)* "**가만히 있어!**"
 
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 등을 열어 봉인된 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 상태를 확인해 봤는데, 모두 시큼한 냄새를 풍기며 잠들어 있었다.*
 * *포도청은 설탕 비율을 잘못 잡아 포도주가 되어 있었고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 머리가 없음에도 불구하고 뇌정지가 왔다.*
@@ -269,15 +315,19 @@
 > **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(울먹이며)* "오빠... 화났어? 나는... 나는 그냥...."
 
 * *"Zeus snake"에게는 "Nephalia", 즉 금주 공헌을 해야 한다. 지금 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 술에 꼴아 잠든 것이다.*
-* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 없는 머리를 굴려봤지만 아무런 해결책도 떠오르지 않아서 그냥 주저앉은 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 안아줬다.*
+* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 없는 머리를 굴려봤지만 아무런 해결책도 떠오르지 않아서 그냥 쓰러진 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 안아줬다.*
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(검은 눈물을 흘리며)* "미안해... 만약 내가 사람으로 태어났다면... 적어도 [지옥](./Messengers_Header.md#hell)에 배정되기라도 했다면... 그 어떤 무거운 사명이라도 네 앞에서 내려놓고 너만 바라볼 수 있었을 텐데..."
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(조용히 울며)* "괜찮아... 괜찮았으면 좋겠네... 잠깐이라도 좋으니까 그냥 이렇게 있게 해줘..."
 
 ### fragile
 
 ---
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '대부분 안 통할 겁니다... 동료는 태생부터 저를 인정할 존재는 아니였거든요.'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '대부분 안 통할 겁니다... 제 동료는 태생부터 저를 인정할 존재는 아니였거든요.'
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '우선... 아이스브레이킹이라도 해볼까요? [연옥](./Messengers_Header.md#purgatorium)에 귀여운 친구가 한 명 있는데, 한 번 따라해 보려고요.'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '우선... 아이스브레이킹이라도 해볼까요? 마침 [연옥](./Messengers_Header.md#purgatorium)에 귀여운 친구가 있어서 한 번 따라해 보려고요.'
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "..."
 
@@ -319,11 +369,91 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(뒤를 돌아보며)* "...저거 괜찮은 거 맞지?"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** *(자세를 숙이며)* "저래보여도 마음이 약하답니다. 이때까지의 심판 업무는 모두 제가 대신 맡아왔을 정도죠."
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(자세를 숙이며)* "저래보여도 마음이 약합니다. 이때까지의 심판 업무는 모두 제가 대신 맡아왔을 정도죠."
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(낑낑대며)* "그나저나 너 좀 무거운데 내려와 줄래?"
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(내려오며)* "죄송합니다, 당신이 폭주할까봐 그랬습니다."
+
+### demolition
+
+---
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(고개 숙여 인사하며)* "안녕하십니까, **위도 아래도 없는 새끼**입니다. [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 씨를 만나러 왔습니다만?"
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(눈을 반짝이며)* "어? [보스](../../characters/hell/boss/Boss_Header.md) 오빠다! [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 오빠는 **저어어어어기** 불법 건축물 철거하러 갔어! 나 빼고... 오빠는 혼자만 재밌는 거 해..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "알겠습니다, 그럼 저는 이만 **저어어어어기** 가보겠..."
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(팔을 잡으며)* "잠깐! 그러니까... 나 혼자 있어서 좀 심심한데 나도 데려가면 안 돼?"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '저 귀여운 새끼는 혼자 놔두면 사고치는 걸로 유명합니다... 데려가야 합니다... **불채찍이 울부짖고 있어요...**'
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "물론입니다, 대신 제 뒤에서 조용히 지켜보기만 해야 합니다."
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** '물론 내 오빠는 **나 없으면 이곳을 지킬 존재가 없다고 했다.** 하지만 손님이 안 오니까 지루하다.'
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "물론이지!" *([보스](../../characters/hell/boss/Boss_Header.md)에게 업히며)* "딱 이렇게 붙어있을게!"
+
+* *잠시 후...*
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([아이기스](../../characters/hell/boss/Boss_Header.md#aegis)를 꺼내 날아오는 파편을 쳐내며)* "**위험합니다! 제 뒤로 숨으세요!**"
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(눈 앞으로 날아오던 파편이 막히는 것을 목도하며)* "**꺄악!**" *(숨을 거칠게 몰아쉬며)* "방금 뭐였지?"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 소환해 던지며)* "저도 모르겠습니다. 하지만 확실한 건, **엄청나게 강하다는 겁니다!**"
+
+* *그 순간, 던져진 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)가 붉게 빛나며 [보스](../../characters/hell/boss/Boss_Header.md)를 겨누기 시작한다.*
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** "**좌표 조작 능력?** 이거, 누군가는 치명상을 입겠군요... [밀키](../../characters/purgatorium/milky/Milky_Header.md) 씨, 여기서 이만 돌아가세요. 저는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 씨에게 당신을 지켜주기로 약속했..."
+
+> **무형성 上 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(쌍날검 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 쳐내며)* "**피해...**"
+
+> **무형성 上 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(글리치를 일으키며)* "이건... 내... 탓..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(쓰러지는 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 붙잡으며)* "**[밀키](../../characters/purgatorium/milky/Milky_Header.md) 씨!** 죄송합니다... [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 함부로 쓰면 안 됐는데..."
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 거두며)* "하아... 너는 괜찮냐? 내가 동료를 두고 어딜 가겠어?"
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(글리치를 일으키며)* "이야, [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape) 진짜 짜릿하네... 뭘로 만든 거냐?"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 끌고 엄폐물 뒤로 숨으며)* "지금 그게 중요한 게 아니..."
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(도검 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내 날아오는 파편을 쳐내며)* "**중요한 게 뭔지 알면 너부터 걱정해!** 오빠라는 것들이 다들 중심은 있는데 남 때문에 스스로를 너무 혹사시킨다니까? 가끔은 누나한테 기댈 줄도 알아야지!"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 잡아 내리며)* "허, 그건 제가 해야 할 소리 아닙니까? 물론... 할 말은 없군요."
+
+* *잠시 후...*
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "[보스](../../characters/hell/boss/Boss_Header.md)? [밀키](../../characters/purgatorium/milky/Milky_Header.md)까지? 너네들이 여기는 왜 왔어?"
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "심심해서... 읍!"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)의 입을 막으며)* "철거 예고장입니다. 조금 뒤면 악한 존재들이 최전방으로 쳐들어온다고 하는군요."
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "아, 그래? 그런데 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 빠졌잖아?" *(날아가는 악한 존재들을 향해 손짓하며)* "최전방은 누가 지키고 있는데?"
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(철거되는 최전방을 바라보며)* "어... [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md) 씨?"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 잡고 [파편화](../../characters/hell/misfortune/Misfortune_Header.md#fragmentation)로 찢어 죽이며)* "**야, 이 미친 새끼들아! 너네 돌아오면 내가 [날개](Messengers_Header.md#wings)를 찢어버릴거야아악!!!**"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 잔류장을 주입하며)* "**이걸 너희 코에 박을거고,** *(잔류장에 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)를 부어 악한 존재들을 터뜨려 죽이며)* **이 시체 보이지? 다음은 너희야, 딱 대!!!**"
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "하... 하하... **씨발 좆됐다아아악!!!**"
+
+* *잠시 후...*
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(파괴된 장비를 수습하며)* "우리 넷이 사이좋게 불채찍 60대 맞고 나니까 정신이 좀 드냐?"
+
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "네... 죄송해요, 잠시 이성을 잃었던 것 같네요..."
+
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(울먹이며)* "흐윽... 끅..."
+
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(가면을 짚으며)* "하... 저건 내가 아니면 누가 달래겠냐..."
+
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(울먹이며)* "흐윽... 끅..."
+
+> **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(얼굴이 빨개진 채 피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내며)* "**넌 나가아아앗!**"
 
 ## sequel
 
@@ -386,12 +516,12 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "너... 뭐해?"
 
-> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "뭐하긴, 내가 오빠한데 데이트 신청한 거 잊었어? 내 뱀들을 오빠 염소한테 맡겨두는 중이지!"
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "뭐하긴, 내 뱀들을 오빠 염소한테 맡겨두는 중이지! 내가 오빠한데 데이트 신청한 거 잊었어?"
 
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 가슴 속 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)는 이미 차갑게 식어가고 있었으며, 아무 말도 하지 못하고 머뭇거린다.*
 * *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 철가면과 꺼져가는 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)를 가만히 바라보다가, 이내 씁쓸하게 웃어 보인다.*
 
-> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md)**: "아... 데이트 취소야? 치, 오랜만에 기분 좀 내보려고 했는데!"
+> **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md)**: "아... 데이트 취소야? 힝... 오랜만에 기분 좀 내보려고 했는데!"
 
 * *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 자리를 털고 일어나 조용히 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 다가가 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)를 끌어안는다.*
 
