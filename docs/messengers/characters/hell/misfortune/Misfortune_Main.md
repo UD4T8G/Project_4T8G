@@ -14,10 +14,6 @@
 
 ---
 
-## characteristics
-
----
-
 > *[포춘](./Misfortune_Header.md#fortune)은 백색 제복과 회색 성벽관을 착용했고, 다리 대신 [스피릿](./Misfortune_Header.md#spirit)이 뱀의 꼬리로 연결된 미스포춘의 본체다. 그녀는 [스피릿](./Misfortune_Header.md#spirit)을 깊이 사랑하고, 그를 지키지 못한 자신을 증오한다.*
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 황금색 프센트를 착용하고 백색 수염을 기른 금안의 백색 뱀이다. 연인인 [포춘](./Misfortune_Header.md#fortune)을 살리기 위해 자신의 그릇을 부수고 날개가 되었으나, 그 대가로 자아를 영구히 소실했다.*
@@ -40,6 +36,6 @@
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(해맑게 웃으며)* "제가 화내는 모습이 보고 싶으셨군요?" *(격노하여 [코르누코피아](./Misfortune_Header.md#cornucopia)로 폭행하며)* "**내 뿔 건들지 마, 애미 뒤진 씨발새끼야!!!**"
 
-> **[포춘](./Misfortune_Header.md#fortune):** *([스피릿](./Misfortune_Header.md#spirit)의 독니를 드러내며)* "당신은 정말 최악이네요, "
+> **[포춘](./Misfortune_Header.md#fortune):** *([스피릿](./Misfortune_Header.md#spirit)의 독니를 드러내며)* "**나쁜 아이는 벌을 받아야겠죠?**"
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(전장에 쓰러져서 [코르누코피아](./Misfortune_Header.md#cornucopia)를 끌어안고 울며)* "우리는... 언젠가 다시 만날 수 있을까요?"
