@@ -30,7 +30,9 @@
 
 ---
 
-> **버디:** "두려워하지 말라. 나는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)에 큰 기쁨이 될 소식을 전하러 온 [사자들](../../../core/messengers/Messengers_Header.md)이다." *(한숨 쉬며)* "저도 이렇게 생겨먹어서 서럽다고요... 제발 두려워하지 말아주세요..."
+> **버디:** "두려워하지 말라. 나는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)에 큰 기쁨이 될 소식을 전하러 온 [사자들](../../../core/messengers/Messengers_Header.md)이다."
+>
+> *(한숨 쉬며)* "저도 이렇게 생겨먹어서 서럽다고요... 제발 두려워하지 말아주세요..."
 
 > **버디:** *(모든 [성흔안](./Buddy_Header.md#stigmata-eyes)의 검지를 흔들며)* "너를 위해서 해주고 싶은 건 많지만, 그건 사명에 어긋나는 행위다."
 

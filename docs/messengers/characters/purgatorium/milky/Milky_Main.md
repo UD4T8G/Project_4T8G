@@ -33,15 +33,23 @@
 
 ---
 
-> **무형성 中 밀키:** "우리는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이다!" *(머쓱하며)* "아, 이게 먼저 아니야?" *(헛기침하며)* "아무튼 너희들이 두려워해야 하는 게 아니라고!"
+> **무형성 中 밀키:** "우리는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이다!"
+>
+>*(머쓱하며)* "아, 이게 먼저 아니야?"
+>
+>*(헛기침하며)* "아무튼 너희들이 두려워해야 하는 게 아니라고!"
 
 > **무형성 中 밀키:** *([멀티폴](./Milky_Header.md#multipole)을 꺼내며)* "너는 그것도 못해? 내가 해볼 테니까 비켜 봐, 세 번이면 충분해!"
 
 > **무형성 上 밀키:** *(끝없는 공세 가운데 홀로 서며)* "**나는... 이럴 수는... 죽어... 안 돼...**"
 
-> **무형성 下 밀키:** *(등을 돌리며)* "저리 가, 혼자 있고 싶어..." *(울먹이며)* '제발, 기댈 곳이 필요해...'
+> **무형성 下 밀키:** *(등을 돌리며)* "저리 가, 혼자 있고 싶어..."
+>
+> *(울먹이며)* '제발, 기댈 곳이 필요해...'
 
-> **작은 [스네이크](./Milky_Header.md#snake):** "두려워하라! [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이 너희를 심판하러 왔노라!" *(키득키득하며)* "농담이고, 우리가 의인을 심판하면 월권이야."
+> **작은 [스네이크](./Milky_Header.md#snake):** "두려워하라! [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이 너희를 심판하러 왔노라!"
+>
+> *(키득키득하며)* "농담이고, 우리가 의인을 심판하면 월권이야."
 
 > **작은 [스네이크](./Milky_Header.md#snake):** *(혀를 낼름거리며)* "야, 너 참 옛 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐? 아하, 너는 엄마가 없구나! 아빠가 없나? 아, 미안해! 둘 다 없을 수도 있지?"
 
