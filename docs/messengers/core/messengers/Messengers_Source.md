@@ -2,8 +2,8 @@
 
 ---
 
-* 등장하는 사자들은 "다른 신"이 아니라 "새겨진 우상(Graven Image)"의 속성을 표현하는 데 사용되었는데, 이는 "종교적 에피테트"가 아니라 "비평학적 사실"을 참조하였기 때문이다. 따라서 그들은 "천사"나 "악마" 보다는 "베헤못"과 "리워야단"에 가깝게 묘사된다.
-* 신학적 배경은 "제 2성전기 묵시문학"을 참조하며, 그 중에서도 "거인의 서" 중 네피림 "마웨이"가 순종할 수 있었던 사명들을 다루고 있다.
+* 등장하는 사자들은 "다른 신"이 아니라 "새겨진 우상(Graven Image)"의 속성을 표현하는 데 사용되었는데, 이는 "종교적 에피테트"가 아니라 "비평학적 사실"을 참조하였기 때문이다. 따라서 그들은 "천사"나 "악마"보다는 "베헤못"과 "리워야단"에 가깝게 묘사된다.
+* 신학적 배경은 "제2성전기 묵시문학"을 참조하며, 그중에서도 "거인의 서" 중 네피림 "마웨이"가 순종할 수 있었던 사명들을 다루고 있다.
 
 ```text
 4Q530 2 ii 2
@@ -56,7 +56,7 @@ EPHESIANS 6:12
 ```
 
 * [완곡어법](./Messengers_Main.md#euphemism) 대사 중 인칭 대명사는 "장엄 복수 (Majestic plural)"를 참조한다.
-* [완곡어법](./Messengers_Main.md#euphemism) 대사 중 "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다." 부분은 정황상 "천사"가 "노아"에게 건넨 말을 참조한다. 해당 문장은 "Book of Noah" 단편의 일부이다. 고대 "그으즈어 (Ge'ez)"사본에는 표현형 문장부호가 없었으며, 해당 문장은 "노아"의 호기심에 대한 "천사"의 서두와 "천사"의 경고 등으로 중의적인 해석이 가능하다.
+* [완곡어법](./Messengers_Main.md#euphemism) 대사 중 "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다." 부분은 정황상 "천사"가 "노아"에게 건넨 말을 참조한다. 해당 문장은 "Book of Noah" 단편의 일부이다. 고대 "그으즈어(Ge'ez)" 사본에는 표현형 문장부호가 없었으며, 해당 문장은 "노아"의 호기심에 대한 "천사"의 서두와 "천사"의 경고 등으로 중의적인 해석이 가능하다.
 
 ```text
 1 ENOCH 60:10
@@ -87,9 +87,9 @@ The Gay Science, § 125
   Man erzählt noch, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] der tolle Mensch desselben Tages in verschiedene Kirchen eingedrungen sei und darin sein Requiem aeternam [ deo (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Deo (𝔊𝔒𝔄) ] angestimmt habe. Hinausgeführt und zur Rede gesetzt, habe er immer nur dies entgegnet: „Was sind denn diese Kirchen noch, wenn sie nicht die Grüfte und Grabmäler Gottes sind?“
 ```
 
-* [융합주의](./Messengers_Main.md#syncretism) 대사 중 "저는 입이 없습니다. 그리고 저는 슬피 울며 이를 갈아야 합니다..." 부분의 문장 구조는 "I Have No Mouth, and I Must Scream"을 참조하고, "슬피 울며 이를 갈리라" 부분은 "MATTHEW" 표현 방식을 참조한다.
+* [융합주의](./Messengers_Main.md#syncretism) 대사 중 "저는 제게 허락된 달란트를 제멋대로 깨뜨려 탕진했습니다... 그리고 저는 바깥 어두운 곳에 버려져 슬피 울며 이를 갈아야 합니다..." 부분은 "MATTHEW 25 달란트 비유"를 참조한다.
 * [융합주의](./Messengers_Main.md#syncretism) 대사 중 "성령이 빠져나간 언약궤" 부분은 "1 SAMUEL 4-5"의 "Ichabod"를 참조한다. 또한 "언약궤"는 "블레셋"의 "다곤 신전"에 모셔졌는데, 여기서 "다곤(Zeus Arotrios)" 또한 "제우스"의 "에피테트"이다. 또한 "다곤"은 첫째 날 아침에 "언약궤" 앞에 엎드렸고, 둘째 날 아침에 머리와 손목이 끊어져 있었는데, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 형상 또한 이를 참조한다.
-* [위 아래](./Messengers_Main.md#up-down)의 대사 중 "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속 되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!" 부분은 다음을 참조한다.
+* [위 아래](./Messengers_Main.md#up-down)의 대사 중 "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!" 부분은 다음을 참조한다.
 
 ```text
 LUKE 22:26
@@ -137,7 +137,7 @@ Kawān, Text B (Middle Persian)
   እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።
 ```
 
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 심판의 전제 조건은 홍해 바다가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 참조한다. 이는 창작물 내부에서 [천국](./Messengers_Header.md#heaven)이 간접적으로 언급된 사례이기도 하다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 중 심판의 전제 조건은 홍해가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 참조한다. 이는 창작물 내부에서 [천국](./Messengers_Header.md#heaven)이 간접적으로 언급된 사례이기도 하다.
 
 ```text
 MEGILLAH 10b, SANHEDRIN 39b
@@ -147,24 +147,24 @@ MEGILLAH 10b, SANHEDRIN 39b
 
 >  *내 손으로 만든 피조물들이 바다에 빠져 죽어가고 있는데, 너희가 내 앞에서 감히 찬가를 부르느냐?*
 
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 "알파로부터 오메가에 이르기까지" 대사는 "REVELATION 22:13"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 "마음을 다하고 뜻을 다하고 힘을 다하여!" 대사는 "DEUTERONOMY 6:5"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라." 대사는 "1 JOHN 4:19"을 참조한다.
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니," 대사는 다음을 참조한다. 해당 문장은 "**If I regard**" 정도의 "주격 표현"이 포함되며, "불가타 (Vulgate)"를 비롯한 상당히 많은 번역본들이 "주격 표현"을 흐리는 문제가 있다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "알파로부터 오메가에 이르기까지" 부분은 "REVELATION 22:13"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "마음을 다하고 뜻을 다하고 힘을 다하여!" 부분은 "DEUTERONOMY 6:5"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라." 부분은 "1 JOHN 4:19"을 참조한다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니," 부분은 다음을 참조한다. 해당 문장은 "**If I regard**" 정도의 "주격 표현"이 포함되며, "불가타 (Vulgate)"를 비롯한 상당히 많은 번역본들이 "주격 표현"을 흐리는 문제가 있다.
 
 ```text
 PSALMS 66:18
   אָוֶן אִם־רָאִיתִי בְלִבִּי לֹא יִשְׁמַע אֲדֹנָי׃
 ```
 
-* [심판의 날](./Messengers_Main.md#judgement-day) 중 "스올에서도 주를 찬양하리이다." 대사는 "PSALMS 6:5"을 참조한다.
-* [가시](./Messengers_Main.md#thorn) 중 "미지근해지지 않도록" 대사는 다음을 참조한다. "ℵ, 051, 1, 2020, 2050, 2062" 문헌에는 "차지도 아니하고 뜨겁지도 아니하니 (οὔτε ψυχρὸς οὔτε ζεστός)"로 표기되어 있고, "A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR" 문헌에는 "뜨겁지도 아니하고 차지도 아니하니 (οὔτε ζεστός οὔτε ψυχρός)"로 표기되어 있기에 해당 문장은 정확하게 참조하기 어렵다.
+* [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "스올에서도 주를 찬양하리이다." 부분은 "PSALMS 6:5"을 참조한다.
+* [가시](./Messengers_Main.md#thorn) 대사 중 "미지근해지지 않도록" 부분은 다음을 참조한다. "ℵ, 051, 1, 2020, 2050, 2062" 문헌에는 "차지도 아니하고 뜨겁지도 아니하니 (οὔτε ψυχρὸς οὔτε ζεστός)"로 표기되어 있고, "A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR" 문헌에는 "뜨겁지도 아니하고 차지도 아니하니 (οὔτε ζεστός οὔτε ψυχρός)"로 표기되어 있기에 해당 문장은 정확하게 참조하기 어렵다.
 
 ```text
 REVELATION 3:16
   οὕτως, ὅτι χλιαρὸς εἶ καὶ [ οὔτε ζεστός οὔτε ψυχρός (A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR) / οὔτε ψυχρὸς οὔτε ζεστός (ℵ, 051, 1, 2020, 2050, 2062) ], [ μέλλω σε ἐμέσαι (ℵ, A, C, 2053, 2062, lat) / σε μέλλω ἐμέσαι (046, 051, 1006, 1611, 1841, 1854, 2344, 𝔐, TR) ] ἐκ τοῦ στόματός μου.
 ```
 
-* [가시](./Messengers_Main.md#thorn) 중 "사탄의 사자" 대사는 "2 CORINTHIANS 12:7"을 참조한다.
-* [첫 데이트](./Messengers_Main.md#first-date) 중 "사내 연애는 엄격하게 금지되어 있다는" 대사는 "MATTHEW 22:30"을 참조한다.
+* [가시](./Messengers_Main.md#thorn) 대사 중 "사탄의 사자" 부분은 "2 CORINTHIANS 12:7"을 참조한다.
+* [첫 데이트](./Messengers_Main.md#first-date) 대사 중 "사내 연애는 엄격하게 금지되어 있다는" 부분은 "MATTHEW 22:30"을 참조한다.
 * [첫 데이트](./Messengers_Main.md#first-date) 중 잔에 대한 언급은 "유월절 세데르"의 "Cup of Elijah"와 "Spilling the wine for the plagues"의 "Elegy" 요소를 제한적으로 참조한다. 이는 해당 시점에서 창작물이 "REVELATION" 이후를 다루고 있기 때문이다.
