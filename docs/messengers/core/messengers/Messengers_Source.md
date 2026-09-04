@@ -8,8 +8,10 @@
 ```text
 4Q530 2 ii 2
   [...] וכען שרו [...] וצלו [...]
-Kawān, Text C:3–5 (M 625c)
-  [...] 𐫀𐫇𐫅 𐫕𐫇𐫕 𐫃𐫇𐫍𐫝𐫍[𐫅] [𐫁𐫕𐫅 ...] [...] 𐫕𐫍[𐫔𐫀𐫝 ...]
+Kawān, Text C:1-2
+  [...] ʾwd nwn gwyšy[d ...]
+  [... b]nd [...]
+  [...] ny[mʾš ...]
 ```
 
 > *[...] 이러할진대 이제는 방면할지어다 [...] 또한 간절히 탄원할지니 [...]*
@@ -117,26 +119,47 @@ The Lives and Opinions of Eminent Philosophers, Book VI. 54
 * [철거](./Messengers_Main.md#demolition) 주석 중 "[보스](../../characters/hell/boss/Boss_Header.md)의 비행" 부분은 "마웨이의 비행"을 참조한다.
 
 ```text
-4Q530 7 ii 4
+4Q530 7 ii 4–5
   [...] כעלעולין ופרח בידוהי כנש[ר ...]
-Kawān, Text A: M 101 (Sogdian)
-  [...] 𐫙𐫜𐫇𐫑𐫞𐫠 𐫘𐫅 𐫇𐫀𐫓𐫀𐫕 𐫝𐫏 𐫔𐫇𐫜𐫃 [...]
-
-4Q530 7 ii 5
   [...] חלד וחלף ל[...] מדברא רבא [...]
-Kawān, Text A: M 101 (Sogdian)
-  [...] 𐫇𐫏𐫏𐫞𐫠 [...]
-Kawān, Text B (Middle Persian)
-  [...] [𐫅𐫞𐫠 𐫇𐫈𐫜𐫃] 𐫀𐫇 𐫁𐫀𐫏𐫘𐫙𐫀𐫕 [...]
+
+Kawān, Text C:3-5
+  [...] frwšt pd wʾlʾt cy mwrg [...]
+  [...] wdyrʾ[d ...]
 ```
 
-* [철거](./Messengers_Main.md#demolition) 대사 중 "땅에 너무 가깝게 날았군요..." 부분은 "거인의 서"를 참조하지만, "사해문서" 판본에 없는 "마니교" 판본의 "이카로스 모티프"를 참조한다.
+* [철거](./Messengers_Main.md#demolition) 대사 중 "땅에 너무 가깝게 날았군요..." 부분은 "거인의 서"를 참조하지만, "사해문서" 판본에 없는 "마니교" 판본을 참조한다.
+
+```text
+4Q530 7 ii 6–[...]
+  [... אלי]ה קרא ואמר ל[ה ...]
+Kawān, Text G:1-11
+  [...] kḏy zy
+  [xwr ... ʾstyq] dw'r wšt-['t]
+  ['t xwr-y] rwxsny' 't t'p
+  [myd fryšt-'] 't tw' p'rw pš-[']
+  ['t] swc-'y 't myr-'y
+  w'nw w'[βt]
+  ['t-m pyšc'rc] ptywšt
+  [...] 'wzy-m w'n-w
+  p'rw [ptw'yšt-m 't]
+  tγw'y-c ['sk't']
+  [nyšyd-m ...]
+```
+
+> *"태양의 닫힌 문이 열릴 것이니, 태양의 빛과 열기가 내려와 네 날개에 불을 붙일 것이다. 너는 타죽고 말 것이다." 그가 말했다. 이 말을 듣고 나는 날개를 퍼덕여 급히 공중에서 아래로 내려왔다.*
+
 * [철거](./Messengers_Main.md#demolition) 대사 중 "마스테마(Mastema)" 부분은 "JUBILEES"를 참조한다.
-* [시퀄](./Messengers_Main.md#sequel)의 문장과 [심판의 날](./Messengers_Main.md#judgement-day) 대사 중 "모두를 감찰하신" 부분은 다음을 참조한다.
+* [시퀄](./Messengers_Main.md#sequel)의 문장은 다음을 참조한다.
 
 ```text
 1 ENOCH 41:9
   እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።
+```
+
+```text
+JUBILEES 5:16
+  ወኢያደሉ፡ለገጽ፡ወኢይነሥእ፡አምኃ፡ለእመ፡ይቤ፡እገብር፡ኵነኔ፡ላዕለ፡ኵሉ፡ወእመኒ፡ወሀቦ፡ኵሎ፡ዘውስተ፡ምድር፡ኢያደሉ፡ለገጽ፡ወኢይነሥእ፡እምእዴሁ፡እስመ፡መኰንን፡ጻድቅ፡ውእቱ።
 ```
 
 * [심판의 날](./Messengers_Main.md#judgement-day) 중 심판의 전제 조건은 홍해가 갈라지고 애굽군이 수장되어, 천사들이 기쁨의 찬가를 부르려던 때를 참조한다. 이는 창작물 내부에서 [천국](./Messengers_Header.md#heaven)이 간접적으로 언급된 사례이기도 하다.
