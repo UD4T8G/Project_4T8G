@@ -2,47 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | 밀키 |
+| :--- | :--- |
+| **Alias** | 메일리키아(밀키), 메일리키오스([스네이크](./Milky_Header.md#snake)) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
+| **Department** | [연옥](../../../core/messengers/Messengers_Header.md#purgatorium) |
+| **Gender** | 여성(밀키), 남성([스네이크](./Milky_Header.md#snake)) |
+| **Age Group** | 소녀기(밀키), 중년기([스네이크](./Milky_Header.md#snake)) |
 
----
-
-### melee
-
----
-
-* 도검 형태의 [모노폴](#multipole)을 들고 회전하면서 빠르게 벤다.
-* 도검 형태의 [모노폴](#multipole)을 들고 돌진하면서 빠르게 찌른다.
-* 양날검 형태의 [바이폴](#multipole)을 들고 충전한 후 돌진하면서 빠르게 벤다.
-* 쌍날검 형태의 [다이폴](#multipole)을 들고 손 위에 반중력 회전 비행시키며 지속적으로 모든 것을 패링한다.
-* 기관단총 대각합체 형태의 [다이폴](#multipole)을 손 위에 반중력 회전 비행시키며 지속적으로 모든 것을 요격한다.
-
-
-### ranged
-
----
-
-* 피스톨 형태의 [모노폴](#multipole)을 들고 지속적으로 빠르게 사격한다.
-* 더블 배럴 샷건 형태의 [바이폴](#multipole)을 들고 충전한 후 강하게 사격한다.
-* 기관단총 대각합체 형태의 [다이폴](#multipole)을 던져 모든 것을 지속적으로 사격하고 회수한다.
-* 쌍날검 형태의 [다이폴](#multipole)을 던져 모든 것을 지속적으로 베고 회수한다.
-
-### distance-control
-
----
-
-* [홀스터](#holster)에 근거리형 [모노폴](#multipole)을 장착하고 비행하면서 찌르고 지나간다.
-* [홀스터](#holster)에 근거리형 [모노폴](#multipole)을 장착하고 회전하면서 주변의 모든 것을 베고 지나간다.
-* [홀스터](#holster)에 원거리형 [모노폴](#multipole)을 장착하고 비행하면서 사격 후 지나간다.
-* [홀스터](#holster)에 원거리형 [모노폴](#multipole)을 장착하고 회전하면서 모든 것을 지속적으로 사격한다.
-* 사냥돌 형태의 [다이폴](#multipole)을 빠르게 투척하여 모든 것을 제압한다.
-* 말굽자석 형태의 [바이폴](#multipole)을 충전하고 폭발시켜 주변의 모든 것의 좌표를 일시적으로 조작한다.
-* 회전 비행하면서 근거리형 [모노폴](#multipole)을 장착한 [홀스터](#holster)를 통해 지속적으로 찌르기와 베기를 가하고 원거리형 [모노폴](#multipole)을 장착한 [홀스터](#holster)를 통해 지속적으로 사격 후 지나간다.
-
-## equipment
-
----
-
-### sitaegeuk
+## sitaegeuk
 
 ---
 
@@ -50,7 +18,7 @@
   * [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 활성화한다.
   * 자신을 다른 좌표로 이동시킨다.
 
-### fusion-core
+## fusion-core
 
 ---
 
@@ -64,7 +32,7 @@
 * **해제:**
   * 봉인된 [스네이크](#snake)를 풀어 전투 형태로 전환한다.
 
-### snake
+## snake
 
 ---
 
@@ -74,7 +42,7 @@
   * 참수시켜서 몸통을 [홀스터](#holster)로 사용한다.
   * 수복시켜서 소환수로 사용한다.
 
-### holster
+## holster
 
 ---
 
@@ -86,7 +54,7 @@
 * **파라솔 컷:**
   * 근거리 형태의 [모노폴](#multipole)을 장착하고 빠르게 회전시켜 공격한다.
 
-### multipole
+## multipole
 
 ---
 
@@ -104,7 +72,7 @@
   * 오브젝트 주변에서 반중력 회전 비행한다.
   * 아군 오발 위험이 있지만 던지면 회전하면서 전방위로 빠르게 공격한다.
 
-### mea-culpa
+## mea-culpa
 
 ---
 

@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 밀키 |
-| :--- | :--- |
-| **Alias** | 메일리키아(밀키), 메일리키오스([스네이크](./Milky_Header.md#snake)) |
-| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
-| **Department** | [연옥](../../../core/messengers/Messengers_Header.md#purgatorium) |
-| **Gender** | 여성(밀키), 남성([스네이크](./Milky_Header.md#snake)) |
-| **Age Group** | 소녀기(밀키), 중년기([스네이크](./Milky_Header.md#snake)) |
-
 ## characteristics
 
 ---

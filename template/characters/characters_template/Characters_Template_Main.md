@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | null |
-| :--- | :--- |
-| **Alias** | null |
-| **Position** | null |
-| **Department** | null |
-| **Gender** | null |
-| **Age Group** | null |
-
 ## characteristics
 
 ---

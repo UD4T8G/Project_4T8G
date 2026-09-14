@@ -2,39 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | null |
+| :--- | :--- |
+| **Alias** | null |
+| **Position** | null |
+| **Department** | null |
+| **Gender** | null |
+| **Age Group** | null |
 
----
-
-### melee
-
----
-
-* null
-* null
-* null
-
-### ranged
-
----
-
-* null
-* null
-* null
-
-### distance-control
-
----
-
-* null
-* null
-* null
-
-## equipment
-
----
-
-### null
+## null
 
 ---
 
@@ -51,7 +27,7 @@
   * null
   * null
 
-### null
+## null
 
 ---
 
@@ -68,7 +44,7 @@
   * null
   * null
 
-### null
+## null
 
 ---
 

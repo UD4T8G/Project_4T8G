@@ -2,12 +2,33 @@
 
 ---
 
-* 버디의 설정은 "Vediovis"를 참조한다.
-* [심판의 화살](./Buddy_Header.md#judgement-bolt)의 특징은 "Vediovis"가 "화살 다발"을 들고 있었다는 점을 참조한다.
-* [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes)은 각각 머리와 손을 매개로 하는데, 이는 "카피톨리누스 언덕"에서 발굴된 "Vediovis" 조각상의 머리와 손이 잘려져 있었다는 점을 참조한다.
-* 버디의 성격이 무겁다는 점은 "고대 로마"의 "종교 의식"이 매우 엄격했다는 점을 참조한다.
-* 버디의 성격이 가벼워지기도 한다는 점은 "아실룸"의 포용적 특징을 참조한다.
-* 로물루스가 높다란 바위(돌담)로 숲을 둘러싸고 **"누구든 간에, 이리로 피하라. 안전할 것이다"** 라고 말했던 곳이다.
+## design
+
+---
+
+* 버디의 디자인은 'Vediovis'를 참조한다.
+* [심판의 화살](./Buddy_Header.md#judgement-bolt)의 특징은 'Vediovis'가 '화살 다발'을 들고 있었다는 점을 참조한다.
+* [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes)은 각각 머리와 손을 매개로 하는데, 이는 '카피톨리누스 언덕'에서 발굴된 'Vediovis' 조각상의 머리와 손이 잘려져 있었다는 점을 참조한다.
+* [성흔안](./Buddy_Header.md#stigmata-eyes)은 '십자가형'을 참조한다.
+* 버디의 [날개](../../../core/messengers/Messengers_Header.md#wings)에 해당하는 [팔괘](./Buddy_Header.md#bagua)의 배치는 '복희 팔괘'를 참조하며, 각 괘의 디자인은 다음 아이콘을 참조한다.
+
+```text
+  건: 트리니티
+  태: 익투스
+  리: 불
+  진: 만
+  손: 태풍
+  감: 물
+  간: 빗장
+  곤: 육각성
+```
+
+## lore
+
+---
+
+* 버디의 성격이 무겁다는 점은 '고대 로마'의 '종교 의식'이 매우 엄격했다는 점을 참조한다.
+* 버디의 성격이 가벼워지기도 한다는 점은 '아실룸'을 참조하며, 로물루스가 높다란 바위(돌담)로 숲을 둘러싸고 **"누구든 간에, 이리로 피하라. 안전할 것이다"** 라고 말했던 곳이다.
 
 ```text
 Ov. Fast. 3.429–436
@@ -21,7 +42,7 @@ Ov. Fast. 3.429–436
   [436] unde sit et quare dicatur, disce, Veiovis.
 ```
 
-* 로물루스가 아실룸(Asylum)을 선포한 장소는 "두 숲 사이(Inter duos lucos)"이다.
+* 로물루스가 아실룸(Asylum)을 선포한 장소는 '두 숲 사이(Inter duos lucos)'이다.
 
 ```text
 [Liv. 1.8.5] locum qui nunc saeptus descendentibus inter duos lucos est asylum aperit.
@@ -29,7 +50,7 @@ Ov. Fast. 3.429–436
   asylum ] M P ; asylum aperit V ; asylum facit Flor.
 ```
 
-* 기원전 2세기에 봉헌된 베디오비스 신전이 위치한 장소는 "두 숲 사이(Inter duos lucos)"이다.
+* 기원전 2세기에 봉헌된 베디오비스 신전이 위치한 장소는 '두 숲 사이(Inter duos lucos)'이다.
 
 ```text
 [Liv. 35.51.3] aedes Veiovis in Capitolio inter duos lucos dedicata est.
@@ -53,19 +74,15 @@ Ov. Fast. 3.429–436
   430 lucus uterque sui ] R A ; lucus uterque sacris vulg. ; inter utrumque lucum Gronovius(coniectura)
 ```
 
-* [성흔안](./Buddy_Header.md#stigmata-eyes)은 "십자가형"을 참조한다.
-* [고트](./Buddy_Header.md#goat)는 "유다 염소"를 참조한다.
-* [고트](./Buddy_Header.md#goat)의 성별이 중성인 이유는 "Vediovis"에게 제물로 바치는 "암염소"와 "에녹 1서"의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) "Azazel"에게 "속죄제물"로 보내는 "레위기"의 "숫염소"가 서로 다른 성별로 다뤄지기 때문이다.
 * [고트](./Buddy_Header.md#goat)의 실리를 따지는 성격은 실제 염소의 성격을 참조한다.
-* 버디의 [날개](../../../core/messengers/Messengers_Header.md#wings)에 해당하는 [팔괘](./Buddy_Header.md#bagua)의 배치는 "복희 팔괘"를 참조하며, 각 괘의 디자인은 다음 아이콘을 참조한다.
+* [고트](./Buddy_Header.md#goat)의 설정은 'Vediovis'에게 제물로 바치는 '암염소'와 '에녹 1서'의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) 'Azazel'에게 '속죄제물'로 보내는 '레위기'의 '숫염소'를 참조하며, 성별이 중성인 이유는 두 염소가 서로 다른 성별로 다뤄지기 때문이다.
 
-```text
-  건: 트리니티
-  태: 익투스
-  리: 불
-  진: 만
-  손: 태풍
-  감: 물
-  간: 빗장
-  곤: 육각성
-```
+## concept
+
+---
+
+* 버디 기획 이전에는 '미친마우스'라는 캐릭터를 구상하고 있었고, 일부 디자인에 적용되었다.
+  - '삼층관, 염주(묵주 아님), 피눈물을 흘리는 철가면을 착용하고 있다.
+  - '신성모독'의 형상화이다.
+* 버디 기획 계기는 'Project_4T8G'의 추상적 개념인 'BDHWBDEM'의 그릇이 필요했기 때문이였으나, [팔괘](./Buddy_Header.md#bagua)에만 구현되었다.
+* 버디 기획 초기에도 [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등의 디자인 기반은 존재했으나, 스토리가 존재하지 않았다. 누구든지 그를 최종보스 취급했고, 그 누구도 그가 주인공이라고는 생각하지 않았다.

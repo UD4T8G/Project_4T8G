@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 버디 |
-| :--- | :--- |
-| **Alias** | 베디오비스(버디), 유다 염소([고트](./Buddy_Header.md#goat)) |
-| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
-| **Department** | [연옥](../../../core/messengers/Messengers_Header.md#purgatorium) |
-| **Gender** | 중성(버디), 중성([고트](./Buddy_Header.md#goat)) |
-| **Age Group** | 청년기(버디), 중년기([고트](./Buddy_Header.md#goat)) |
-
 ## characteristics
 
 ---

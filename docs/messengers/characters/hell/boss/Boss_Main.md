@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 보스 |
-| :--- | :--- |
-| **Alias** | 디에우스 프테르 |
-| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
-| **Department** | [지옥](../../../core/messengers/Messengers_Header.md#hell) |
-| **Gender** | 남성(보스), 여성([아이기스](./Boss_Header.md#aegis)) |
-| **Age Group** | 중년기(보스), 노년기([아이기스](./Boss_Header.md#aegis)) |
-
 ## characteristics
 
 ---

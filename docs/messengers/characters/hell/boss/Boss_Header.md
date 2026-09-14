@@ -2,41 +2,16 @@
 
 ---
 
-## abilities
 
----
+| **Name** | 보스 |
+| :--- | :--- |
+| **Alias** | 디에우스 프테르 |
+| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Header.md#hell) |
+| **Gender** | 남성(보스), 여성([아이기스](./Boss_Header.md#aegis)) |
+| **Age Group** | 중년기(보스), 노년기([아이기스](./Boss_Header.md#aegis)) |
 
-### melee
-
----
-
-* [아이기스](#aegis)의 날개를 접어 빠르게 휘두른다.
-* [아이기스](#aegis)의 날개를 접어 받은 피해를 흡수한 후 날개를 펼쳐 돌격한다.
-
-### ranged
-
----
-
-* [아스트라페](#astrape)를 연속으로 빠르게 던진다.
-* [아스트라페](#astrape)를 산개시켜 빠르게 던진다.
-* [아이기스](#aegis)의 날개를 접어 받은 피해를 흡수한 뒤 날개를 펼쳐 던진 후 회수한다.
-* [아스트라페](#astrape)를 융합시키고 거대화하여 느리게 던진 후 폭발시킨다.
-* [아스트라페](#astrape)를 분열시키고 소형화하여 느리게 던진 후 산개시킨다.
-
-### distance-control
-
----
-
-* [아이기스](#aegis)로 비행하면서 [아스트라페](#astrape)로 찌른다.
-* [아이기스](#aegis)로 비행하면서 [아스트라페](#astrape)를 던진다.
-* [아이기스](#aegis)로 날아올라 [아스트라페](#astrape)로 할복하여 모든 것을 집어삼키는 공허 폭풍을 생성한다.
-
-
-## equipment
-
----
-
-### aegis
+## aegis
 
 ---
 
@@ -50,7 +25,7 @@
   * 피해를 입을 때마다 [날개](../../../core/messengers/Messengers_Header.md#wings)가 충전된다.
   * 방어력은 적군의 모든 권능에 비례한다.
 
-### astrape
+## astrape
 
 ---
 

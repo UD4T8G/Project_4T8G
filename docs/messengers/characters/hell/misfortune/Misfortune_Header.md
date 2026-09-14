@@ -2,47 +2,22 @@
 
 ---
 
-## abilities
+| **Name** | 미스포춘 |
+| :--- | :--- |
+| **Alias** | 포르투나([포춘](./Misfortune_Header.md#fortune)), 아가토스 다이몬([스피릿](./Misfortune_Header.md#spirit)) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
+| **Department** | [지옥](../../../core/messengers/Messengers_Header.md#hell) |
+| **Gender** | 양성구유 |
+| **Age Group** | 중년기 |
 
----
-
-### melee
-
----
-
-* [스피릿](#spirit)이 전방의 적군을 추적하여 타격 후 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 주입한다.
-* [포춘](#fortune)이 전방의 적군을 향해 돌진하여 [코르누코피아](#cornucopia)를 쏟아 지속적으로 타격한다.
-* [스피릿](#spirit)이 적군을 휘감아 구속한 뒤 [포춘](#fortune)이 [코르누코피아](#cornucopia)를 쏟아 세뇌한다.
-
-### ranged
-
----
-
-* [스피릿](#spirit)이 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 느리게 산탄 사격한다.
-* [스피릿](#spirit)이 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 빠르게 지속 사격한다.
-* [포춘](#fortune)이 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지장에 [코르누코피아](#cornucopia)를 쏟아 아군을 강화한다.
-* [포춘](#fortune)이 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지장에 [코르누코피아](#cornucopia)를 쏟아 적군을 약화한다.
-
-### distance-control
-
----
-
-* [파편화](#fragmentation)하여 짧게 회피한다.
-* [파편화](#fragmentation) 상태로 고속 이동한 뒤 재조립하면서 길게 질주한다.
-* [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 두르고 [파편화](#fragmentation)하여 주변을 고속 타격한다.
-
-## equipment
-
----
-
-### fortune
+## fortune
 
 ---
 
 * **미스포춘의 본체:**
   * 포춘으로 모든 능력을 활성화한다.
 
-### spirit
+## spirit
 
 ---
 
@@ -51,7 +26,7 @@
 * **미스포춘의 다리:**
   * 독니에서 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 발사한다.
 
-### cornucopia
+## cornucopia
 
 ---
 
@@ -61,7 +36,7 @@
   * 전환된 효과의 성능은 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지의 총합에 비례한다.
   * 재물과 식량은 실질적인 가치를 지닌다.
 
-### fragmentation
+## fragmentation
 
 ---
 

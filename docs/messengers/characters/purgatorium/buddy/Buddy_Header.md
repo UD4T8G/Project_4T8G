@@ -2,43 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | 버디 |
+| :--- | :--- |
+| **Alias** | 베디오비스(버디), 유다 염소([고트](./Buddy_Header.md#goat)) |
+| **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
+| **Department** | [연옥](../../../core/messengers/Messengers_Header.md#purgatorium) |
+| **Gender** | 중성(버디), 중성([고트](./Buddy_Header.md#goat)) |
+| **Age Group** | 청년기(버디), 중년기([고트](./Buddy_Header.md#goat)) |
 
----
-
-### melee
-
----
-
-* [애퍼래터스](#apparatus)로 제자리에서 여러 번 타격한다.
-* [애퍼래터스](#apparatus)로 제자리에서 강하게 타격한다.
-* [애퍼래터스](#apparatus)로 돌진하면서 그래플링한다.
-* [애퍼래터스](#apparatus)로 돌진하면서 강하게 타격한다.
-* [성흔안](#stigmata-eyes)으로 주변 오브젝트와 함께 도약 후 지면을 타격하여 [심판의 화살](#judgement-bolt)을 전방위로 발사한다.
-
-### ranged
-
----
-
-* [애퍼래터스](#apparatus)에 [심판의 화살](#judgement-bolt) 포메이션을 발동하여 주변에 공전시켜 타격한다.
-* [애퍼래터스](#apparatus)에서 일정 시간 엑스큐션하고 [심판의 화살](#judgement-bolt)을 발사한다.
-* [성흔안](#stigmata-eyes)의 안광으로 적군의 공격을 잡아 던진다.
-* [성흔안](#stigmata-eyes)의 안광으로 아군의 공격을 잡아 던진다.
-* [성흔안](#stigmata-eyes)의 안광으로 모든 것의 내부 구조를 조작한다. (고통 조절, 제어권 강탈)
-
-### distance-control
-
----
-
-* [성흔안](#stigmata-eyes)의 안광으로 주변의 모든 것을 밀어내거나, 반작용으로 자신을 밀어낸다.
-* [성흔안](#stigmata-eyes)의 안광으로 주변의 모든 것의 위치와 속도를 조작한다.
-* [성흔안](#stigmata-eyes)의 안광으로 주변의 모든 것을 [애퍼래터스](#apparatus)에 담아 [심판의 화살](#judgement-bolt)에 보관한다.
-
-## equipment
-
----
-
-### bagua
+## bagua
 
 ---
 
@@ -46,7 +18,7 @@
   * [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 활성화한다.
   * 자신과 주변의 오브젝트들을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
 
-### apparatus
+## apparatus
 
 ---
 
@@ -58,7 +30,7 @@
   * [심판의 화살](#judgement-bolt)을 제작, 보관, 사출한다.
   * 담은 모든 것을 [심판의 화살](#judgement-bolt)에 보관한다.
 
-### judgement-bolt
+## judgement-bolt
 
 ---
 
@@ -73,7 +45,7 @@
   * [심판의 화살](#judgement-bolt) 여러 개를 하나로 합쳐 강화한다.
   * [심판의 화살](#judgement-bolt) 그릇에 혼돈을 담아 정확도를 제어한다.
 
-### stigmata-eyes
+## stigmata-eyes
 
 ---
 
@@ -84,7 +56,7 @@
   * 보관한 모든 피해를 적중된 적군에게 적용한다.
   * 보관한 모든 피해를 [애퍼래터스](#apparatus)로 정화하여 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 충전한다.
 
-### goat
+## goat
 
 ---
 
