@@ -21,7 +21,7 @@
 
 ---
 
-> **무형성 中 밀키:** "우리는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이다!"
+> **무형성 下 밀키:** "우리는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)의 [사자들](../../../core/messengers/Messengers_Header.md)이다!"
 >
 >*(머쓱하며)* "아, 이게 먼저 아니야?"
 >
