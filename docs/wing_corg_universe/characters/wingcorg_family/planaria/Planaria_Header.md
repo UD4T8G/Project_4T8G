@@ -2,38 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | 플라나리아 |
+| :--- | :--- |
+| **Alias** | 윙콕 아들, 프린스 오브 다크니스 |
+| **Position** | 아들 |
+| **Department** | 윙콕 가족 |
+| **Gender** | 남성 |
+| **Age Group** | 소년기 |
 
----
-
-### melee
-
----
-
-* [무자비한 구타](#ruthless-beating)로 회피와 동시에 연속으로 타격한다.
-* [무자비한 구타](#ruthless-beating)로 급소를 저격한 후 지나간다.
-* [지옥의 조교 스텝](#step-of-hell-assistant)으로 고속 질주 상태에 진입해 [무자비한 구타](#ruthless-beating)로 공간 전체를 난도질한다.
-
-### ranged
-
----
-
-* [교관의 샤우팅](#shouting-of-instructor)으로 날카로운 고함을 발산해 적군을 약화한다.
-* [교관의 샤우팅](#shouting-of-instructor)으로 부드러운 응원을 발산해 아군을 강화한다.
-* [교관의 샤우팅](#shouting-of-instructor)으로 주변을 타격해 쇼크를 일으킨다.
-
-### distance-control
-
----
-
-* [지옥의 조교 스텝](#step-of-hell-assistant)으로 질주한다.
-* [지옥의 조교 스텝](#step-of-hell-assistant)으로 최단 경로를 저격하여 적군의 경로를 사전에 차단한다.
-
-## equipment
-
----
-
-### ruthless-beating
+## ruthless-beating
 
 ---
 
@@ -41,7 +18,7 @@
   * 맹렬한 호전성이 극대화된 전투 방식이다.
   * 덩치가 큰 적을 상대로 급소만 골라 타격하며 체급 차이를 극복할 수 있다.
 
-### shouting-of-instructor
+## shouting-of-instructor
 
 ---
 
@@ -50,7 +27,7 @@
   * 오브젝트를 주눅 들게 하고 행동을 통제할 수 있다.
   * 사자후로 오브젝트를 마비시킬 수 있다.
 
-### step-of-hell-assistant
+## step-of-hell-assistant
 
 ---
 

@@ -2,46 +2,23 @@
 
 ---
 
-## abilities
+| **Name** | 습득맨 |
+| :--- | :--- |
+| **Alias** | 병신 새끼 |
+| **Position** | 특수부대 |
+| **Department** | 다른 차원 |
+| **Gender** | 남성 |
+| **Age Group** | 청년기 |
 
----
-
-### melee
-
----
-
-* 달려오면서 느리고 가벼운 펀치로 [습득의 육신](#body-of-pickup) 활성화를 유도한다.
-* [습득 구현](#pickup-realize)으로 습득한 능력을 신체에 두르고, [습득 훈련](#pickup-training)으로 습득한 능력을 구사한다.
-
-### ranged
-
----
-
-* 도망치면서 느리고 가벼운 투척으로 [습득의 육신](#body-of-pickup) 활성화를 유도한다.
-* [습득 구현](#pickup-realize)으로 탄막을 형성하고 [습득 훈련](#pickup-training)으로 발사한다.
-
-### distance-control
-
----
-
-* 피격 후 슬로건을 외쳐 [습득의 육신](#body-of-pickup)을 발동한다.
-* [습득 훈련](#pickup-training)으로 습득한 능력을 회피하고 방어한다.
-* [습득 구현](#pickup-realize)으로 '습득 포털'을 소환해 모든 습득을 잃고 모든 공격을 흘려보낸다.
-* [습득 구현](#pickup-realize)으로 '습득 포털'을 소환해 모든 습득을 잃고 전장을 빠져나간다.
-
-## equipment
-
----
-
-### body-of-pickup
+## body-of-pickup
 
 ---
 
 * **습득하세요:**
   * 피격 후 슬로건을 외치면 해당 효과를 습득한다.
-  * 습득량에 비례하여 속도가 감소한다.
+  * 습득량에 비례하여 지능이 감소한다.
  
-### pickup-training
+## pickup-training
 
 ---
 
@@ -50,7 +27,8 @@
   * 신체를 변형시켜 습득한 능력을 막아낸다.
   * 습득한 능력의 자세를 완벽하게 구사한다.
   * 습득한 능력을 역위로 완벽하게 막아낸다.
-### pickup-realize
+
+## pickup-realize
 
 ---
 

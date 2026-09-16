@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 북극이 |
-| :--- | :--- |
-| **Alias** | 윙콕 남편 |
-| **Position** | 왕(북극성), 아버지(윙콕 가족) |
-| **Department** | 윙콕 가족 |
-| **Gender** | 남성 |
-| **Age Group** | 청년기 |
-
 ## characteristics
 
 ---

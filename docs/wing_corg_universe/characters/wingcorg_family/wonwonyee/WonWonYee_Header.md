@@ -2,39 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | 원원이 |
+| :--- | :--- |
+| **Alias** | [두더지 뿅](./WonWonYee_Header.md#whack-a-mole) |
+| **Position** | 주례(북극성), 애완동물(윙콕 가족), 수호자([흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)) |
+| **Department** | 윙콕 가족 |
+| **Gender** | 남성 |
+| **Age Group** | 소년기 |
 
----
-
-### melee
-
----
-
-* [두더지 뿅](#whack-a-mole)으로 전방의 적군 머리를 빠르게 후려치고 빠르게 회피한다.
-* 에너지를 충전하고 [두더지 뿅](#whack-a-mole)으로 지면을 강타해 충격파를 발생시킨다.
-* 전방위 적군을 [두더지 뿅](#whack-a-mole)으로 무한 순환 강타한다.
-
-### ranged
-
----
-
-* [두더지 뿅](#whack-a-mole)을 들고 회전하다 부메랑처럼 던져 적군을 타격한 후 회수한다.
-* [내레이션](#narration)으로 중계하여 도발한다.
-* 에너지를 충전한 후 [두더지 뿅](#whack-a-mole)을 아래로 던져 튕겨 오르면서 지속적으로 충격파 발생시킨다.
-
-### distance-control
-
----
-
-* [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book) 주변에서 강화 효과를 받고 회피한다.
-* [내레이션](#narration)으로 순간이동하면서 회피한다.
-* [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)를 들고 모든 것을 나무처럼 타면서 반격한다.
-
-## equipment
-
----
-
-### whack-a-mole
+## whack-a-mole
 
 ---
 
@@ -42,7 +18,7 @@
   * 원원이의 트레이드마크와도 같은 뿅망치다.
   * 적의 머리를 내리쳐 기절시킬 수 있다.
 
-### narration
+## narration
 
 ---
 

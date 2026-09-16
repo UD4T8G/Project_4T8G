@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 복권 거지 |
-| :--- | :--- |
-| **Alias** | 거지 형제 |
-| **Position** | 이사 |
-| **Department** | 길거리 |
-| **Gender** | 남성 |
-| **Age Group** | 청년기 |
-
 ## characteristics
 
 ---

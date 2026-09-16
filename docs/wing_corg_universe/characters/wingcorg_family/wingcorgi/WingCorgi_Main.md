@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 윙코기 |
-| :--- | :--- |
-| **Alias** | 윙콕, **윙고기** |
-| **Position** | 어머니 |
-| **Department** | 윙콕 가족 |
-| **Gender** | 여성 |
-| **Age Group** | 청년기 |
-
 ## characteristics
 
 ---

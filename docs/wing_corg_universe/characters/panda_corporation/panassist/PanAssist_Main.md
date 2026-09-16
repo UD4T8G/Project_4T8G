@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 판비 |
-| :--- | :--- |
-| **Alias** | 판다 비서 |
-| **Position** | 비서 |
-| **Department** | [죽창 번개 요새](./PanAssist_Header.md#bamboo-spear-lightning-fortress) |
-| **Gender** | 여성 |
-| **Age Group** | 중년기 |
-
 ## characteristics
 
 ---

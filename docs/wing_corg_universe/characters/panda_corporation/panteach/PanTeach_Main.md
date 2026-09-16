@@ -2,16 +2,6 @@
 
 ---
 
-
-
-| **Name** | 판스 |
-| :--- | :--- |
-| **Alias** | 판다 스승 |
-| **Position** | 스승 |
-| **Department** | 세계의 중심(생전), 판다 주식회사(사후) |
-| **Gender** | 남성 |
-| **Age Group** | 노년기 |
-
 ## characteristics
 
 ---

@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 시바 |
-| :--- | :--- |
-| **Alias** | 윙콕 딸, **베베** |
-| **Position** | 딸 |
-| **Department** | 윙콕 가족 |
-| **Gender** | 여성 |
-| **Age Group** | 소녀기 |
-
 ## characteristics
 
 ---

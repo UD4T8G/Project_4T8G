@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 고깃집 사장 |
-| :--- | :--- |
-| **Alias** | 부처님 |
-| **Position** | 사장, 고용주([윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)) |
-| **Department** | 정육점 |
-| **Gender** | 남성 |
-| **Age Group** | 중년기 |
-
 ## characteristics
 
 ---

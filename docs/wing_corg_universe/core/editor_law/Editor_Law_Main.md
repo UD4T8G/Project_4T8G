@@ -2,9 +2,7 @@
 
 ---
 
-> ***엮은이법**은 누군가를 억까하기 좋으니 평소에 마음에 안 드는 친구가 있다면 이걸로 참교육 해주도록 하자.*
-
-## null
+## prequel
 
 ---
 
@@ -14,6 +12,6 @@
 
 ---
 
-> **마법 천재:** "그게 뭔데?"
+> **[마법천재](../../characters/invisible_space/magenius/Magenius_Header.md):** "그게 뭔데?"
 
-> **김씨:** "엮은이."
+> **[김씨](../../characters/invisible_space/mr._kim/Mr._Kim_Header.md):** "엮은이."

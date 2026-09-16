@@ -2,39 +2,15 @@
 
 ---
 
-## abilities
+| **Name** | 고깃집 사장 |
+| :--- | :--- |
+| **Alias** | 부처님 |
+| **Position** | 사장, 고용주([윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)) |
+| **Department** | 정육점 |
+| **Gender** | 남성 |
+| **Age Group** | 중년기 |
 
----
-
-### melee
-
----
-
-* [발골용 정육도](#meat-cleaver)로 전방의 모든 것을 난도질한다.
-* 에너지를 모으고 약점을 찾아 [발골용 정육도](#meat-cleaver)로 치명타를 가한다.
-* [발골용 정육도](#meat-cleaver)를 미친 듯이 휘두르며 전진한다.
-
-### ranged
-
----
-
-* [무의미한 수배지](#wanted-poster) 여러 개를 산탄 투척한다.
-* [무의미한 수배지](#wanted-poster)를 빠르게 던져 시야를 교란한다.
-* [무의미한 수배지](#wanted-poster)를 뭉쳐 강하게 던진다.
-
-### distance-control
-
----
-
-* [돌팔이의 투명 부적](#fake-talisman)을 이마에 붙이고 길게 질주한다.
-* [돌팔이의 투명 부적](#fake-talisman)을 전신에 붙이고 짧게 돌격한다.
-* 모든 [돌팔이의 투명 부적](#fake-talisman)을 흩뿌리고 도주한다.
-
-## equipment
-
----
-
-### meat-cleaver
+## meat-cleaver
 
 ---
 
@@ -42,7 +18,7 @@
   * '윙고기' 시절부터 사용해 온 식칼이다.
   * 재생 능력을 지닌 오브젝트를 해체하기 좋다.
 
-### wanted-poster
+## wanted-poster
 
 ---
 
@@ -51,7 +27,7 @@
   * [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)의 분장이 매번 바뀌어 잡는 데는 아무런 의미가 없지만, 무기로 던진다.
   * 무겁고 질겨 오브젝트를 제압하는 데 좋다.
 
-### fake-talisman
+## fake-talisman
 
 ---
 

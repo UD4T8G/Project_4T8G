@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | 판도 |
-| :--- | :--- |
-| **Alias** | 판다 도사 |
-| **Position** | 도사 |
-| **Department** | [기 미사일 요새](./PanTao_Header.md#ki-missile-fortress) |
-| **Gender** | 남성 |
-| **Age Group** | 중년기 |
-
 ## characteristics
 
 ---

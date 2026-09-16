@@ -2,14 +2,6 @@
 
 ---
 
-| **Name** | DAS3OS |
-| :--- | :--- |
-| **Alias** | 스페이스 인베이더 |
-| **Position** | 최종보스 |
-| **Department** | 타워 디펜스 |
-| **Gender** | 남성 |
-| **Age Group** | 청년기 |
-
 ## characteristics
 
 ---
