@@ -14,19 +14,19 @@
 >
 > ***자세한 내용은 [사자들 메인 스토리](../../../../messengers/core/messengers/Messengers_Main.md) 참조.***
 
-> *마법천재가 다시 [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)로 돌아와서 모든 능력을 되찾은 후에는 가끔씩 [코르누코피아와 아스트라페](./Magenius_Header.md#cornucopia-astrape)를 닦거나, [커피와 와인](./Magenius_Header.md#coffee-wine)을 만지작거리며 조용히 애도하곤 한다.*
+> *마법천재가 다시 [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)로 돌아와서 모든 능력을 되찾은 후에는 가끔씩 [사자들](../../../../messengers/core/messengers/Messengers_Header.md)의 [유산들](./Magenius_Header.md#legacies)을 정리하며 조용히 애도하곤 했다.*
 >
-> *하지만 당사자들도, 공감해줄 수 있는 존재들도, 그 이유를 알고 있는 존재들조차도 유니버스에는 더 이상 존재하지 않았고, 남은 것은 꿈과 희망 뿐이였다.*
+> *하지만 당사자들도, 공감해줄 수 있는 존재들도, 그 이유를 알고 있는 존재들조차도 더 이상 유니버스에는 존재하지 않았다.*
 
 ## lines
 
 ---
 
-> **마법천재:** *([아스트라페](../../../../messengers/characters/hell/boss/Boss_Header.md)로 할복하며)* "**죽을 죄를 지었습니다!** 그가 말했지..."
+> **마법천재:** *([아스트라페](./Magenius_Header.md#legacies)로 할복하며)* "**죽을 죄를 지었습니다!** 그가 말했지..."
 >
-> **마법천재:** *([아스트라페](../../../../messengers/characters/hell/boss/Boss_Header.md)를 뽑으며)* "하여간 가시를 너무 깊게 박아 놨다니까?"
+> **마법천재:** *([아스트라페](./Magenius_Header.md#legacies)을 뽑으며)* "하여간 가시를 너무 깊게 박아 놨다니까?"
 
-> **마법천재:** *([코르누코피아](../../../../messengers/characters/hell/misfortune/Misfortune_Header.md#cornucopia)에 꽃을 심으며)* "이제 연인과 함께 행복하길 바랄게, 방금 이 뿔을 건드리려고 했던 **애미 뒤진 씨발 새끼**는 내가 존재한 적도 없게 만들었으니까..."
+> **마법천재:** *([코르누코피아](./Magenius_Header.md#legacies)에 꽃을 심으며)* "아, 방금 이 뿔을 건드리려던 **애미 뒤진 씨발 새끼**가 있었는데, 내가 존재한 적도 없게 했으니까... 당연히 모르겠네."
 
 > **마법천재:** *(비명을 지르고 기도하며)* "**네 문자의 주인이시여! 이곳에 모인 우리 모두를 불쌍히 여기소서!**"
 >
