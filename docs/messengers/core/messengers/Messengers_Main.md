@@ -669,8 +669,8 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** "제가 당신을 위한 사탄의 사자가 되어, 당신의 믿음이 흔들릴 때마다 마땅히 시험해 드리겠습니다."
 
-* *[보스](../../characters/hell/boss/Boss_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 등에 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)를 달아 주고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 손에 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 쥐어 준다.*
-* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [보스](../../characters/hell/boss/Boss_Header.md)의 발을 씻겨 준 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광으로 자연 소멸을 중단시키고 무저갱에 던진다.*
+* *[보스](../../characters/hell/boss/Boss_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 손에 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 쥐어 주고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [보스](../../characters/hell/boss/Boss_Header.md)의 발을 씻겨 준다.*
+* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광으로 [보스](../../characters/hell/boss/Boss_Header.md)의 자연 소멸을 중단시키고 무저갱에 던진다.*
 
 ### first-date
 
@@ -702,5 +702,3 @@
 
 * *누군가는 [천국](./Messengers_Header.md#heaven)에서 자신의 잔을 덜어 내 불완전하게 하고 있을지도 모른다.*
 * *누군가는 [천국](./Messengers_Header.md#heaven)에서 그들을 위한 잔을 남겨 두며 기다리고 있을지도 모른다.*
-* *모든 사명을 마친 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)는 얼어붙었으나, [팔괘](../../characters/purgatorium/buddy/Buddy_Header.md#bagua)는 동결되지 않았다.*
-* *모든 사명을 마친 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)는 타올랐으나, [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)은 연소되지 않았다.*

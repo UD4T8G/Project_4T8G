@@ -10,12 +10,14 @@
 
 > *[할왕 1](../grandking_1/GrandKing_1_Header.md)보다 약한 지략가이다. [마법천재](../../invisible_space/magenius/Magenius_Header.md)가 투명 공간에 봉인했다.*
 
+> [빨래방망이 할아버지](../../cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md)와 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)의 스승이다. 그들에게 거리와 상관없는 능력을 가르쳤다.
+
 ## lines
 
 ---
 
 > **할왕 2:** *(흔적도 남지 않은 손주 앞에서 춤을 추며)* "할멈! 살살혀! 그러다 또 부술라!"
 
-> **할왕 2:** *(손가락 하나로 땅을 짚고 10,000 RPM으로 회전하며)* "진정한 강함이란 비파괴란다."
+> **할왕 2:** *(손가락 하나로 땅을 짚고 10,000 RPM으로 회전하며)* "진정한 강함이란 성장이 아니라 극복이니라!"
 
-> **할왕 2:** *(명상 자세로 뒤집혀서 정수리로 서며)* "제자들 데려와라! 고쳐야 쓰겠다!"
+> **할왕 2:** *(명상 자세로 뒤집혀서 정수리로 균형을 잡으며)* "제자들 데려와라! 오늘 버르장머리를 좀 고쳐놔야 쓰겠다!"
