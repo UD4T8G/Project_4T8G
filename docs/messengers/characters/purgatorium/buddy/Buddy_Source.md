@@ -10,18 +10,7 @@
 * [심판의 화살](./Buddy_Header.md#judgement-bolt)의 특징은 'Vediovis'가 '화살 다발'을 들고 있었다는 점을 참조한다.
 * [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes)은 각각 머리와 손을 매개로 하는데, 이는 '카피톨리누스 언덕'에서 발굴된 'Vediovis' 조각상의 머리와 손이 잘려져 있었다는 점을 참조한다.
 * [성흔안](./Buddy_Header.md#stigmata-eyes)은 '십자가형'을 참조한다.
-* 버디의 [날개](../../../core/messengers/Messengers_Header.md#wings)에 해당하는 [팔괘](./Buddy_Header.md#bagua)의 배치는 '복희 팔괘'를 참조하며, 각 괘의 디자인은 다음 아이콘을 참조한다.
-
-```text
-  건: 트리니티
-  태: 익투스
-  리: 불
-  진: 만
-  손: 태풍
-  감: 물
-  간: 빗장
-  곤: 육각성
-```
+* 버디의 [날개](../../../core/messengers/Messengers_Header.md#wings)에 해당하는 [팔괘](./Buddy_Header.md#bagua)는 'Project 4T8G'의 아이콘을 참조한다.
 
 ## lore
 
@@ -84,5 +73,5 @@ Ov. Fast. 3.429–436
 * 버디 기획 이전에는 '미친마우스'라는 캐릭터를 구상하고 있었고, 일부 디자인을 참조했다.
   - '삼층관, 염주(묵주 아님), 피눈물을 흘리는 철가면을 착용하고 있다.
   - '신성모독'의 형상화이다.
-* 버디 기획 계기는 'Project_4T8G' 이전의 추상적 개념인 'BDHWBDEM'의 그릇이 필요했기 때문이였으나, [팔괘](./Buddy_Header.md#bagua)에만 구현되었다.
+* 버디 기획 계기는 'Project_4T8G' 이전의 추상적 개념인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 그릇이 필요했기 때문이였으나, [팔괘](./Buddy_Header.md#bagua)에만 구현되었다.
 * 버디 기획 초기에도 [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등의 디자인 기반은 존재했으나, 스토리가 존재하지 않았다. 누구든지 그를 최종보스 취급했고, 그 누구도 그가 주인공이라고는 생각하지 않았다.

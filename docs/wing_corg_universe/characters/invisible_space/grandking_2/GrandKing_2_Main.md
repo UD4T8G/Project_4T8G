@@ -8,7 +8,7 @@
 
 > *우아한 자세로 세상을 멸망시킬 할아버지. 이걸 보고 살아남은 손주가 없다고 전해진다.*
 
-> *[할왕 1](../grandking_1/GrandKing_1_Header.md)보다 약한 지략가이다. [마법천재](../../invisible_space/magenius/Magenius_Header.md)가 투명 공간에 봉인했다.*
+> *[할왕 1](../grandking_1/GrandKing_1_Header.md)보다 약한 지략가이다. [BDHWBDEM](../bdhwbdem/BDHWBDEM_Header.md)이 투명 공간에 봉인했다.*
 
 > [빨래방망이 할아버지](../../cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md)와 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)의 스승이다. 그들에게 거리와 상관없는 능력을 가르쳤다.
 
