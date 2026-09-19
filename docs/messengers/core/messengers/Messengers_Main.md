@@ -176,7 +176,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(파괴된 장비를 수습하며)* "아플 시간도 없어... 그리고 여기는 딱 봐도 [연옥](./Messengers_Header.md#purgatorium)이네..."
 >
->*(주변의 악한 존재들을 둘러보며)* "잠시만, **저걸 너 혼자 다 쓰러뜨린 거야!?** 안 다쳤어?"
+> *(주변의 악한 존재들을 둘러보며)* "잠시만, **저걸 너 혼자 다 쓰러뜨린 거야!?** 안 다쳤어?"
 
 * *주변의 악한 존재들은 모두 [날개](./Messengers_Header.md#wings)가 뜯긴 채 쓰러져 있었고, 어떤 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 섭식을 시도하기도 했다.*
 * *모든 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)가 해제되어 목의 부상을 수복하고 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 하반신의 부상을 수복하지 못하고 있었다.*
@@ -304,7 +304,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "우리 [연옥](./Messengers_Header.md#purgatorium)에서 못 나가..."
 >
->*(당황하며)* "**근데 내 염소...**"
+> *(당황하며)* "**근데 내 염소...**"
 
 * *염소는 등이 약하기 때문에 올라타면 안 된다.*
 
@@ -480,7 +480,7 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(당황하며)* "저기요! 운전자를 폭행하면 안... **어? 어?**"
 >
->*(불법 건축물 앞으로 고꾸라지며)* "**추락한다아아악!!!**"
+> *(불법 건축물 앞으로 고꾸라지며)* "**추락한다아아악!!!**"
 
 * *불법 건축물의 높이는 피조 세계에서 보았더라면 하늘에 닿았고, 그 외벽에는 신성 모독하는 이름들이 있었다.*
 * *불법 건축물은 악한 존재들의 피난처가 되었고, 그들은 그저 불완전한 안전에 기댄 채 떨고 있을 뿐이었다.*
@@ -536,7 +536,7 @@
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(비명을 지르며 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 한 마리를 꺼내 참수시키고 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내 도검 형태로 전개시킨 뒤, 날아오는 뾰족한 바위를 베어 버리며)* "**으아아아아아!**"
 >
->*(글리치가 튀며 관절이 반대로 꺾이고, 끝내 눈물을 터뜨리며)* "오빠라는 것들이 다들 책임감만 강해 가지고... 가끔은 누나한테 기댈 줄도... 알아야지..."
+> *(글리치가 튀며 관절이 반대로 꺾이고, 끝내 눈물을 터뜨리며)* "오빠라는 것들이 다들 책임감만 강해 가지고... 가끔은 누나한테 기댈 줄도... 알아야지..."
 
 * *기원이든 봉헌 시기든 "\*Dyēus Ph₂tḗr"가 "Meilichia"보다 더 오래되었다.*
 
@@ -563,7 +563,7 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(건축 자재를 더 얹으며)* "하지만 [연옥](./Messengers_Header.md#purgatorium)의 경계에 안 계시길래 찾아오느라 고생 좀 했지요. 어디 보자... 조금 뒤면 악한 철거반이 [연옥](./Messengers_Header.md#purgatorium)의 경계로 쳐들어가겠군요."
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(태블릿을 작성한 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 비춰 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)에 담고 [심판의 화살](../../characters/purgatorium/buddy/Buddy_Header.md#judgement-bolt)을 쏘아올리며)* "아, 그래? 걱정 마, 그건 [밀키](../../characters/purgatorium/milky/Milky_Header.md)한테 맡기면 되거든!"
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(태블릿을 작성한 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 비춰 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)에 담고 [심판의 화살](../../characters/purgatorium/buddy/Buddy_Header.md#judgment-bolt)을 쏘아올리며)* "아, 그래? 걱정 마, 그건 [밀키](../../characters/purgatorium/milky/Milky_Header.md)한테 맡기면 되거든!"
 >
 > *(들썩이는 건축 자재를 쳐다보며)* "...그런데 저거 [밀키](../../characters/purgatorium/milky/Milky_Header.md) 아니야?"
 >
@@ -573,11 +573,11 @@
 
 * *한편, [연옥](./Messengers_Header.md#purgatorium)의 경계에서는...*
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 잡고 [파편화](../../characters/hell/misfortune/Misfortune_Header.md#fragmentation)로 찢어 죽이며)* "**야, 이 미친 새끼들아! 너네 돌아오면 내가 [날개](./Messengers_Header.md#wings)를 찢어 버릴 거야아악!!!**"
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 묶고 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)로 내리치면서 난도질하며)* "**야, 이 미친 새끼들아! 너네 돌아오면 내가 [날개](./Messengers_Header.md#wings)를 찢어 버릴 거야아악!!!**"
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**이걸 너희 코에 박을 거고,**
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**이걸 너희 코에 박을 거야.**
 >
-> *([날개](./Messengers_Header.md#wings) 에너지장에 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)를 부어 악한 존재들을 터뜨려 죽이며)* **이 시체 보이지? 다음은 너희야, 딱 대!!!**"
+> *([날개](./Messengers_Header.md#wings) 에너지장에 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)를 부어 악한 존재들을 터뜨려 죽이며)* "**이 시체 보이지? 다음은 너희야, 딱 대!!!**"
 
 * *다시 불법 건축물 내부...*
 
@@ -623,7 +623,7 @@
 
 > *그리고 그분은 안면을 기울게 저울질하지 아니하시며, 그리고 그분은 예물을 받지 아니하시며; 만일 그분께서 '내가 만물 위에 심판을 행하리라' 이르셨다면, 혹 온 땅에 있는 모든 것을 그분께 바친다 할지라도; 그분은 안면을 기울게 저울질하지 아니하시며, 그의 손에서 받지 아니하시리니; 이는 그분께서 의로우신 심판자이시기 때문이라.*
 
-### judgement-day
+### judgment-day
 
 ---
 

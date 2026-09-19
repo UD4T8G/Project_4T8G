@@ -68,20 +68,130 @@
 
 ---
 
-* **Characteristics:**
-  * null
-  * null
-* **Abilities:**
-  * null
-  * null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
 
 ### null
 
 ---
 
-* **Characteristics:**
-  * null
-  * null
-* **Abilities:**
-  * null
-  * null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+
+### null
+
+---
+
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+* **null:**
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null
+  - null
+    + null
+    + null
+    + null

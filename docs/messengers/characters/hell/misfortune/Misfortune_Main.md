@@ -10,7 +10,7 @@
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 황금색 프센트를 착용하고 백색 수염을 기른 금안의 백색 뱀이며, 미스포춘의 하반신이다.*
 
-> *[포춘](./Misfortune_Header.md#fortune)은 누군가 자신의 [코르누코피아](./Misfortune_Header.md#cornucopia)를 장난거리로 삼거나 건들면 극도의 살의와 폭력성을 드러낸다.*
+> *[포춘](./Misfortune_Header.md#fortune)은 누군가 자신의 [코르누코피아](./Misfortune_Header.md#cornucopia)를 장난거리로 삼거나 건드리면 극도의 살의와 폭력성을 드러낸다.*
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 자아가 없으며, [포춘](./Misfortune_Header.md#fortune)은 그를 자신의 다리처럼 직접 조종한다.*
 >
