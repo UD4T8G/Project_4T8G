@@ -7,12 +7,12 @@
 ---
 
 * **Vediovis**
-  - 버디의 디자인
+  - 버디 디자인
 * **Vediovis의 화살 다발**
   - [심판의 화살](./Buddy_Header.md#judgment-bolt) 디자인
 * **Vediovis 조각상(카피톨리누스 언덕에서 발굴된 조각상의 손과 머리 결손)**
 * **블레셋의 다곤(Zeus Arotrios) 신전에 모셔진 언약궤(둘째 날 아침에 머리와 손목이 끊어진 다곤)**
-  - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes)의 손과 머리 디자인
+  - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 손과 머리 디자인
 * **십자가형**
   - [성흔안](./Buddy_Header.md#stigmata-eyes) 디자인
 * **Project 4T8G의 아이콘 일부**
@@ -68,12 +68,12 @@ Ov. Fast. 3.429–436
 ```
 
 * **R, A(문맥이 파괴된 가장 오래된 사본) VS Gronovius(역사적 지형과 문법에 맞는 논리적 추론)**
-  - 버디의 가벼울 수 있는 성격 설정
+  - 버디 가벼울 수 있는 성격 설정
 * **고대 로마의 종교 의식(매우 엄격)**
 * **블레셋의 다곤 신전에 모셔진 언약궤(첫째 날 아침에 언약궤 앞에 엎드린 다곤)**
-  - 버디의 무거운 성격 설정
+  - 버디 무거운 성격 설정
 * **염소(독립성과 고집)**
-  - [고트](./Buddy_Header.md#goat)의 성격 설정
+  - [고트](./Buddy_Header.md#goat) 성격 설정
 * **유다 염소**
 * **암염소(Vediovis에게 바치는 제물)와 숫염소(에녹 1서의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) Azazel에게 보내는 레위기의 속죄제물)의 서로 다른 성별**
   - [고트](./Buddy_Header.md#goat) 성별 설정
@@ -87,7 +87,7 @@ Ov. Fast. 3.429–436
     + *삼층관*, *염주(묵주 아님)*, *피눈물을 흘리는 철가면*을 착용하고 있다.
     + *신성 모독*의 형상화이다.
 * **버디 기획 계기:**
-  - *Project 4T8G* 이전의 추상적 개념인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 *그릇*이 필요했기 때문이었다.
+  - *Project 4T8G* 이전의 *추상적 개념*인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 *그릇*이 필요했기 때문이었다.
   - 이후 설정에는 구현되지 않았으며, [팔괘](./Buddy_Header.md#bagua)에만 구현되었다.
 * **버디 기획 초기:**
   - [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등의 디자인 기반은 존재했으나, 설정이 존재하지 않았다.

@@ -5,17 +5,17 @@
 | **Name** | DAS3OS |
 | :--- | :--- |
 | **Alias** | 스페이스 인베이더 |
-| **Position** | 최종보스 |
+| **Position** | 최종 보스 |
 | **Department** | 타워 디펜스 |
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-## super-nova
+## supernova
 
 ---
 
-* **슈퍼 노바 버서커**
-  * 체력이 일정 수치 감소할 때마다 더욱 강해진다.
+* **슈퍼노바 버서커**
+  * 체력이 일정 수치만큼 감소할 때마다 더욱 강해진다.
 
 ## stellar-pistol
 

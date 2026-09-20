@@ -5,7 +5,7 @@
 | **Name** | BDHWBDEM |
 | :--- | :--- |
 | **Alias** | 마법 천재, W-B |
-| **Position** | 세계관 노예 |
+| **Position** | 세계관 ~~관리자~~ 노예 |
 | **Department** | 투명 공간 |
 | **Gender** | null |
 | **Age Group** | null |

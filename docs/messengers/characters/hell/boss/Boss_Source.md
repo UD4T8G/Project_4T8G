@@ -25,9 +25,9 @@
 * **Zeus(\*Dyēus 파생 헬라어 명칭)**
 * **Iuppiter(\*Dyēus + Ph₂tḗr 파생 라틴어 명칭)**
 * **고르기아스**
-  - 보스의 철학적인 성격
+  - 보스 철학적인 성격
 * **마카베오기(요나단 마카베오의 세속화)**
-  - 보스의 [지옥](../../../core/messengers/Messengers_Header.md#hell) 소속
+  - 보스 [지옥](../../../core/messengers/Messengers_Header.md#hell) 소속
 
 ## concept
 

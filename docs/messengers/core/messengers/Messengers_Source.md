@@ -200,7 +200,8 @@ Kawān, Text C:1-2
 * **Sar HaPanim(얼굴의 천사, 임재의 천사) 메타트론, 아나피엘**
 * **C, D(아나피엘(עַנְפִיאֵל)) / A, B, L(아나피엘 YHWH(עַנְפִיאֵל יְיָ))(**יְיָ** 표현은 **יהוה** 표현의 서기용 약어)**
   - *[천국](./Messengers_Header.md#heaven) 묘사에 대한 제한* 설정
-  - [속죄](./Messengers_Header.md#redemption) *불채찍 60대* 설정(새겨진 우상(Graven Image)이 섬기는 사명)
+  - [속죄](./Messengers_Header.md#redemption) *불채찍 60대* 설정
+  - *새겨진 우상(Graven Image)* 사명 설정
 * **바벨탑**
   - [철거](./Messengers_Main.md#demolition) *불법 건축물* 설정
 

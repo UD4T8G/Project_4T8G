@@ -39,7 +39,7 @@ Meilichioi(중성)
 * **Meilichios(달래야 하는 Euphemism(완곡어법))**
   - [스네이크](./Milky_Header.md#snake)가 밀키의 성격을 무겁게 하는 설정
 * **고대 그리스의 종교 의식(일상적)**
-  - 밀키의 가벼운 성격
+  - 밀키 가벼운 성격
 
 ## concept
 
@@ -66,7 +66,7 @@ Meilichioi(중성)
 * **밀키 기획 계기:**
   - [버디](../buddy/Buddy_Header.md)의 안티테제로서 속성을 분리하는 과정이였다.
 * **밀키 기획 초기:**
-  - *Project_4T8G* 이전의 추상적 개념인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 일환으로 구상되었다.
+  - *Project 4T8G* 이전의 *추상적 개념*인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 일환으로 구상되었다.
   - 이후 설정에는 구현되지 않았으며, [사태극](./Milky_Header.md#sitaegeuk)에만 구현되었다.
 * **밀키 기획 과정:**
   - *Meilichia*의 *아프로디테(Aphrodite)*나 *어머니(Mater)*의 성숙한 특징을 참조하지 않았다.
