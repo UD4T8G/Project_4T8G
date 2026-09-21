@@ -14,7 +14,7 @@
 
 ---
 
-* **수호자:**
+* **수호자**
   * [판스](../../panda_corporation/panteach/PanTeach_Header.md)의 환영을 본 [전설의 판다](../../panda_corporation/panda_of_legend/Panda_of_Legend_Header.md)가 라카이를 소환하면서 깨어난 힘이다.
   * 공허 마법을 다룰 수 있다.
 
@@ -22,19 +22,19 @@
 
 ---
 
-* **합체:**
-  * 아군과 합체하여 아군을 강화할 수 있다.
-  * 적군과 합체하면 적군을 약화할 수 있다.
+* **합체**
+  * 아군과 합체하여 아군을 강화한다.
+  * 적군과 합체하여 적군을 약화한다.
 * **슬라임 기동**
-  * 액체처럼 흘러서 이동할 수 있다.
-  * 매우 고통스러운 회복 능력이 있다.
+  * 액체처럼 흘러서 이동한다.
+  * 매우 고통스럽게 회복한다.
 
 ## unreachable-sweetness
 
 ---
 
-* **그림의 떡:**
-  * 한정판 사탕을 영원히 먹을 수 없게 된 저주다.
+* **그림의 떡**
+  * 한정판 사탕을 영원히 먹을 수 없게 된 저주이다.
   * 한정판 사탕을 보면 묻지도 따지지도 않고 달려든다.
 * **우주적 개입**
   * 정당하게 구입했을 경우 도둑이 탈취하거나 닌자가 개입한다.
@@ -47,8 +47,8 @@
 
 ---
 
-* **저주받은 선물:**
-  * [윙코기](../wingcorgi/WingCorgi_Header.md)가 만든 [X-프로토콜](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#x-protocol) 아머다.
+* **저주받은 선물**
+  * [윙코기](../wingcorgi/WingCorgi_Header.md)가 만든 [X-프로토콜](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#x-protocol) 아머이다.
   * [원원이](../wonwonyee/WonWonYee_Header.md)가 라카이에게 선물로 줬다.
   * 헬멧을 착용한 대상이 말하면 "씨발놈아"로 번역된다.
   * 욕을 들은 대상은 헬멧을 착용한 대상에게 도발이 걸린다.

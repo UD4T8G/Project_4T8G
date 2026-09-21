@@ -2,7 +2,7 @@
 
 ---
 
-## null
+## prequel
 
 ---
 
@@ -38,7 +38,7 @@
 
 > **[Characters](../../characters/characters_template/Characters_Template_Header.md):** *(null)* "null"
 
-## null
+## spin-off
 
 ---
 
@@ -74,7 +74,7 @@
 
 > **[Characters](../../characters/characters_template/Characters_Template_Header.md):** *(null)* "null"
 
-## null
+## sequel
 
 ---
 

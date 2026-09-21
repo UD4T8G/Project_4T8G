@@ -2,6 +2,14 @@
 
 ---
 
+## concept
+
+---
+
+* 사자들은 다른 신이 아니라 새겨진 우상(Graven Image)으로 구상되었다.
+  - 이는 종교적 에피테트가 아니라 비평학적 사실을 참조하였기 때문이다.
+  - 따라서 그들은 천사나 악마보다는 베헤못과 리워야단에 가깝게 묘사된다.
+
 ## design
 
 ---
@@ -241,12 +249,3 @@ MEGILLAH 10b, SANHEDRIN 39b
 * **Cup of Elijah(REVELATION 이후)**
 * **Spilling the wine for the plagues(Elegy 요소)**
   - [첫 데이트](./Messengers_Main.md#first-date) 잔에 대한 제한적인 설정
-
-## concept
-
----
-
-* **사자들 기획 과정:**
-  - 다른 신이 아니라 새겨진 우상(Graven Image)의 속성을 표현하는 데 사용되었다.
-    + 이는 종교적 에피테트가 아니라 비평학적 사실을 참조하였기 때문이다.
-    + 따라서 그들은 천사나 악마보다는 베헤못과 리워야단에 가깝게 묘사된다.

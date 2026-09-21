@@ -14,23 +14,21 @@
 
 ---
 
-* **황금의 힘:**
-  * 전설의 판다와 결속된 황금색의 주무기다. 
-  * 시위를 당기지 않고 활대 자체로 근접 격투를 벌여도 영혼을 타격하고 육신에 불을 붙인다.
+* **황금의 힘**
+  * [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 황금 활이다.
+  * 활대로 적군 공격 시 불을 붙인다.
 
 ## legendary-arrow
 
 ---
 
-* **황금의 무게:**
-  * 활시위를 당길 때 생성되는 불타는 영혼의 황금 화살이다.
+* **황금의 무게**
+  * [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 황금 화살이다.
   * 황금빛으로 강제 발광하여 적중된 대상의 위치를 노출시킨다.
 
 ## legendary-wings
 
 ---
 
-* **황금의 속도:**
-  * 황금색의 비행 장비다.
-  * 중력을 완전히 무시하는 웅장한 비행 궤적을 그린다.
-  * 오차 없이 착륙할 수 있는 기동성을 제공한다.
+* **황금의 속도**
+  * [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 황금 비행 장비이다.

@@ -2,6 +2,14 @@
 
 ---
 
+## concept
+
+---
+
+* null
+* null
+* null
+
 ## design
 
 ---
@@ -11,14 +19,6 @@
 * null
 
 ## lore
-
----
-
-* null
-* null
-* null
-
-## concept
 
 ---
 

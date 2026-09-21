@@ -2,6 +2,16 @@
 
 ---
 
+## concept
+
+---
+
+* 보스는 *성전환된 황금 제우스*의 안티테제로 구상되었다.
+* 보스는 [심판](../../../core/messengers/Messengers_Header.md#judgment)으로 인해 *자아가 거세된 악령*으로 구상되었으나, 구현되지 않았다.
+* 보스는 [버디](../../purgatorium/buddy/Buddy_Header.md)의 안티테제로 구상되었으나, 구현되지 않았다.
+* 보스는 [사자들](../../../core/messengers/Messengers_Header.md) 세계관의 방향이 잡히면서 역할이 모호해지기도 하였다.
+* 보스는 설정 기획에 집중하게 되면서 장비의 수가 적은 상태로 방치되었다.
+
 ## design
 
 ---
@@ -28,16 +38,3 @@
   - 보스 철학적인 성격
 * **마카베오기(요나단 마카베오의 세속화)**
   - 보스 [지옥](../../../core/messengers/Messengers_Header.md#hell) 소속
-
-## concept
-
----
-
-* **보스 기획 계기:**
-  - *성전환된 황금 제우스*에 대한 반감이다.
-* **보스 기획 초기:**
-  - [심판](../../../core/messengers/Messengers_Header.md#judgment)으로 인해 *자아가 거세된 악령*으로 구상되었으나, 구현되지 않았다.
-  - [버디](../../purgatorium/buddy/Buddy_Header.md)의 안티테제로 구상되었으나, 구현되지 않았다.
-* **보스 기획 과정:**
-  - [사자들](../../../core/messengers/Messengers_Header.md) 세계관의 방향이 잡히면서 보스의 역할이 모호해졌다.
-  - 설정 기획에 집중하게 되면서 장비의 수가 적은 상태로 방치되었다.
