@@ -4,7 +4,7 @@
 
 | **Name** | 옷 맨 |
 | :--- | :--- |
-| **Alias** | 변태새끼 |
+| **Alias** | 변태 새끼 |
 | **Position** | 루차도르 |
 | **Department** | 옷장 |
 | **Gender** | 남성 |

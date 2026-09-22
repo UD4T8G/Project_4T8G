@@ -14,22 +14,22 @@
 
 ---
 
-* **너도 한 방, 나도 한 방**
-  * [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 죽창검이다.
-  * 스치기만 해도 목숨이 위험한 파괴력을 보유하고 있다.
+* **너도 한방 나도 한방**
+  - [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 죽창검이다.
+  - 스치기만 해도 치명타를 가한다.
 
 ## bamboo-spear-lightning-fortress
 
 ---
 
 * **피뢰침**
-  * 판다 주식회사 3층 왼손 본부에 구축된 포탑이다.
-  * [죽창검](#bamboo-spear-sword) 사정거리 밖에서 번개 공격을 가한다.
+  - 판다 주식회사 3층 왼손 본부에 구축된 포탑이다.
+  - [죽창검](#bamboo-spear-sword) 사정거리 밖에서 번개 공격을 가한다.
  
 ## wingcorg-gambit
 
 ---
 
 * **엄청난 일**
-  * 판비가 대화를 걸었을 때, 상대가 짜증 섞인 목소리로 "왜!"라고 화답하면 발동된다.
-  * "엄청난 일이 일어났습니다!"라는 선언과 함께 QTE를 발동한다.
+  - 판비가 시전했을 경우, 적군이 "왜!"라고 접수하면 발동된다.
+  - "엄청난 일이 일어났습니다!"라는 선언과 함께 QTE를 발동한다.

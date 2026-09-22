@@ -1,9 +1,75 @@
-## Project_4T8G: Universe Architecture
+# Project_4T8G: Universe Architecture Framework
 
-**Project_4T8G** is a project aimed at solving maintenance issues in universe settings by applying software engineering methodologies.
+---
 
-All data in this repository is drafted with future implementation in mind. To prevent conflicts and contradictions between settings and to guarantee flawless maintainability, it adheres to the following structural constraints:
+> *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
-1. **Minimizing Control Flow Complexity:** It prevents complex, tangled exception handling and simplifies the flow of resources and status effect values into a directed graph.
-2. **Strict Encapsulation:** The internal logic of the characters (power source computations, status effect conditions, etc.) is logically hidden to prevent arbitrary external manipulation. This prevents fatal lore-breaking conflicts caused by reckless interventions and ensures data integrity.
-3. **Separation of Concerns (SoC):** By strictly separating the common rule layer from the individual object layer, it fundamentally blocks any side effects caused by setting changes.
+## overview-&-design-philosophy
+
+---
+
+* **Project_4T8G** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
+* To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
+
+1. **Minimizing Control Flow Complexity:** Eliminates tangled exception handling by modeling all status effects, power sources, and resource exchanges into simplified directed graphs.
+2. **Strict Encapsulation:** Logically hides the internal computation logic of individual entities (power sources, conditional triggers, state transformations). External modules cannot arbitrarily manipulate internal states, protecting core lore integrity.
+3. **Separation of Concerns (SoC):** Strictly decouples the global system rule layer from individual object definitions, fundamentally preventing systemic side effects caused by local lore edits.
+
+## the-tripartite-file-standard
+
+---
+
+Every domain or entity within this framework is structured into a standardized **Tripartite File Set (`Header`, `Main`, `Source`)**, enforcing clear boundary lines between mechanics, narrative execution, and reference data:
+
+```text
+       ┌────────────────────────────────────────────────────────┐
+       │                   Tripartite File Set                  │
+       ├───────────────────┬──────────────────┬─────────────────┤
+       │     *_Header      │      *_Main      │     *_Source    │
+       │ (Logic & Specs)   │ (Execution & Flow)│ (Verification) │
+       └─────────┬─────────┴────────┬─────────┴────────┬────────┘
+                 │                  │                  │
+                 ▼                  ▼                  ▼
+          System Mechanics    Sequence & Lines   Academic Roots
+```
+
+| File Standard | Layer | Responsibility & Scope |
+| :--- | :--- | :--- |
+| **`*_Header.md`** | **Logic & Mechanics** | Structural constraints, parameters, equipment modules, department rules, state transition graphs. |
+| **`*_Main.md`** | **Execution & Narrative** | Timeline sequences (Prequel, Spin-off, Sequel), character traits, and dialogue scripts. |
+| **`*_Source.md`** | **Verification & Reference** | Philological/Academic references, raw concepts, design footnotes, and textual criticism sources. |
+
+## template-directory-structure
+
+---
+
+* The open-source core framework provides boilerplate templates located under the `Template/` directory:
+
+```text
+Template/
+├── core/
+│   ├── Core_Template_Header.md        # Boilerplate for global rules & department specs
+│   ├── Core_Template_Main.md          # Boilerplate for main storyline & timeline sequences
+│   └── Core_Template_Source.md        # Boilerplate for system-wide references & concepts
+│
+└── characters/
+    └── characters_template/
+        ├── Characters_Template_Header.md # Boilerplate for entity parameters & encapsulation
+        ├── Characters_Template_Main.md   # Boilerplate for entity characteristics & lines
+        └── Characters_Template_Source.md # Boilerplate for entity-specific design references
+```
+
+## getting-started
+
+---
+
+1. **Copy Templates:** Copy the contents of `Template/` into your active worldbuilding workspace.
+2. **Define Core Rules:** Fill out `Core_Template_Header.md` to establish global constraints before creating entities.
+3. **Encapsulate Entities:** Define independent character parameters inside `Characters_Template_Header.md`, ensuring internal state computations remain private to the entity.
+4. **Link Narrative Sequences:** Reference defined headers inside `Main` files using structured Markdown relative links.
+
+## license
+
+---
+
+* **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.txt)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.

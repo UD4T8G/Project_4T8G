@@ -6,7 +6,7 @@
 
 ---
 
-> *[마법 천재](../bdhwbdem/BDHWBDEM_Header.md)의 친동생으로, [엮은이법](../../../core/editor_law/Editor_Law_Header.md)의 기획자이다.*
+> *김씨는 [마법 천재](../bdhwbdem/BDHWBDEM_Header.md)의 친동생으로, [엮은이법](../../../core/editor_law/Editor_Law_Header.md)의 기획자이다.*
 
 ## lines
 
