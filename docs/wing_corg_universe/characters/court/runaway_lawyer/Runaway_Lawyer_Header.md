@@ -1,7 +1,5 @@
 # Runaway Lawyer Header
 
----
-
 | **Name** | 잘나가는 변호사 |
 | :--- | :--- |
 | **Alias** | 잘 **나가는** 변호사 |

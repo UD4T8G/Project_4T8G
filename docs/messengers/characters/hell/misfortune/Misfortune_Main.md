@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *[포춘](./Misfortune_Header.md#fortune)은 백색 제복과 회색 성벽관을 착용하고 있으며, 미스포춘의 상반신이다.*
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 황금색 프센트를 착용하고 백색 수염을 기른 금안의 백색 뱀이며, 미스포춘의 하반신이다.*
@@ -20,9 +18,9 @@
 >
 > *그러나 이러한 포악함 뒤에는 직접 죄인을 심판하지 못할 정도로 마음이 약한 본성과, 자신의 비극적인 운명과 파멸마저 쿨하게 털어내는 체념이 공존한다.*
 
-## lines
-
 ---
+
+## lines
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(걱정하며)* "두려워하시면 제가 곤란해요. [지옥](../../../core/messengers/Messengers_Header.md#hell)의 [사자들](../../../core/messengers/Messengers_Header.md) 처음 보세요?"
 

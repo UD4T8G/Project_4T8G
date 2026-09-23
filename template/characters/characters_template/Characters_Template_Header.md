@@ -1,7 +1,5 @@
 # Characters Template Header
 
----
-
 | **Name** | null |
 | :--- | :--- |
 | **Alias** | null |
@@ -10,43 +8,43 @@
 | **Gender** | null |
 | **Age Group** | null |
 
-## null
-
 ---
-
-* **null**
-  - null
-  - null
-  - null
-* **null**
-  - null
-  - null
-  - null
-* **null**
-  - null
-  - null
-  - null
 
 ## null
 
----
+* **null**
+  - null
+  - null
+  - null
+* **null**
+  - null
+  - null
+  - null
+* **null**
+  - null
+  - null
+  - null
 
-* **null**
-  - null
-  - null
-  - null
-* **null**
-  - null
-  - null
-  - null
-* **null**
-  - null
-  - null
-  - null
+---
 
 ## null
 
+* **null**
+  - null
+  - null
+  - null
+* **null**
+  - null
+  - null
+  - null
+* **null**
+  - null
+  - null
+  - null
+
 ---
+
+## null
 
 * **null**
   - null

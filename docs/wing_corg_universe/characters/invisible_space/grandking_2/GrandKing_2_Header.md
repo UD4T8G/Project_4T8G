@@ -1,7 +1,5 @@
 # GrandKing 2 Header
 
----
-
 | **Name** | 할왕 2 |
 | :--- | :--- |
 | **Alias** | KNJ 울트라 프로젝트급 둠 시나리오 |

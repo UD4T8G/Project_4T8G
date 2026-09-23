@@ -4,15 +4,13 @@
 
 ## characteristics
 
----
-
 > *액체 판다가 수면 중인 [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)에게 흘러들어가서 짝짓기한 뒤 태어난 천재 혼혈 종족이다.*
 
 > *판코기들은 원래 윙콕 가족들과 함께 살았으나, [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)가 쫓아내면서 산골짜기로 피난했다.*
 
-## lines
-
 ---
+
+## lines
 
 > **판코기:** "이번 연구는 잘 되가고 있습니다. [빨랫방망이 할아버지](../batlet_grandpa/Batlet_Grandpa_Header.md) 모셔오세요."
 

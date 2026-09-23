@@ -1,7 +1,5 @@
 # Lottery Homeless Header
 
----
-
 | **Name** | 복권 거지 |
 | :--- | :--- |
 | **Alias** | 거지 형제 |
@@ -10,9 +8,9 @@
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-## lottery
-
 ---
+
+## lottery
 
 * **일확천금**
   - 복권 거지의 사업.

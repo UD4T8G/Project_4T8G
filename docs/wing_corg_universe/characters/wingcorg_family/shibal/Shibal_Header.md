@@ -1,7 +1,5 @@
 # Shibal Header
 
----
-
 | **Name** | 시바 |
 | :--- | :--- |
 | **Alias** | 윙콕 딸, **베베** |
@@ -10,26 +8,26 @@
 | **Gender** | 여성 |
 | **Age Group** | 소녀기 |
 
-## reality-denial-filter
-
 ---
+
+## reality-denial-filter
 
 * **망상장애**
   - 눈 앞의 모든 것을 왜곡된 형태로 인지한다.
   - 대상의 성질은 왜곡된 상태로 상호작용된다.
   - 정신 피해를 입거나 장애가 완화될 경우 위력이 감소한다.
 
-## cheerful-step
-
 ---
+
+## cheerful-step
 
 * **꽃길만 걷자**
   - 자신이 걷는 길을 꽃길이라고 착각한다.
   - 벽이 있어도 정원 문처럼 열고 지나간다.
 
-## scattering-petals
-
 ---
+
+## scattering-petals
 
 * **꽃잎 축제**
   - 주변의 모든 것을 꽃잎으로 착각한다.

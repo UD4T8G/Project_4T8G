@@ -1,7 +1,5 @@
 # Reaper King Header
 
----
-
 | **Name** | 사신왕 |
 | :--- | :--- |
 | **Alias** | 똑바로 말하라고! |

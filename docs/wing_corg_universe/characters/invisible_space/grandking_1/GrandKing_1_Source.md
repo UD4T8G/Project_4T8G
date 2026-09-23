@@ -4,8 +4,6 @@
 
 ## concept
 
----
-
 * 할왕 1은 [김씨](../mr._kim/Mr._Kim_Header.md) 기획자가 단독 기획하였다.
   - [BDHWBDEM](../bdhwbdem/BDHWBDEM_Header.md) 기획자는 기획 계기 정보를 소실하였다.
   - 행적상 [BDHWBDEM](../bdhwbdem/BDHWBDEM_Header.md)의 적수로 기획되었을 것이라는 추측만이 있을 뿐이다.

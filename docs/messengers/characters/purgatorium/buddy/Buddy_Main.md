@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *버디는 은색 철가면, 적색 포인트의 흑색 로브, 적색 벨트의 흑색 긴 바지, 적색 끈의 흑색 부츠를 착용하고 있다. 그의 신체는 은색 용광로의 [애퍼래터스](./Buddy_Header.md#apparatus)와, 흑색 손에 박힌 적안의 [성흔안](./Buddy_Header.md#stigmata-eyes)으로 구성되어 있다.*
 
 > *[애퍼래터스](./Buddy_Header.md#apparatus)는 적색 불꽃을 품은 그릇의 [심판의 화살](./Buddy_Header.md#judgment-bolt)을 철창으로 가두고 있다. [성흔안](./Buddy_Header.md#stigmata-eyes)은 어깨 뒤에 2개, 머리 뒤에 2개, 머리 앞에 철가면을 잡는 2개가 존재한다. 철가면에서는 검은 눈물이 흐른다.*
@@ -18,9 +16,9 @@
 
 > *버디는 [고트](./Buddy_Header.md#goat)를 혈육처럼 아끼고, [고트](./Buddy_Header.md#goat)가 자신을 위해 희생할 때마다 극도의 고통을 품고 기도한다. [고트](./Buddy_Header.md#goat)는 이러한 버디를 주인으로 모시기 때문에 목숨을 걸고 버디에게 충성하며, 버디 앞에서만 경어체를 사용하여 말한다.*
 
-## lines
-
 ---
+
+## lines
 
 > **버디:** "두려워하지 말라. 나는 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)에 큰 기쁨이 될 소식을 전하러 온 [사자들](../../../core/messengers/Messengers_Header.md)이다."
 >

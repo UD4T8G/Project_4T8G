@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > **직원 판다:** "W~! -~! B~! 나가라~! 나가~!"
 
 > *BDHWBDEM은 흑백색의 발산된 사태극과 흑백색의 복희 팔괘로 구성되어 있다.*
@@ -22,9 +20,9 @@
 >
 > *BDHWBDEM이 다시 [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)로 돌아와서 모든 능력을 되찾은 후에는 가끔씩 [사자들](../../../../messengers/core/messengers/Messengers_Header.md)의 [유산들](./BDHWBDEM_Header.md#legacies)을 정리하며 조용히 애도하곤 했다.*
 
-## lines
-
 ---
+
+## lines
 
 > **BDHWBDEM:** *([아스트라페](./BDHWBDEM_Header.md#legacies)로 할복하며)* "**죽을죄를 지었습니다!** 그가 말했지..."
 >

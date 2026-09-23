@@ -1,8 +1,5 @@
 # Boss Header
 
----
-
-
 | **Name** | 보스 |
 | :--- | :--- |
 | **Alias** | 디에우스 프테르 |
@@ -11,9 +8,9 @@
 | **Gender** | 남성(보스), 여성([아이기스](#aegis)) |
 | **Age Group** | 중년기(보스), 노년기([아이기스](#aegis)) |
 
-## aegis
-
 ---
+
+## aegis
 
 * **[사자들](../../../core/messengers/Messengers_Header.md)의 [날개](../../../core/messengers/Messengers_Header.md#wings)** 
   - 아이기스를 통해 [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 제어한다.
@@ -25,9 +22,9 @@
   - 피해를 입을 때마다 [날개](../../../core/messengers/Messengers_Header.md#wings)가 충전된다.
   - 방어력은 적군의 모든 권능에 비례한다.
 
-## astrape
-
 ---
+
+## astrape
 
 * **아스트라페 창**
   - 아스트라페를 손에 들고 창으로 사용한다.

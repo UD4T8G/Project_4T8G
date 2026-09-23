@@ -1,12 +1,10 @@
 # Project_4T8G: Universe Architecture Framework
 
----
-
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
-## overview-&-design-philosophy
-
 ---
+
+## overview-&-design-philosophy
 
 * **Project_4T8G** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
 * To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
@@ -15,9 +13,9 @@
 2. **Strict Encapsulation:** Logically hides the internal computation logic of individual entities (power sources, conditional triggers, state transformations). External modules cannot arbitrarily manipulate internal states, protecting core lore integrity.
 3. **Separation of Concerns (SoC):** Strictly decouples the global system rule layer from individual object definitions, fundamentally preventing systemic side effects caused by local lore edits.
 
-## the-tripartite-file-standard
-
 ---
+
+## the-tripartite-file-standard
 
 Every domain or entity within this framework is structured into a standardized **Tripartite File Set (`Header`, `Main`, `Source`)**, enforcing clear boundary lines between mechanics, narrative execution, and reference data:
 
@@ -39,9 +37,9 @@ Every domain or entity within this framework is structured into a standardized *
 | **`*_Main.md`** | **Execution & Narrative** | Timeline sequences (Prequel, Spin-off, Sequel), character traits, and dialogue scripts. |
 | **`*_Source.md`** | **Verification & Reference** | Philological/Academic references, raw concepts, design footnotes, and textual criticism sources. |
 
-## template-directory-structure
-
 ---
+
+## template-directory-structure
 
 * The open-source core framework provides boilerplate templates located under the `Template/` directory:
 
@@ -59,17 +57,17 @@ Template/
         └── Characters_Template_Source.md # Boilerplate for entity-specific design references
 ```
 
-## getting-started
-
 ---
+
+## getting-started
 
 1. **Copy Templates:** Copy the contents of `Template/` into your active worldbuilding workspace.
 2. **Define Core Rules:** Fill out `Core_Template_Header.md` to establish global constraints before creating entities.
 3. **Encapsulate Entities:** Define independent character parameters inside `Characters_Template_Header.md`, ensuring internal state computations remain private to the entity.
 4. **Link Narrative Sequences:** Reference defined headers inside `Main` files using structured Markdown relative links.
 
-## license
-
 ---
+
+## license
 
 * **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.txt)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.

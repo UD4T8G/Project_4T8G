@@ -1,7 +1,5 @@
 # Buddy Header
 
----
-
 | **Name** | 버디 |
 | :--- | :--- |
 | **Alias** | 베디오비스(버디), 유다 염소([고트](#goat)) |
@@ -10,17 +8,17 @@
 | **Gender** | 중성(버디), 중성([고트](#goat)) |
 | **Age Group** | 청년기(버디), 중년기([고트](#goat)) |
 
-## bagua
-
 ---
+
+## bagua
 
 * **[사자들](../../../core/messengers/Messengers_Header.md)의 [날개](../../../core/messengers/Messengers_Header.md#wings)**
   - 팔괘를 통해 [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 제어한다.
   - 자신과 주변의 모든 것을 함께 다른 좌표로 이동시킬 수 있는 포털을 소환한다.
 
-## apparatus
-
 ---
+
+## apparatus
 
 * **버디의 신체**
   - 철가면을 쓰고 있는 기계이다. 
@@ -30,9 +28,9 @@
   - [심판의 화살](#judgment-bolt)을 제작, 보관, 사출한다.
   - 담은 모든 것을 [심판의 화살](#judgment-bolt)에 보관한다.
 
-## judgment-bolt
-
 ---
+
+## judgment-bolt
 
 * **심판**
   - 보관한 모든 것을 연단하고 조율한다.
@@ -45,9 +43,9 @@
   - [심판의 화살](#judgment-bolt) 여러 개를 하나로 합쳐 강화한다.
   - [심판의 화살](#judgment-bolt) 그릇에 혼돈을 담아 정확도를 제어한다.
 
-## stigmata-eyes
-
 ---
+
+## stigmata-eyes
 
 * **안광**
   - 적중된 모든 것의 좌표를 지속적으로 조종한다.
@@ -56,9 +54,9 @@
   - 보관한 모든 피해를 적중된 적군에게 적용한다.
   - 보관한 모든 피해를 [애퍼래터스](#apparatus)로 정화하여 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 충전한다.
 
-## goat
-
 ---
+
+## goat
 
 * **해제**
   - 버디의 염소는 [성흔안](#stigmata-eyes)으로 구성되어 있으며, 그 능력을 사용할 수 있게 된다.

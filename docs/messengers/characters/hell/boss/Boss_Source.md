@@ -4,17 +4,15 @@
 
 ## concept
 
----
-
 * 보스는 *성전환된 황금 제우스*의 안티테제로 구상되었다.
 * 보스는 [심판](../../../core/messengers/Messengers_Header.md#judgment)으로 인해 *자아가 거세된 악령*으로 구상되었으나, 구현되지 않았다.
 * 보스는 [버디](../../purgatorium/buddy/Buddy_Header.md)의 안티테제로 구상되었으나, 구현되지 않았다.
 * 보스는 [사자들](../../../core/messengers/Messengers_Header.md) 세계관의 방향이 잡히면서 역할이 모호해지기도 하였다.
 * 보스는 설정 기획에 집중하게 되면서 장비의 수가 적은 상태로 방치되었다.
 
-## design
-
 ---
+
+## design
 
 * **Αἰγίς**
   - [아이기스](./Boss_Header.md#aegis) 방패
@@ -26,9 +24,9 @@
 * **자색 염료(고대 사회의 뿔소라 추출 염료는 효율이 극도로 낮아 황금보다 희귀)**
   - 자색 포인트
 
-## lore
-
 ---
+
+## lore
 
 * **\*Dyēus(하늘/빛) Ph₂tḗr(아버지)**
 * **Diovis(\*Dyēus 파생 고대 라틴어 명칭)**

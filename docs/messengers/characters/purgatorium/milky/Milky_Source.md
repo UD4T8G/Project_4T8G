@@ -4,8 +4,6 @@
 
 ## concept
 
----
-
 * 밀키 기획 이전에는 [버디](../buddy/Buddy_Header.md)의 일부로 구상되었다.
   - 오른팔 대신 사슬팔을 사용하는 소녀로 구상되고 있었다.
     + [버디](../buddy/Buddy_Header.md) 본체를 오른팔 대신 장착하여 사용하고, [버디](../buddy/Buddy_Header.md)의 동력이 되는 등, 폼 체인지를 구상했다.
@@ -30,9 +28,9 @@
   - 정확하게는 석비의 훼손이 심했다는 점이 오히려 무형성을 연상시켜서 *셀리눈테* 등지의 *Meilichioi*를 참조하게 된 것이다.
   - 이는 밀키의 연령대를 소녀기로 구상한 이유이기도 하다.
 
-## design
-
 ---
+
+## design
 
 ```text
 Meilichios(남성)
@@ -56,9 +54,9 @@ Meilichioi(중성)
 * **[Project_4T8G](../../../../../README.md)의 아이콘 일부**
   - [사태극](./Milky_Header.md#sitaegeuk) 디자인
 
-## lore
-
 ---
+
+## lore
 
 * **Meilichia**
   - 밀키 별명 설정

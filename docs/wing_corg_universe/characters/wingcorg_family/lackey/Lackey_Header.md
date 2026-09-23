@@ -1,7 +1,5 @@
 # Lackey Header
 
----
-
 | **Name** | 라카이 |
 | :--- | :--- |
 | **Alias** | 푸른 가고일 |
@@ -10,17 +8,17 @@
 | **Gender** | 남성 |
 | **Age Group** | 중년기 |
 
-## remnants-of-guardian
-
 ---
+
+## remnants-of-guardian
 
 * **공허의 수호자**
   - 소환되면서 깨어난 힘이다.
   - 공허 마법을 다룬다.
 
-## enslaved-spirit
-
 ---
+
+## enslaved-spirit
 
 * **합체**
   - 아군과 합체하여 아군을 강화한다.
@@ -29,9 +27,9 @@
   - 액체처럼 흘러서 이동한다.
   - 매우 고통스럽게 회복한다.
 
-## unreachable-sweetness
-
 ---
+
+## unreachable-sweetness
 
 * **그림의 떡**
   - 한정판 사탕을 영원히 먹을 수 없게 된 저주이다.
@@ -43,9 +41,9 @@
   - 제작자는 화장실에서 무조건 암살당한다.
   - 어떻게든 혀에 닿는다 해도 미각이 상실된다.
 
-## helmet-blaring-swear-words-that-only-the-person-wearing-it-can't-hear
-
 ---
+
+## helmet-blaring-swear-words-that-only-the-person-wearing-it-can't-hear
 
 * **저주받은 선물**
   - [윙코기](../wingcorgi/WingCorgi_Header.md)가 만든 [X-프로토콜](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#x-protocol) 아머이다.

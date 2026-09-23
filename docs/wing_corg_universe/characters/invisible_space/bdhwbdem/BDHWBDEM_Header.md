@@ -1,7 +1,5 @@
 # BDHWBDEM Header
 
----
-
 | **Name** | BDHWBDEM |
 | :--- | :--- |
 | **Alias** | 마법 천재, W-B |
@@ -10,17 +8,17 @@
 | **Gender** | null |
 | **Age Group** | null |
 
-## sitaegeuk-bagua
-
 ---
+
+## sitaegeuk-bagua
 
 * **4T8G**
   - BDHWBDEM의 그릇이다.
   - 세계관을 관리한다.
 
-## legacies
-
 ---
+
+## legacies
 
 * **코르누코피아**
   - [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)에서 사용할 수 없는 무기이다.

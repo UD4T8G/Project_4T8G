@@ -1,7 +1,5 @@
 # Chu Header
 
----
-
 | **Name** | 추여사 |
 | :--- | :--- |
 | **Alias** | 추하다 추여사, 추침팬치, 추고릴라, 추침팬고릴라 |
@@ -10,25 +8,25 @@
 | **Gender** | 여성 |
 | **Age Group** | 중년기 |
 
-## expressionless-madam-chu
-
 ---
+
+## expressionless-madam-chu
 
 * **추하다**
   - 추여사 특유의 무표정이다.
   - 모두가 기겁하여 얼어붙는다.
- 
-## dimensional-search
 
 ---
+
+## dimensional-search
 
 * **아우에**
   - 세계관 탐색 능력이다.
   - 동체급 무패의 대진운을 발동한다.
 
-## disaster-of-chu-chimpan-gorilla
-
 ---
+
+## disaster-of-chu-chimpan-gorilla
 
 * **아우에**
   - 연승 시 발동된다.

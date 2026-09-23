@@ -4,15 +4,13 @@
 
 ## concept
 
----
-
 * 사자들은 다른 신이 아니라 새겨진 우상(Graven Image)으로 구상되었다.
   - 이는 종교적 에피테트가 아니라 비평학적 사실을 참조하였기 때문이다.
   - 따라서 그들은 천사나 악마보다는 베헤못과 리워야단에 가깝게 묘사된다.
 
-## design
-
 ---
+
+## design
 
 ```text
 EPHESIANS 6:12
@@ -181,9 +179,9 @@ REVELATION 3:16
 * **MATTHEW 22:30**
   - [첫 데이트](./Messengers_Main.md#first-date) "사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?" 디자인
 
-## lore
-
 ---
+
+## lore
 
 ```text
 4Q530 2 ii 2

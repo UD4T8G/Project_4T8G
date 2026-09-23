@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *고깃집 사장은 [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)의 목욕물로 육수를 팔고, 그 살점으로 개고기를 팔아 성공한 악덕 사장이다.*
 
 > *고깃집 사장은 [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)의 칼솜씨에 감탄하여 윙고기라는 별명을 붙여줬다.*
@@ -22,9 +20,9 @@
 >
 > *그동안 정육점은 윙콕 가족의 훌륭한 무료 고기 뷔페가 되었다.*
 
-## lines
-
 ---
+
+## lines
 
 > **고깃집 사장:** "야 이 도둑놈아!!! 아이고, 내 고기!!!"
 

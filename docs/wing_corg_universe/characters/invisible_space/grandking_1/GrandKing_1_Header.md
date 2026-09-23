@@ -1,7 +1,5 @@
 # GrandKing 1 Header
 
----
-
 | **Name** | 할왕 1 |
 | :--- | :--- |
 | **Alias** | KNJ 울트라 프로젝트급 둠 시나리오 |

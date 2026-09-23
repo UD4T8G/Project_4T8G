@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *할왕 2는 장풍으로 세상을 멸망시킬 모두의 할아버지이다.*
 >
 > *이걸 맞고 살아남은 손주가 없다고 전해진다.*
@@ -14,9 +12,9 @@
 
 > *할왕 2는 [빨랫방망이 할아버지](../../cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md)와 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)의 스승이다. 그들에게 거리와 상관없는 능력을 가르쳤다.*
 
-## lines
-
 ---
+
+## lines
 
 > **할왕 2:** *(흔적도 남지 않은 손주 앞에서 춤을 추며)* "할멈! 살살혀! 그러다 또 부술라!"
 

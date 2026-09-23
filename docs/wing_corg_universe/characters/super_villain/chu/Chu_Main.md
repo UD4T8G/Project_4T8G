@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *추여사는 "추하다 추여사" 놀림을 받고 진짜로 추해진 빌런이다.*
 
 > *추여사는 연승을 거듭하여 추침팬치, 추고릴라, 추침팬고릴라로 진화해 대륙 파괴급 재앙이 되었다.*
@@ -16,9 +14,9 @@
 >
 > *추여사와 [W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md)는 단 한 번도 직접 만난 적이 없다.*
 
-## lines
-
 ---
+
+## lines
 
 > **추여사:** "아! 우! 에!([W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md) 바보!)"
 

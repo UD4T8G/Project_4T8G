@@ -1,7 +1,5 @@
 # DAS3OS Header
 
----
-
 | **Name** | DAS3OS |
 | :--- | :--- |
 | **Alias** | 스페이스 인베이더 |
@@ -10,24 +8,24 @@
 | **Gender** | 남성 |
 | **Age Group** | 청년기 |
 
-## supernova
-
 ---
+
+## supernova
 
 * **슈퍼노바 버서커**
   - 체력이 일정 수치만큼 감소할 때마다 더욱 강해진다.
 
-## stellar-pistol
-
 ---
+
+## stellar-pistol
 
 * 가벼운 두 정의 권총이다.
 * **스텔라 그레네이드**
   - 광범위하게 폭발하는 유탄을 발사한다.
 
-## stellar-minigun
-
 ---
+
+## stellar-minigun
 
 * 탄환을 속사하는 무거운 미니건이다.
 * **스텔라 불릿**

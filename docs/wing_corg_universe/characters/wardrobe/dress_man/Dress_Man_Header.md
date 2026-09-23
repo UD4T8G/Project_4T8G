@@ -1,7 +1,5 @@
 # Dress Man Header
 
----
-
 | **Name** | 옷 맨 |
 | :--- | :--- |
 | **Alias** | 변태 새끼 |

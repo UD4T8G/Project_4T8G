@@ -4,13 +4,11 @@
 
 ## prequel
 
----
-
 > *만악의 근원*
 
-### wtf
-
 ---
+
+### wtf
 
 > **[마법 천재](../../characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md):** "그게 뭔데?"
 

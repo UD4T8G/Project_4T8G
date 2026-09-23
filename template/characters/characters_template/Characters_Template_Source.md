@@ -4,23 +4,21 @@
 
 ## concept
 
----
+* null
+* null
+* null
 
-* null
-* null
-* null
+---
 
 ## design
 
----
+* null
+* null
+* null
 
-* null
-* null
-* null
+---
 
 ## lore
-
----
 
 * null
 * null

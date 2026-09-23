@@ -4,17 +4,15 @@
 
 ## characteristics
 
+> *null*
+
+> *null*
+
+> *null*
+
 ---
-
-> *null*
-
-> *null*
-
-> *null*
 
 ## lines
-
----
 
 > **Characters:** *(null)* "null"
 

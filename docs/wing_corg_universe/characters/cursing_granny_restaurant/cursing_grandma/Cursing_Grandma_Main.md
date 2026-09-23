@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *욕쟁이 할머니는 허리가 아프다는 핑계로 모든 일을 [애미](../james_inferno/James_Inferno_Header.md)에게 떠넘긴다.*
 
 > *[애미](../james_inferno/James_Inferno_Header.md)가 수입을 횡령한 뒤 손님이 없었다는 핑계를 대도, 욕쟁이 할머니는 동네 사람들을 협박해서 하루에 얼마를 벌 수 있는지 알 수 있다.*
@@ -22,9 +20,9 @@
 
 > *욕쟁이 할머니는 지구 반대편의 뒷담화를 들을 수 있으며, 1초 만에 문을 부수고 쳐들어와 도시락을 강제로 먹인다.*
 
-## lines
-
 ---
+
+## lines
 
 > **욕쟁이 할머니:** "[애미](../james_inferno/James_Inferno_Header.md)야! 어서 가서 보쌈을 만들어라!"
 >

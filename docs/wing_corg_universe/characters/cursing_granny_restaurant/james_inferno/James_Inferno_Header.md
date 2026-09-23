@@ -1,7 +1,5 @@
 # James Inferno Header
 
----
-
 | **Name** | 제임스 인페르노 |
 | :--- | :--- |
 | **Alias** | 슴가, 애미 |

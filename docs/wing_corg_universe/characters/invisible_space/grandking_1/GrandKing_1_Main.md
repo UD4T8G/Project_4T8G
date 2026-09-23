@@ -4,8 +4,6 @@
 
 ## characteristics
 
----
-
 > *할왕 1은 땡콩으로 세상을 멸망시킬 모두의 할머니이다.*
 >
 > *이걸 맞고 살아남은 손주가 없다고 전해진다.*
@@ -14,10 +12,10 @@
 
 > *할왕 1은 [빨랫방망이 할아버지](../../cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md)와 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)의 스승이다. 그들에게 출력과 상관없는 능력을 가르쳤다.*
 
+---
+
 ## lines
 
----
- 
 > **할왕 1:** *(모든 다중우주가 존재한 적 없게 만들며)* "진심 땡콩!"
 
 > **할왕 1:** *(행성이 존재한 적 없게 만들며)* "땡콩이 맞고 싶은 게냐?"

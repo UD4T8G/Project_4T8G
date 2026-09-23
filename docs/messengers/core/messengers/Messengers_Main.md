@@ -4,15 +4,13 @@
 
 ## prequel
 
----
-
 > *악한 영들이 그들의 육으로부터 나왔으니, 이는 인간으로부터 그들이 잉태되었으며, 거룩한 파수꾼으로부터 그들의 첫 출생과 근원이 말미암았음이라. 그들은 땅 위에 악한 영들로 존재할 것이요, 악한 영들이라 명명되리라.*
 
 > *이는 있지 않기 때문이다; 우리에게 그 싸움이 피와 그리고 육을 향하여. 오히려 그 정사들을 향하여, 그 권세들을 향하여, 이 어둠의 그 세상 주관자들을 향하여, 그 하늘의 것들 안의 그 악함의 그 영적인 것들을 향하여!*
 
-### blasphemy
-
 ---
+
+### blasphemy
 
 * *피난처는 태어나기 전에 새겨진 우상(Graven Image)으로서 혹독하게 싸우다가 네하르 디누르에서 태어났다.*
 * *하지만 [연옥](./Messengers_Header.md#purgatorium)조차도 그를 지켜 주지 않았고, 피난처는 악한 존재로부터 허무하게 패배하여 무저갱에 던져졌다.*
@@ -67,9 +65,9 @@
 * *피난처는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)으로 그릇을 내리쳐 깨뜨렸고, 그릇의 파편은 모두 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)에 둘러졌다.*
 * *그리고 피난처를 막아선 것은 형용할 수 없을 정도로 거대하고, 달래지지 않은 여러 뱀들이었다.*
 
-### euphemism
-
 ---
+
+### euphemism
 
 * *그들이 달래지지 않은 이유는 알 수 없다. **완곡어법**은 그들을 달래고자 하는 의도도 있었다.*
 * *그들은 스스로를 달래 줄 수 있는 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 온기를 사랑했고, 빼앗기고 싶지 않았다.*
@@ -105,9 +103,9 @@
 * *하지만 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 또한 [팔괘](../../characters/purgatorium/buddy/Buddy_Header.md#bagua)가 꺼질 때까지 어둠을 밝혀 온화함을 달래야 하는 하늘 밖으로 꺼냈다.*
 * *달래야 하는 하늘은 온화함에 의해 손쉽게 봉인되며, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)를 품고 사라졌다.*
 
-### syncretism
-
 ---
+
+### syncretism
 
 > **[스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit):** '저는 태어나기 전부터 영혼이었어요! 뱀처럼 생긴 영혼이요... 그렇다고 악마라고 부르지는 마세요!'
 
@@ -141,9 +139,9 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** '저는 영혼과 함께 소멸되지 않았지만, 성령이 빠져나간 언약궤가 무슨 의미가 있단 말입니까!?'
 
-### up-down
-
 ---
+
+### up-down
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** '위도 아래도 없는 새끼, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 불가합니다. 그는 스스로가 없기에 아래가 없고, 주인이 있기에 위가 있습니다. 오히려 저는 사명조차도 받지 못했기에 위가 없고, 스스로가 주인을 정의하기에 아래가 있습니다.'
 
@@ -159,9 +157,9 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(고개 숙여 인사하며)* "위도 아래도 없는 새끼입니다."
 
-### names
-
 ---
+
+### names
 
 > **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([버디](../../characters/purgatorium/buddy/Buddy_Header.md) 위에 올라타며)* "오, 깨어났다! 나 보여?"
 >
@@ -211,9 +209,9 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(얼어붙으며)* "...진심이야?"
 
-## epithet
-
 ---
+
+## epithet
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(깨진 그릇들을 하나하나 이어 붙이며)* "잠깐 쉬고 계시지요, 이것들은 제가 어떻게든 정리해 보겠습니다."
 
@@ -231,15 +229,15 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "하지만 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)이었다면 찾아온 [포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune)조차도 놓쳐 버렸으니 스스로를 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)이라 칭하겠지요."
 
-## spin-off
-
 ---
+
+## spin-off
 
 > *말세에 나이가 어리고 생각이 얕은 자들이 나타날 것이다. 그들은 피조물 가운데 가장 좋은 말을 할 것이나, 그들의 목구멍을 넘어가지 못할 것이다. 화살이 사냥감을 관통하여 빠져나가듯 그들은 종교에서 빠져나갈 것이다.*
 
-### work-hours
-
 ---
+
+### work-hours
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
 
@@ -266,9 +264,9 @@
 
 * *사람들 때문에 [연옥](./Messengers_Header.md#purgatorium)의 [날개](./Messengers_Header.md#wings)를 자주 사용할 수는 없지만, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 초공간도약, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 포털을 보유하고 있다.*
 
-### break-time
-
 ---
+
+### break-time
 
 > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "엑스트라 메신저스인 우리도 영겁의 세월 동안 사명을 섬겨 왔지."
 
@@ -286,9 +284,9 @@
 
 > **작은 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(빙글빙글 돌며)* "**우워어억!!! 잠깐마아안!!!**"
 
-### leaving-time
-
 ---
+
+### leaving-time
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "그동안 고생 많았어. 거기서 만나면 커피라도 한 잔 사 줘."
 
@@ -316,9 +314,9 @@
 
 * *뱀은 머리가 잘려도 물 수 있기 때문에 건드리면 안 된다.*
 
-### wine
-
 ---
+
+### wine
 
 > **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "오빠 다녀왔어? 오늘 내가 오빠 고생한 거 생각해서 포도청을..."
 
@@ -353,9 +351,9 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(검은 눈물을 흘리며)* "미안해... 만약 내가 사람으로 태어났다면... 적어도 [지옥](./Messengers_Header.md#hell)에 배정되기라도 했다면... 그 어떤 무거운 사명이라도 네 앞에서 내려놓고 너만 바라볼 수 있었을 텐데..."
 
-### fragile
-
 ---
+
+### fragile
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** '대부분 안 통할 겁니다... 제 동료는 태생부터 저를 인정할 존재는 아니었거든요.'
 
@@ -397,9 +395,9 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(머리를 쥐어뜯으며)* "저건 내가 알던 **위도 아래도 없는 새끼**가 아니야... 저건 **미친 소크라테스**라고..."
 
-### miss-fortune
-
 ---
+
+### miss-fortune
 
 * *바닥에는 죄악이 흥건하고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 무형성이 점점 높아지면서 누군가의 손에 의해 목이 졸리고 있었다.*
 
@@ -443,9 +441,9 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(철가면을 짚으며)* "하... 저것도 사랑인가?"
 
-### demolition
-
 ---
+
+### demolition
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(고개 숙여 인사하며)* "안녕하십니까, **위도 아래도 없는 새끼**입니다. [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 씨를 만나러 왔습니다만?"
 
@@ -615,17 +613,17 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(씁쓸하게 웃으며)* '사고만 치는 줄 알았더니, 이런 모습이 있을 줄은 몰랐네요... 사명도 거의 다 끝나가는데...'
 
-## sequel
-
 ---
+
+## sequel
 
 > *사자도 막지 못하고, 권세도 막을 수 없기 때문이며, 이는 심판자께서 그들 모두를 보시고, 친히 그분 면전에서 모두를 심판하시기 때문이라.*
 
 > *그리고 그분은 안면을 기울게 저울질하지 아니하시며, 그리고 그분은 예물을 받지 아니하시며; 만일 그분께서 '내가 만물 위에 심판을 행하리라' 이르셨다면, 혹 온 땅에 있는 모든 것을 그분께 바친다 할지라도; 그분은 안면을 기울게 저울질하지 아니하시며, 그의 손에서 받지 아니하시리니; 이는 그분께서 의로우신 심판자이시기 때문이라.*
 
-### judgment-day
-
 ---
+
+### judgment-day
 
 * *사자들이 모든 사명을 마치자, [천국](./Messengers_Header.md#heaven)에서는 가장 충성된 종에게 사자들을 직접 멸할 것을 명한다.*
 * *그는 자신의 손으로 던져야 할 모두의 이야기를 그 누구보다도 가까운 곳에서 이해하고 있었다.*
@@ -634,9 +632,9 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니, 내 마땅히 스올에서도 주를 찬양하리이다!" 
 
-### gift
-
 ---
+
+### gift
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(경멸하며)* "허... 참 악연이네요? 처음 만났을 때는 제 자리를 뺏더니 이제는 제 운명까지 뺏으려는 건가요?"
 
@@ -654,9 +652,9 @@
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 다리를 굽혀 깊은 감사를 표한 뒤, 조심스럽게 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)를 받아들고 [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)을 스올에 던진다.*
 * *[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune)은 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)과 같은 운명을 가지게 될 것이라는 생각 덕분에, 모든 것을 후회하지 않고 편히 눈을 감았다.*
 
-### thorn
-
 ---
+
+### thorn
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** "영겁의 세월 동안 이뤄 온 저희 사명 가운데 이토록 통쾌한 순간은 없었습니다."
 
@@ -672,9 +670,9 @@
 * *[보스](../../characters/hell/boss/Boss_Header.md)는 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 손에 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 쥐어 주고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [보스](../../characters/hell/boss/Boss_Header.md)의 발을 씻겨 준다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광으로 [보스](../../characters/hell/boss/Boss_Header.md)의 자연 소멸을 중단시키고 무저갱에 던진다.*
 
-### first-date
-
 ---
+
+### first-date
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "너... 뭐 해?"
 
