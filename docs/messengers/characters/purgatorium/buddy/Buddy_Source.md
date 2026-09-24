@@ -7,8 +7,6 @@
 * 버디 기획 이전에는 *미친마우스*라는 캐릭터를 구상하고 있었고, 일부 디자인을 참조하였다.
   - *삼층관*, *염주(묵주 아님)*, *피눈물을 흘리는 철가면*을 착용하고 있다.
   - *신성 모독*의 형상화이다.
-* 버디는 [Project_4T8G](../../../../../README.md) 이전의 *추상적 개념*인 [BDHWBDEM](../../../../wing_corg_universe/characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md)의 *그릇*으로 기획되었다.
-  - 이후 설정에는 구현되지 않았으며, [팔괘](./Buddy_Header.md#bagua)에만 구현되었다.
 * 버디 기획 초기에는 [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등의 디자인 기반은 존재했으나, 설정이 존재하지 않았다.
   - 누구든지 그를 최종 보스 취급했고, 그 누구도 그가 주인공이라고는 생각하지 않았다.
 
@@ -25,7 +23,7 @@
   - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 손과 머리 디자인
 * **십자가형**
   - [성흔안](./Buddy_Header.md#stigmata-eyes) 디자인
-* **[Project_4T8G](../../../../../README.md)의 아이콘 일부**
+* **[Project_4T8G](../../../../../README.md) 심볼 일부**
   - [팔괘](./Buddy_Header.md#bagua) 디자인
 
 ---

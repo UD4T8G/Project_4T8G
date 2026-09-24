@@ -10,6 +10,6 @@
 
 ### wtf
 
-> **[마법 천재](../../characters/invisible_space/bdhwbdem/BDHWBDEM_Header.md):** "그게 뭔데?"
+> **[욕쟁이 할머니](../../characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md):** "그게 뭔디여?"
 
-> **[김씨](../../characters/invisible_space/mr._kim/Mr._Kim_Header.md):** "[엮은이](./WingCorg_Universe_Header.md#editor)."
+> **[빨랫방망이 할아버지](../../characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md):** "[엮은이](./WingCorg_Universe_Header.md#editor)잖어."

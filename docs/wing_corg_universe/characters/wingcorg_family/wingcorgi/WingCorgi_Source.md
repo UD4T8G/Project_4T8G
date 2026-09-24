@@ -4,7 +4,7 @@
 
 ## concept
 
-* 윙코기 기획 과정에서 [김씨](../../invisible_space/mr._kim/Mr._Kim_Header.md) 기획자는 *윙고기* 설정을 싫어하였다.
+* 윙코기 기획 과정에서 [빨랫방망이 할아버지](../../cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md) 기획자는 *윙고기* 설정을 싫어하였다.
   - 프리퀄 이후로는 묘사하지 않도록 구현되었다.
 
 ---

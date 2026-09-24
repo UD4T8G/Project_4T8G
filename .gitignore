@@ -1,5 +1,6 @@
 # Project Assets & Common Ignores
 reference_arts/
+symbols/
 photos/
 images/
 *.log

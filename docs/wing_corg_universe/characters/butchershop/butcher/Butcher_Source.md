@@ -7,7 +7,7 @@
 * 고깃집 사장 기획 초기에는 고려 시대부터 현대까지 살아남았다는 설정이 있었다.
   - 설정상 고려 시대에 윙고기를 판매했다.
   - 해당 설정은 구현되지 않았다.
-* [마법 천재](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md) 기획자는 고깃집 사장을 *부처님*이라는 애칭으로 부른다.
+* [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md) 기획자는 고깃집 사장을 *부처님*이라는 애칭으로 부른다.
 
 ---
 
