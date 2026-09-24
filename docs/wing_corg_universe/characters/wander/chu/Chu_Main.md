@@ -10,7 +10,7 @@
 
 > *추여사는 [W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md)를 찾으며 끊임없이 도발하였다.*
 >
-> *[W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md)는 당시 직원 판다들의 대규모 시위에 밀려 [투명 공간](../../../core/editor_law/Editor_Law_Header.md#invisible-space)으로 쫓겨난 상태였다.*
+> *[W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md)는 당시 직원 판다들의 대규모 시위에 밀려 [투명 공간](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#invisible-space)으로 쫓겨난 상태였다.*
 >
 > *추여사와 [W-B](../../invisible_space/bdhwbdem/BDHWBDEM_Header.md)는 단 한 번도 직접 만난 적이 없다.*
 

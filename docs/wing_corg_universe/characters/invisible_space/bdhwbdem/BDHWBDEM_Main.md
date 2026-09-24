@@ -10,7 +10,7 @@
 >
 > *허공에서 거대한 모습으로 사명을 섬기지만, 영과 육이 없어서 아무것도 하지 않는 것처럼 보인다.*
 
-> *BDHWBDEM은 판다들의 시위를 받아들여 [투명 공간](../../../core/editor_law/Editor_Law_Header.md#invisible-space)으로 유배됐고, 더 이상 [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)에 정의를 행사하지 않았다.*
+> *BDHWBDEM은 판다들의 시위를 받아들여 [투명 공간](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#invisible-space)으로 유배됐고, 더 이상 [윙콕 유니버스](../../../core/wingcorg_universe/WingCorg_Universe_Header.md)에 정의를 행사하지 않았다.*
 >
 > *그저 각각의 **옴니버스 모듈**이 완결될 때마다 다음 **옴니버스 모듈**을 위하여 사상자들을 부활시키기만 할 뿐이었다.*
 

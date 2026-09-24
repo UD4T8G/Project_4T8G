@@ -14,7 +14,7 @@
 
 * **할마시는 모르는 기다**
   - 모든 것의 거리에 상관없이 오감으로 대응한다.
-  - 다리를 빠르게 움직여 [투명 공간](../../../core/editor_law/Editor_Law_Header.md#invisible-space)을 통과한다.
+  - 다리를 빠르게 움직여 [투명 공간](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#invisible-space)을 통과한다.
   - 모든 것의 출력에 상관없이 모든 것을 피한다.
   - 완력으로 경관 다중우주를 폭행해 우주를 만든다.
   - 완력으로 인플레이션 다중우주를 주물러 물리법칙을 만든다.

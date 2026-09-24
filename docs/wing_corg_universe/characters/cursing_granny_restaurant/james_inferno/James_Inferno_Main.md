@@ -4,7 +4,7 @@
 
 ## characteristics
 
-> *슴가는 태어날 때부터 이름이 천박했으며, [개명 금지법](../../../core/editor_law/Editor_Law_Header.md#rename-ban)의 제비뽑기에서도 천박한 이름만 나왔다.*
+> *슴가는 태어날 때부터 이름이 천박했으며, [개명 금지법](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#rename-ban)의 제비뽑기에서도 천박한 이름만 나왔다.*
 >
 > *슴가는 홧김에 성전환 수술을 강행한 뒤, 제비뽑기에서 제임스 인페르노를 뽑아 개명했다.*
 

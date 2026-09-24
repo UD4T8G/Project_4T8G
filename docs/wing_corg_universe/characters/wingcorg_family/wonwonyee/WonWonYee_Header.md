@@ -3,7 +3,7 @@
 | **Name** | 원원이 |
 | :--- | :--- |
 | **Alias** | [두더지 뿅](./WonWonYee_Header.md#whack-a-mole) |
-| **Position** | 주례(북극성), 애완동물(윙콕 가족), 수호자([흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)) |
+| **Position** | 내레이터, [흑마법서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#black-magic-book)의 수호자 |
 | **Department** | 윙콕 가족 |
 | **Gender** | 남성 |
 | **Age Group** | 소년기 |

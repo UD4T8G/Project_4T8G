@@ -3,7 +3,7 @@
 | **Name** | 플라나리아 |
 | :--- | :--- |
 | **Alias** | 윙콕 아들, 프린스 오브 다크니스 |
-| **Position** | 아들 |
+| **Position** | 교관 |
 | **Department** | 윙콕 가족 |
 | **Gender** | 남성 |
 | **Age Group** | 소년기 |

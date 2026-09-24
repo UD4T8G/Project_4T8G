@@ -10,7 +10,7 @@
 
 > *판스는 저승에서 [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)를 완결 지었으며, 그가 남긴 가죽은 [판스 갑옷](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#panteach-armor)이 되었다.*
 
-> *판다 주식회사와 윙콕 가족의 연합군은 [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach) 빛의 힘으로 우주적 빌런 [습득맨](../../super_villain/pickupman/PickupMan_Header.md)을 쓰러뜨렸다.*
+> *판다 주식회사와 윙콕 가족의 연합군은 [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach) 빛의 힘으로 우주적 빌런 [습득맨](../../wander/pickupman/PickupMan_Header.md)을 쓰러뜨렸다.*
 
 ---
 
