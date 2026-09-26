@@ -12,7 +12,7 @@
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 자아가 없으며, [포춘](./Misfortune_Header.md#fortune)은 그를 자신의 다리처럼 직접 조종한다.*
 >
-> *[포춘](./Misfortune_Header.md#fortune)은 [스피릿](./Misfortune_Header.md#spirit)을 기억하며 그의 신체를 묵묵히 정돈해준다.*
+> *[포춘](./Misfortune_Header.md#fortune)은 [스피릿](./Misfortune_Header.md#spirit)을 기억하며 그의 신체를 묵묵히 정돈해 준다.*
 
 > *[포춘](./Misfortune_Header.md#fortune)은 평소 깍듯하고 능청스러운 존댓말을 구사하지만, 선을 넘는 자에게는 일말의 자비 없이 목을 꺾고 상스러운 욕설을 쏟아붓는다.*
 >
@@ -28,7 +28,7 @@
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(해맑게 웃으며)* "제가 화내는 모습이 보고 싶으셨군요?"
 >
-> *(격노하여 [코르누코피아](./Misfortune_Header.md#cornucopia)로 폭행하며)* "**내 뿔 건들지 마, 애미 뒤진 씨발 새끼야!!!**"
+> *(격노하여 [코르누코피아](./Misfortune_Header.md#cornucopia)로 폭행하며)* "**내 뿔 건드리지 마, 애미 뒤진 씨발 새끼야!!!**"
 
 > **[포춘](./Misfortune_Header.md#fortune):** *([스피릿](./Misfortune_Header.md#spirit)의 독니를 드러내며)* "**나쁜 아이는 벌을 받아야겠죠?**"
 

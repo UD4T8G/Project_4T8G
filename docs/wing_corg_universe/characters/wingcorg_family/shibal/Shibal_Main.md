@@ -8,7 +8,7 @@
 >
 > *그녀는 자신의 망상 속에서 행복하게 뛰어놀고 있다.*
 
-> *시바는 주변이 초토화되고 비명이 울려퍼져도 아름다운 축제라고 착각한다.*
+> *시바는 주변이 초토화되고 비명이 울려 퍼져도 아름다운 축제라고 착각한다.*
 >
 > *세상이 마음에 들지 않는다면 그녀에게 [윙콕 부모](../../underworld/wingcorg_parents/WingCorg_Parents_Header.md)의 [약물](../../underworld/wingcorg_parents/WingCorg_Parents_Header.md#drug)을 먹여보자.*
 

@@ -12,7 +12,7 @@
 
 ## bamboo-spear-sword
 
-* **너도 한방 나도 한방**
+* **너도 한 방 나도 한 방**
   - [판스 금서](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#forbidden-book-of-panteach)의 마법으로 인챈트되어 있는 죽창검이다.
   - 스치기만 해도 치명타를 가한다.
 

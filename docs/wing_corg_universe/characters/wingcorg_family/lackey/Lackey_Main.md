@@ -10,9 +10,9 @@
 >
 > *직원 판다들은 그의 존재를 알지 못하였고, 라카이가 능력을 잃은 이후에는 직접 괴롭히게 되었다.*
 
-> *라카이는 [윙코기](../wingcorgi/WingCorgi_Header.md)의 사냥으로 아내인 앵무새를 잃었다. 그녀는 고질라급 크기를 자랑하는 슈퍼 빌런으로 부활하였다.*
+> *라카이는 [윙코기](../wingcorgi/WingCorgi_Header.md)의 사냥으로 아내인 [앵무새](../../wander/parrot/Parrot_Header.md)를 잃었다.*
 >
-> *[윙코기](../wingcorgi/WingCorgi_Header.md)에게 [예속된 영체](./Lackey_Header.md#enslaved-spirit)를 통해 영원히 함께 사는 저주를 걸어 [수호의 잔재](./Lackey_Header.md#remnants-of-guardian)로 징벌하려 했으나, 능력을 잃었다.*
+> *그는 [윙코기](../wingcorgi/WingCorgi_Header.md)에게 [예속된 영체](./Lackey_Header.md#enslaved-spirit)를 통해 영원히 함께 사는 저주를 걸었으나, 능력을 잃었다.*
 
 > *라카이는 온갖 억까와 결핍의 저주에 짓눌려 고통받는 몰락한 존재가 되었다.*
 >
@@ -28,4 +28,4 @@
 
 > **라카이:** "너희는 나랑 함께 살게 될 것이다...!"
 
-> **라카이:** "사~타앙! 내 먹고싶은 사~타앙! 얼른가져와~! 먹고싶단 말이야~!"
+> **라카이:** "사~타앙! 내 먹고 싶은 사~타앙! 얼른 가져와~! 먹고 싶단 말이야~!"

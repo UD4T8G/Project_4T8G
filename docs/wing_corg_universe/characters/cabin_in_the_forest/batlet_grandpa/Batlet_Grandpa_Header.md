@@ -2,7 +2,7 @@
 
 | **Name** | 빨랫방망이 할아버지 |
 | :--- | :--- |
-| **Alias** | KNJ 울트라 프로젝트급 맥거핀 |
+| **Alias** | KNJ-BDHWBDEM급 맥거핀 |
 | **Position** | 안빈낙도, 안분지족 |
 | **Department** | 산골짜기 |
 | **Gender** | 남성 |

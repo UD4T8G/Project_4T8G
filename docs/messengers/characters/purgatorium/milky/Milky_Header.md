@@ -36,9 +36,9 @@
 
 * **밀키의 뱀**
   - 그 수가 무수히 많으며, 융합해서 거대화하거나 분열해서 소형화한다.
-  - 참수시켜서 머리를 [멀티폴](#multipole)로 사용한다.
-  - 참수시켜서 몸통을 [홀스터](#holster)로 사용한다.
-  - 수복시켜서 소환수로 사용한다.
+  - 참수해서 머리를 [멀티폴](#multipole)로 사용한다.
+  - 참수해서 몸통을 [홀스터](#holster)로 사용한다.
+  - 수복해서 소환수로 사용한다.
 
 ---
 
@@ -80,6 +80,6 @@
   - [융합로](#fusion-core)가 손상되었을 경우 무형성이 증가한다.
   - [융합로](#fusion-core)를 가동하는 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지가 부족할 경우 무형성이 증가한다.
   - 무형성이 증가할수록 속도가 증가하고 지속적으로 글리치를 일으킨다.
-* **뱀이 저를 꾀어서 제가 따 먹었습니다**
-  - [스네이크](#snake)를 참수시켜서 사용하고 있을 경우 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지가 지속적으로 감소한다.
-  - [스네이크](#snake)를 수복시켜서 사용하고 있을 경우 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지가 지속적으로 증가한다.
+* **뱀이 저를 꾀어서 제가 따먹었습니다**
+  - [스네이크](#snake)를 참수해서 사용하고 있을 경우 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지가 지속적으로 감소한다.
+  - [스네이크](#snake)를 수복해서 사용하고 있을 경우 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지가 지속적으로 증가한다.

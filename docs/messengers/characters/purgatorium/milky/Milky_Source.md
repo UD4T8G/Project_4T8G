@@ -20,7 +20,7 @@
     + 도력검을 두 자루 수납하면 자색으로 변한다.
     + 도력검을 날개 형태로 전개하여 비행한다.
     + 대도는 위로, 소도는 아래로, 검집의 기계팔이 자동 공격한다.    
-  - 보라색 가죽재킷, 검은 셔츠 등의 포인트를 사용한다.
+  - 보라색 가죽 재킷, 검은 셔츠 등의 포인트를 사용한다.
 * 밀키는 [버디](../buddy/Buddy_Header.md)로부터 분리되면서 안티테제로 기획되었다.
 * 밀키는 *Meilichia*의 *아프로디테(Aphrodite)*나 *어머니(Mater)*의 성숙한 특징을 참조하지 않았다.
   - 정확하게는 석비의 훼손이 심했다는 점이 오히려 무형성을 연상시켜서 *셀리눈테* 등지의 *Meilichioi*를 참조하게 된 것이다.
@@ -46,19 +46,19 @@ Meilichioi(중성)
 ```
 
 * **Meilichioi**
-  - 밀키 디자인
+  - 밀키의 디자인
 * **Meilichios**
-  - [스네이크](./Milky_Header.md#snake) 디자인
+  - [스네이크](./Milky_Header.md#snake)의 디자인
 * **[Project_4T8G](../../../../../README.md) 심볼 일부**
-  - [사태극](./Milky_Header.md#sitaegeuk) 디자인
+  - [사태극](./Milky_Header.md#sitaegeuk)의 디자인
 
 ---
 
 ## lore
 
 * **Meilichia**
-  - 밀키 별명 설정
+  - 밀키의 별명 설정
 * **Meilichios(달래야 하는 Euphemism(완곡어법))**
   - [스네이크](./Milky_Header.md#snake)가 밀키의 성격을 무겁게 하는 설정
 * **고대 그리스의 종교 의식(일상적)**
-  - 밀키 가벼운 성격
+  - 밀키의 가벼운 성격 설정

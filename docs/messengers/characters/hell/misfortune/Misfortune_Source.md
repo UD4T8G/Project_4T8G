@@ -12,14 +12,14 @@
 
 ## design
 
-* **Copper alloy statuette of the god Sarapis Amun Agathodaemon(National Archaeological Museum of Athens 소장)**
-  - 미스포춘 디자인
+* **Copper alloy statuette of the god Sarapis Amun Agathodaemon (National Archaeological Museum of Athens 소장)**
+  - 미스포춘의 디자인
 
 ---
 
 ## lore
 
 * **융합주의(Agathos Daimon)**
-  - [스피릿](./Misfortune_Header.md#spirit) 설정
+  - [스피릿](./Misfortune_Header.md#spirit)의 설정
 * **운명의 수레바퀴(Fortuna)**
-  - [포춘](./Misfortune_Header.md#fortune) 설정
+  - [포춘](./Misfortune_Header.md#fortune)의 설정

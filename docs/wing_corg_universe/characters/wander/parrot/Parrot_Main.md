@@ -4,7 +4,7 @@
 
 ## characteristics
 
-> *앵무새는 [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)에게 사냥당한 [라카이](../../wingcorg_family/lackey/Lackey_Header.md)의 아내이다.*
+> *앵무새는 [라카이](../../wingcorg_family/lackey/Lackey_Header.md)의 아내였으나, [윙코기](../../wingcorg_family/wingcorgi/WingCorgi_Header.md)에게 사냥당하였다.*
 
 > *앵무새는 복수를 위해 부활했으나, 기억을 잃었다.*
 
