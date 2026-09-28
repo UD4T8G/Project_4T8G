@@ -4,31 +4,25 @@
 
 ## concept
 
-* 버디 기획 이전에는 *미친마우스*라는 캐릭터를 구상하고 있었고, 일부 디자인을 참조하였다.
+* 버디 기획 이전에는 *미친 마우스*라는 캐릭터를 구상하고 있었고, 일부 디자인이 구현되었다.
   - *삼층관*, *염주(묵주 아님)*, *피눈물을 흘리는 철가면*을 착용하고 있다.
   - *신성 모독*의 형상화이다.
-* 버디 기획 초기에는 [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등의 디자인 기반은 존재했으나, 설정이 존재하지 않았다.
-  - 누구든지 그를 최종 보스 취급했고, 그 누구도 그가 주인공이라고는 생각하지 않았다.
+* 버디 기획 초기에는 [애퍼래터스](./Buddy_Header.md#apparatus)와 [성흔안](./Buddy_Header.md#stigmata-eyes) 등 기반은 갖추어졌으나 세부 설정은 없었다.
+  - 누구든지 그를 최종 보스로 취급했고, 그 누구도 그가 주인공이라고는 생각하지 않았다.
 
 ---
 
-## design
+## world-building
 
-* **Vediovis**
-  - 버디의 디자인
 * **Vediovis의 화살 다발**
-  - [심판의 화살](./Buddy_Header.md#judgment-bolt)의 디자인
+  - [심판의 화살](./Buddy_Header.md#judgment-bolt)
 * **Vediovis 조각상(카피톨리누스 언덕에서 발굴된 조각상의 손과 머리 결손)**
 * **블레셋의 다곤(Zeus Arotrios) 신전에 모셔진 언약궤(둘째 날 아침에 머리와 손목이 끊어진 다곤)**
-  - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes)의 손과 머리 디자인
+  - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes) — 손과 머리
 * **십자가형**
-  - [성흔안](./Buddy_Header.md#stigmata-eyes)의 디자인
+  - [성흔안](./Buddy_Header.md#stigmata-eyes)
 * **[Project_4T8G](../../../../../README.md) 심볼 일부**
-  - [팔괘](./Buddy_Header.md#bagua)의 디자인
-
----
-
-## lore
+  - [팔괘](./Buddy_Header.md#bagua)
 
 ```text
 Ov. Fast. 3.429–436
@@ -60,7 +54,6 @@ Ov. Fast. 3.429–436
 
 * **Inter duos lucos(기원전 2세기에 봉헌된 베디오비스 신전이 위치한 장소)**
 
-
 ```text
 [Gell. 5.12.1] Aedes Vediiovis Romae inter duos lucos est...
   Vediiovis ] V(Vaticanus 3452, 13c.) ; Vediovis P(Parisiensis 5765, 12c.) ; Veiovis R ; Veiove Q ;
@@ -76,12 +69,12 @@ Ov. Fast. 3.429–436
 ```
 
 * **R, A(문맥이 파괴된 가장 오래된 사본) VS Gronovius(역사적 지형과 문법에 맞는 논리적 추론)**
-  - 버디의 가벼울 수 있는 성격 설정
+  - 버디 — 가벼울 수 있는 성격
 * **고대 로마의 종교 의식(매우 엄격)**
 * **블레셋의 다곤 신전에 모셔진 언약궤(첫째 날 아침에 언약궤 앞에 엎드린 다곤)**
-  - 버디의 무거운 성격 설정
+  - 버디 — 무거운 성격
 * **염소(독립성과 고집)**
-  - [고트](./Buddy_Header.md#goat)의 성격 설정
+  - [고트](./Buddy_Header.md#goat) — 실리적인 성격
 * **유다 염소**
-* **암염소(Vediovis에게 바치는 제물)와 숫염소(에녹 1서의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) Azazel에게 보내는 레위기의 속죄제물)의 서로 다른 성별**
-  - [고트](./Buddy_Header.md#goat)의 성별 설정
+* **암염소(Vediovis에게 바치는 제물)와 숫염소(에녹 1서의 타락한 [사자들](../../../core/messengers/Messengers_Header.md) Azazel에게 보내는 레위기의 속죄 제물)의 서로 다른 성별**
+  - [고트](./Buddy_Header.md#goat) — 성별

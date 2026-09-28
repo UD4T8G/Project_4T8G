@@ -6,13 +6,13 @@
 
 * **DAS3OS 기획자는 UD의 첫째 사촌 동생이다.**
 * DAS3OS 기획 초기에는 DAS3OS 기획자의 요청에 따라 정중선이 십자 바이저로 구현되었다.
-* DAS3OS 기획 과정에서는 2026년에 [스텔라 패링 대거](./DAS3OS_Header.md#stellar-parrying-dagger)가 기획되었다. 
+* DAS3OS 기획 과정에서 2026년에 [스텔라 패링 대거](./DAS3OS_Header.md#stellar-parrying-dagger)가 구현되었다. 
 
 ---
 
-## design
+## world-building
 
 * **토르소**
-  - DAS3OS 다리 생략 디자인
+  - DAS3OS — 다리 생략
 * **정중선**
-  - DAS3OS 십자 바이저 디자인
+  - DAS3OS — 십자 바이저

@@ -10,15 +10,7 @@
 
 ---
 
-## design
-
-* null
-* null
-* null
-
----
-
-## lore
+## world-building
 
 * null
 * null
