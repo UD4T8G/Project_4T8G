@@ -345,7 +345,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(여섯 개의 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)을 모두 감고, [고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat)를 통해 일곱 번째 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)을 개안하며)* '이게... 이렇게 편한 거였어?'
 >
-> *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 끌어안으며)* "내가... 무슨 짓을 한 거지? 이럴 수는 없어... 내게 하나밖에 없는 누나이자 여동생인데..." 
+> *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 끌어안으며)* "내가... 무슨 짓을 한 거지? 이럴 수는 없어... 내게 하나밖에 없는 누나이자 여동생인데..."
 
 > **무형성 下 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(조용히 울며)* "괜찮아... 오빠도 괜찮았으면 좋겠다... 잠깐이라도 좋으니까..."
 
@@ -715,11 +715,11 @@
 >
 > *(그릇들을 사격하여 파괴하며)* **"순순히 순수한 아이를 내놔라, 외부가 없다면 내부도 없으리라!"**
 
-> **아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 뒤로 숨기며)* "오히려 너희들이야말로 위선자들 아니야?"
+> **아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 뒤로 숨기며)* "**오히려 너희들이야말로 위선자들 아니야?**"
 >
-> *(케스토스 히마스를 꺼내며)* "너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?"
+> *(케스토스 히마스를 꺼내며)* "**너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?**"
 >
-> *(리드 로프처럼 위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 목에 걸고 올라타며)* "이렇게 순수한 아이를 사지로 내몰고도 그런 말이 나와?"
+> *(위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 목에 리드 로프처럼 걸고 올라타며)* "**이렇게 순수한 아이를 사지로 내몰고도 그런 말이 나와?**"
 
 * *아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 리드 스킬은 마치 무형성을 정확히 알고 있는 것처럼 기하학적으로 아름다웠다.*
 * *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 광기는 수많은 글리치를 일으켰지만, 리드 스킬에 의해 변칙적인 전술로 거듭났다.*
@@ -738,7 +738,7 @@
 
 > **어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "고민이 많아 보이는구나... 하지만 걱정하지 말거라, [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)는 온전히 너의 것이잖니."
 
-> **무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "그렇다는 말은..."
+> **무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "그렇다는 말은...?"
 
 > **어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "모든 것은 네게 달려 있으니, 우리는 무형성의 부산물일 뿐이란다."
 
@@ -788,11 +788,11 @@
 >
 > *(무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 끌어안으며)* "돌아가서도 나 기억해 줘야 한다?"
 
-* *아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 부드러운 얼굴이 일그러지다가 무너져 내렸다.*
+* *아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 부드러운 얼굴이 깨지고 산산조각 났다.*
 
-> **어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "때가 이르렀구나! 착한 아이는 일찍 자고 일찍 일어나야 한단다!"
+> **어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "착한 아이는 일찍 자고 일찍 일어나야 한단다!"
 
-* *어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 자애로운 두 팔이 떨어져 산산조각 났다.*
+* *어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 자애로운 두 팔이 떨어지고 무너져 내렸다.*
 
 > **하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "sive deus, sive dea(신이시든 여신이시든),"
 >
@@ -800,11 +800,11 @@
 >
 > "**우리의 영혼 절반을 바치오니 상대의 영혼을 가져가소서!**"
 
-* *하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 영광스러운 머리가 폭발하여 날아갔다.*
+* *하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 찬란한 머리가 폭발하고 흩어졌다.*
 
 > **위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "너 때문에 흥이 다 깨져버렸으니까 책임져."
 
-* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 각진 몸통이 녹아내려 흩어졌다.*
+* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 육감적인 몸통이 녹아내리고 증발했다.*
 
 > **무형성 ? [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(얼어붙으며)* "어?"
 
@@ -827,7 +827,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "알파로부터 오메가에 이르기까지 모두를 감찰하신 네 문자의 주인께 마음을 다하고 뜻을 다하고 힘을 다하여! 우리가 주를 판단할 수 없음은, 우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라!"
 >
-> "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니, 내 마땅히 스올에서도 주를 찬양하리이다!" 
+> "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니, 내 마땅히 스올에서도 주를 찬양하리이다!"
 
 ---
 

@@ -27,9 +27,9 @@
   בְּאוֹתָהּ שָׁעָה בָּא [ עַנְפִיאֵל יְיָ (A, B, L) / עַנְפִיאֵל (C, D) ] [ הַשַּׂר הַנִּכְבָּד (C, D) / הַשַּׂר הַנִּכְבָּד נֶהְדָּר נֶחְמָד נִפְלָא נוֹרָא וְנֶעֱרָץ (A, B) ] מִשְּׁלִיחוּת שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהִכַּנִי [ שִׁשִּׁים פּוּלְסָאוֹת שֶׁל אוֹר (A, B) / שִׁשִּׁים פּוּלְסֵי דְנוּרָא (D, b.Hag.¹⁵ᵃ) / מַכּוֹת אֵשׁ (𝔐ˡᵃᵗᵉʳ) ] [ וְהֶעֱמִידַנִי עַל רַגְלַי (A, B, C, D) / וְהוֹרִידַנִי מִכִּסְאִי (var.) ]
 ```
 
-* **불채찍 60대(랍비 엘리샤 벤 아부야가 메타트론을 하늘의 두 권세로 오해하자, 아나피엘이 메타트론에게 가하여 두 발로 서도록 하다)**
-* **Sar HaPanim(얼굴의 천사, 임재의 천사) 메타트론, 아나피엘**
-* **C, D(아나피엘(עַנְפִיאֵל)) / A, B, L(아나피엘 YHWH(עַנְפִיאֵל יְיָ))(יְיָ 표현은 יהוה 표현의 서기용 약어)**
+* **불채찍 60대(랍비 엘리샤 벤 아부야가 메타트론을 하늘의 두 권세로 오해하자, 아나피엘이 메타트론에게 가하여 두 발로 서도록 하다)**  
+**Sar HaPanim(얼굴의 천사, 임재의 천사) 메타트론, 아나피엘**  
+**C, D(아나피엘(עַנְפִיאֵל)) / A, B, L(아나피엘 YHWH(עַנְפִיאֵל יְיָ))(יְיָ 표현은 יהוה 표현의 서기용 약어)**
   - [속죄](./Messengers_Header.md#redemption) — *불채찍 60대*
   - *[천국](./Messengers_Header.md#heaven) 묘사에 대한 제한*
   - *새겨진 우상(Graven Image)* — 사명
@@ -43,7 +43,7 @@ The Gay Science, § 125
 ```
 
 * **즐거운 학문 "아직도 위와 아래가 존재하는가?"**
-  - 사자들 — *위도 아래도 없는 새끼* 요소
+  - 사자들 — *위도 아래도 없는 새끼*
 
 ```text
 4Q530 2 ii 2
@@ -164,7 +164,7 @@ Kawān, Text C:3-5
 ```
 
 * **마웨이의 비행**
-  - [철거](./Messengers_Main.md#demolition) — *[보스](../../characters/hell/boss/Boss_Header.md)의 비행*
+  - [철거](./Messengers_Main.md#demolition) — *[보스](../../characters/hell/boss/Boss_Header.md)는 회오리바람처럼 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
 
 ```text
 4Q530 7 ii 6–[...]
@@ -189,6 +189,14 @@ Kawān, Text G:1-11
   - [철거](./Messengers_Main.md#demolition) — "땅에 너무 가깝게 날았군요..."
 * **JUBILEES Mastema**
   - [철거](./Messengers_Main.md#demolition) — *마스테마*
+* **ECCLESIASTES 1:2**
+  - [재탄생](./Messengers_Main.md#rebirth) — *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
+* **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
+  - 아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)
+* **[Mater Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
+  - 어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md)
+* **[Dios Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
+  - 하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
 
 ```text
 1 ENOCH 71:14
@@ -202,6 +210,15 @@ Kawān, Text G:1-11
 
 * **제2성전기 인자 개념**
   - [재탄생](./Messengers_Main.md#rebirth) — "너는 의를 위하여 태어난 인자로다."
+
+```text
+Ecce Homo, Zarathustra § 1
+  „Das Wort ‚Übermensch‘ zur Bezeichnung eines Typus höchster Wohlgeratenheit, im Gegensatz zu ‚modernen‘ Menschen, zu ‚guten‘ Menschen, zu Christen und andren Nihilisten – ein Wort, das im Munde eines Zarathustra, des Vernichters der Moral, ein sehr nachdenkliches Wort wird – ist fast überall mit voller Unschuld im Sinn derjenigen Werte verstanden worden, deren Gegensatz in der Figur Zarathustras zur Erscheinung gebracht worden ist: will sagen als ‚idealistischer‘ Typus einer höheren Art Mensch, halb ‚Heiliger‘, halb ‚Genie‘ […] Andres gelehrtes Hornvieh hat mich seinethalben des Darwinismus verdächtigt; selbst der von mir so boshaft abgelehnte ‚Heroen-Kultus‘ jenes großen Falschmünzers wider Wissen und Willen, Carlyles, ist darin wiedererkannt worden. Wem ich ins Ohr flüsterte, er solle sich eher nach einem Cesare Borgia als nach einem Parsifal umsehn, der traute seinen Ohren nicht.“
+```
+
+* **Übermensch**  
+**[Dionysos Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
+  - 위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
 
 ```text
 1 ENOCH 41:9
@@ -240,7 +257,7 @@ PSALMS 66:18
 ```
 
 * **If I regard 주격 표현(Vulgate 포함, 상당히 많은 번역본에서 표현 희석)**
-  - [심판의 날](./Messengers_Main.md#judgment-day) — "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니,"  
+  - [심판의 날](./Messengers_Main.md#judgment-day) — "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니,"
 * **PSALMS 6:5**
   - [심판의 날](./Messengers_Main.md#judgment-day) — "스올에서도 주를 찬양하리이다."
 
@@ -257,6 +274,6 @@ REVELATION 3:16
   - [첫 데이트](./Messengers_Main.md#first-date) — "사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?"
 * **Hesychasm, Palamism(Anti-Nihilism)**
   - [첫 데이트](./Messengers_Main.md#first-date) — 게힌놈과 네하르 디누르의 동일성
-* **Cup of Elijah(REVELATION 이후)**
-* **Spilling the wine for the plagues(Elegy 요소)**
+* **Cup of Elijah(REVELATION 이후)**  
+**Spilling the wine for the plagues(Elegy 요소)**
   - [첫 데이트](./Messengers_Main.md#first-date) — 잔(제한적 인용)
