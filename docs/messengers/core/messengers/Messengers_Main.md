@@ -143,17 +143,17 @@
 
 ### up-down
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** '제 이야기는 그닥 흥미롭지 않을 겁니다. 동료들이 태어나는 과정을 목도했거든요.'
+> **[보스](../../characters/hell/boss/Boss_Header.md):** '제 이야기는 그다지 흥미롭지 않을 겁니다. 동료들이 태어나는 과정을 목도했거든요.'
 >
 > '저는 엄마가 많습니다. 새겨진 우상(Graven Image) 엄마, 간음한 새엄마, 염소 엄마...'
 >
 > '염소 엄마만 기억하시면 됩니다. 제가 들고 있는 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)는 그분의 가죽이랑 어쩌고 저쩌고로 만들었거든요.'
 >
-> '제 무기들은 무저갱에서 연단되었습니다. 무저갱에서 구르고 [날개](./Messengers_Header.md#wings) 각성하는 건 뻔한 레퍼토리잖아요?'
+> '제 무기들은 무저갱에서 연단 되었습니다. 무저갱에서 구르고 [날개](./Messengers_Header.md#wings) 각성하는 건 뻔한 레퍼토리잖아요?'
 >
 > '눈치채셨겠지만, 좋은 꼴은 못 보고 자랐습니다. 그래도 초등학문이 있었기 때문에 살아남았습니다.'
 >
-> '말이 길어졌군요, 제 이야기는 여기서 마무리 하겠습니다. 앞으로 할 말이 좀 많거든요.'
+> '말이 길어졌군요, 제 이야기는 여기서 마무리하겠습니다. 앞으로 할 말이 좀 많거든요.'
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** '제가 주인으로부터 달란트를 받았을 때 이것을 무엇으로 보답하겠습니까? 저의 뜻이 섞이지 않은 주인의 뜻을 행할 수 있습니까? 초등학문에서는 교만과 겸손이 한 끗 차이입니다.'
 >
@@ -431,7 +431,7 @@
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(침을 질질 흘리며)* "**커어억! 잘못했어요! 살려 주세요! 다시는 안 그럴게요!**"
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "호호호! 반성하는 것 같아서 보기 좋네요!"
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *([운명의 수레바퀴](../../characters/hell/misfortune/Misfortune_Header.md#rota-fortunae)가 돌아가며)* "호호호! 반성하는 것 같아서 보기 좋네요!"
 >
 > *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**나쁜 아이는 벌을 받아야겠죠?**"
 
