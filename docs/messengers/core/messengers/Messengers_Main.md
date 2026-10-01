@@ -694,7 +694,7 @@
 * *무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk) 팔찌의 인도를 받아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core) 내부에서 깨어났다.*
 * *그리고 지평선 너머에서 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 그릇들이 천천히 걸어오고 있었다.*
 
-> **아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(성숙한 형상을 드러내며)* "괜찮니? 눈과 같이 희고 순수한 아이야?"
+> **아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(성숙한 형상을 드러내며)* "괜찮니? 눈과 같이 희고 순수한 아이네?"
 
 > **무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(글리치를 일으키며)* '순수한... 아이?'
 
@@ -764,7 +764,7 @@
 
 > **어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "모든 것은 네게 달려 있으니, 우리는 무형성의 부산물일 뿐이란다."
 
-* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)가 참수된 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 제압하고 티르소스를 겨누고 있었다.*
+* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 참수된 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 제압한 뒤, 물고 있던 티르소스를 겨누고 있었다.*
 
 > **하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)에게 아스트라페를 던지며)* "**그대들은 전쟁 영웅께 예의를 갖춰라!**"
 >
@@ -780,7 +780,7 @@
 >
 > *(시계 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개하며)* "시간이 없어. 무엇을 선택하든지 우리가 도와줄 테니까, 아무거나 골라 봐."
 
-> **무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "하..."
+> **무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "우으..."
 >
 > "알았어, 결정했다고..."
 >
@@ -822,11 +822,11 @@
 >
 > "**우리의 영혼 절반을 바치오니 상대의 영혼을 가져가소서!**"
 
-* *하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 찬란한 머리가 폭발하고 흩어졌다.*
+* *하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 찬란한 머리가 폭발하고 사라졌다.*
 
 > **위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "너 때문에 흥이 다 깨져버렸으니까 책임져."
 
-* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 육감적인 몸통이 녹아내리고 증발했다.*
+* *위버멘쉬 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 육감적인 몸통이 찢겨지고 녹아내렸다.*
 
 > **무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(얼어붙으며)* "어?"
 
