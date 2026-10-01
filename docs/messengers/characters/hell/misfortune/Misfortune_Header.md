@@ -13,14 +13,15 @@
 ## fortune
 
 * **미스포춘의 본체**
-  - 포춘을 통해 모든 능력을 제어한다.
+  - [스피릿](#spirit)을 조종한다.
+  - [코르누코피아](#cornucopia)를 사용한다.
 
 ---
 
 ## spirit
 
 * **[사자들](../../../core/messengers/Messengers_Header.md)의 [날개](../../../core/messengers/Messengers_Header.md#wings)**
-  - 스피릿을 통해 [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 제어한다.
+  - [날개](../../../core/messengers/Messengers_Header.md#wings) 능력을 제어한다.
 * **미스포춘의 다리**
   - 독니에서 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지를 발사한다.
 
@@ -33,3 +34,11 @@
   - [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지와의 결합 종류에 따라 다른 효과로 전환된다.
   - 전환된 효과의 성능은 [날개](../../../core/messengers/Messengers_Header.md#wings) 에너지의 총합에 비례한다.
   - 재물과 식량은 실질적인 가치를 지닌다.
+
+---
+
+## rota-fortunae
+
+* **운명의 수레바퀴**
+  - 미스포춘을 강화한다.
+  - 미스포춘을 약화한다.

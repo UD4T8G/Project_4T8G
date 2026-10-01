@@ -9,10 +9,10 @@
 > *북극에 방문한 [윙코기](../wingcorgi/WingCorgi_Header.md)에게 첫눈에 반해 북극성에서 청혼하였다.*
 
 > *북극이는 결혼 후 판다 주식회사가 있는 남부 세계로 이주하였다.*
-
-> *북극이는 [시바](../shibal/Shibal_Header.md) 앞에서는 사족을 못 쓰는 딸 바보이다.*
-
-> *북극이는 아들 [플라나리아](../planaria/Planaria_Header.md)에게는 매일 혹독하게 굴려지는 폐급 훈련병 신세이다.*
+>
+> *그는 [시바](../shibal/Shibal_Header.md) 앞에서는 사족을 못 쓰는 딸 바보이다.*
+>
+> *그는 아들 [플라나리아](../planaria/Planaria_Header.md)에게는 매일 혹독하게 굴려지는 폐급 훈련병 신세이다.*
 
 ---
 

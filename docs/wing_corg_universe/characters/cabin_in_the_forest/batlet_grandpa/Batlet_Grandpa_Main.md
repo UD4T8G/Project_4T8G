@@ -5,8 +5,8 @@
 ## characteristics
 
 > *빨랫방망이 할아버지는 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)의 친동생으로, [엮은이 법](../../../core/wingcorg_universe/WingCorg_Universe_Header.md#editor-law)의 기획자이다.*
-
-> *빨랫방망이 할아버지는 항상 숲에서 위기에 빠진 방랑자 앞에 나타나 곰을 한 방에 기절시키며 등장한다.*
+>
+> *그는 항상 숲에서 위기에 빠진 방랑자 앞에 나타나 곰을 한 방에 기절시키며 등장한다.*
 
 > *빨랫방망이 할아버지는 땡콩으로 세계관을 멸망시킬 모두의 할아버지이다.*
 >

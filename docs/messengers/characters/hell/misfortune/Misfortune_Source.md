@@ -15,6 +15,8 @@
 * **Copper alloy statuette of the god Sarapis Amun Agathodaemon (National Archaeological Museum of Athens 소장)**
   - [특징](./Misfortune_Main.md#characteristics)
 * **융합주의(Agathos Daimon)**
-  - [스피릿](./Misfortune_Header.md#spirit) — 하위 신격화
+  - [코르누코피아](./Misfortune_Header.md#cornucopia)
+  - [스피릿](./Misfortune_Header.md#spirit)
 * **운명의 수레바퀴(Fortuna)**
-  - [포춘](./Misfortune_Header.md#fortune) — 변칙적인 성격
+  - [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)
+  - [포춘](./Misfortune_Header.md#fortune)
