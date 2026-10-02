@@ -192,11 +192,11 @@ Kawān, Text G:1-11
 * **ECCLESIASTES 1:2**
   - [재탄생](./Messengers_Main.md#rebirth) — *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
 * **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
-  - 아름다운 [밀키](../../characters/purgatorium/milky/Milky_Header.md)
+  - 미녀 [밀키](../../characters/purgatorium/milky/Milky_Header.md)
 * **[Mater Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
   - 어머니 [밀키](../../characters/purgatorium/milky/Milky_Header.md)
 * **[Dios Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
-  - 하늘의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
+  - 하늘빛 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
 
 ```text
 1 ENOCH 71:14
