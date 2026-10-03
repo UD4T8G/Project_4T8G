@@ -47,7 +47,7 @@ Meilichioi(중성)
   - 밀키 — 연령대
 * **Meilichios**
   - [스네이크](./Milky_Header.md#snake) — 디자인
-* **[Project_4T8G](../../../../../README.md) 심볼 일부**
+* **[Project_4T8G](../../../../../README.md)**
   - [사태극](./Milky_Header.md#sitaegeuk)
 * **Meilichia**
   - 밀키 — 별명

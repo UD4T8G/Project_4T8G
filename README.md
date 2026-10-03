@@ -75,12 +75,12 @@ Template/
 ## getting-started
 
 1. **Copy Templates:** Copy the contents of `Template/` into your active worldbuilding workspace.
-2. **Define Core Rules:** Fill out `Core_Template_Header.md` to establish global constraints before creating entities.
-3. **Encapsulate Entities:** Define independent character parameters inside `Characters_Template_Header.md`, ensuring internal state computations remain private to the entity.
+2. **Define Core Rules:** Fill out [Core_Template_Header.md](./template/core/core_template/Core_Template_Header.md) to establish global constraints before creating entities.
+3. **Encapsulate Entities:** Define independent character parameters inside [Characters_Template_Header.md](./template/characters/characters_template/Characters_Template_Header.md), ensuring internal state computations remain private to the entity.
 4. **Link Narrative Sequences:** Reference defined headers inside `Main` files using structured Markdown relative links.
 
 ---
 
 ## license
 
-* **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.txt)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
+* **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
