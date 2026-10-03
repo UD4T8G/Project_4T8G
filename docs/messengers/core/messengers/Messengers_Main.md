@@ -201,7 +201,7 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(손을 들고 기겁하며)* "**피난처!** 아니, 없어요... 누나..."
 
-* *기원은 "Vediovis"가 더 오래되었지만, 봉헌 시기는 "Meilichia"가 더 오래되었다.*
+* *기원은 Vediovis가 더 오래되었지만, 봉헌 시기는 Meilichia가 더 오래되었다.*
 
 > **무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 수복하고 집어던지며)* "진짜 스스로는 안중에도 없네... 뭐, 나도 이름이 없긴 해!"
 >
@@ -360,7 +360,7 @@
 
 > **무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(울먹이며)* "오빠... 화났어? 나는... 나는 그냥...."
 
-* *"Zeus snake"에게는 "Nephalia", 즉 금주 봉헌을 해야 한다. 지금 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 술에 취해 잠든 것이다.*
+* *Zeus Meilichios에게는 Nephalia, 즉 금주 봉헌을 해야 한다. 지금 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 술에 취해 잠든 것이다.*
 * *여기서 그들은 그저 새겨진 우상(Graven Image)일 뿐이기에 사명에는 딱히 상관없는 문제였다.*
 * *악한 권세들이 시험하는 것도 아니고, 악한 영들이 빙의하는 것도 아니었지만, 적어도 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 불안했다.*
 * *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 여섯 개의 눈으로 사방을 비추며 사시나무 떨듯이 부들부들 떨었지만, 이내 상황을 깨달았다.*
@@ -558,7 +558,7 @@
 >
 > *(글리치가 튀며 관절이 반대로 꺾이고, 끝내 눈물을 터뜨리며)* "오빠라는 것들이 다들 책임감만 강해 가지고... 가끔은 누나한테 기댈 줄도... 알아야지..."
 
-* *기원이든 봉헌 시기든 "\*Dyēus Ph₂tḗr"가 "Meilichia"보다 더 오래되었다.*
+* *기원이든 봉헌 시기든 \*Dyēus Ph₂tḗr가 Meilichia보다 더 오래되었다.*
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 빼앗아 강제로 수복시키며)* "허, 그건 제가 해야 할 소리 아닙니까? 물론... 저도 할 말은 없군요."
 
