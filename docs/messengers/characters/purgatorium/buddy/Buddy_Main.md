@@ -20,7 +20,7 @@
 >
 > *그들은 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)과 [지옥](../../../core/messengers/Messengers_Header.md#hell)을 통틀어 가장 [천국](../../../core/messengers/Messengers_Header.md#heaven)의 [사자들](../../../core/messengers/Messengers_Header.md)처럼 생겼다.*
 >
-> *그들은 사람들이 보기에는 두려운 형상을 띠고 있기 때문에 사람들을 달래느라 애를 먹곤 한다.*
+> *그들은 사람들이 보기에는 두려운 형상을 띠고 있기 때문에, 사람들을 달래느라 애를 먹곤 한다.*
 
 > *[고트](./Buddy_Header.md#goat)는 흑색 손과 적안의 [성흔안](./Buddy_Header.md#stigmata-eyes)으로 구성되어 있다.*
 >
@@ -39,7 +39,7 @@
 >
 > *(한숨 쉬며)* "저도 이렇게 생겨먹어서 서럽다고요... 제발 두려워하지 말아 주세요..."
 
-> **버디:** *(모든 [성흔안](./Buddy_Header.md#stigmata-eyes)의 검지를 흔들며)* "너를 위해서 해 주고 싶은 건 많지만, 그건 사명에 어긋나는 행위다."
+> **버디:** *(모든 [성흔안](./Buddy_Header.md#stigmata-eyes)의 검지를 흔들며)* "너를 위해 해 주고 싶은 건 많지만, 그건 사명에 어긋나는 행위다."
 
 > **버디:** *(적에게 안광을 비추며)* "어딜 보고 있느냐? 네 상대는 나뿐이다!"
 
@@ -51,4 +51,4 @@
 
 > **[고트](./Buddy_Header.md#goat):** *(전장으로 뛰어들며)* "**아아아아악!**"
 
-> **[고트](./Buddy_Header.md#goat):** *(버디 앞에서 혈서를 쓰며)* "부족한 제가 해드릴 수 있는 건 이것밖에 없군요."
+> **[고트](./Buddy_Header.md#goat):** *(버디 앞에서 혈서를 쓰며)* "부족한 제가 해 드릴 수 있는 건 이것밖에 없군요."

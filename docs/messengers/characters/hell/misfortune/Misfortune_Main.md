@@ -8,13 +8,13 @@
 >
 > *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)에 속박되어 있으며, 죄인을 직접 심판하지 못한다.*
 >
-> *그녀는 [코르누코피아](./Misfortune_Header.md#cornucopia)를 들고 있으며, [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)를 사용하여 몸에 묶었다.*
+> *그녀는 [코르누코피아](./Misfortune_Header.md#cornucopia)를 들고 있으며, 이것을 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)로 몸에 묶었다.*
 >
 > *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)가 올라가 있을 때 냉소적인 격식체를 구사한다.*
 >
 > *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)가 내려가 있을 때 상스러운 욕설을 쏟아붓는다.*
 >
-> *그녀는 [스피릿](./Misfortune_Header.md#spirit)의 죽음에 체념하였으며, 그의 신체를 묵묵히 정돈해 줄 뿐이다.*
+> *그녀는 [스피릿](./Misfortune_Header.md#spirit)의 죽음에 체념한 채, 그의 신체를 묵묵히 정돈해 줄 뿐이다.*
 
 > *[스피릿](./Misfortune_Header.md#spirit)은 황금색 프센트를 착용하고 백색 수염을 기른 금안의 백색 뱀이며, 미스포춘의 하반신이다.*
 >
