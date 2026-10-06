@@ -1,4 +1,4 @@
-# Project_4T8G: Universe Architecture Framework
+# Project_4T8G — Universe Architecture Framework
 
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
@@ -6,12 +6,15 @@
 
 ## overview-&-design-philosophy
 
-* **Project_[4T8G](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
+* **Project_[`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
 * To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
 
-1. **Minimizing Control Flow Complexity:** Eliminates tangled exception handling by modeling all status effects, power sources, and resource exchanges into simplified directed graphs.
-2. **Strict Encapsulation:** Logically hides the internal computation logic of individual entities (power sources, conditional triggers, state transformations). External modules cannot arbitrarily manipulate internal states, protecting core lore integrity.
-3. **Separation of Concerns (SoC):** Strictly decouples the global system rule layer from individual object definitions, fundamentally preventing systemic side effects caused by local lore edits.
+1. **Minimizing Control Flow Complexity**  
+Eliminates tangled exception handling by modeling all status effects, power sources, and resource exchanges into simplified directed graphs.
+2. **Strict Encapsulation**  
+Logically hides the internal computation logic of individual entities (power sources, conditional triggers, state transformations). External modules cannot arbitrarily manipulate internal states, protecting core lore integrity.
+3. **Separation of Concerns (SoC)**  
+Strictly decouples the global system rule layer from individual object definitions, fundamentally preventing systemic side effects caused by local lore edits.
 
 ---
 
@@ -41,7 +44,7 @@
 
 ## template-directory-structure
 
-* The open-source core framework provides boilerplate templates located under the `Template/` directory:
+* The open-source core framework provides boilerplate templates located under the `Template/` directory
 
 ```text
 Template/
@@ -62,13 +65,19 @@ Template/
 
 ## getting-started
 
-1. **Copy Templates:** Copy the contents of `Template/` into your active worldbuilding workspace.
-2. **Define Core Rules:** Fill out [Core_Template_Header.md](./template/core/core_template/Core_Template_Header.md) to establish global constraints before creating entities.
-3. **Encapsulate Entities:** Define independent character parameters inside [Characters_Template_Header.md](./template/characters/characters_template/Characters_Template_Header.md), ensuring internal state computations remain private to the entity.
-4. **Link Narrative Sequences:** Reference defined headers inside `Main` files using structured Markdown relative links.
+1. **Copy Templates**  
+Copy the contents of `Template/` into your active worldbuilding workspace.
+2. **Define Core Rules**  
+Fill out [Core_Template_Header.md](./template/core/core_template/Core_Template_Header.md) to establish global constraints before creating entities.
+3. **Encapsulate Entities**  
+Define independent character parameters inside [Characters_Template_Header.md](./template/characters/characters_template/Characters_Template_Header.md), ensuring internal state computations remain private to the entity.
+4. **Link Narrative Sequences**  
+Reference defined headers inside `Main` files using structured Markdown relative links.
 
 ---
 
 ## license
 
-* **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
+* **Framework Templates (`Template/` directory)**
+  - Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
+  - The [MIT License](./LICENSE.md) applies ONLY to `Template/`. All other directories (`docs/`, `reference_arts/`, [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body), etc.) remain strictly ALL RIGHTS RESERVED.
