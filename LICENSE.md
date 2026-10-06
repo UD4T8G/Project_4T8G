@@ -10,4 +10,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ---
 
-[LICENSE SCOPE] The MIT License applies ONLY to `Template/`. All other directories (`docs/`, `reference_arts/`, [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body), etc.) and character IP remain strictly ALL RIGHTS RESERVED.
+[LICENSE SCOPE] The MIT License applies ONLY to Template/. All other directories (docs/, reference_arts/, [AGPL](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body), etc.) and character IP remain strictly ALL RIGHTS RESERVED.

@@ -6,7 +6,7 @@
 
 ## overview-&-design-philosophy
 
-* **Project_[`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
+* **Project_[4T8G](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
 * To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
 
 1. **Minimizing Control Flow Complexity:** Eliminates tangled exception handling by modeling all status effects, power sources, and resource exchanges into simplified directed graphs.
