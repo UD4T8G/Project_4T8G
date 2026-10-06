@@ -80,4 +80,4 @@ Reference defined headers inside `Main` files using structured Markdown relative
 
 * **Framework Templates (`Template/` directory)**
   - Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
-  - The [MIT License](./LICENSE.md) applies ONLY to `Template/`. All other directories (`docs/`, `reference_arts/`, [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body), etc.) remain strictly ALL RIGHTS RESERVED.
+  - The [MIT License](./LICENSE.md) applies ONLY to `Template/`. All other directories (`docs/`, `reference_arts/`, etc.) remain strictly ALL RIGHTS RESERVED.
