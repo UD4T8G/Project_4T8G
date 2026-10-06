@@ -17,7 +17,7 @@
 
 ## the-tripartite-file-standard
 
-Every domain or entity within this framework is structured into a standardized **Tripartite File Set (`Header`, `Main`, `Source`)**, enforcing clear boundary lines between mechanics, narrative execution, and reference data:
+* Every domain or entity within this framework is structured into a standardized **Tripartite File Set (`Header`, `Main`, `Source`)**, enforcing clear boundary lines between mechanics, narrative execution, and reference data:
 
 ```text
        ┌────────────────────────────────────────────────────────┐
