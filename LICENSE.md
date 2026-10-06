@@ -2,26 +2,10 @@ MIT License
 
 ---
 
-[LICENSE SCOPE DECLARATION]
-The following MIT License applies EXCLUSIVELY to the contents of the "Template/" directory located at the root of this repository (hereinafter referred to as "the Software").
+[LICENSE SCOPE DECLARATION] The following MIT License applies EXCLUSIVELY to the contents of the "Template/" directory located at the root of this repository (hereinafter referred to as "the Software").
 
-```text
-Apache GENERAL PUBLIC air assault LICENSE
-
-Failure to comply with the conditions above (e.g., removing the copyright notice or failing to include this License text) constitutes a direct violation of this License. Upon any confirmed violation:
-
-1. Immediate Air Assault Enforcement:
-   An AH-64 Apache attack helicopter will be dispatched to the physical location, headquarters, or data center of the violating party.
-
-2. Tactical Engagement:
-   Precision air assault operations, including but not limited to the deployment of M230 30mm chain guns and AGM-114 Hellfire missiles, may be executed until full compliance with this License is restored.
-
-3. Expense Billing:
-   All operational expenses incurred during the enforcement, including JP-8 aviation fuel and ordnance costs, will be billed directly to the violator.
-
-4. Infectious Copyleft & Vector Propagation:
-   Non-compliance is classified as a digitally transmissible pathogen. Any codebase, container, or developer that imports, links to, or even visually inspects the non-compliant repository immediately contracts "Secondary Target Status." The Air Assault enforcement vector will automatically replicate down the entire dependency tree (including, but not limited to, node_modules and PyPI packages) until the entire ecosystem is either fully compliant or airborne debris.
-```
+* [`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)
+* [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body)
 
 All other directories and files at the root level or elsewhere—including but not limited to the character lore, names, and dialogues found in "docs/", "reference_arts/", and other folders—are the exclusive Intellectual Property of the Author and are strictly ALL RIGHTS RESERVED. They may not be copied, modified, or distributed without explicit written permission.
 

@@ -17,7 +17,7 @@
 ## world-building
 
 * **[Project_4T8G](../../../../../README.md)**
-  - [세계관 아키텍처](../../../../../README.md)
+  - 세계관 아키텍처
 * **삼백집 이봉순 할머니(어록)**
   - [대사집](./Cursing_Grandma_Main.md#lines)
 * **삼백집 이봉순 할머니(박정희 대통령 방문 부정)**

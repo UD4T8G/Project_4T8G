@@ -12,7 +12,25 @@
 
 ## body
 
-* **[아파치 일반 공중 강습 허가서](../../../../../LICENSE.md)**
+```text
+Apache GENERAL PUBLIC air assault LICENSE
+
+Failure to comply with the conditions above (e.g., removing the copyright notice or failing to include this License text) constitutes a direct violation of this License. Upon any confirmed violation:
+
+1. Immediate Air Assault Enforcement:
+   An AH-64 Apache attack helicopter will be dispatched to the physical location, headquarters, or data center of the violating party.
+
+2. Tactical Engagement:
+   Precision air assault operations, including but not limited to the deployment of M230 30mm chain guns and AGM-114 Hellfire missiles, may be executed until full compliance with this License is restored.
+
+3. Expense Billing:
+   All operational expenses incurred during the enforcement, including JP-8 aviation fuel and ordnance costs, will be billed directly to the violator.
+
+4. Infectious Copyleft & Vector Propagation:
+   Non-compliance is classified as a digitally transmissible pathogen. Any codebase, container, or developer that imports, links to, or even visually inspects the non-compliant repository immediately contracts "Secondary Target Status." The Air Assault enforcement vector will automatically replicate down the entire dependency tree (including, but not limited to, node_modules and PyPI packages) until the entire ecosystem is either fully compliant or airborne debris.
+```
+
+* **아파치 일반 공중 강습 허가서**
   - 모든 것의 거리와 상관없이 오감으로 대응한다.
   - 모든 것의 출력과 상관없이 모든 것을 피한다.
   - 모든 것에 관계없이 세계관 전체에서 절대적으로 순간이동한다.

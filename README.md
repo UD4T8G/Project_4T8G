@@ -1,18 +1,5 @@
 # Project_4T8G: Universe Architecture Framework
 
-```text
-4 Taegeuk 8 Gua
-  ☯ — Cross
-  ☰ — Trinity
-  ☱ — Ichthus
-  ☲ — Fire
-  ☳ — Swastika
-  ☴ — Typhoon
-  ☵ — Water
-  ☶ — Bolt
-  ☷ — Hexagram
-```
-
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
 ---
@@ -59,9 +46,10 @@ Every domain or entity within this framework is structured into a standardized *
 ```text
 Template/
 ├── core/
-│   ├── Core_Template_Header.md        # Boilerplate for global rules & department specs
-│   ├── Core_Template_Main.md          # Boilerplate for main storyline & timeline sequences
-│   └── Core_Template_Source.md        # Boilerplate for system-wide references & concepts
+|   └── core_template/
+│      ├── Core_Template_Header.md        # Boilerplate for global rules & department specs
+│      ├── Core_Template_Main.md          # Boilerplate for main storyline & timeline sequences
+│      └── Core_Template_Source.md        # Boilerplate for system-wide references & concepts
 │
 └── characters/
     └── characters_template/
@@ -84,3 +72,5 @@ Template/
 ## license
 
 * **Framework Templates (`Template/` directory):** Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
+  - [`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)
+  - [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body)

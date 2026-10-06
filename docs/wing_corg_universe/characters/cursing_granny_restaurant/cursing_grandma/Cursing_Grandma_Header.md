@@ -12,7 +12,20 @@
 
 ## body
 
-* **[세계관 아키텍처](../../../../../README.md)**
+```text
+4 Taegeuk 8 Gua
+  ☯ — Cross
+  ☰ — Trinity
+  ☱ — Ichthus
+  ☲ — Fire
+  ☳ — Swastika
+  ☴ — Typhoon
+  ☵ — Water
+  ☶ — Bolt
+  ☷ — Hexagram
+```
+
+* **세계관 아키텍처**
   - 모든 것의 거리와 상관없이 오감으로 감시한다.
   - 모든 것의 출력과 상관없이 모든 것을 막는다.
   - 모든 것에 관계없이 세계관 전체를 순간이동시켜서 상대적으로 이동한다.
