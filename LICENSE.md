@@ -2,12 +2,9 @@ MIT License
 
 ---
 
-[LICENSE SCOPE DECLARATION] The following MIT License applies EXCLUSIVELY to the contents of the "Template/" directory located at the root of this repository (hereinafter referred to as "the Software").
+[LICENSE SCOPE DECLARATION]  The following MIT License applies EXCLUSIVELY to the contents of the "Template/" directory located at the root of this repository (hereinafter referred to as "the Software").
 
-* [`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)
-* [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body)
-
-All other directories and files at the root level or elsewhere—including but not limited to the character lore, names, and dialogues found in "docs/", "reference_arts/", and other folders—are the exclusive Intellectual Property of the Author and are strictly ALL RIGHTS RESERVED. They may not be copied, modified, or distributed without explicit written permission.
+All other directories and files at the root level or elsewhere—including but not limited to the character lore, names, and dialogues found in "docs/", "reference_arts/", [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body), and other folders—are the exclusive Intellectual Property of the Author and are strictly ALL RIGHTS RESERVED. They may not be copied, modified, or distributed without explicit written permission.
 
 ---
 
