@@ -21,7 +21,7 @@
   - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes) — 손과 머리
 * **십자가형**
   - [성흔안](./Buddy_Header.md#stigmata-eyes)
-* **[Project_4T8G](../../../../../README.md)**
+* **[Project-4T8G](../../../../../README.md)**
   - [팔괘](./Buddy_Header.md#bagua)
 
 ```text

@@ -1,4 +1,4 @@
-# Project_4T8G — Universe Architecture Framework
+# Project-4T8G — Universe Architecture Framework
 
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
@@ -6,7 +6,7 @@
 
 ## overview-&-design-philosophy
 
-* **Project_[`4T8G`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
+* **Project_[`4T8G`](./docs/wing-corg-universe/characters/cursing-granny-restaurant/cursing-grandma/Cursing-Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
 * To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
 
 1. **Minimizing Control Flow Complexity**  
@@ -44,21 +44,21 @@ Strictly decouples the global system rule layer from individual object definitio
 
 ## template-directory-structure
 
-* The open-source core framework provides boilerplate templates located under the `Template/` directory
+* The open-source core framework provides boilerplate templates located under the `template/` directory
 
 ```text
-Template/
+template/
 ├── core/
-|   └── core_template/
-│      ├── Core_Template_Header.md        # Boilerplate for global rules & department specs
-│      ├── Core_Template_Main.md          # Boilerplate for main storyline & timeline sequences
-│      └── Core_Template_Source.md        # Boilerplate for system-wide references & concepts
+|   └── core-template/
+│      ├── Core-Template_Header.md        # Boilerplate for global rules & department specs
+│      ├── Core-Template_Main.md          # Boilerplate for main storyline & timeline sequences
+│      └── Core-Template_Source.md        # Boilerplate for system-wide references & concepts
 │
 └── characters/
-    └── characters_template/
-        ├── Characters_Template_Header.md # Boilerplate for entity parameters & encapsulation
-        ├── Characters_Template_Main.md   # Boilerplate for entity characteristics & lines
-        └── Characters_Template_Source.md # Boilerplate for entity-specific design references
+    └── characters-template/
+        ├── Characters-Template_Header.md # Boilerplate for entity parameters & encapsulation
+        ├── Characters-Template_Main.md   # Boilerplate for entity characteristics & lines
+        └── Characters-Template_Source.md # Boilerplate for entity-specific design references
 ```
 
 ---
@@ -66,11 +66,11 @@ Template/
 ## getting-started
 
 1. **Copy Templates**  
-Copy the contents of `Template/` into your active worldbuilding workspace.
+Copy the contents of `template/` into your active worldbuilding workspace.
 2. **Define Core Rules**  
-Fill out [Core_Template_Header.md](./template/core/core_template/Core_Template_Header.md) to establish global constraints before creating entities.
+Fill out [Core-Template_Header.md](./template/core/core-template/Core-Template_Header.md) to establish global constraints before creating entities.
 3. **Encapsulate Entities**  
-Define independent character parameters inside [Characters_Template_Header.md](./template/characters/characters_template/Characters_Template_Header.md), ensuring internal state computations remain private to the entity.
+Define independent character parameters inside [Characters-Template_Header.md](./template/characters/characters-template/Characters-Template_Header.md), ensuring internal state computations remain private to the entity.
 4. **Link Narrative Sequences**  
 Reference defined headers inside `Main` files using structured Markdown relative links.
 
@@ -78,6 +78,6 @@ Reference defined headers inside `Main` files using structured Markdown relative
 
 ## license
 
-* **Framework Templates (`Template/` directory)**
+* **Framework Templates (`template/` directory)**
   - Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
-  - The [MIT License](./LICENSE.md) applies ONLY to `Template/`. All other directories (`docs/`, `reference_arts/`, etc.) remain strictly ALL RIGHTS RESERVED.
+  - The [MIT License](./LICENSE.md) applies ONLY to `template/`. All other directories (`docs/`, `reference_arts/`, etc.) remain strictly ALL RIGHTS RESERVED.

@@ -1,6 +1,6 @@
 # MIT License
 
-* Copyright (c) 2026 UD ([Applicability & Coverage](README.md#license), [`AGPL`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body))
+* Copyright (c) 2026 UD ([Applicability & Coverage](README.md#license), [`AGPL`](./docs/wing-corg-universe/characters/cabin-in-the-forest/batlet-grandpa/Batlet-Grandpa_Header.md#body))
 
 * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
