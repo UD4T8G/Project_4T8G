@@ -14,15 +14,15 @@
 
 ```text
 4 Taegeuk 8 Gua
-  ☯ — Cross
-  ☰ — Trinity
-  ☱ — Ichthus
-  ☲ — Fire
-  ☳ — Swastika
-  ☴ — Typhoon
-  ☵ — Water
-  ☶ — Bolt
-  ☷ — Hexagram
+  ☯ -- Cross
+  ☰ -- Trinity
+  ☱ -- Ichthus
+  ☲ -- Fire
+  ☳ -- Swastika
+  ☴ -- Typhoon
+  ☵ -- Water
+  ☶ -- Bolt
+  ☷ -- Hexagram
 ```
 
 * **세계관 아키텍처**

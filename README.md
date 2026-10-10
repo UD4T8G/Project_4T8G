@@ -1,4 +1,4 @@
-# Project-4T8G — Universe Architecture Framework
+# Project 4T8G -- Universe Architecture Framework
 
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
@@ -6,7 +6,7 @@
 
 ## overview-&-design-philosophy
 
-* **Project_[`4T8G`](./docs/wing-corg-universe/characters/cursing-granny-restaurant/cursing-grandma/Cursing-Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
+* **Project [`4T8G`](./docs/wing-corg-universe/characters/cursing-granny-restaurant/cursing-grandma/Cursing-Grandma_Header.md#body)** is an architectural framework designed to eliminate lore contradictions, setting conflicts, and maintenance bottlenecks in complex fictional universes by applying software engineering methodologies.
 * To guarantee data integrity and long-term maintainability, any universe built upon this framework strictly adheres to three foundational structural constraints:
 
 1. **Minimizing Control Flow Complexity**  

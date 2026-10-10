@@ -8,13 +8,13 @@
 >
 > *그녀는 [윙콕 부모](../../underworld/wing-corg-parents/Wing-Corg-Parents_Header.md) 밑에서 자랐으며, 그들을 신경 쓰지 않았다.*
 
-> *윙코기는 고기를 기가 막히게 잘 썰어서 [고깃집 사장](../../butchershop/butcher/Butcher_Header.md)으로부터 윙고기라는 별명을 얻었다.*
+> *윙코기는 고기를 기가 막히게 잘 썰어서 [고깃집 사장](../../butcher-shop/butcher/Butcher_Header.md)으로부터 윙고기라는 별명을 얻었다.*
 >
-> *윙고기가 맛있다는 소문이 난 이후 [고깃집 사장](../../butchershop/butcher/Butcher_Header.md)은 살점을 개고기로 팔고, 목욕물을 육수로 팔았다.*
+> *윙고기가 맛있다는 소문이 난 이후 [고깃집 사장](../../butcher-shop/butcher/Butcher_Header.md)은 살점을 개고기로 팔고, 목욕물을 육수로 팔았다.*
 
-> *윙코기는 [고깃집 사장](../../butchershop/butcher/Butcher_Header.md)과 절연하고 매번 분장을 바꿔가며 당당하게 정육점 고기를 털어가고 있다.*
+> *윙코기는 [고깃집 사장](../../butcher-shop/butcher/Butcher_Header.md)과 절연하고 매번 분장을 바꿔가며 당당하게 정육점 고기를 털어가고 있다.*
 >
-> *직원들은 항상 윙코기를 새로운 알바로 착각하고, [고깃집 사장](../../butchershop/butcher/Butcher_Header.md)은 뒷목을 잡는다.*
+> *직원들은 항상 윙코기를 새로운 알바로 착각하고, [고깃집 사장](../../butcher-shop/butcher/Butcher_Header.md)은 뒷목을 잡는다.*
 
 > *윙코기는 [앵무새](../../wander/parrot/Parrot_Header.md)를 사냥한 뒤, [라카이](../lackey/Lackey_Header.md)가 자신에게 걸었던 저주를 두려워하였다.*
 >

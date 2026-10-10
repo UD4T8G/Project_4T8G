@@ -13,6 +13,6 @@
 ## world-building
 
 * **토르소**
-  - DAS3OS — 다리 생략
+  - DAS3OS -- 다리 생략
 * **정중선**
-  - DAS3OS — 십자 바이저
+  - DAS3OS -- 십자 바이저

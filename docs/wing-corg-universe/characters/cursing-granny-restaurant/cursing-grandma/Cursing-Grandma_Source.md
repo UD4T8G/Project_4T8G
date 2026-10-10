@@ -16,7 +16,7 @@
 
 ## world-building
 
-* **[Project-4T8G](../../../../../README.md)**
+* **[Project 4T8G](../../../../../README.md)**
   - 세계관 아키텍처
 * **삼백집 이봉순 할머니(어록)**
   - [대사집](./Cursing-Grandma_Main.md#lines)
